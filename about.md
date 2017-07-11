@@ -5,7 +5,7 @@ title: About
 
 ![Here I am with my dog Tigger.](/assets/portrait.jpg)
 
-I am a self-employed DevOps & Infrastructure Engineer, living in the north of France.
+Hi, I am a self-employed DevOps & Infrastructure Engineer, living in the north of France.
 
 My past includes a long history of employers including companies as [HP](http://https://www.hpe.com/ie/en/home.html), [Dell](http://www.dell.com/learn/us/en/04/premier?c=us&l=en) and [Microsoft](https://support.microsoft.com/en-us/premier).
 
