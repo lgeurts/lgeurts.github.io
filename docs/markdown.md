@@ -1,4 +1,4 @@
-# Typography 
+# Markdown Cheat Sheet 
 
 ## Headings
 
