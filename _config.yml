@@ -7,7 +7,7 @@ permalink:           pretty
 # Setup
 title:               Luc Geurts
 tagline:             'Amazon Web Services, Bunsenlabs Linux, Vim, Xperf'
-#description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         'Midnight musings of a DevOps engineer. Theme created by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 https://lgeurts.github.io
 baseurl:             ''
 plugins: 			 [jekyll-paginate]
@@ -16,9 +16,9 @@ paginate_path: 		 "page:num"
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Luc Geurts
+  url:               https://twitter.com/lgeurts
+  email:             luc.geurts@gmail.com
 
 # Custom vars
 version:             1.0.0
