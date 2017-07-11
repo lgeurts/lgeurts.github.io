@@ -6,7 +6,7 @@ permalink:           pretty
 
 # Setup
 title:               Luc Geurts
-tagline:             'AWS, Xperf, Bunsenlabs Linux, Vim, Tweets'
+tagline:             'Amazon Web Services, Bunsenlabs Linux, Vim, Xperf'
 #description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 https://lgeurts.github.io
 baseurl:             ''
