@@ -1,6 +1,6 @@
 This is the personal website of Luc Geurts hosted by [GitHub Pages](http://pages.github.com). You can find it at [lgeurts.github.io](https://lgeurts.github.io).
 
-------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
 # Lanyon
 
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
