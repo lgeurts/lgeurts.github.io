@@ -3,28 +3,8 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
-
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+![Here I am with my dog Tigger.](/assets/portrait.jpg)
+I am a self-employed DevOps engineer with a long history of employers including companies as [Hewlett-Packard](http://https://www.hpe.com/ie/en/home.html), [Dell STS](http://www.dell.com/learn/us/en/04/premier?c=us&l=en) and [Microsoft Premier Support](https://support.microsoft.com/en-us/premier).
+This website serves as a memory backup :) for setting up and configuring Bunsenlabs Linux. Besides that you'll sometimes see an occasional rant, weird code, everything that comes up in my mind while spending some free time behind my laptop.
+My nationality is Belgian/Irish and I currently live in France but my customers are spread in France, The Netherlands, Germany and the UK.
+Guess that's all. If you like my website, you can follow me on twitter [@lgeurts](https://twitter.com/lgeurts).
