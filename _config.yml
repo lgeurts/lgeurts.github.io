@@ -8,7 +8,7 @@ permalink:           pretty
 title:               Luc Geurts
 tagline:             'Amazon Web Services, BunsenLabs Linux, Coding, Xperf'
 description:         'Midnight musings of a former PFE.'
-url:                 https://lgeurts.github.io
+url:                 http://lgeurts.github.io
 baseurl:             ''
 plugins: 			        [jekyll-paginate]
 paginate:            5
