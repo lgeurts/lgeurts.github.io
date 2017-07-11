@@ -5,7 +5,9 @@ title: About
 
 ![Here I am with my dog Tigger.](/assets/portrait.jpg)
 
-I am a self-employed DevOps & Infrastructure Engineer, currenly living in the north of France,  with a long history of employers including companies as [HP](http://https://www.hpe.com/ie/en/home.html), [Dell](http://www.dell.com/learn/us/en/04/premier?c=us&l=en) and [Microsoft](https://support.microsoft.com/en-us/premier).
+I am a self-employed DevOps & Infrastructure Engineer, who currenly lives in the north of France.
+
+My past includes a long history of employers including companies as [HP](http://https://www.hpe.com/ie/en/home.html), [Dell](http://www.dell.com/learn/us/en/04/premier?c=us&l=en) and [Microsoft](https://support.microsoft.com/en-us/premier).
 
 This website serves as my memory for configuring BunsenLabs Linux. 
 
