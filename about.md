@@ -6,6 +6,6 @@ title: About
 ![Here I am with my dog Tigger.](/assets/portrait.jpg)
 
 I am a self-employed DevOps engineer with a long history of employers including companies as [Hewlett-Packard](http://https://www.hpe.com/ie/en/home.html), [Dell STS](http://www.dell.com/learn/us/en/04/premier?c=us&l=en) and [Microsoft Premier Support](https://support.microsoft.com/en-us/premier).
-This website serves as a memory backup :) for setting up and configuring Bunsenlabs Linux. Besides that you'll sometimes see an occasional rant, weird code, everything that comes up in my mind while spending free time behind my laptop.
-My nationality is Belgian/Irish and I currently live in France but my customers are spread in France, The Netherlands, Germany and the UK.
+This website serves as a memory backup :) for setting up and configuring Bunsenlabs Linux. Besides that you'll sometimes see an occasional rant, weird code, everything that comes up in my mind when spending free time behind my laptop.
+My nationality is Belgian/Irish and I currently live in France but my customers are located in France, The Netherlands, Germany and the UK.
 Guess that's all. If you like this site, you can follow me on twitter [@lgeurts](https://twitter.com/lgeurts).
