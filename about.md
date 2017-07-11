@@ -13,3 +13,7 @@ Besides that, you'll sometimes see occasional rants, weird code, everything that
 Guess that's all. If you like this site, you can follow me on my Twitter [@lgeurts](https://twitter.com/lgeurts). The code is available at my [GitHub repo](https://github.com/lgeurts/lgeurts.github.io). 
 
 PS, for professional requests, pay me a visit at [LinkedIn](https://www.linkedin.com/in/lucgeurts). 
+
+Go n-éirí an bothar leat,
+
+/Luge
