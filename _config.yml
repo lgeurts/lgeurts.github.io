@@ -7,7 +7,7 @@ permalink:           pretty
 # Setup
 title:               Luc Geurts
 tagline:             'Amazon Web Services, BunsenLabs Linux, Coding, Xperf'
-description:         #'Midnight musings of a former PFE. Theme created by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         'Midnight musings of a former PFE. Theme created by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 https://lgeurts.github.io
 baseurl:             ''
 plugins: 			     [jekyll-paginate]
@@ -22,4 +22,4 @@ author:
 
 # Custom vars
 version:             1.0.0
-#github:              repo: github.com/lgeurts/lgeurts.github.io
+github:              repo: github.com/lgeurts/lgeurts.github.io
