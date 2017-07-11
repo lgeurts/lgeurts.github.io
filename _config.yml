@@ -11,7 +11,7 @@ description:         'Midnight musings of a former PFE. Theme created by <a href
 url:                 https://lgeurts.github.io
 baseurl:             ''
 plugins: 			     [jekyll-paginate]
-paginate:            3
+paginate:            5
 paginate_path: 		 "page:num"
 
 # About/contact
