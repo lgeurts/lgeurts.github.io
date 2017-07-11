@@ -10,8 +10,8 @@ tagline:             'Amazon Web Services, Bunsenlabs Linux, Vim, Xperf'
 description:         'Midnight musings of a former Platforms PFE (now DevOps engineer). Theme created by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 https://lgeurts.github.io
 baseurl:             ''
-plugins: 			 [jekyll-paginate]
-paginate:            5
+plugins: 			     [jekyll-paginate]
+paginate:            3
 paginate_path: 		 "page:num"
 
 # About/contact
