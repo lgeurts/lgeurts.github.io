@@ -10,7 +10,7 @@ tagline:             'Amazon Web Services, BunsenLabs Linux, Coding, Xperf'
 description:         'Midnight musings of a former PFE.'
 url:                 http://lgeurts.github.io
 baseurl:             ''
-plugins: 			        [jekyll-paginate]
+#plugins: 			        [jekyll-paginate]
 paginate:            5
 paginate_path: 		 "page:num"
 
