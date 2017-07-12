@@ -10,9 +10,9 @@ Hi, I am a self-employed DevOps & Infrastructure Engineer, living in the central
 This website serves as my memory for configuring a BunsenLabs Linux setup. 
 Besides that, you'll sometimes see occasional rants, weird code, everything that comes up in my mind when spending some free time behind my laptop.
 
-Guess that's all. If you like this site, you can follow me on my Twitter [@lgeurts](https://twitter.com/lgeurts). The code is available at my [GitHub repo](https://github.com/lgeurts/lgeurts.github.io). 
+Guess that's all. If you like this site, you can follow me on my Twitter [@lgeurts](https://twitter.com/lgeurts) or connect at [LinkedIn](https://www.linkedin.com/in/lucgeurts). 
 
-PS, for professional requests, pay me a visit at [LinkedIn](https://www.linkedin.com/in/lucgeurts). 
+PS, The template for this site is available at my [GitHub repo](https://github.com/lgeurts/lgeurts.github.io).  
 
 Go n-éirí an bothar leat,
 
