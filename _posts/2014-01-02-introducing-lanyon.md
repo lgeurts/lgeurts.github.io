@@ -29,7 +29,7 @@ In addition to the features of Poole, Lanyon adds the following:
 
 ### Browser support
 
-Lanyon is by design a forward-thinking project. In addition to the latest versions of Chrome, Safari, and Firefox, it is compatible with Internet Explorer 9 and above.
+Lanyon is by design a forward-thinking project. In addition to the latest versions of Chrome, Safari, and Firefox, it is compatible with Internet Explorer 9 and up.
 
 ### Download
 
