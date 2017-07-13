@@ -1,5 +1,5 @@
-[BunsenLabs](https://www.bunsenlabs.org/) does not use a traditional desktop like a KDE, GNOME or even Xfce. Instead it's an optimized mix of components including most notably the lightweight Openbox window manager (which you can easily replace with [i3wm](https://i3wm.org/), I'll show you later :)), the tint2 panel, the Conky system monitor, and Thunar file manager. 
+[BunsenLabs](https://www.bunsenlabs.org/) does not use a traditional desktop like a KDE, GNOME or even Xfce. Instead it's an optimized mix of components from various open source projects including most notably the lightweight Openbox window manager (which you can easily replace with [i3wm](https://i3wm.org/), I'll show you later :)), the tint2 panel, the Conky system monitor, and Thunar file manager. 
 
-I was a CrunchBang (#!) user and currently use the [Deuterium](https://www.bunsenlabs.org/installation.html#downloads) release as my main OS. Overall, I'm very satisfied. It offers a fast, uncluttered Debian 8 experience using half the resources my Windows 10 machine needs to do the same tasks. 
+I was a #! user and currently use [Deuterium](https://www.bunsenlabs.org/installation.html#downloads) as my main OS. Overall, I'm very satisfied. It offers a fast, uncluttered Debian 8 experience using half the resources my Windows 10 machine needs to do the same tasks. 
 
 Here is a rundown of how I configured BunsenLabs on my laptop (JARREAU) to best serve my needs:
