@@ -2,6 +2,6 @@
 
 I was a #! user until Phillip Newborough [(Corenominal)](https://corenominal.org) ended the project after releasing CrunchBang 11 in May 2013. Looking for something similar, I found BunsenLabs to be a worthy successor and installed BL Hydrogen. 
 
-This guide is based on [Deuterium](https://www.bunsenlabs.org/installation.html#downloads) which serves as my main OS. Overall, it offers a speedy, uncluttered Debian experience which (in my opinion) is only equaled by distros as for example ArchLabs Linux or CrunchBang++.
+This guide is based on [Deuterium](https://www.bunsenlabs.org/installation.html#downloads) which serves as my main OS. Overall, it offers a speedy, uncluttered Debian experience which (in my opinion) is only equaled by distros as for example [ArchLabs Linux](https://archlabsblog.wordpress.com/) or [CrunchBang++](https://www.crunchbangplusplus.org/).
 
 Here is a rundown of how I configured BunsenLabs on my laptop (JARREAU) to best serve my needs:
