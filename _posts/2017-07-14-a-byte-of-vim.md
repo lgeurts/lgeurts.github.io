@@ -5,4 +5,4 @@ comments: true
 tags: [ tutorial, editor ]
 ---
 
-Reading [the book](https://vim.swaroopch.com/) online. Well written and teaching me a lot of new old tricks.
+Reading [the book](https://vim.swaroopch.com/) online. Well written and teaching me a lot of 'new' old tricks.
