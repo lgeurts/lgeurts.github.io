@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Eat, Study, Sleep, repeat
+title: Eat, Study, Sleep, Repeat
 comments: true
 tags: [ personal, certification  ]
 ---
