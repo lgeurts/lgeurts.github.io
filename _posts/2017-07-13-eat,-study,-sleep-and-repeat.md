@@ -2,7 +2,7 @@
 layout: post
 title: Eat, Study, Sleep and Repeat
 comments: true
-tags: [ personal, certification ]
+tags: [ certification ]
 ---
 
 Going for AWS Certified SysOps Administrator and Certified Solutions Architect certs.
