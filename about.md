@@ -7,8 +7,8 @@ title: About
 
 Hi, I am a self-employed DevOps & Infrastructure Engineer, living in the central north of France.
 
-This website serves as a memory dump for configuring a new BL Linux setup.
-Besides that, you'll sometimes see occasional rants, weird code, everything that comes up in my mind when spending some free time behind my laptop.
+This website mainly serves as a memory dump for configuring a new BL Linux setup.
+Besides that, you'll sometimes see some occasional rants, weird code, everything that comes up in my mind when spending free time behind my laptop.
 
 Guess that's all. If you like this site, you can follow me on Twitter [@lgeurts](https://twitter.com/lgeurts) or connect on [LinkedIn](https://www.linkedin.com/in/lucgeurts).
 
