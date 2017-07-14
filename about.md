@@ -12,7 +12,7 @@ Besides that, you'll see the odd rants, really weird code, in short everything t
 
 Guess that's all. If you like this site, you can follow me on my Twitter [@lgeurts](https://twitter.com/lgeurts), or send a connection request on [LinkedIn](https://www.linkedin.com/in/lucgeurts).
 
-PS, for a copy of this customized Lanyon template, fork at my [GitHub repo](https://github.com/lgeurts/lgeurts.github.io).
+PS, for a copy of this customized Lanyon template, fork from my [GitHub repo](https://github.com/lgeurts/lgeurts.github.io).
 
 Go n-éirí an bothar leat,
 
