@@ -5,4 +5,4 @@ comments: true
 tags: [ bunsenlabs linux  ]
 ---
 
-The devs at BunsenLabs are working on Helium which is based on Debian 9 Stretch. For the adventurous, have a look at [this post](https://forums.bunsenlabs.org/viewtopic.php?id=3800).
+Devs at BunsenLabs are working on Helium which is based on Debian 9 Stretch. For the adventurous, have a look at [this post](https://forums.bunsenlabs.org/viewtopic.php?id=3800).
