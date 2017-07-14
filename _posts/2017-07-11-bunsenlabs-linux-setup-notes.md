@@ -2,7 +2,7 @@
 layout: post
 title: BunsenLabs Linux Setup Notes
 comments: true
-tags: [ bunsenlabs linux, tutorial ]
+tags: [ linux, tutorial ]
 ---
 
 I was a #! user until it's main developer, [Phillip Newborough](https://corenominal.org), ended the project after releasing CrunchBang 11 (Waldorf) in May 6, 2013. Looking for something similar, I found [BunsenLabs](https://www.bunsenlabs.org/) and migrated to Hydrogen. 
