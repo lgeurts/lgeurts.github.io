@@ -5,7 +5,7 @@ title: About
 
 ![Here I am with my dog Tigger.](/assets/portrait.jpg)
 
-Hi, I am a self-employed DevOps & Infrastructure Engineer, living in the central north of France.
+Hi, I am a self-employed DevOps & Infrastructure Engineer (previously Microsoft PFE and Dell Escalation Engineer), living in the central north of France.
 
 This website serves as a memory dump for configuring a new BL Linux setup.
 Besides that, you'll see the odd rants, really weird code, in short everything that comes up in my mind when spending some free time behind my laptop.
