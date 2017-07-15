@@ -8,7 +8,7 @@ title: About
 Hi, I am a self-employed DevOps & Infrastructure Engineer, living in the central north of France.
 
 This website serves as a memory dump for configuring a new BL Linux setup.
-Besides that, you'll see the odd rants, weird code, traces, stuff I find on the net, in short everything that comes up in my mind when spending some free time behind my laptop.
+What else? I am interested in too many things, ranging from science to web development, to linux, windows server, amazon cloud, kendo and kenjutsu, CSGO gaming, traveling and learning foreign languages, and more. My hobbies can really be distilled down to one thing: learning.
 
 Guess that's all. If you like this site, you can follow me on my Twitter [@lgeurts](https://twitter.com/lgeurts), or send a connection request on [LinkedIn](https://www.linkedin.com/in/lucgeurts).
 
