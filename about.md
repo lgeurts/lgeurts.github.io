@@ -10,7 +10,7 @@ In a former life, I was a Microsoft PFE, an Escalation Engineer at Dell, Support
 
 I decided to get out of the 60+ hour weeks (work-life balance?) and start working for myself, again. With success.
 
-What else? I am interested in 'too' many things, ranging from science to history, philosophy, web development with Ruby on Rails, AWS, Linux, Windows Server, ETW tracing, kendo and kenjutsu, gaming, traveling the world, learning foreign languages, and more. 
+What else? I am interested in 'too' many things, ranging from science to history, philosophy, web development with Ruby on Rails, AWS, Linux, Windows Server, ETW tracing, kendo and kenjutsu, gaming, traveling the world, foreign languages, and more. 
 My hobbies can be distilled down to just one thing: LEARNING.
 
 Guess that's all. If you like this site, you can follow me on my Twitter [@lgeurts](https://twitter.com/lgeurts), or send a connection request on [LinkedIn](https://www.linkedin.com/in/lucgeurts).
