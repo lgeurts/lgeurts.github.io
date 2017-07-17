@@ -5,4 +5,4 @@ comments: true
 tags: [ Blogger ]
 ---
 
-Microsoft Windows oriented, for the moment obsolete: [bitcruncher.blogspot.com](https://bitcruncher.blogspot.com).
+MSFT oriented, for the moment obsolete: [bitcruncher.blogspot.com](https://bitcruncher.blogspot.com).
