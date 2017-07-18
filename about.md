@@ -6,7 +6,7 @@ title: About
 ![Here I am with my dog Tigger.](/assets/portrait.jpg)
 
 Hi, I am a self-employed DevOps & Infrastructure Engineer, living in the central north of France.
-In a former life, I was a Microsoft PFE, an Escalation Engineer at Dell, Support Escalation Engineer at HP, and and... the list goes on up to 1995.
+In a former life, I was Microsoft PFE, an Escalation Engineer at Dell, Support Escalation Engineer at HP, and and... the list goes on up to 1995.
 
 What else? I am interested in 'too' many things, ranging from science to history, philosophy, web development with Ruby on Rails, AWS, Linux, Windows Server, ETW tracing, kendo and kenjutsu, gaming, traveling the world, speaking foreign languages, and more. 
 My hobbies can be distilled down to just one thing: LEARNING.
