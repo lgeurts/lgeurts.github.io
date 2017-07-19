@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Resume
+title: Résumé
+comments: false
 ---
 
-<link href="{{ site.baseurl }}/assets/public/Enhancv Résumé (US).pdf">
+<iframe src="{{ site.url }}/assets/Enhancv Résumé (US).pdf" width="100%" style="height: 100vh;"></iframe>
