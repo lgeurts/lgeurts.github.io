@@ -8,7 +8,7 @@ title: About
 Hi, I am a self-employed DevOps & Infrastructure Engineer, living in the central north of France.
 In a former life, I was a Microsoft PFE, an Escalation Engineer at Dell, Support Escalation Engineer at HP, and and... the list goes on up to 1995.
 
-Learned a lot and met amazingly talented people  of which I can call some a close friend. That aside, during my last job as a Platforms PFE I discovered that living in hotelrooms for the largest part of your life, the constant relocating to another "home", and working 60+ hour weeks slowly takes its toll. So, I left, moved to France and started all-over. Till now my best decision ever.
+Learned a lot and met amazingly talented people  of which I can call some a close friend. That said, during my last job as a Platforms PFE I discovered that living in hotelrooms for the largest part of your life, the constant relocating to another "home", and working 60+ hour weeks slowly takes its toll. So, I left, moved to France and started all-over. Till now my best decision ever.
 
 What else? I am interested in 'too' many things, ranging from science to history, philosophy, web development with Ruby on Rails, AWS, Linux, Windows Server, ETW tracing, kendo and kenjutsu, gaming, traveling the world, speaking foreign languages, and more. 
 My hobbies can be distilled down to just one thing: LEARNING.
