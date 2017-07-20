@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Link to my Blogger content
-comments: true
+comments: false
+category:
 tags: [ blogspot ]
 ---
 
