@@ -2,6 +2,7 @@
 layout: post
 title: Eat, Study, Sleep and Repeat
 comments: true
+category:
 tags: [ certification ]
 ---
 
