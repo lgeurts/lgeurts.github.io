@@ -2,6 +2,7 @@
 layout: post
 title: A Byte of Vim
 comments: true
+category:
 tags: [ tutorial, text editor ]
 ---
 
