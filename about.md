@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![Here I am with my dog Tigger.](/assets/c2adv01.jpg)
+![Here I am with my dog Tigger.](/assets/C2ADV01.jpg)
 
 Hi, I am a self-employed DevOps & Infrastructure Engineer, living in the central north of France.
 In a former life, I was a Microsoft PFE, an Escalation Engineer at Dell, Support Escalation Engineer at HP, and and... the list goes on up to 1995.
