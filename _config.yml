@@ -7,7 +7,7 @@ permalink:           pretty
 # Setup
 title:               Luc Geurts
 tagline:             'AWS, Windows Server, Xperf, Linux, and coding with Vim'
-description:         'Musings of a would be full stack web developer.'
+description:         'Musings of a would be front-end web developer.'
 url:                 http://lgeurts.github.io
 baseurl:             ''
 plugins: 			 [jekyll-paginate]
