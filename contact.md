@@ -13,7 +13,7 @@ I can be contacted via email using the following addresses:
 Note on confidentiality
 -----------------------
 
-Please note that, as most other people and organizations, I use a 3rd party Mail Service Provider. The staff who work at the provider are technically able to read all my incoming and outgoing mail. This is how an email infrastructure works, and it is irrelevant whether SSL or other encryption is used between email clients and corresponding email servers. If you have something confidential, please use PGP/GPG encryption to secure our communication.
+Please note that, as most other people and organizations, I use a 3rd party Mail Service Provider. The staff who work at the provider are technically able to read all my incoming and outgoing mail. This is how email infrastructures work, and it is irrelevant whether SSL or other encryption is used between email clients and corresponding email servers. If you have something confidential, please use PGP/GPG encryption to secure our communication.
 
 Note on integrity of my emails
 ------------------------------
