@@ -1,5 +1,6 @@
 ---
-Layout: page
+layout: page
+title: Contact
 ---
 
 Email
