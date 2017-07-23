@@ -6,7 +6,7 @@ title: Contact
 Email
 -----
 
-For blog related matters, I can be reached at luc.geurts@gmail.com. For anything confidential, mail me at lgeurts@protonmail.com.
+For blog related matters, use luc.geurts@gmail.com. For anything confidential, mail me at lgeurts@protonmail.com.
 
 Note on confidentiality
 -----------------------
@@ -16,5 +16,5 @@ Please note that, as most other people and organizations, I use a 3rd party Mail
 Note on integrity of my emails
 ------------------------------
 
-All email sent by me from protonmail should be digitally signed with my GPG keys.
+All email sent by me from my protonmail account should be digitally signed with my GPG keys.
 
