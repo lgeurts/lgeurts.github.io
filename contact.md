@@ -16,5 +16,5 @@ Please note that, as most other people and organizations, I use a 3rd party Mail
 Note on integrity of my emails
 ------------------------------
 
-All email sent by me from my protonmail account should be signed with my GPG keys.
+All email sent by me from the protonmail account should be signed with my GPG keys.
 
