@@ -6,7 +6,7 @@ title: Contact
 Email
 -----
 
-For blog related matters, use [luc.geurts@gmail.com](mailto:luc.geurts@gmail.com). For anything confidential, mail me at lgeurts@protonmail.com.
+For blog related matters, use [luc.geurts@gmail.com](mailto:luc.geurts@gmail.com). For anything confidential, mail me at [lgeurts@protonmail.com](lgeurts@protonmail.com).
 
 Note on confidentiality
 -----------------------
