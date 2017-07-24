@@ -13,7 +13,6 @@ baseurl:             ''
 plugins: 			 [jekyll-paginate]
 paginate:            5
 paginate_path: 		 "page:num"
-words_per_minute     : 200
 
 # About/contact
 author:
