@@ -6,7 +6,7 @@ permalink:           pretty
 
 # Setup
 title:               LUC GEURTS
-tagline:             'AWS, Windows Server, Xperf, Linux, and coding with Vim'
+tagline:             ''
 description:         'Musings of a would be front-end web developer.'
 url:                 http://lgeurts.github.io
 baseurl:             ''
@@ -22,4 +22,4 @@ author:
 
 # Custom vars
 version:             1.0.0
-repo:                https://github.com/lgeurts/lgeurts.github.io
+repo:                github.com/lgeurts/lgeurts.github.io
