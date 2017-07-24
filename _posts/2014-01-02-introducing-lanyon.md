@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introducing Lanyon
+read_time: true  
 comments: false
 category:
 tags:
