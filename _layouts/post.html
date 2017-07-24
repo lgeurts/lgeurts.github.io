@@ -4,7 +4,8 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date_to_string }}</span>
+  <span class="post-date">{{ page.date | date_to_string }} • {% capture readtime %}{{ page.content | number_of_words | plus:91 | divided_by:180 }}{% endcapture %}
+{% if readtime == '0' %} &lt; 1{% else %}{{ readtime }}{% endif %} min. read </span>
   {{ content }}
 </div>
 
