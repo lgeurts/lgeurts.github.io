@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Email
+title: Contact
 ---
 
 For blog related matters, use [luc.geurts@gmail.com](mailto:luc.geurts@gmail.com). For anything else, mail me at [lgeurts@protonmail.com](lgeurts@protonmail.com).
