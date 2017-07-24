@@ -5,7 +5,7 @@ permalink:           pretty
 #relative_permalinks: true #not used since Jekyll v3.0
 
 # Setup
-title:               Luc Geurts
+title:               LUC GEURTS
 tagline:             'AWS, Windows Server, Xperf, Linux, and coding with Vim'
 description:         'Musings of a would be front-end web developer.'
 url:                 http://lgeurts.github.io
