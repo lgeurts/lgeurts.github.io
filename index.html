@@ -13,7 +13,7 @@ title: Home
     </h1>
 
     <span class="post-date">{{ post.date | date_to_string }} • {% capture readtime %}{{ page.content | number_of_words | plus:91 | divided_by:180 }}{% endcapture %} 
-8 {% if readtime == '0' %} &lt; 1{% else %}{{ readtime }}{% endif %} min. read </span>
+{% if readtime == '0' %} &lt; 1{% else %}{{ readtime }}{% endif %} min. read </span>
 
     {{ post.content }}
   </div>
