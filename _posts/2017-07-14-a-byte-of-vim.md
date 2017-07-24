@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Byte of Vim
+read_time: true  
 comments: true
 category:
 tags: [ tutorial, text editor ]
