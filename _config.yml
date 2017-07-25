@@ -5,7 +5,7 @@ permalink:           pretty
 #relative_permalinks: true #not used since Jekyll v3.0
 
 # Setup
-title:               **LUC GEURTS** • Cloud, Linux, Xperf, Coding
+title:               LUC GEURTS • Cloud, Linux, Xperf, Coding
 tagline:             ''
 description:         'Musings of a would be front-end web developer.'
 url:                 http://lgeurts.github.io
