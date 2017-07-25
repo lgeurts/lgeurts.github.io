@@ -7,8 +7,7 @@ category: configuration
 tags: [ linux, tutorial ]
 ---
 
-![BunsenLabs Deuterium, fresh install](/assets/bunsenlabs-deuterium.jpg).
-
+![BunsenLabs Deuterium, fresh install](/assets/bunsenlabs-deuterium.jpg)
 I was a #! user until it's main developer, [Phillip Newborough](https://corenominal.org), ended the project after releasing CrunchBang 11 (Waldorf) in May 6, 2013. Looking for something similar, I found and installed [BunsenLabs](https://www.bunsenlabs.org/) Hydrogen. Never looked back. 
 
 BunsenLabs does not use a traditional desktop like a KDE, GNOME or even Xfce. Instead it's an optimized mix of components from various open source projects including most notably the lightweight Openbox window manager, tint2 panel, the Conky system monitor, and Thunar file manager.
