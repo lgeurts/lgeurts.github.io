@@ -8,4 +8,5 @@ tags: [ blogspot ]
 ---
 
 ![PFE on a Friday night](/assets/kermit.gif)
+
 MSFT oriented, for the moment obsolete: [bitcruncher.blogspot.com](https://bitcruncher.blogspot.com).
