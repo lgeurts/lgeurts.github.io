@@ -4,7 +4,7 @@ title: Eat, Study, Sleep and Repeat
 read_time: true  
 comments: true
 category:
-tags: [ certification ]
+tags: [ Amazon Web Services ]
 ---
 
 Going for AWS Certified SysOps Administrator and Certified Solutions Architect certs.
