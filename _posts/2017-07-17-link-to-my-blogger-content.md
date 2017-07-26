@@ -11,4 +11,4 @@ MSFT oriented, for the moment obsolete: [bitcruncher.blogspot.com](https://bitcr
 
 ![PFE? A typical friday night](/assets/kermit.gif)
 
-PFE? A ***typical*** friday night.
+PFE? What used to be a ***typical*** friday night.
