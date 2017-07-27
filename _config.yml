@@ -20,8 +20,6 @@ author:
   url:               https://twitter.com/lgeurts
   email:             luc.geurts@gmail.com
 
-excerpt_separator: "<!-- more -->"
-
 # Custom vars
 version:             1.0.0
 repo:                https://github.com/lgeurts/lgeurts.github.io
