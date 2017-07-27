@@ -22,7 +22,7 @@ v1.0
 
 ***2 Before you begin***
 
-Set aside at least half a day to complete the basics – after basic installation and update you'll be installing a ton of extra files.
+Set aside at least half a day to complete the basics – after basic installation and update you'll be adding and configuring a ton of extra files.
 
 ***3 Desktop install***
 
