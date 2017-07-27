@@ -15,3 +15,15 @@ BunsenLabs does not use a traditional desktop like a KDE, GNOME or even Xfce. In
 This guide is based on [Deuterium](https://www.bunsenlabs.org/installation.html#downloads) which serves as my main OS. Overall, it offers a speedy, uncluttered Debian experience which (in my opinion) is only equaled by distros as for example [ArchLabs Linux](https://archlabsblog.wordpress.com/) or [CrunchBang++](https://www.crunchbangplusplus.org/).
 
 Here is a rundown of how I configured BunsenLabs to best serve my needs:
+
+***1 Status of this document***
+
+v1.0
+
+***2 Before you begin***
+
+Set aside at least half a day to complete the basics – after the basic install and update you'll be installing a ton of files.
+
+***3 Desktop install***
+
+Do a generic install from Live USB, when you reboot you'll get an install script – follow it. On my Inspiron it always went without a hitch.
