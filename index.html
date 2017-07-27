@@ -17,6 +17,8 @@ title: Home
 
     <!-- {{ post.content }} -->
     {{ post.excerpt }}
+       {% if post.content contains site.excerpt_separator %}
+          <a href="{{ post.url | prepend: site.baseurl }}">...Read more</a>
   </div>
   {% endfor %}
 </div>
