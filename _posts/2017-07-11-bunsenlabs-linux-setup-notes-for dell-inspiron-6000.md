@@ -49,5 +49,9 @@ Do a generic install from Live USB, when you reboot you'll get an install script
 **5 Dev environment**
 ---------------------
 
+**5.1 Ruby and Rails**
+
+**5.2 Jekyll**
+
 **6 GPG/PGP (optional)**
 ------------------------
