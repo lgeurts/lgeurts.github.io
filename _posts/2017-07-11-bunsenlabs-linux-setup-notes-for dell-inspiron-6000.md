@@ -49,8 +49,7 @@ BunsenLabs contains a bunch of apps you can install via a link in the Openbox me
 **4.1 Internet browser**
 
 You have a choice between Google Chrome, Firefox and Opera (I opt for FF).
-
-When done configuring, install the [Privacy Badger](https://www.eff.org/privacybadger) and [HTTPS Everywhere](https://www.eff.org/https-everywhere) add-ons.
+Do not forget to install the [Privacy Badger](https://www.eff.org/privacybadger) and [HTTPS Everywhere](https://www.eff.org/https-everywhere) add-ons.
 
 **4.2 PDF reader**
 
