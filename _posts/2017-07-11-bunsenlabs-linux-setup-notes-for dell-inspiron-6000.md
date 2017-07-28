@@ -37,7 +37,7 @@ Do an install from [Live USB](https://www.bunsenlabs.org/installation.html). As 
 
 When the updating is done the script will run a set of options for attaching the Debian multimedia repository, printer support, Java, and adding packages for developers. Each of these options may be selected individually.
 
-![BunsenLabs Welcome](/assets/bunsenlabs-welcome.jpg)
+![BunsenLabs Welcome](/assets/bunsenlabs-welcome.png)
 
 **3.1 Additional tools**
 
