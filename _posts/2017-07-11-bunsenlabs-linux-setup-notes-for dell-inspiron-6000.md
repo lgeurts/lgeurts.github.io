@@ -33,18 +33,18 @@ Set aside at least half a day to complete the basics – after basic installatio
 ***3 Desktop install***
 -----------------------
 
-***..3.1 Bunsen install***
+***3.1 Bunsen install***
 
 Do a generic install from Live USB, when you reboot you'll get an install script – follow it. On my Inspiron it always went without a hitch.
 
-***..3.2 Adddtional tools***
+***3.2 Adddtional tools***
 
 ***4 Desktop apps***
 --------------------
 
-***..4.1 PDF reader***
+***4.1 PDF reader***
 
-***..4.2 Libre Office***
+***4.2 Libre Office***
 
 ***5 Dev environment***
 -----------------------
