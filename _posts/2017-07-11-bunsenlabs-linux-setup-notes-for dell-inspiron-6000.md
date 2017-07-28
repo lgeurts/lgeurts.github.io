@@ -33,7 +33,9 @@ Set aside at least half a day to complete the basics –after basic installation
 **3 Bunsen install**
 ---------------------
 
-Do an install from [Live USB](https://www.bunsenlabs.org/installation.html). As soon its finished, and after reboot, you will see underneath screen asking you to update the system and run a set of options for attaching the Debian multimedia repository, printer support, installing Java, and adding packages for developers.
+Do an install from [Live USB](https://www.bunsenlabs.org/installation.html). As soon its finished, and after reboot, you will see underneath screen asking you to update the system. Press enter.
+
+When the updating is done the script will run a set of options for attaching the Debian multimedia repository, printer support, installing Java, and adding packages for developers. Each of these options may be selected individually.
 
 ![BunsenLabs Welcome](/assets/bunsenlabs-welcome.jpg)
 
