@@ -56,11 +56,11 @@ You have a choice between Google Chrome, Firefox and Opera (I opt for FF).
 
 Click and go.
 
-**4.3 Libre Office**
+**4.3 LibreOffice**
 
 LibreOffice Writer is the only office software that comes preinstalled. However, the remainder of the suite is just a mouse click away.
 
-***Note:*** I don't like the splash screen when starting Libre Office. To get rid of it, 
+***Note:*** I don't like the splash screen when starting LibreOffice. To get rid of it, 
 
 **5 Dev environment**
 ---------------------
