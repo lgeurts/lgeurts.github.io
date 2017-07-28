@@ -44,7 +44,7 @@ When the updating is done the script will run a set of options for attaching the
 **4 Desktop apps**
 ------------------
 
-BunsenLabs contains a bunch of apps you can install via a link in the Openbox menu.
+BunsenLabs contains a bunch of apps you can install via the Openbox menu.
 
 **4.1 Internet browser**
 
