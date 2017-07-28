@@ -37,10 +37,14 @@ Set aside at least half a day to complete the basics – after basic installatio
 
 Do a generic install from Live USB, when you reboot you'll get an install script – follow it. On my Inspiron it always went without a hitch.
 
-***..3.2 Install adddtional tools***
+***..3.2 Adddtional tools***
 
 ***4 Desktop apps***
 --------------------
+
+***..4.1 PDF reader***
+
+***..4.2 Libre Office***
 
 ***5 Dev environment***
 -----------------------
