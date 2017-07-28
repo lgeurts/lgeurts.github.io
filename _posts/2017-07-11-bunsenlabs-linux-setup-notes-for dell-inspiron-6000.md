@@ -48,10 +48,10 @@ BunsenLabs contains a bunch of apps you can install via a link in the Openbox me
 You have a choice between Google Chrome, Firefox and Opera. I opt for Firefox. When done configuring, install the [Privacy Badger](https://www.eff.org/privacybadger) and [HTTPS Everywhere](https://www.eff.org/https-everywhere) add-ons.
 
 **4.2 PDF reader**
-The Openbox menu contains a link to an installation script. Click and go.
+Click and go.
 
 **4.3 Libre Office**
-Same as 4.1.
+I do not like the splash screen that appears when starting Libre Office. To get rid of it, 
 
 **5 Dev environment**
 ---------------------
