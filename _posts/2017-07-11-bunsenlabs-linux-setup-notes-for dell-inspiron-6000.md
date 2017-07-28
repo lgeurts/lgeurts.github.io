@@ -48,7 +48,8 @@ BunsenLabs contains a bunch of apps you can install via a link in the Openbox me
 
 **4.1 Internet browser**
 
-You have a choice between Google Chrome, Firefox and Opera. Take what you like (I opt for FF). 
+You have a choice between Google Chrome, Firefox and Opera (I opt for FF).
+
 When done configuring, install the [Privacy Badger](https://www.eff.org/privacybadger) and [HTTPS Everywhere](https://www.eff.org/https-everywhere) add-ons.
 
 **4.2 PDF reader**
@@ -57,7 +58,7 @@ Click and go.
 
 **4.3 Libre Office**
 
-LibreOffice Writer is the only office software that comes preinstalled on BunsenLabs. However, the remainder of the suite is just a mouse click away.
+LibreOffice Writer is the only office software that comes preinstalled. However, the remainder of the suite is just a mouse click away.
 
 I don't like the splash screen when starting Libre Office. To get rid of it, 
 
