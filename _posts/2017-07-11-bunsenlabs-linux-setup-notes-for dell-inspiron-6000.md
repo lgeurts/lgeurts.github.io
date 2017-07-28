@@ -21,7 +21,13 @@ Here is a rundown of how I configured BunsenLabs to best serve my needs:
 
 v1.0
 
-Changes since the last version 
+Changes since the last version
+
+•
+•
+•
+•
+•
 
 ***2 Before you begin***
 ------------------------
@@ -32,6 +38,7 @@ Set aside at least half a day to complete the basics – after basic installatio
 -----------------------
 
 ***..3.1 Bunsen install***
+
 Do a generic install from Live USB, when you reboot you'll get an install script – follow it. On my Inspiron it always went without a hitch.
 
 ***..3.2 Install adddtional tools***
@@ -42,5 +49,5 @@ Do a generic install from Live USB, when you reboot you'll get an install script
 ***5 Dev environment***
 -----------------------
 
-***6 GPG/PGP***
----------------
+***6 GPG/PGP (Optional)***
+--------------------------
