@@ -46,7 +46,7 @@ Each of these options may be selected individually.
 **4 Desktop apps**
 ------------------
 
-BunsenLabs contains a bunch of apps you can install via the Openbox menu.
+BunsenLabs contains a bunch of apps you can install via the Openbox menu. Let's run thru the list.
 
 **4.1 Internet browser**
 
