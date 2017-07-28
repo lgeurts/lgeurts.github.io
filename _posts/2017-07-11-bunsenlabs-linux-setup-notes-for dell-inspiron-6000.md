@@ -56,7 +56,7 @@ Click and go.
 
 **4.3 Libre Office**
 
-I do not like the splash screen that appears when starting Libre Office. To get rid of it, 
+I don't like the splash screen when starting Libre Office. To get rid of it, 
 
 **5 Dev environment**
 ---------------------
