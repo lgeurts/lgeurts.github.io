@@ -56,6 +56,8 @@ Click and go.
 
 **4.3 Libre Office**
 
+LibreOffice Writer is the only office software that comes preinstalled on BunsenLabs. However, the remainder of the suite is just a mouse click away.
+
 I don't like the splash screen when starting Libre Office. To get rid of it, 
 
 **5 Dev environment**
