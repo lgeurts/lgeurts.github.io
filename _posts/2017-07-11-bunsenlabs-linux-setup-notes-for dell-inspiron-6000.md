@@ -30,14 +30,13 @@ v1.0
 
 Set aside at least half a day to complete the basics – after basic installation and update you'll be adding and configuring a ton of extra files.
 
-**3 Desktop install**
+**3 Bunsen install**
 ---------------------
 
-**3.1 Bunsen install**
+Do a generic install from [Live USB](https://www.bunsenlabs.org/installation.html). As soon as installation is finished, a welcome screen after reboot you will see a big hello in a terminal ssking you to update the system and run a set of options for attaching the Debian multimedia repository, printer support, installing Java, and adding packages for developers.
+![BunsenLabs Welcome](/assets/bunsenlabs-welcome.jpg)
 
-Do a generic install from [Live USB](https://www.bunsenlabs.org/installation.html), when you reboot you'll get an install script – follow it. On my Inspiron it always went without a hitch.
-
-**3.2 Additional tools**
+**3.1 Additional tools**
 
 **4 Desktop apps**
 ------------------
@@ -45,12 +44,15 @@ Do a generic install from [Live USB](https://www.bunsenlabs.org/installation.htm
 BunsenLabs contains a bunch of apps you can install via a link in the Openbox menu.
 
 **4.1 Internet browser**
+
 You have a choice between Google Chrome, Firefox and Opera. I opt for Firefox. When done configuring, install the [Privacy Badger](https://www.eff.org/privacybadger) and [HTTPS Everywhere](https://www.eff.org/https-everywhere) add-ons.
 
 **4.2 PDF reader**
+
 Click and go.
 
 **4.3 Libre Office**
+
 I do not like the splash screen that appears when starting Libre Office. To get rid of it, 
 
 **5 Dev environment**
