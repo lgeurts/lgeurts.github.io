@@ -17,13 +17,30 @@ This guide is based on [Deuterium](https://www.bunsenlabs.org/installation.html#
 Here is a rundown of how I configured BunsenLabs to best serve my needs:
 
 ***1 Status of this document***
+-------------------------------
 
 v1.0
 
+Changes since the last version 
+
 ***2 Before you begin***
+------------------------
 
 Set aside at least half a day to complete the basics – after basic installation and update you'll be adding and configuring a ton of extra files.
 
 ***3 Desktop install***
+-----------------------
 
+***..3.1 Bunsen install***
 Do a generic install from Live USB, when you reboot you'll get an install script – follow it. On my Inspiron it always went without a hitch.
+
+***..3.2 Install adddtional tools***
+
+***4 Desktop apps***
+--------------------
+
+***5 Dev environment***
+-----------------------
+
+***6 GPG/PGP***
+---------------
