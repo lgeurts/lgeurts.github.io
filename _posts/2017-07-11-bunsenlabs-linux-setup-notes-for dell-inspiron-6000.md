@@ -23,7 +23,7 @@ v1.0
 
 > Changes since the last version
 
-•
+> •
 
 ***2 Before you begin***
 ------------------------
