@@ -58,7 +58,7 @@ Click and go.
 
 **4.3 LibreOffice**
 
-LibreOffice Writer is the only office software that comes preinstalled. However, the remainder of the suite is just a mouse click away.
+LibreOffice Writer is the only software that comes preinstalled. However, the remainder of the suite is just a mouse click away.
 
 ***Note:*** I don't like the splash screen when starting LibreOffice. To get rid of it, 
 
