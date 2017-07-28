@@ -15,8 +15,6 @@ My hobbies can be distilled down to just one thing: LEARNING.
 
 Guess that's all. If you like this site, you can follow me on my Twitter [@lgeurts](https://twitter.com/lgeurts), or send a connection request on [LinkedIn](https://www.linkedin.com/in/lucgeurts).
 
-PS, for a copy of this customized template, fork from my [GitHub repo](https://github.com/lgeurts/lgeurts.github.io).
-
 Go n-éirí an bothar leat,
 
 /Luge
