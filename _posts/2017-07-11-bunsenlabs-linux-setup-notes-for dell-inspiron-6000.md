@@ -21,7 +21,7 @@ Here is a rundown of how I configured BunsenLabs to best serve my needs:
 
 v1.0
 
-Changes since the last version
+> Changes since the last version
 
 •
 
