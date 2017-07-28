@@ -35,16 +35,23 @@ Set aside at least half a day to complete the basics – after basic installatio
 
 **3.1 Bunsen install**
 
-Do a generic install from Live USB, when you reboot you'll get an install script – follow it. On my Inspiron it always went without a hitch.
+Do a generic install from [Live USB](https://www.bunsenlabs.org/installation.html), when you reboot you'll get an install script – follow it. On my Inspiron it always went without a hitch.
 
 **3.2 Additional tools**
 
 **4 Desktop apps**
 ------------------
 
-**4.1 PDF reader**
+BunsenLabs contains a bunch of apps you can install via a link in the Openbox menu.
 
-**4.2 Libre Office**
+**4.1 Internet browser**
+You have a choice between Google Chrome, Firefox and Opera. I opt for Firefox. When done configuring, install the [Privacy Badger](https://www.eff.org/privacybadger) and [HTTPS Everywhere](https://www.eff.org/https-everywhere) add-ons.
+
+**4.2 PDF reader**
+The Openbox menu contains a link to an installation script. Click and go.
+
+**4.3 Libre Office**
+Same as 4.1.
 
 **5 Dev environment**
 ---------------------
