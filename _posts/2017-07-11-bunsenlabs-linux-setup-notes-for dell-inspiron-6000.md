@@ -50,7 +50,7 @@ BunsenLabs contains a bunch of apps you can install via the Openbox menu. Let's 
 
 **4.1 Internet browser**
 
-You have a choice between Google Chrome, Firefox and Opera (I opt for FF).
+You have a choice between Google Chrome, Firefox and Opera (I opted for FF).
 
 ***Note:*** do not forget [Privacy Badger](https://www.eff.org/privacybadger), [HTTPS Everywhere](https://www.eff.org/https-everywhere) and [Self-Destructing Cookies](https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies/) add-ons.
 
