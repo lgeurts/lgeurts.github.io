@@ -64,12 +64,15 @@ LibreOffice Writer is the only software that comes preinstalled. However, the re
 
 ***Note:*** I don't like the splash screen when starting LibreOffice. To get rid of it, 
 
-**5 Dev environment**
+**5 Multimedia**
+----------------
+
+**6 Dev environment**
 ---------------------
 
-**5.1 Ruby and Rails**
+**6.1 Ruby and Rails**
 
-**5.2 Jekyll**
+**6.2 Jekyll**
 
-**6 GPG/PGP**
+**7 GPG/PGP**
 -------------
