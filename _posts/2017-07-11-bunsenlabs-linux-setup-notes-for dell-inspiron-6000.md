@@ -71,5 +71,5 @@ LibreOffice Writer is the only software that comes preinstalled. However, the re
 
 **5.2 Jekyll**
 
-**6 GPG/PGP (optional)**
-------------------------
+**6 GPG/PGP**
+-------------
