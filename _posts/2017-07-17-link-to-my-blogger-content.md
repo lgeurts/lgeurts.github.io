@@ -10,5 +10,3 @@ tags: [ Microsoft ]
 MSFT oriented, for the moment obsolete: [bitcruncher.blogspot.com](https://bitcruncher.blogspot.com).
 
 ![PFE? A typical friday night](/assets/kermit.gif)
-
-PFE? What ***used*** to be a typical friday night.
