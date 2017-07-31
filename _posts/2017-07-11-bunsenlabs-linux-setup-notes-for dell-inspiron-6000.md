@@ -3,7 +3,7 @@ layout: post
 title: My BunsenLabs Linux setup notes for Dell Inspiron 6000
 read_time: true  
 comments: true
-category:
+category: Open Source
 tags: [ Linux, Tutorials ]
 ---
 
