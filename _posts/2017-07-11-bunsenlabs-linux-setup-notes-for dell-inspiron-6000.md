@@ -54,23 +54,9 @@ BunsenLabs contains a bunch of apps you can install via the Openbox menu. Let's 
 
 You have a choice between Google Chrome, Firefox and Opera (I opted for FF).
 
-***Note:*** install extra add-ons to protect your while browsing the net :
+***Note:*** dont forget these add-ons:
 
-[Privacy Badger](https://www.eff.org/privacybadger)
-
- • Blocks spying ads and invisible trackers.
-
-[HTTPS Everywhere](https://www.eff.org/https-everywhere)
-
- • The name says it all.
-
-[Self-Destructing Cookies](https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies/)
-
- • Be sure to look at its settings and exclude those sites you want your cookies kept for.
- 
-[Duck DuckGo Plus](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/).
-
- • Search engine that in contrary to Google and (blingbling) Bing does NOT track you.
+[Privacy Badger](https://www.eff.org/privacybadger), [HTTPS Everywhere](https://www.eff.org/https-everywhere), [Self-Destructing Cookies](https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies/), [Duck DuckGo Plus](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/).
 
 **4.2 PDF reader**
 
