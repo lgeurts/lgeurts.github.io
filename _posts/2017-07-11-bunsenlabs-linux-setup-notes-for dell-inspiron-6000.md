@@ -56,7 +56,7 @@ You have a choice between Google Chrome, Firefox and Opera (I opted for FF).
 
 ***Note:*** the list of plugins I'm presently using:
 
-[Privacy Badger](https://www.eff.org/privacybadger), [HTTPS Everywhere](https://www.eff.org/https-everywhere), [Self-Destructing Cookies](https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies/) & [Duck DuckGo Plus](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/).
+[Privacy Badger](https://www.eff.org/privacybadger), [HTTPS Everywhere](https://www.eff.org/https-everywhere), [Self-Destructing Cookies](https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies/) & [DuckDuckGo Plus](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/).
 
 **4.2 PDF reader**
 
@@ -75,9 +75,9 @@ Time to add some extra apps from the repositories.
 
 **5.1 YouTube-dl**
 
-**5.2 NCMPCPP**
+**5.2 Ncmpcpp**
 
-**6 Dev environment**
+**6 Development**
 ---------------------
 
 **6.1 Ruby and Rails**
