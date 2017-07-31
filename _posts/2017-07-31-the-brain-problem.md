@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Brain Problem by Robert C. Martin (Uncle Bob)
+title: The Brain Problem by Robert C. Martin
 read_time: true  
 comments: true
 category: Robotics
