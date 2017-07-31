@@ -54,7 +54,7 @@ BunsenLabs contains a bunch of apps you can install via the Openbox menu. Let's 
 
 You have a choice between Google Chrome, Firefox and Opera (I opted for FF).
 
-***Note:*** add [Privacy Badger](https://www.eff.org/privacybadger), [HTTPS Everywhere](https://www.eff.org/https-everywhere), [Self-Destructing Cookies](https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies/).
+***Note:*** add [Privacy Badger](https://www.eff.org/privacybadger), [HTTPS Everywhere](https://www.eff.org/https-everywhere), [Self-Destructing Cookies](https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies/) & [DuckDuckGo Plus](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/).
 
 **4.2 PDF reader**
 
@@ -70,6 +70,10 @@ LibreOffice Writer is the only software that comes preinstalled. However, the re
 ----------------
 
 Time to add some extra apps from the repositories.
+
+**5.1 YouTube-dl**
+
+**5.2 NCMPCPP**
 
 **6 Dev environment**
 ---------------------
