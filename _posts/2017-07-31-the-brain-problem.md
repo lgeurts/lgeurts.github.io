@@ -4,7 +4,7 @@ title: The Brain Problem by Robert C. Martin
 read_time: true  
 comments: true
 category: Robotics
-tags: [ Artificial Intelligence ]
+tags: [ AI ]
 ---
 
 The idea that our meager internet, which indirectly interconnects only a trifling few hundreds of millions of pitifully weak serial processors, could process all the information of a single brain is absurd.
