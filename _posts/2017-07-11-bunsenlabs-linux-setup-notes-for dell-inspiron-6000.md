@@ -73,7 +73,7 @@ LibreOffice Writer is the only software that comes preinstalled. However, the re
 **5 Additional tools**
 ----------------------
 
-Some of these are from the repositories, some fom oher sources. 
+Some of these are from the repositories, some fom other sources. 
 
 **5.1 Multimedia**
 
