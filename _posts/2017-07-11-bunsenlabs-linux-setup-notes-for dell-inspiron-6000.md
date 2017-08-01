@@ -94,3 +94,7 @@ Some of these are from the repositories, some fom oher sources.
 **5.3 Security**
 
 ***• 5.3.1 GPG/PGP***
+
+**Theming**
+-----------
+Some much needed eye candy because not everything is just about functionality, right?
