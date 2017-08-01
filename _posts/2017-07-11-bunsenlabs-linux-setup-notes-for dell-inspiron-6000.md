@@ -46,7 +46,11 @@ Each of these options may be selected individually.
 **4 Desktop apps**
 ------------------
 
-BunsenLabs contains a bunch of apps you can install with a simple click via the Openbox menu. Other apps are available from the repos or 3rd party sources. In that case, the instructions will show an apt-get install command. Let's run thru the list.
+BunsenLabs contains a bunch of apps you can install with a simple click via the Openbox menu. 
+
+Other apps are available from the repos or 3rd party sources. In that case, the instructions will show an apt-get install command. 
+
+Let's run thru the list.
 
 **4.1 Internet browsers**
 
@@ -72,38 +76,44 @@ LibreOffice Writer is the only software that comes preinstalled. However, the re
 
 **4.4 Multimedia**
 
+***• 4.4.1 YouTube-dl***
+
+***• 4.4.2 Ncmpcpp***
+
 **4.5 Non-Free**
 
 **5 Development**
 -----------------
 
-***• 5.2.1 Git***
+**5.1 Text Editors**
 
-***• 5.2.2 Ruby and Rails***
+***• 5.1.1 Vim***
 
-***• 5.2.3 Jekyll***
+***• 5.1.2 Sublime 3***
 
-***• 5.2.4 Sublime Text Editor***
+**5.2 Programming**
 
-**Additional Tools**
---------------------
+***• 5.2.1 Ruby***
 
-**5.1 CLI**
+**5.3 Frameworks**
 
-***• 5.1.1 YouTube-dl***
+***• 5.3.1 Rails***
 
-***• 5.1.2 Ncmpcpp***
+**5.4 Static Web Generators**
 
-**5.2 Development**
+***• 5.4.1 Jekyll***
 
+**5.5 Version Control Systems**
 
+***• 5.5.1 Git***
 
-**5.3 Security**
+**6 Security**
+--------------
 
-***• 5.3.1 GPG/PGP***
+**6.1 Mail encryption**
 
-**6 Theming**
+***• 6.1.1 GPG/PGP***
+
+**7 Theming**
 -------------
 Some eye candy because not everything is just about functionality, right?
-
-*** • 6.1 Tint2***
