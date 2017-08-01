@@ -60,7 +60,7 @@ You have a choice between Google Chrome, Firefox and Opera (I opted for FF).
 
 Click and go.
 
-**4.3 LibreOffice**
+**4.3 Office**
 
 LibreOffice Writer is the only software that comes preinstalled. However, the remainder of the suite is just a mouse click away.
 
@@ -77,20 +77,20 @@ Some of these are from the repositories, some fom oher sources.
 
 **5.1 Multimedia**
 
-• **5.1.1 YouTube-dl**
+***• 5.1.1 YouTube-dl***
 
-• **5.1.2 Ncmpcpp**
+***• 5.1.2 Ncmpcpp***
 
 **5.2 Development**
 
-• **5.2.1 Git**
+***• 5.2.1 Git***
 
-• **5.2.2 Ruby and Rails**
+***• 5.2.2 Ruby and Rails***
 
-• **5.2.3 Jekyll**
+***• 5.2.3 Jekyll***
 
-• **5.2.4 Sublime Text Editor**
+***• 5.2.4 Sublime Text Editor***
 
 **5.3 Security**
 
-• **5.3.1 GPG/PGP**
+***• 5.3.1 GPG/PGP***
