@@ -43,8 +43,6 @@ Each of these options may be selected individually.
 
 ![BunsenLabs Welcome](/assets/bunsenlabs-welcome.png)
 
-**3.1 Additional tools**
-
 **4 Desktop apps**
 ------------------
 
@@ -68,21 +66,31 @@ LibreOffice Writer is the only software that comes preinstalled. However, the re
 
 ***Note:*** I don't like the splash screen when starting LibreOffice. To get rid of it, 
 
-**5 Multimedia**
-----------------
+**4.4**
 
-Time to add some extra apps from the repositories.
+**4.5**
 
-**5.1 YouTube-dl**
+**5 Additional tools**
+----------------------
 
-**5.2 Ncmpcpp**
+Some of these are from the repositories, some fom oher sources. 
 
-**6 Development**
----------------------
+**5.1 Multimedia**
 
-**6.1 Ruby and Rails**
+**5.1.1 YouTube-dl**
 
-**6.2 Jekyll**
+**5.1.2 Ncmpcpp**
 
-**7 GPG/PGP**
--------------
+**5.2 Development**
+
+**5.2.1 Git**
+
+**5.2.2 Ruby and Rails**
+
+**5.2.3 Jekyll**
+
+**5.2.4 Sublime Text Editor**
+
+**5.3 Security**
+
+**5.3.1 GPG/PGP**
