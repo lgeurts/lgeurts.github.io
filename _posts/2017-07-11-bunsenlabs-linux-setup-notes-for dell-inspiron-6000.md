@@ -33,7 +33,7 @@ Set aside at least half a day to complete the basics –after basic installation
 **3 Bunsen install**
 ---------------------
 
-Download the appropriate ISO (for JARREAU bl-Deuterium-i386_20170429.iso).
+Download the appropriate ISO (bl-Deuterium-i386_20170429.iso).
 
 Do an install from [Live USB](https://www.bunsenlabs.org/installation.html). As soon its finished, and after reboot, you will see underneath screen asking you to update the system. Press 'Enter'.
 
