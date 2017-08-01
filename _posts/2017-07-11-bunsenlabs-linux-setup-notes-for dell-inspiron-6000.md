@@ -48,7 +48,7 @@ Each of these options may be selected individually.
 
 BunsenLabs contains a bunch of apps you can install with a simple click via the Openbox menu. 
 
-Other apps are available from the repos or 3rd party sources. In that case, the instructions will show an apt-get install command. 
+Other apps are available from the repos & 3rd party sources. In that case, the instructions will show an apt-get install command. 
 
 Let's run thru the list.
 
