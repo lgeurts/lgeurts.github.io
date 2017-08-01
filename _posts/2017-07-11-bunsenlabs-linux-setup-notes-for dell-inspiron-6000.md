@@ -48,9 +48,11 @@ Each of these options may be selected individually.
 
 BunsenLabs contains a bunch of apps you can install via the Openbox menu. Let's run thru the list.
 
-**4.1 Internet browser**
+**4.1 Internet browsers**
 
-You have a choice between Google Chrome, Firefox and Opera (I opted for FF).
+***• 4.1.1 Google Chrome, Firefox or Opera***
+
+I made a choice for Firefox.
 
 ***Note:*** the list of plugins I'm presently using:
 
@@ -62,20 +64,21 @@ Click and go.
 
 **4.3 Office**
 
+***• 4.3.1 LibreOffice***
 LibreOffice Writer is the only software that comes preinstalled. However, the remainder of the suite is just a mouse click away.
 
 ***Note:*** I don't like the splash screen when starting LibreOffice. To get rid of it, 
 
-**4.4**
+**4.4 Multimedia**
 
-**4.5**
+**4.5 Non-Free**
 
 **5 Additional tools**
 ----------------------
 
 Some of these are from the repositories, some fom other sources. 
 
-**5.1 Multimedia**
+**5.1 CLI**
 
 ***• 5.1.1 YouTube-dl***
 
@@ -98,3 +101,5 @@ Some of these are from the repositories, some fom other sources.
 **6 Theming**
 -------------
 Some eye candy because not everything is just about functionality, right?
+
+*** • 6.1 Tint2***
