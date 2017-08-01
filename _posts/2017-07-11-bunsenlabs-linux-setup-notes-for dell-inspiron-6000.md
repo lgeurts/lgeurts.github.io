@@ -65,6 +65,7 @@ Click and go.
 **4.3 Office**
 
 ***• 4.3.1 LibreOffice***
+
 LibreOffice Writer is the only software that comes preinstalled. However, the remainder of the suite is just a mouse click away.
 
 ***Note:*** I don't like the splash screen when starting LibreOffice. To get rid of it, 
@@ -73,10 +74,19 @@ LibreOffice Writer is the only software that comes preinstalled. However, the re
 
 **4.5 Non-Free**
 
-**5 Additional tools**
-----------------------
+**5 Development**
+-----------------
 
-Some of these are from the repositories, some fom other sources. 
+***• 5.2.1 Git***
+
+***• 5.2.2 Ruby and Rails***
+
+***• 5.2.3 Jekyll***
+
+***• 5.2.4 Sublime Text Editor***
+
+**Additional Tools**
+--------------------
 
 **5.1 CLI**
 
@@ -86,13 +96,7 @@ Some of these are from the repositories, some fom other sources.
 
 **5.2 Development**
 
-***• 5.2.1 Git***
 
-***• 5.2.2 Ruby and Rails***
-
-***• 5.2.3 Jekyll***
-
-***• 5.2.4 Sublime Text Editor***
 
 **5.3 Security**
 
