@@ -87,7 +87,7 @@ LibreOffice Writer is the only software that comes preinstalled. However, the re
 **5 Development**
 -----------------
 
-Not into web development? That doesn't mean your choice is limited to my selection. Python, Node.js, Emacs? You name it, they are just as easily installed from the Debian repositories.
+My favs for simple coding and web site development. 
 
 **5.1 Text Editors**
 
@@ -97,7 +97,9 @@ Not into web development? That doesn't mean your choice is limited to my selecti
 
 **5.2 Programming**
 
-***• 5.2.1 Ruby***
+***• 5.2.1 Python***
+
+***• 5.2.2 Ruby***
 
 **5.3 Frameworks**
 
