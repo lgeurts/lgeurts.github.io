@@ -46,7 +46,7 @@ Each of these options may be selected individually.
 **4 Productivity**
 ------------------
 
-BunsenLabs contains a bunch of apps you can install with a simple click via the Openbox menu. 
+BunsenLabs contains a bunch of apps you can install with a simple click in the Openbox menu. 
 
 Other apps are available from the repos & 3rd party sources. If that is the case, the instructions will show an apt-get install command. 
 
