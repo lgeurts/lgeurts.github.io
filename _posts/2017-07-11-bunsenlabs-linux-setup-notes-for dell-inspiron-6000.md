@@ -22,7 +22,8 @@ Here is a rundown of how I configured BunsenLabs to best serve my needs.
 v1.0
 
 > Changes since the last version:
-> • Reworked the layout.
+
+• Reworked the layout.
 
 **2 Before you begin**
 ----------------------
