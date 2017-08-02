@@ -43,7 +43,7 @@ Each of these options may be selected individually.
 
 ![BunsenLabs Welcome](/assets/bunsenlabs-welcome.png)
 
-**4 Desktop apps**
+**4 Productivity**
 ------------------
 
 BunsenLabs contains a bunch of apps you can install with a simple click via the Openbox menu. 
@@ -74,13 +74,15 @@ LibreOffice Writer is the only software that comes preinstalled. However, the re
 
 ***Note:*** I don't like the splash screen when starting LibreOffice. To get rid of it, 
 
-**4.4 Multimedia**
+**4.4 Graphics**
 
-***• 4.4.1 YouTube-dl***
+**4.5 Multimedia apps**
 
-***• 4.4.2 Ncmpcpp***
+***• 4.5.1 YouTube-dl***
 
-**4.5 Non-Free**
+***• 4.5.2 Ncmpcpp***
+
+**4.6 Non-Free**
 
 **5 Development**
 -----------------
