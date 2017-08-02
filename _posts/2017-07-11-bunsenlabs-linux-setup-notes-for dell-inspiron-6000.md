@@ -23,7 +23,7 @@ v1.0
 
 > Changes since the last version:
 
-> •
+> • Reworked the layout.
 
 **2 Before you begin**
 ----------------------
@@ -75,6 +75,10 @@ LibreOffice Writer is the only software that comes preinstalled. However, the re
 ***Note:*** I don't like the splash screen when starting LibreOffice. To get rid of it, 
 
 **4.4 Graphics**
+
+***• 4.4.1 Gimp***
+
+Click, install.
 
 **4.5 Multimedia apps**
 
