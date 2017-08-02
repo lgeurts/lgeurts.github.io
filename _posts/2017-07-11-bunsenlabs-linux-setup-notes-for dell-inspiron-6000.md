@@ -23,7 +23,7 @@ v1.0
 
 > Changes since the last version:
 
-• Reworked the layout.
+> • Reworked the layout, added new sections.
 
 **2 Before you begin**
 ----------------------
