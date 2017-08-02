@@ -64,6 +64,8 @@ I made a choice for Firefox.
 
 **4.2 PDF reader**
 
+***• 4.2.1 Evince***
+
 Click and go.
 
 **4.3 Office**
