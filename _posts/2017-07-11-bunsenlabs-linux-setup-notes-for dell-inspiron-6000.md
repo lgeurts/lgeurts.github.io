@@ -48,7 +48,7 @@ Each of these options may be selected individually.
 
 BunsenLabs contains a bunch of apps you can install with a simple click via the Openbox menu. 
 
-Other apps are available from the repos & 3rd party sources. In that case, the instructions will show an apt-get install command. 
+Other apps are available from the repos & 3rd party sources. If that is the case, the instructions will show an apt-get install command. 
 
 Let's run thru the list.
 
@@ -87,7 +87,7 @@ LibreOffice Writer is the only software that comes preinstalled. However, the re
 **5 Development**
 -----------------
 
-Most of the tools below are what I use frequently when creating websites (in my free time). That doesn't mean your choice is limited to my selection. Python, Node.js, Emacs? You name it, they are just as easily installed from the Debian repositories.
+Most of the tools below are what I use frequently when creating websites. That doesn't mean your choice is limited to my selection. Python, Node.js, Emacs? You name it, they are just as easily installed from the Debian repositories.
 
 **5.1 Text Editors**
 
