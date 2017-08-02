@@ -56,7 +56,7 @@ Let's run thru the list.
 
 ***• 4.1.1 Google Chrome, Firefox or Opera***
 
-I made a choice for Firefox.
+I made a choice for Firefox but you can install Chrome or Opera next to it.
 
 ***Note:*** the list of plugins I'm presently using:
 
