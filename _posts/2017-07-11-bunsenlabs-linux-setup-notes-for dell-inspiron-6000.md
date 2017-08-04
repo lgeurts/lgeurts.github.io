@@ -147,8 +147,8 @@ My favs for simple coding and web site development.
 
 When running these commands, first do sudo. For example sudo apt-get install.
 
-* $ apt-get install -t jessie-backports nftables
-* $ cp /usr/share/doc/nftables/examples/syntax/workstation /etc/nftables.conf 
+1. $ apt-get install -t jessie-backports nftables
+2. $ cp /usr/share/doc/nftables/examples/syntax/workstation /etc/nftables.conf 
 
 $ sed -i 's/flush/#flush/' /etc/nftables.conf 
 
