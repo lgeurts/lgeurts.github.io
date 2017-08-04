@@ -78,7 +78,7 @@ LibreOffice Writer is the only software that comes preinstalled. However, the re
 
 ***• 4.3.2 Clawsmail***
 
-***Note:*** If you want to send and receive mail via a terminal, Mutt and Mutt-patched are a must.
+***Note:*** If you want to send and receive mail via a terminal, Mutt & Mutt-patched are a must.
 
 **4.4 Graphics**
 
