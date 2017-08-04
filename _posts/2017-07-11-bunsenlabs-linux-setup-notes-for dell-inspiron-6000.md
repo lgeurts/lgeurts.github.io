@@ -48,7 +48,7 @@ Each of these options may be selected individually.
 
 BunsenLabs contains a bunch of apps you can install with a simple click in the Openbox menu. 
 
-Other apps are available from the repos & 3rd party sources. If that is the case, the instructions will show an apt-get install command. 
+Other apps are available from the repos & 3rd party sources. If that is the case, the instructions will show the approppriate commands. Remember to run these as sudo. 
 
 Let's run thru the list.
 
@@ -74,7 +74,11 @@ Click and go.
 
 LibreOffice Writer is the only software that comes preinstalled. However, the remainder of the suite is just a mouse click away.
 
-***Note:*** I don't like the splash screen when starting LibreOffice. To get rid of it, 
+***Note:*** I don't like the splash screen when starting LibreOffice. To get rid of it:
+
+- $ sudo geany /etc/libreoffice/sofficerc
+
+Change Logo=1 to Logo=0 and exit.
 
 ***• 4.3.2 Clawsmail***
 
@@ -145,16 +149,14 @@ My favs for simple coding and web site development.
 
 ***• 7.1.1 Nftables***
 
-When running the commands, first do sudo. Example: sudo apt-get install.
-
-- apt-get install -t jessie-backports nftables
-- cd /usr/share/doc/nftables/examples/syntax/
-- cp workstation /etc/nftables.conf 
-- sed -i 's/flush/#flush/' /etc/nftables.conf 
-- systemctl start nftables
-- systemctl enable nftables
-- nft list ruleset # check if rules have been applied after boot
-- systemctl status nftables.service # check if .service has been started 
+- $ apt-get install -t jessie-backports nftables
+- $ cd /usr/share/doc/nftables/examples/syntax/
+- $ cp workstation /etc/nftables.conf 
+- $ sed -i 's/flush/#flush/' /etc/nftables.conf 
+- $ systemctl start nftables
+- $ systemctl enable nftables
+- $ nft list ruleset # check if rules have been applied after boot
+- $ systemctl status nftables.service # check if .service has been started 
 
 ***Note:*** You now have a "whitelist" firewall that only accepts connections you created yourself. 
 Problems? [Follow this thread on the BunsenLabs forums](https://forums.bunsenlabs.org/viewtopic.php?id=1765).
