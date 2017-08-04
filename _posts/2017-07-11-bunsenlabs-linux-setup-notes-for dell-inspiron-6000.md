@@ -157,7 +157,7 @@ When running these commands, first do sudo. For example sudo apt-get install.
 
 You now have a "whitelist" firewall that only accepts connections you created yourself.
 
-Problems? [BunsenLabs forums](https://forums.bunsenlabs.org/viewtopic.php?id=1765).
+Problems? [Follow this thread on the BunsenLabs forums](https://forums.bunsenlabs.org/viewtopic.php?id=1765).
 
 **7.2 Mail encryption**
 
