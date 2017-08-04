@@ -160,6 +160,7 @@ My favs for simple coding and web site development.
 
 ***Note:*** You now have a "whitelist" firewall that only accepts connections you created yourself. 
 Problems? [Follow this thread on the BunsenLabs forums](https://forums.bunsenlabs.org/viewtopic.php?id=1765).
+Use this firewall in addition to restrictive rules on your router!
 
 **7.2 Mail encryption**
 
