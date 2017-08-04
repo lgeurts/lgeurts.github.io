@@ -21,14 +21,14 @@ Here is a rundown of how I configured BunsenLabs to best serve my needs.
 
 v1.0
 
-* 07/22/17 Initial setup.
+> * 07/22/17 Initial setup.
 
-> Changes since the last version:
+Changes since the last version:
 
 v1.1
 
-* 08/02/17 Reworked the layout.
-* 08/04/17 Adding info for nftables, screenfetch, iftop, ttyload.
+> * 08/02/17 Reworked the layout.
+> * 08/04/17 Adding info for nftables, screenfetch, iftop, ttyload.
 
 **2 Before you begin**
 ----------------------
