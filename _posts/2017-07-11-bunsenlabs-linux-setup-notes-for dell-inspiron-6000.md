@@ -146,11 +146,17 @@ My favs for simple coding and web site development.
 ***• 7.1.1 Nftables***
 
 $ sudo apt-get install -t jessie-backports nftables
+
 $ sudo cp /usr/share/doc/nftables/examples/syntax/workstation /etc/nftables.conf 
+
 $ sudo sed -i 's/flush/#flush/' /etc/nftables.conf 
+
 $ sudo systemctl start nftables
+
 $ sudo systemctl enable nftables
+
 $ sudo nft list ruleset # check if the rules have been applied after boot
+
 $ systemctl status nftables.service # check if the .service has been started 
 
 You now have a "whitelist" firewall that only accepts connections you created yourself.
