@@ -76,17 +76,27 @@ LibreOffice Writer is the only software that comes preinstalled. However, the re
 
 ***Note:*** I don't like the splash screen when starting LibreOffice. To get rid of it, 
 
+***• 4.3.2 Clawsmail***
+
+***Note:*** If you want to send and receive mail via a terminal, Mutt and Mutt-patched are a must.
+
 **4.4 Graphics**
 
 ***• 4.4.1 Gimp***
+
+***• 4.4.2 Viewnior***
 
 Click, install.
 
 **4.5 Multimedia apps**
 
-***• 4.5.1 YouTube-dl***
+***• 4.5.1 Mpd***
 
-***• 4.5.2 Ncmpcpp***
+***• 4.5.2 Mpc***
+
+***• 4.5.3 Ncmpcpp***
+
+***• 4.5.4 YouTube-dl***
 
 **5 Databases**
 ---------------
@@ -104,7 +114,11 @@ My favs for simple coding and web site development.
 
 ***• 6.1.1 Vim***
 
-***• 6.1.2 Sublime 3***
+**Note:** Addtional Pathogen, Bundler and Tmux multiplexer.
+
+***• 6.1.2 Vim-GUI***
+
+***• 6.1.3 Sublime 3***
 
 **6.2 Programming**
 
@@ -127,13 +141,27 @@ My favs for simple coding and web site development.
 **7 Security**
 --------------
 
-**7.1 Mail encryption**
+**7.1 Firewall**
 
-***• 7.1.1 GPG/PGP***
+***• 7.1.1 Nftables***
 
-**8 System monitors**
----------------------
+**7.2 Mail encryption**
 
-**9 Theming your desktop**
---------------------------
+***• 7.2.1 GPG/PGP***
+
+**8 Bash System information**
+-----------------------------
+
+**8.1 Screenshot Tool**
+
+***• 8.1.1 Screenfetch***
+
+**8.2 System Monitors**
+
+***• 8.2.1 iftop***
+
+***• 8.2.2 ttyload***
+
+**9 Theming your Openbox desktop**
+----------------------------------
 Some eye candy because not everything is just about functionality, right?
