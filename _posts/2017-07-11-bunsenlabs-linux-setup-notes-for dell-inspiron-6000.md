@@ -145,7 +145,7 @@ My favs for simple coding and web site development.
 
 ***• 7.1.1 Nftables***
 
-When running these commands, first do sudo. For example sudo apt-get install.
+When running the commands, first do sudo. Example: sudo apt-get install.
 
 1. apt-get install -t jessie-backports nftables
 2. cp /usr/share/doc/nftables/examples/syntax/workstation /etc/nftables.conf 
@@ -155,7 +155,7 @@ When running these commands, first do sudo. For example sudo apt-get install.
 6. nft list ruleset # check if the rules have been applied after boot
 7. systemctl status nftables.service # check if the .service has been started 
 
-You now have a "whitelist" firewall that only accepts connections you created yourself.
+***Note:*** You npw have a "whitelist" firewall that only accepts connections you created yourself.
 
 Problems? [Follow this thread on the BunsenLabs forums](https://forums.bunsenlabs.org/viewtopic.php?id=1765).
 
