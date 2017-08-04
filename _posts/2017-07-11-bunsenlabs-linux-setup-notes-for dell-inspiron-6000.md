@@ -132,8 +132,8 @@ My favs for simple coding and web site development.
 ***• 7.1.1 GPG/PGP***
 
 **8 System monitors**
------------------------
+---------------------
 
-**9 Theming**
--------------
+**9 Theming your desktop**
+--------------------------
 Some eye candy because not everything is just about functionality, right?
