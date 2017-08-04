@@ -24,10 +24,8 @@ v1.0
 > Changes since the last version:
 
 > * 07/22/17 Initial setup.
-
-> • 08/02/17 Reworked the layout.
-
-> • 08/04/17 Adding info for nftables, screenfetch, iftop, ttyload. 
+• 08/02/17 Reworked the layout.
+• 08/04/17 Adding info for nftables, screenfetch, iftop, ttyload. >
 
 **2 Before you begin**
 ----------------------
