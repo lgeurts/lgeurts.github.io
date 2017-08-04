@@ -147,18 +147,17 @@ My favs for simple coding and web site development.
 
 When running these commands, first do sudo. For example sudo apt-get install.
 
-1. $ apt-get install -t jessie-backports nftables
-2. $ cp /usr/share/doc/nftables/examples/syntax/workstation 
-/etc/nftables.conf 
-3. $ sed -i 's/flush/#flush/' /etc/nftables.conf 
-4. $ systemctl start nftables
-5. $ systemctl enable nftables
-6. $ nft list ruleset # check if the rules have been applied after boot
-7. $ systemctl status nftables.service # check if the .service has been started 
+1.apt-get install -t jessie-backports nftables
+2.cp /usr/share/doc/nftables/examples/syntax/workstation /etc/nftables.conf 
+3.sed -i 's/flush/#flush/' /etc/nftables.conf 
+4.systemctl start nftables
+5.systemctl enable nftables
+6.nft list ruleset # check if the rules have been applied after boot
+7.systemctl status nftables.service # check if the .service has been started 
 
 You now have a "whitelist" firewall that only accepts connections you created yourself.
 
-Problems? Follow: https://forums.bunsenlabs.org/viewtopic.php?id=1765.
+Problems? Follow: [BunsenLabs forums](https://forums.bunsenlabs.org/viewtopic.php?id=1765).
 
 **7.2 Mail encryption**
 
