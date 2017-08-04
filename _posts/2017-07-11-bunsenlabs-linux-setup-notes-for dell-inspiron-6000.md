@@ -23,7 +23,8 @@ v1.0
 
 > Changes since the last version:
 
-> • Reworked the layout, added new sections.
+> • 08/02/17 Reworked the layout, added new sections.
+> • 08/04/17 Added install commands for nftables, screenfetch, iftop, ttyload. 
 
 **2 Before you begin**
 ----------------------
@@ -174,11 +175,19 @@ Use this basic firewall in addition to restrictive rules on your router!
 
 ***• 8.1.1 Screenfetch***
 
+- $ apt-get install screenfetch
+
+***Note:*** Instead Screenfetch you can install [Neofetch](https://github.com/dylanaraps/neofetch/wiki/Neofetch-vs-Screenfetch).
+
 **8.2 System Monitors**
 
 ***• 8.2.1 iftop***
 
+- $ apt-get install iftop
+
 ***• 8.2.2 ttyload***
+
+- $ apt-get install ttyload
 
 **9 Theming your Openbox desktop**
 ----------------------------------
