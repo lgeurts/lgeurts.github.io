@@ -88,45 +88,52 @@ Click, install.
 
 ***• 4.5.2 Ncmpcpp***
 
-**5 Development**
+**5 Databases**
+---------------
+
+***• 5.1.1 PostgreSQL***
+
+***• 5.1.2 PgAdmin***
+
+**6 Development**
 -----------------
 
 My favs for simple coding and web site development. 
 
-**5.1 Text Editors**
+**6.1 Text Editors**
 
-***• 5.1.1 Vim***
+***• 6.1.1 Vim***
 
-***• 5.1.2 Sublime 3***
+***• 6.1.2 Sublime 3***
 
-**5.2 Programming**
+**6.2 Programming**
 
-***• 5.2.1 Python***
+***• 6.2.1 Python***
 
-***• 5.2.2 Ruby***
+***• 6.2.2 Ruby***
 
-**5.3 Frameworks**
+**6.3 Frameworks**
 
-***• 5.3.1 Rails***
+***• 6.3.1 Rails***
 
-**5.4 Static Web Generators**
+**6.4 Static Web Generators**
 
-***• 5.4.1 Jekyll***
+***• 6.4.1 Jekyll***
 
-**5.5 Version Control Systems**
+**6.5 Version Control Systems**
 
-***• 5.5.1 Git***
+***• 6.5.1 Git***
 
-**6 Security**
+**7 Security**
 --------------
 
-**6.1 Mail encryption**
+**7.1 Mail encryption**
 
-***• 6.1.1 GPG/PGP***
+***• 7.1.1 GPG/PGP***
 
-**7 System monitoring**
+**8 System monitoring**
 -----------------------
 
-**8 Theming**
+**9 Theming**
 -------------
 Some eye candy because not everything is just about functionality, right?
