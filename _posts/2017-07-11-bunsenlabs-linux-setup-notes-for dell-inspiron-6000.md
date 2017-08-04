@@ -24,6 +24,7 @@ v1.0
 > Changes since the last version:
 
 > • 08/02/17 Reworked the layout, added new sections.
+
 > • 08/04/17 Added install commands for nftables, screenfetch, iftop, ttyload. 
 
 **2 Before you begin**
