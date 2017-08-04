@@ -23,7 +23,7 @@ v1.0
 
 > Changes since the last version:
 
-> • 07/22/17 Initial setup.
+> * 07/22/17 Initial setup.
 
 > • 08/02/17 Reworked the layout.
 
