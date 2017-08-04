@@ -131,7 +131,7 @@ My favs for simple coding and web site development.
 
 ***• 7.1.1 GPG/PGP***
 
-**8 System monitoring**
+**8 System monitors**
 -----------------------
 
 **9 Theming**
