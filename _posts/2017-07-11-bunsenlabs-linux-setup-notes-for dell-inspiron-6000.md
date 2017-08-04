@@ -88,8 +88,6 @@ Click, install.
 
 ***• 4.5.2 Ncmpcpp***
 
-**4.6 Non-Free**
-
 **5 Development**
 -----------------
 
@@ -126,6 +124,9 @@ My favs for simple coding and web site development.
 
 ***• 6.1.1 GPG/PGP***
 
-**7 Theming**
+**7 System monitoring**
+-----------------------
+
+**8 Theming**
 -------------
 Some eye candy because not everything is just about functionality, right?
