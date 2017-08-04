@@ -52,9 +52,9 @@ Each of these options may be selected individually.
 
 BunsenLabs contains a bunch of apps you can install with a simple click in the Openbox menu. 
 
-Other apps are available from the repos & 3rd party sources. If so, the instructions will show the appropriate commands (always run as as **sudo**). 
+Other apps are available from the repos & 3rd party sources. If so, instructions will show the appropriate commands (always run as **sudo**). 
 
-Let's run thru the list.
+Let's start with the list.
 
 **4.1 Internet browsers**
 
