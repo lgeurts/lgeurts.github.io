@@ -52,7 +52,7 @@ Each of these options may be selected individually.
 
 BunsenLabs contains a bunch of apps you can install with a simple click in the Openbox menu. 
 
-Other apps are available from the repos & 3rd party sources. If so, instructions will show the appropriate commands (always run as **sudo**). 
+Other apps are available from the repos & 3rd party sources. If so, instructions will show the appropriate commands (always run them as **sudo**). 
 
 Let's start with the list.
 
@@ -80,7 +80,7 @@ LibreOffice Writer is the only software that comes preinstalled. However, the re
 
 ***Note:*** I don't like the splash screen when starting LibreOffice. To get rid of it:
 
-- $ sudo geany /etc/libreoffice/sofficerc
+- $ geany /etc/libreoffice/sofficerc
 
 Change Logo=1 to Logo=0 and exit.
 
