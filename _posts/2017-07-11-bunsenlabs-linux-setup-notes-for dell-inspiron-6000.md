@@ -145,23 +145,25 @@ My favs for simple coding and web site development.
 
 ***• 7.1.1 Nftables***
 
-$ sudo apt-get install -t jessie-backports nftables
+When running these commands, first do sudo. For example sudo apt-get install.
 
-$ sudo cp /usr/share/doc/nftables/examples/syntax/workstation /etc/nftables.conf 
+$ apt-get install -t jessie-backports nftables
 
-$ sudo sed -i 's/flush/#flush/' /etc/nftables.conf 
+$ cp /usr/share/doc/nftables/examples/syntax/workstation /etc/nftables.conf 
 
-$ sudo systemctl start nftables
+$ sed -i 's/flush/#flush/' /etc/nftables.conf 
 
-$ sudo systemctl enable nftables
+$ systemctl start nftables
 
-$ sudo nft list ruleset # check if the rules have been applied after boot
+$ systemctl enable nftables
+
+$ nft list ruleset # check if the rules have been applied after boot
 
 $ systemctl status nftables.service # check if the .service has been started 
 
 You now have a "whitelist" firewall that only accepts connections you created yourself.
 
-If you run into troubles, follow this thread: https://forums.bunsenlabs.org/viewtopic.php?id=1765.
+Problems? Follow this thread: https://forums.bunsenlabs.org/viewtopic.php?id=1765.
 
 **7.2 Mail encryption**
 
