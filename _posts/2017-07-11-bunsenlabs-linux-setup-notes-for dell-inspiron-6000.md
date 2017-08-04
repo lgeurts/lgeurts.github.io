@@ -163,7 +163,7 @@ $ systemctl status nftables.service # check if the .service has been started
 
 You now have a "whitelist" firewall that only accepts connections you created yourself.
 
-Problems? Follow this thread: https://forums.bunsenlabs.org/viewtopic.php?id=1765.
+Problems? Follow: https://forums.bunsenlabs.org/viewtopic.php?id=1765.
 
 **7.2 Mail encryption**
 
