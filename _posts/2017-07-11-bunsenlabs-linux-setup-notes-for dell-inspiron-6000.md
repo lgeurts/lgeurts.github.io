@@ -131,7 +131,7 @@ My favs for simple coding and web site development.
 
 Pathogen is a Vim package manager that makes your life easier when working with Vim: it’s how you can have your fuzzy finders, file trees, and coding tools without drowning in Vimscript. 
 
-I prefer Pathogen to some of the alternate Vim package managers because it's arguably the most popular (every Vim plugin these days supporting it) and it’s zero-config: with Pathogen, just drop Vim plugins into your ~/.vim/bundle folder, and it’s installed. From there you can configure your ~/.vimrc file to taste.
+I prefer Pathogen to some of the alternate Vim package managers because it's arguably the most popular (every plugin these days supporting it) and zero-config: with Pathogen, just drop Vim plugins into your ~/.vim/bundle folder, and it’s installed. From there you can configure your ~/.vimrc file to taste.
 
 - $ apt-get install vim-pathogen
 
