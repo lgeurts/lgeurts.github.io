@@ -123,13 +123,13 @@ My favs for simple coding and web site development.
 
 ***• 6.1.1 Vim***
 
-- *** 6.1.1.1 Bundle***
+..***6.1.1.1 Bundle***
 
-- ***6.1..1.2 Pathogen***
+..***6.1.1.2 Pathogen***
 
 Pathogen is one of the several Vim package managers that make your life easier when working with Vim: it’s how you can have all your fancy fuzzy finders, file trees, and coding tools without drowning in Vimscript. I prefer Pathogen to some of the alternate Vim package managers because it’s arguably the most popular (every Vim plugin these days supports it) and it’s zero-config: with Pathogen, just drop Vim plugins into your ~/.vim/bundle folder, and it’s installed. From there you can configure your ~/.vimrc file to taste.
 
-- ***6.1.1.3 Tmux***
+..***6.1.1.3 Tmux***
 
 ***• 6.1.2 Gvim***
 
