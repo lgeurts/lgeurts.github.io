@@ -137,7 +137,11 @@ I prefer Pathogen to some of the alternate Vim package managers because it's arg
 
 ***6.1.1.3 Tmux***
 
+- $ apt-get install tmux
+
 ***• 6.1.2 Gvim***
+
+- '''$ apt-get install gvim'''
 
 ***• 6.1.3 Sublime 3***
 
