@@ -125,9 +125,9 @@ My favs for simple coding and web site development.
 
 - $ apt-get install vim
 
- \*6.1.1.1 Bundle\*
+  \*6.1.1.1 Bundle\*
 
- \*6.1.1.2 Pathogen\*
+  \*6.1.1.2 Pathogen\*
 
 Pathogen is a Vim package manager that makes your life easier when working with Vim: it’s how you can have your fuzzy finders, file trees, and coding tools without drowning in Vimscript. 
 
@@ -135,7 +135,7 @@ I prefer Pathogen to some of the alternate Vim package managers because it's arg
 
 - $ apt-get install vim-pathogen
 
- \*6.1.1.3 Tmux\*
+  \*6.1.1.3 Tmux\*
 
 - $ apt-get install tmux
 
