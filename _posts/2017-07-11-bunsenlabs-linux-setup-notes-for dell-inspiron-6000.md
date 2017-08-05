@@ -188,12 +188,14 @@ Use this basic firewall in addition to restrictive rules on your router!
 
 ***• 7.2.1 GPG/PGP***
 
-**8 Bash System information**
------------------------------
+**8 System information**
+------------------------
 
-**8.1 Screenshot Tool**
+**8.1 Bash Scripts**
 
 ***• 8.1.1 Screenfetch***
+
+Screenfetch displays system information alongside the ASCII version of the Linux distribution Logo of the system.
 
 - $ apt-get install screenfetch
 
