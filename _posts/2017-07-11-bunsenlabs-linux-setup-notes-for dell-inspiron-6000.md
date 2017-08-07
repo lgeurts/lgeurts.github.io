@@ -29,7 +29,7 @@ v1.1
 
 > * 08/02/17 Reworked the layout.
 > * 08/04/17 Adding info for nftables, screenfetch, iftop, ttyload.
-> * 08/07/17 Adding info for Claws Mail and Mutt.
+> * 08/07/17 Adding info for Claws Mail, Mutt, Inkscape and Krita.
 
 **2 Before you begin**
 ----------------------
@@ -104,9 +104,19 @@ For a copy of my .muttrc file, see the [BunsenLabs-Setup](https://github.com/lge
 
 ***• 4.4.1 Gimp***
 
-***• 4.4.2 Viewnior***
+Obligatory. Just a click away.
 
-Click, install.
+***• 4.4.2 Inkscape***
+
+And again.
+
+***• 4.4.3 Viewnior***
+
+Optional, my preference.
+
+***Note:*** I do not use this but if you are looking for a professional open source painting program with full support for graphics tablets, check out [Krita](https://krita.org/en/).
+
+- $ apt-get install krita
 
 **4.5 Multimedia apps**
 
