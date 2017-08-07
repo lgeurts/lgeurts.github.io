@@ -28,8 +28,8 @@ Changes since the last version:
 v1.1
 
 > * 08/02/17 Reworked the layout.
->   08/04/17 Adding info for nftables, screenfetch, iftop, ttyload.
->   08/07/17 Adding info for Claws Mail and Mutt.
+> * 08/04/17 Adding info for nftables, screenfetch, iftop, ttyload.
+> * 08/07/17 Adding info for Claws Mail and Mutt.
 
 **2 Before you begin**
 ----------------------
