@@ -85,9 +85,19 @@ LibreOffice Writer is the only software that comes preinstalled. However, the re
 
 Change Logo=1 to Logo=0 and exit.
 
-***• 4.3.2 Clawsmail***
+***• 4.3.2 Claws Mail***
 
+- $ apt-get install claws-mail
+
+Claws Mail has an excellent [FAQ](http://www.claws-mail.org/faq/index.php/Main_Page) which covers virtually any questions you might have.
+ 
 ***Note:*** If you want to send and receive mail via a terminal, Mutt(-patched) is a must.
+
+- $ apt-get install mutt
+
+- $ apt-get install mutt-patched
+
+For a copy of my .muttrc file, see my [dotfiles].
 
 **4.4 Graphics**
 
