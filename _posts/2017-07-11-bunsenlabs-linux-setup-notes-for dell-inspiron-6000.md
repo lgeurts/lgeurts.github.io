@@ -96,7 +96,7 @@ Claws Mail has an excellent [FAQ](http://www.claws-mail.org/faq/index.php/Main_P
 
 - $ apt-get install mutt # the mail user agent.
 
-- $ apt-get install mutt-patched # adds sidebar, nntp support, multiple-fcc patches
+- $ apt-get install mutt-patched # adds sidebar, nntp support & multiple -fcc patches
 
 For a copy of my .muttrc file, see the [BunsenLabs-Setup](https://github.com/lgeurts/BunsenLabs-Setup) repo. For everything else, [Mutt Wiki](https://dev.mutt.org/trac/wiki/MuttGuide).
 
