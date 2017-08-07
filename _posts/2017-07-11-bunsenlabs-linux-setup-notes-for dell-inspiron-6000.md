@@ -92,7 +92,7 @@ Change Logo=1 to Logo=0 and exit.
 
 Claws Mail has an excellent [FAQ](http://www.claws-mail.org/faq/index.php/Main_Page) which covers virtually all your questions.
  
-***Note:*** If you want to send and receive mail via a terminal, **Mutt(-patched)** is a must.
+***Note:*** If you want to send and receive mail via a terminal, Mutt(-patched) is a must.
 
 - $ apt-get install mutt # the mail user agent.
 
