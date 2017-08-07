@@ -90,7 +90,7 @@ Change Logo=1 to Logo=0 and exit.
 
 - $ apt-get install claws-mail
 
-Claws Mail has an excellent [FAQ](http://www.claws-mail.org/faq/index.php/Main_Page) which covers virtually any questions you might have.
+Claws Mail has an excellent [FAQ](http://www.claws-mail.org/faq/index.php/Main_Page) which covers virtually all your questions.
  
 ***Note:*** If you want to send and receive mail via a terminal, Mutt(-patched) is a must.
 
