@@ -98,7 +98,7 @@ Claws Mail has an excellent [FAQ](http://www.claws-mail.org/faq/index.php/Main_P
 
 - $ apt-get install mutt-patched
 
-For a copy of my .muttrc file, see my [dotfiles].
+For a copy of my .muttrc file, see my [dotfiles]. For everything else go [Mutt Wiki Pages](https://dev.mutt.org/trac/wiki/MuttGuide).
 
 **4.4 Graphics**
 
