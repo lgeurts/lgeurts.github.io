@@ -114,7 +114,7 @@ And again.
 
 Optional, my preference.
 
-***Note:*** I do not use this but if you are looking for a professional open source painting program with full support for graphics tablets, check out [Krita](https://krita.org/en/).
+***Note:*** I do not use this, but if you are looking for a professional open source painting program with full support for graphics tablets, check out [Krita](https://krita.org/en/).
 
 - $ apt-get install krita
 
