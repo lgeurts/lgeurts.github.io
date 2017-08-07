@@ -94,15 +94,9 @@ Claws Mail has an excellent [FAQ](http://www.claws-mail.org/faq/index.php/Main_P
  
 ***Note:*** If you want to send and receive mail via a terminal, Mutt(-patched) is a must.
 
-- $ apt-get install mutt
+- $ apt-get install mutt # the mail user agent.
 
-* The Mail User Agent.
-
-- $ apt-get install mutt-patched # adds below patches
-
-* sidebar: list mailboxes (with new mail) in a separate column on screen
-* nntp: NNTP support for mutt
-* multiple-fcc: handle FCC with multiple, comma separated entries
+- $ apt-get install mutt-patched # adds sidebar, nntp support, multiple-fcc patches
 
 For a copy of my .muttrc file, see the [BunsenLabs-Setup](https://github.com/lgeurts/BunsenLabs-Setup) repo. For everything else, [Mutt Wiki](https://dev.mutt.org/trac/wiki/MuttGuide).
 
