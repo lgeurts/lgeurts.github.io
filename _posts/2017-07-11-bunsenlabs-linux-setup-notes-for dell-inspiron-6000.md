@@ -54,7 +54,7 @@ Each of these options may be selected individually.
 
 BunsenLabs contains a bunch of apps you can install with a simple click in the Openbox menu. 
 
-Other apps are available from the repos & 3rd party sources. If so, instructions will show the appropriate commands (always run these as **sudo**). 
+Other apps are available from the repos & 3rd party sources. If so, instructions will show the appropriate commands (always run these as non-root user with sudo privileges). 
 
 Let's start with the list.
 
@@ -128,12 +128,18 @@ Optional, my preference.
 
 ***• 4.5.4 YouTube-dl***
 
-**5 Databases**
----------------
+**5 Relational Databases**
+--------------------------
 
 ***• 5.1.1 PostgreSQL***
 
+- $ apt-get install postgresql-9.4 postgresql-client-9.4
+
+Next step, read this [How to install and use PostgreSQL 9.4 on Debian 8](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-9-4-on-debian-8) article on Digital Ocean. 
+
 ***• 5.1.2 PgAdmin***
+
+
 
 **6 Development**
 -----------------
