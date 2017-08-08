@@ -30,7 +30,7 @@ v1.1
 > * 08/02/17 Reworked the layout.
 > * 08/04/17 Adding info for nftables, screenfetch, iftop, ttyload. 
 > * 08/07/17 Adding info for Claws Mail, Mutt, Inkscape, Krita.
-> * 08/08/17 Adding info for PostgreSQL.
+> * 08/08/17 Adding info for PostgreSQL, pgAdmin, mpd, ncmpcpp, youtube-dl.
 
 **2 Before you begin**
 ----------------------
@@ -123,11 +123,21 @@ Optional, my preference.
 
 ***• 4.5.1 Mpd***
 
-***• 4.5.2 Mpc***
+- $ apt-get install mpd
 
-***• 4.5.3 Ncmpcpp***
+To configure mpd (Music Player Daemon), fork and run Ronald van Engelen's [mpd-configure](https://github.com/ronalde) script.
 
-***• 4.5.4 YouTube-dl***
+***• 4.5.2 Ncmpcpp***
+
+Probably the best ncurses mpd client (media player) on the market.
+
+[ncmpcpp screenshot](http://pre00.deviantart.net/31fd/th/pre/f/2017/128/9/0/screenshot_by_phleagol-db8ildu.png)
+
+- $ apt-get install ncmpcpp
+
+***• 4.5.3 YouTube-dl***
+
+- $ apt-get install youtube-dl
 
 **5 Relational Databases**
 --------------------------
