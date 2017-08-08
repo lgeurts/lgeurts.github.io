@@ -144,7 +144,7 @@ pgAdmin is a graphical administration tool for PostgreSQL.
 
  - $ apt-get install pgadmin3
  
-There are hexchat forums which discuss installing version 4 on Jessie but I prefer stability, not the latest bleeding edge.
+There are forums which discuss installing version 4 on Jessie but I prefer stable, not the latest bleeding edge.
 
 **6 Development**
 -----------------
