@@ -28,7 +28,7 @@ Changes since the last version:
 v1.1
 
 > * 08/02/17 Reworked the layout.
-> * 08/04/17 Adding info for nftables, screenfetch, iftop, ttyload.
+> * 08/04/17 Adding info for nftables, screenfetch, iftop, ttyload. 
 > * 08/07/17 Adding info for Claws Mail, Mutt, Inkscape, Krita.
 > * 08/08/17 Adding info for PostgreSQL.
 
@@ -136,7 +136,7 @@ Optional, my preference.
 
 - $ apt-get install postgresql-9.4 postgresql-client-9.4
 
-Next step, read this [How to install and use PostgreSQL 9.4 on Debian 8](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-9-4-on-debian-8) article on Digital Ocean. 
+Next, read the [How to install and use PostgreSQL 9.4 on Debian 8](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-9-4-on-debian-8) article on Digital Ocean. 
 
 ***• 5.1.2 pgAdmin***
 
@@ -144,7 +144,7 @@ pgAdmin is a graphical administration tool for PostgreSQL.
 
  - $ apt-get install pgadmin3
  
-There are some forums on hexchat which discuss installing version 4 on Jessie but I prefer stability, not the latest bleeding edge. So, sticking with the repo packages.
+There are some forums on hexchat which discuss installing version 4 on Jessie but I prefer stability, not the latest bleeding edge.
 
 **6 Development**
 -----------------
@@ -258,5 +258,3 @@ Some eye candy because not everything is just about functionality, right?
 **9.3 Window Manager**
 
 ***• 9.3.1 Openbox***
-
-
