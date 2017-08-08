@@ -79,7 +79,7 @@ Click and go.
 
 ***• 4.3.1 LibreOffice***
 
-LibreOffice Writer is the only software that comes preinstalled. However, the remainder of the suite is just a mouse click away.
+LibreOffice Writer is the only software that comes pre-installed. However, the remainder of the suite is just a mouse click away.
 
 ***Note:*** I don't like the splash screen when starting LibreOffice. To get rid of it:
 
@@ -115,7 +115,7 @@ And again.
 
 Optional, my preference.
 
-***Note:*** I do not use this, but if you are looking for a professional open source painting program with full support for graphics tablets, check out [Krita](https://krita.org/en/).
+***Note:*** I am not using this, but if you are looking for a professional open source painting program with full support for graphics tablets, check out [Krita](https://krita.org/en/).
 
 - $ apt-get install krita
 
@@ -136,7 +136,7 @@ Optional, my preference.
 
 - $ apt-get install postgresql-9.4 postgresql-client-9.4
 
-Next, read the [How to install and use PostgreSQL 9.4 on Debian 8](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-9-4-on-debian-8) article on Digital Ocean. 
+Next, read this [How to install and use PostgreSQL 9.4 on Debian 8](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-9-4-on-debian-8) article. 
 
 ***• 5.1.2 pgAdmin***
 
@@ -144,7 +144,7 @@ pgAdmin is a graphical administration tool for PostgreSQL.
 
  - $ apt-get install pgadmin3
  
-There are forums which discuss installing version 4 on Jessie but I prefer stable, not the latest bleeding edge.
+There are forums which discuss a version 4 install on Jessie but I prefer stable, not the latest bleeding edge.
 
 **6 Development**
 -----------------
@@ -211,7 +211,7 @@ I prefer Pathogen to some of the alternate Vim package managers because it's arg
 - $ nft list ruleset # check if rules have been applied after boot
 - $ systemctl status nftables.service # check if .service has been started 
 
-***Note:*** You now have a "whitelist" firewall that only accepts connections you created yourself. 
+***Note:*** You now have a "whitelisted" firewall that only accepts connections you created yourself. 
 Problems? [Follow this thread on the BunsenLabs forums](https://forums.bunsenlabs.org/viewtopic.php?id=1765).
 
 Use this basic firewall in addition to restrictive rules on your router!
