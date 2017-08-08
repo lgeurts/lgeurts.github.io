@@ -130,7 +130,7 @@ To configure mpd (Music Player Daemon), fork and run Ronald van Engelen's [mpd-c
 
 ***• 4.5.2 Ncmpcpp***
 
-Probably the best ncurses mpd client (media player) on the market. (A [screenshot](http://pre00.deviantart.net/31fd/th/pre/f/2017/128/9/0/screenshot_by_phleagol-db8ildu.png) to wet your appetite).
+Probably the best ncurses mpd client ([screenshot](http://pre00.deviantart.net/31fd/th/pre/f/2017/128/9/0/screenshot_by_phleagol-db8ildu.png) to wet your appetite) on the market.
 
 - $ apt-get install ncmpcpp
 
