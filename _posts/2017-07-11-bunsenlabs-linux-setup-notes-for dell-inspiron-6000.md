@@ -29,7 +29,7 @@ v1.1
 
 > * 08/02/17 Reworked the layout.
 > * 08/04/17 Adding info for nftables, screenfetch, iftop, ttyload. 
-> * 08/05/17 Adding info for Claws Mail, Mutt, Inkscape, Krita.
+> * 08/05/17 Adding info for Claws Mail, mutt, Inkscape, Krita.
 > * 08/07/17 Adding info for PostgreSQL, pgAdmin.
 > * 08/08/17 Adding info for mpd, ncmpcpp, youtube-dl.
 
