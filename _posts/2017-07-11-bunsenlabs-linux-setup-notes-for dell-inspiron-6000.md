@@ -55,7 +55,7 @@ Each of these options may be selected individually.
 
 BunsenLabs contains a bunch of apps you can install with a simple click in the Openbox menu. 
 
-Other apps are available from the repos & 3rd party sources. If so, instructions will show the appropriate commands (always run these as non-root user with sudo privileges). 
+Other apps are available from the repos & 3rd party sources. If so, instructions will show the appropriate commands (always run these as non-root user with [sudo](https://wiki.debian.org/sudo) privileges). 
 
 Let's start with the list.
 
