@@ -21,7 +21,7 @@ Here is a rundown of how I configured BunsenLabs to best serve my needs.
 
 v1.0
 
-> * 07/22/17 Initial setup.
+> * 07/11/17 Initial setup.
 
 Changes since the last version:
 
