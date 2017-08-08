@@ -235,3 +235,17 @@ Screenfetch displays system information alongside the ASCII version of the Linux
 **9 Theming your Openbox desktop**
 ----------------------------------
 Some eye candy because not everything is just about functionality, right?
+
+**9.1 Terminal Colors**
+
+***• 9.1.1 Terminator***
+
+**9.2 System Panel/Taskbar**
+
+***• 9.2.1 Tint2***
+
+**9.3 Window Manager**
+
+***• 9.3.1 Openbox***
+
+
