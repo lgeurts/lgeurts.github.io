@@ -29,8 +29,9 @@ v1.1
 
 > * 08/02/17 Reworked the layout.
 > * 08/04/17 Adding info for nftables, screenfetch, iftop, ttyload. 
-> * 08/07/17 Adding info for Claws Mail, Mutt, Inkscape, Krita.
-> * 08/08/17 Adding info for PostgreSQL, pgAdmin, mpd, ncmpcpp, youtube-dl.
+> * 08/05/17 Adding info for Claws Mail, Mutt, Inkscape, Krita.
+> * 08/07/17 Adding info for PostgreSQL, pgAdmin.
+> * 08/08/17 Adding info for mpd, ncmpcpp, youtube-dl.
 
 **2 Before you begin**
 ----------------------
@@ -129,9 +130,7 @@ To configure mpd (Music Player Daemon), fork and run Ronald van Engelen's [mpd-c
 
 ***• 4.5.2 Ncmpcpp***
 
-Probably the best ncurses mpd client (media player) on the market.
-
-[ncmpcpp screenshot](http://pre00.deviantart.net/31fd/th/pre/f/2017/128/9/0/screenshot_by_phleagol-db8ildu.png)
+Probably the best ncurses mpd client (media player) on the market. (A [screenshot](http://pre00.deviantart.net/31fd/th/pre/f/2017/128/9/0/screenshot_by_phleagol-db8ildu.png) to wet your appetite).
 
 - $ apt-get install ncmpcpp
 
