@@ -137,7 +137,11 @@ Probably the best ncurses mpd client ([screenshot](http://pre00.deviantart.net/3
 
 ***• 4.5.3 YouTube-dl***
 
-- $ apt-get install youtube-dl
+- $ sudo apt-get install curl
+
+- $ curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
+
+- $ chmod a+rx /usr/local/bin/youtube-dl
 
 **5 Relational Databases**
 --------------------------
