@@ -32,7 +32,7 @@ v1.1
 > * 08/05/17 Adding info for Claws Mail, mutt, Krita.
 > * 08/07/17 Adding info for PostgreSQL, pgAdmin.
 > * 08/08/17 Adding info for mpd, ncmpcpp, youtube-dl.
-> * 08/10/17 Adding info for Sublime 3, GnuPG.
+> * 08/10/17 Adding info for GnuPG, Sublime 3, Ruby, Jekyll.
 
 **2 Before you begin**
 ----------------------
@@ -187,6 +187,8 @@ I prefer Pathogen to some of the alternate Vim package managers because it's arg
 
 ***• 6.2.2 Ruby***
 
+- $ apt-get install ruby-full build-essential
+
 **6.3 Frameworks**
 
 ***• 6.3.1 Rails***
@@ -194,6 +196,10 @@ I prefer Pathogen to some of the alternate Vim package managers because it's arg
 **6.4 Static Web Generators**
 
 ***• 6.4.1 Jekyll***
+
+- $ gem install jekyll
+
+***Note:*** For full documentation: https://jekyllrb.com/docs/home/
 
 **6.5 Version Control Systems**
 
