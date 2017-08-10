@@ -179,7 +179,7 @@ I prefer Pathogen to some of the alternate Vim package managers because it's arg
 
 - $ dpkg -i sublime-text_build-3083_i386.deb
 
-***Note:*** [Sublime](https://www.sublimetext.com/) is a non-free source code editor wich can easily hold its ground against anything Microsoft throws on the market, for example Visual Code.
+***Note:*** [Sublime](https://www.sublimetext.com/) is a non-free source code editor which easily holds its ground against anything Microsoft throws on the market, for example Visual Code.
 
 **6.2 Programming**
 
