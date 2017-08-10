@@ -32,7 +32,7 @@ v1.1
 > * 08/05/17 Adding info for Claws Mail, mutt, Inkscape, Krita.
 > * 08/07/17 Adding info for PostgreSQL, pgAdmin.
 > * 08/08/17 Adding info for mpd, ncmpcpp, youtube-dl.
-> * 08/10/17 Adding htop.
+> * 08/10/17 Adding info for Sublime 3.
 
 **2 Before you begin**
 ----------------------
@@ -71,15 +71,9 @@ I made a choice for Firefox but you can install any browser next to it.
 
 [Privacy Badger](https://www.eff.org/privacybadger), [HTTPS Everywhere](https://www.eff.org/https-everywhere), [Self-Destructing Cookies](https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies/) & [DuckDuckGo Plus](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/).
 
-**4.2 PDF reader**
+**4.2 Office**
 
-***• 4.2.1 Evince***
-
-Click and go.
-
-**4.3 Office**
-
-***• 4.3.1 LibreOffice***
+***• 4.2.1 LibreOffice***
 
 LibreOffice Writer is the only software that comes pre-installed. However, the remainder of the suite is just a mouse click away.
 
@@ -89,7 +83,7 @@ LibreOffice Writer is the only software that comes pre-installed. However, the r
 
 Change Logo=1 to Logo=0 and exit.
 
-***• 4.3.2 Claws Mail***
+***• 4.2.2 Claws Mail***
 
 - $ apt-get install claws-mail
 
@@ -103,39 +97,39 @@ Claws Mail has an excellent [FAQ](http://www.claws-mail.org/faq/index.php/Main_P
 
 For a copy of my .muttrc file, see the [BunsenLabs-Setup](https://github.com/lgeurts/BunsenLabs-Setup) repo. For everything else, [Mutt Wiki](https://dev.mutt.org/trac/wiki/MuttGuide).
 
-**4.4 Graphics**
+**4.3 Graphics**
 
-***• 4.4.1 Gimp***
+***• 4.3.1 Gimp***
 
 Obligatory. Just a click away.
 
-***• 4.4.2 Inkscape***
+***• 4.3.2 Inkscape***
 
 And again.
 
-***• 4.4.3 Viewnior***
+***• 4.3.3 Viewnior***
 
-Optional, my preference.
+My preference, I don't like the standard BL picture viewer.
 
 ***Note:*** I am not using this, but if you are looking for a professional open source painting program with full support for graphics tablets, check out [Krita](https://krita.org/en/).
 
 - $ apt-get install krita
 
-**4.5 Multimedia apps**
+**4.4 Multimedia apps**
 
-***• 4.5.1 Mpd***
+***• 4.4.1 Mpd***
 
 - $ apt-get install mpd
 
 To configure mpd (Music Player Daemon), fork and run Ronald van Engelen's [mpd-configure](https://github.com/ronalde) script.
 
-***• 4.5.2 Ncmpcpp***
+***• 4.4.2 Ncmpcpp***
 
 Probably the best ncurses mpd client ([screenshot](http://pre00.deviantart.net/31fd/th/pre/f/2017/128/9/0/screenshot_by_phleagol-db8ildu.png) to wet your appetite) on the market.
 
 - $ apt-get install ncmpcpp
 
-***• 4.5.3 YouTube-dl***
+***• 4.4.3 YouTube-dl***
 
 - $ sudo apt-get install curl
 
@@ -181,15 +175,17 @@ I prefer Pathogen to some of the alternate Vim package managers because it's arg
 
 - $ apt-get install vim-pathogen
 
- \*6.1.1.3 Tmux\*
-
-- $ apt-get install tmux
-
 ***• 6.1.2 Gvim***
 
 - $ apt-get install gvim
 
 ***• 6.1.3 Sublime 3***
+
+- $ wget http://c758482.r82.cf2.rackcdn.com/sublime-text_build-3083_i386.deb
+
+- $ dpkg -i sublime-text_build-3083_i386.deb
+
+***Note:*** [Sublime](https://www.sublimetext.com/) is a non-free source code editor wich can hold up easy against anything Microsoft throws on the market, for example Visual Code.
 
 **6.2 Programming**
 
@@ -249,15 +245,11 @@ This app displays system information alongside the ASCII version of the Linux di
 
 **8.2 System Monitors**
 
-***• 8.2.1 htop***
-
-Already present on your system.
-
-***• 8.2.2 iftop***
+***• 8.2.1 iftop***
 
 - $ apt-get install iftop
 
-***• 8.2.3 ttyload***
+***• 8.2.2 ttyload***
 
 - $ apt-get install ttyload
 
