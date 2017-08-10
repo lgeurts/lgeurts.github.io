@@ -32,7 +32,7 @@ v1.1
 > * 08/05/17 Adding info for Claws Mail, mutt, Krita.
 > * 08/07/17 Adding info for PostgreSQL, pgAdmin.
 > * 08/08/17 Adding info for mpd, ncmpcpp, youtube-dl.
-> * 08/10/17 Adding info for Sublime 3.
+> * 08/10/17 Adding info for Sublime 3, GnuPG.
 
 **2 Before you begin**
 ----------------------
@@ -222,9 +222,9 @@ Use this basic firewall in addition to restrictive rules on your router!
 
 **7.2 Mail encryption**
 
-***• 7.2.1 GPG/PGP***
+***• 7.2.1 GnuPG/GPG***
 
-Full setup notes for creating your GnuPG private and public key on [Nixcraft](https://www.cyberciti.biz/tips/linux-how-to-create-our-own-gnupg-privatepublic-key.html).
+Full setup notes for creating your private and public key on [Nixcraft](https://www.cyberciti.biz/tips/linux-how-to-create-our-own-gnupg-privatepublic-key.html).
 
 **8 System information**
 ------------------------
