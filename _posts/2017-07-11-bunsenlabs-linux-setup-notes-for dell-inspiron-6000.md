@@ -224,6 +224,8 @@ Use this basic firewall in addition to restrictive rules on your router!
 
 ***• 7.2.1 GPG/PGP***
 
+Full setup notes for creating your GnuPG private and public key on [Nixcraft](https://www.cyberciti.biz/tips/linux-how-to-create-our-own-gnupg-privatepublic-key.html).
+
 **8 System information**
 ------------------------
 
