@@ -13,7 +13,7 @@ Learned a lot and met amazingly talented people  of which I can call some a clos
 What else? I am interested in 'too' many things, ranging from science to history, philosophy, web development with Ruby on Rails, AWS, Linux, Windows Server, ETW tracing, kendo and kenjutsu, gaming, traveling the world, speaking foreign languages, and more. 
 My hobbies can be distilled down to just one thing: LEARNING.
 
-Guess that's all. If you like this site, you can follow me on my Twitter [@lgeurts](https://twitter.com/lgeurts), or send a connection request on [LinkedIn](https://www.linkedin.com/in/lucgeurts).
+Guess that's it. If you like this site, you can follow me on my Twitter [@lgeurts](https://twitter.com/lgeurts), or send a connection request on [LinkedIn](https://www.linkedin.com/in/lucgeurts).
 
 Go n-éirí an bothar leat,
 
