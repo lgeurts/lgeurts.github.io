@@ -125,7 +125,7 @@ Probably the best free ncurses mpd client ([screenshot](http://pre00.deviantart.
 
 ***• 4.4.3 YouTube-dl***
 
-- $ apt-get install curl
+- $ apt-get install curl # command-line tool for transferring data
 
 - $ curl -L [https://yt-dl.org/downloads/latest/youtube-dl](https://yt-dl.org/downloads/latest/youtube-dl) -o /usr/local/bin/ youtube-dl
 
