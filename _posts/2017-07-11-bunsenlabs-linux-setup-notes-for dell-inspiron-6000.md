@@ -231,7 +231,7 @@ Use this basic firewall in addition to restrictive rules on your router!
 
 ***• 8.1.1 Screenfetch***
 
-This app displays system information alongside the ASCII version of the Linux distribution Logo of the system.
+Display system information alongside the ASCII version of the Linux distro logo.
 
 - $ apt-get install screenfetch
 
