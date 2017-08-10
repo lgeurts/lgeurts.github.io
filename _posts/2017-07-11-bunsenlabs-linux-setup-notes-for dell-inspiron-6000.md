@@ -29,7 +29,7 @@ v1.1
 
 > * 08/02/17 Reworked the layout.
 > * 08/04/17 Adding info for nftables, screenfetch, iftop, ttyload. 
-> * 08/05/17 Adding info for Claws Mail, mutt, Inkscape, Krita.
+> * 08/05/17 Adding info for Claws Mail, mutt, Krita.
 > * 08/07/17 Adding info for PostgreSQL, pgAdmin.
 > * 08/08/17 Adding info for mpd, ncmpcpp, youtube-dl.
 > * 08/10/17 Adding info for Sublime 3.
@@ -103,11 +103,7 @@ For a copy of my .muttrc file, see the [BunsenLabs-Setup](https://github.com/lge
 
 Obligatory. Just a click away.
 
-***• 4.3.2 Inkscape***
-
-And again.
-
-***• 4.3.3 Viewnior***
+***• 4.3.2 Viewnior***
 
 My preference, I don't like the standard BL picture viewer.
 
@@ -219,7 +215,7 @@ I prefer Pathogen to some of the alternate Vim package managers because it's arg
 - $ nft list ruleset # check if rules have been applied after boot
 - $ systemctl status nftables.service # check if .service has been started 
 
-***Note:*** You now have a "whitelisted" firewall that only accepts connections you created yourself. 
+***Note:*** You now have a "whitelist" firewall that only accepts connections you created yourself. 
 Problems? [Follow this thread on the BunsenLabs forums](https://forums.bunsenlabs.org/viewtopic.php?id=1765).
 
 Use this basic firewall in addition to restrictive rules on your router!
