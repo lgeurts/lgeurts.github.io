@@ -175,7 +175,7 @@ I prefer Pathogen to some of the alternate Vim package managers because it's arg
 
 ***• 6.1.3 Sublime 3***
 
-- $ wget http://bit.ly/2vTirOt # c758482.r82.cf2.rackcdn.com/sublime-text_build-3083_i386.deb
+- $ wget http://bit.ly/2vTirOt # //c758482.r82.cf2.rackcdn.com/sublime-text_build-3083_i386.deb
 
 - $ dpkg -i sublime-text_build-3083_i386.deb
 
