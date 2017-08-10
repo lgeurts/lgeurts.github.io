@@ -127,7 +127,7 @@ Probably the best free ncurses mpd client ([screenshot](http://pre00.deviantart.
 
 - $ apt-get install curl
 
-    - $ curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
+  - $ curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
 
 - $ chmod a+rx /usr/local/bin/youtube-dl
 
@@ -175,9 +175,9 @@ I prefer Pathogen to some of the alternate Vim package managers because it's arg
 
 ***• 6.1.3 Sublime 3***
 
-- $ wget http://c758482.r82.cf2.rackcdn.com/sublime-text_build-3083_i386.deb
+  - $ wget http://c758482.r82.cf2.rackcdn.com/sublime-text_build-3083_i386.deb
 
-- $ dpkg -i sublime-text_build-3083_i386.deb
+  - $ dpkg -i sublime-text_build-3083_i386.deb
 
 ***Note:*** [Sublime](https://www.sublimetext.com/) is a non-free source code editor wich can hold up easy against anything Microsoft throws on the market, for example Visual Code.
 
