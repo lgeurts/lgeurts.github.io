@@ -113,8 +113,6 @@ My preference, I don't like the standard BL picture viewer.
 
 ***Note:*** I am not using this, but if you are looking for a professional open source painting program with full support for graphics tablets, check out [Krita](https://krita.org/en/).
 
-- $ apt-get install krita
-
 **4.4 Multimedia apps**
 
 ***• 4.4.1 Mpd***
@@ -131,9 +129,9 @@ Probably the best ncurses mpd client ([screenshot](http://pre00.deviantart.net/3
 
 ***• 4.4.3 YouTube-dl***
 
-- $ sudo apt-get install curl
+- $ apt-get install curl
 
-- $ curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
+    - $ curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
 
 - $ chmod a+rx /usr/local/bin/youtube-dl
 
