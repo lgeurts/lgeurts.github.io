@@ -32,6 +32,7 @@ v1.1
 > * 08/05/17 Adding info for Claws Mail, mutt, Inkscape, Krita.
 > * 08/07/17 Adding info for PostgreSQL, pgAdmin.
 > * 08/08/17 Adding info for mpd, ncmpcpp, youtube-dl.
+> * 08/10/17 Adding htop.
 
 **2 Before you begin**
 ----------------------
@@ -244,11 +245,15 @@ This app displays system information alongside the ASCII version of the Linux di
 
 **8.2 System Monitors**
 
-***• 8.2.1 iftop***
+***• 8.2.1 htop***
+
+Already present on your system.
+
+***• 8.2.2 iftop***
 
 - $ apt-get install iftop
 
-***• 8.2.2 ttyload***
+***• 8.2.3 ttyload***
 
 - $ apt-get install ttyload
 
