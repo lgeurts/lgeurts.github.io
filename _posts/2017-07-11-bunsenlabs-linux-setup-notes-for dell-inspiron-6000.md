@@ -127,7 +127,7 @@ Probably the best free ncurses mpd client ([screenshot](http://pre00.deviantart.
 
 - $ apt-get install curl
 
-- $ curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin /youtube-dl
+- $ curl -L [https://yt-dl.org/downloads/latest/youtube-dl](https://yt-dl.org/downloads/latest/youtube-dl) -o /usr/local/bin /youtube-dl
 
 - $ chmod a+rx /usr/local/bin/youtube-dl
 
@@ -175,7 +175,7 @@ I prefer Pathogen to some of the alternate Vim package managers because it's arg
 
 ***• 6.1.3 Sublime 3***
 
-- $ wget http://bit.ly/2vTirOt # //c758482.r82.cf2.rackcdn.com/sublime-text_build-3083_i386.deb
+- $ wget [http://bit.ly/2vTirOt](http://bit.ly/2vTirOt) # //c758482.r82.cf2.rackcdn.com/sublime-text_build-3083_i386.deb
 
 - $ dpkg -i sublime-text_build-3083_i386.deb
 
@@ -199,7 +199,7 @@ I prefer Pathogen to some of the alternate Vim package managers because it's arg
 
 - $ gem install jekyll
 
-***Note:*** For full documentation: https://jekyllrb.com/docs/home/
+***Note:*** For full documentation: [https://jekyllrb.com/docs/home/]( https://jekyllrb.com/docs/home)
 
 **6.5 Version Control Systems**
 
