@@ -91,6 +91,8 @@ Claws Mail has an excellent [FAQ](http://www.claws-mail.org/faq/index.php/Main_P
  
 ***Note:*** If you want to send and receive mail via a terminal, Mutt (-patched) is a must.
 
+![Mutt client](/assets/mutt.png)
+
 - $ apt-get install mutt # the mail user agent.
 
 - $ apt-get install mutt-patched # adds sidebar, nntp support, multiple-fcc patches
