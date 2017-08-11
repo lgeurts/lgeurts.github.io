@@ -67,6 +67,8 @@ Let's start with the list.
 
 I made a choice for Firefox but you can install any browser next to it.
 
+![Firefox Web Browser](/assets/firefox.png)
+
 ***Note:*** The plugins I'm presently using.
 
 [Privacy Badger](https://www.eff.org/privacybadger), [HTTPS Everywhere](https://www.eff.org/https-everywhere), [Self-Destructing Cookies](https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies/) & [DuckDuckGo Plus](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/).
