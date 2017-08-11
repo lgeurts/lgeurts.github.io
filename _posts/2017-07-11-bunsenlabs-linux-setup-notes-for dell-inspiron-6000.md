@@ -97,7 +97,7 @@ Claws Mail has an excellent [FAQ](http://www.claws-mail.org/faq/index.php/Main_P
 
 - $ apt-get install mutt-patched # adds sidebar, nntp support, multiple-fcc patches
 
-For a copy of my mutt dotfiles, see the [BunsenLabs-Setup](https://github.com/lgeurts/BunsenLabs-Setup) repo. For everything else, [Mutt Wiki](https://dev.mutt.org/trac/wiki/MuttGuide).
+For a copy of my mutt dotfiles, see the [BunsenLabs-Setup](https://github.com/lgeurts/BunsenLabs-Setup/.mutt) repo. For everything else, [Mutt Wiki](https://dev.mutt.org/trac/wiki/MuttGuide).
 
 **4.3 Graphics**
 
@@ -234,7 +234,7 @@ Use this basic firewall in addition to restrictive rules on your router!
 
 ***• 7.2.1 GnuPG/GPG***
 
-Full setup notes for creating your private and public key on [Nixcraft](https://www.cyberciti.biz/tips/linux-how-to-create-our-own-gnupg-privatepublic-key.html). Mutt + GnuPG? Again, see my [mutt dotfiles]().
+Full setup notes for creating your private and public key on [Nixcraft](https://www.cyberciti.biz/tips/linux-how-to-create-our-own-gnupg-privatepublic-key.html). Mutt + GnuPG? Again, see my [mutt dotfiles](https://github.com/lgeurts/BunsenLabs-Setup/.mutt).
 
 **8 System information**
 ------------------------
