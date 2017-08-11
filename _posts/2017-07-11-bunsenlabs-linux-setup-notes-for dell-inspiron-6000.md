@@ -275,6 +275,8 @@ Some eye candy because not everything is just about functionality, right?
 
 ***• 9.3.1 Openbox***
 
+Fonts, icons, customize rc.xml.
+
 **9.4 Internet Browser**
 
 ***•9.4.1 Firefox*** 
