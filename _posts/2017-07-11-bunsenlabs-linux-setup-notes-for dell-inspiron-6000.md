@@ -67,8 +67,6 @@ Let's start with the list.
 
 I made a choice for Firefox but you can install any browser next to it.
 
-![Firefox Web Browser](/assets/firefox.png)
-
 ***Note:*** The plugins I'm presently using.
 
 [Privacy Badger](https://www.eff.org/privacybadger), [HTTPS Everywhere](https://www.eff.org/https-everywhere), [Self-Destructing Cookies](https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies/) & [DuckDuckGo Plus](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/).
@@ -276,3 +274,9 @@ Some eye candy because not everything is just about functionality, right?
 **9.3 Window Manager**
 
 ***• 9.3.1 Openbox***
+
+**9.4 Internet Browser**
+
+***•9.4.1 Firefox*** 
+
+![Firefox Web Browser](/assets/firefox.png)
