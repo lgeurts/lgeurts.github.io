@@ -50,7 +50,7 @@ When the updating is done the script will run a set of options for attaching the
 
 Each of these options may be selected individually.
 
-![BunsenLabs Welcome](/assets/bunsenlabs-welcome.png)
+![BunsenLabs Welcome](/assets/bl-welcome.png)
 
 **4 Productivity**
 ------------------
@@ -170,6 +170,8 @@ I prefer Pathogen to some of the alternate Vim package managers because it's arg
 - $ apt-get install vim-pathogen
 
 ***• 6.1.2 Gvim***
+
+![Gvim Editor](/assets/gvim.png)
 
 - $ apt-get install gvim
 
