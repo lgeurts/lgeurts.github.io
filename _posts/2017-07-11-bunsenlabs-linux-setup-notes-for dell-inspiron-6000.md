@@ -255,6 +255,8 @@ Displays system information and ASCII version of the Linux distro logo.
 
 ***• 8.2.2 ttyload***
 
+![ttyload](/assets/ttyload.png)
+
 - $ apt-get install ttyload
 
 **9 Theming your Openbox desktop**
