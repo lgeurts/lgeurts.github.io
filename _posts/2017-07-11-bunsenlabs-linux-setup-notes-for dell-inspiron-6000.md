@@ -236,6 +236,8 @@ Use this basic firewall in addition to restrictive rules on your router!
 
 Full setup notes for creating your private and public key on [Nixcraft](https://www.cyberciti.biz/tips/linux-how-to-create-our-own-gnupg-privatepublic-key.html).
 
+Mutt client and GnuPG? Again, see my [mutt dotfiles]().
+
 **8 System information**
 ------------------------
 
