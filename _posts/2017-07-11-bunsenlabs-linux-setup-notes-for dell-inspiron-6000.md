@@ -93,7 +93,7 @@ Claws Mail has an excellent [FAQ](http://www.claws-mail.org/faq/index.php/Main_P
 
 ![Mutt client](/assets/mutt.png)
 
-- $ apt-get install mutt # the mail user agent.
+- $ apt-get install mutt # the mail user agent
 
 - $ apt-get install mutt-patched # adds sidebar, nntp support, multiple-fcc patches
 
