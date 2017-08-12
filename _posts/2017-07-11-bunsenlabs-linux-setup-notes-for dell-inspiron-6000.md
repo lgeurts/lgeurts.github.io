@@ -171,7 +171,7 @@ To do this, create a .vim repository with a vimrc file:
 - $ touch vimrc
 - $ git init .
 
-Go back to the home directory and [symlink](https://wiki.debian.org/SymLink) the vimrc file. This way we will use our vimrc file normally while still getting all the advantages of versioning with Git.
+Go back to home and [symlink](https://wiki.debian.org/SymLink) the vimrc file. This way we will use it normally while still getting all the advantages of versioning with Git.
 
 - $ ln -s ~/.vim/vimrc ~/.vimrc
 
@@ -179,7 +179,7 @@ Next step is theming our vim:
 
 - $ mkdir ~/.vim/colors
 
-Donwload the [Solarized](http://ethanschoonover.com/solarized) & [Tomorrow Night](https://github.com/chriskempson/tomorrow-theme) themes and copy the vim files to the previously created colors folder. Once this is done, edit the .vimrc file and add these lines to let Vim know that we want syntax highlighting based on file names:
+Donwload the [Solarized](http://ethanschoonover.com/solarized) & [Tomorrow Night](https://github.com/chriskempson/tomorrow-theme) themes and copy the vim files to  the previously created colors folder. Once this is done, edit the .vimrc file and add these lines to let Vim know that we want syntax highlighting based on file names:
 
 - *filetype on*
 - *syntax on*
@@ -187,7 +187,7 @@ Donwload the [Solarized](http://ethanschoonover.com/solarized) & [Tomorrow Night
 
 Almost there, getting to the fonts:
 
-Download the Menlo fronts from my [BunsenLabs-Setup](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.fonts) repo and add this line to .vimrc:
+Download the [Menlo](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.fonts) fonts and add this line to .vimrc:
 
 - *set guifont=Menlo\ Regular:h18*
 
@@ -203,7 +203,7 @@ Customizing time. Let’s start to improve how it actually functions:
 
 
 
-**Note:** For the lazy ones, or if you did this hundreds of times (which I doubt ;)), you can copy my [vim](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim) files.  
+**Note:** For the lazy ones, or if you did this hundreds of times ;), you can copy my [vim](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim) files.  
 
  \*6.1.1.1 Bundle\*
 
