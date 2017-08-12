@@ -184,7 +184,7 @@ Copy my [theme git files](https://github.com/lgeurts/BunsenLabs-Setup/tree/maste
 
 - *filetype on*
 - *syntax on*
-- *colorscheme Tomorrow-Night* # love this theme
+- *colorscheme Tomorrow-Night # love this theme*
 
 Almost there, getting to the fonts:
 
