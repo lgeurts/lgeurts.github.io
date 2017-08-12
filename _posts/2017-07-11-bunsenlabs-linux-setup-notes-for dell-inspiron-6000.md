@@ -33,6 +33,7 @@ v1.1
 > * 08/07/17 Adding info for PostgreSQL, pgAdmin.
 > * 08/08/17 Adding info for mpd, ncmpcpp, youtube-dl.
 > * 08/10/17 Adding info for GnuPG, Sublime 3, Ruby, Jekyll.
+> * 08/13/17 Adding info for vim, Gvim.
 
 **2 Before you begin**
 ----------------------
@@ -194,13 +195,10 @@ Download the [Menlo](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.fo
 While we are busy also add these lines:
 
 - *set lines=35 columns=150 # to open with a given size*
-
 - *set colorcolumn=90 # adds column, prevents going to far to the right*
-
 - *set number # adds line numbering*
 
 Customizing time. Let’s start to improve how it actually functions:
-
 
 
 **Note:** For the lazy ones, you could copy my [vim](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim) files.  
