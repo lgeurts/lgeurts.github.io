@@ -190,7 +190,7 @@ Almost there, getting to the fonts:
 
 Download the [Menlo](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.fonts) fonts and add this line to .vimrc:
 
-- *set guifont=Menlo\ Regular:h17*
+- *set guifont=Menlo\ Regular:h17 # change size to your liking*
 
 While we are busy also add these lines:
 
