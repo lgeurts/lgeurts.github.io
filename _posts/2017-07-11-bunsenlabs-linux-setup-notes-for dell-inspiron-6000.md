@@ -161,7 +161,7 @@ My favs for simple coding and web site development.
 
 - $ apt-get install vim
 
-That's done. Now, we will vesrion our configuration to share across machines while keeping track of any changes made.
+That's done. Now, we will version our configuration to share across machines while keeping track of any changes made.
 
 To do this, create a .vim repository with a vimrc file:
 
@@ -171,7 +171,7 @@ To do this, create a .vim repository with a vimrc file:
 - $ touch vimrc
 - $ git init .
 
-Go back to the home directory and [symlink](https://wiki.debian.org/SymLink) the vimrc file. This way we can use our vimrc file normally while still getting all the advantages of versioning with Git.
+Go back to the home directory and [symlink](https://wiki.debian.org/SymLink) the vimrc file. This way we will use our vimrc file normally while still getting all the advantages of versioning with Git.
 
 - $ ln -s ~/.vim/vimrc ~/.vimrc
 
@@ -179,7 +179,7 @@ Next step is theming our vim:
 
 - $ mkdir ~/.vim/colors
 
-Donwload the [Solarized](http://ethanschoonover.com/solarized) & [Tomorrow Night](https://github.com/chriskempson/tomorrow-theme) themes and copy the vim files the previously created colors folder. Once this is done, edit the .vimrc file and add these lines to let Vim know that we want syntax highlighting based on file names:
+Donwload the [Solarized](http://ethanschoonover.com/solarized) & [Tomorrow Night](https://github.com/chriskempson/tomorrow-theme) themes and copy the vim files to the previously created colors folder. Once this is done, edit the .vimrc file and add these lines to let Vim know that we want syntax highlighting based on file names:
 
 - *filetype on*
 - *syntax on*
