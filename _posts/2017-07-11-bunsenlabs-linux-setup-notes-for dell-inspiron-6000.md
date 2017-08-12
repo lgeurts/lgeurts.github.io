@@ -180,7 +180,7 @@ Next step is theming our vim:
 
 - $ mkdir ~/.vim/colors
 
-Copy my [theme git files](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim/colors) to the new colors folder. Edit the .vimrc file and add these lines to let vim know that we want syntax highlighting based on file names:
+Copy my [theme git files](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim/colors) to the colors folder. Edit the .vimrc file and add these lines to let vim know that we want syntax highlighting based on file names:
 
 - *filetype on*
 - *syntax on*
