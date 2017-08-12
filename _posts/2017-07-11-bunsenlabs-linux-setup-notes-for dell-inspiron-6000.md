@@ -171,7 +171,7 @@ To do this, create a .vim repository with a vimrc file:
 - $ touch vimrc
 - $ git init .
 
-Going back to the home directory and [symlinking](https://wiki.debian.org/SymLink) the vimrc file. This way we can use our vimrc file normally while still getting all the advantages of versioning with Git.
+Go back to the home directory and [symlink](https://wiki.debian.org/SymLink) the vimrc file. This way we can use our vimrc file normally while still getting all the advantages of versioning with Git.
 
 - $ ln -s ~/.vim/vimrc ~/.vimrc
 
@@ -179,25 +179,25 @@ Next step is theming our vim:
 
 - $ mkdir ~/.vim/colors
 
-Donwload the [Solarized](http://ethanschoonover.com/solarized) and [Tomorrow Night](https://github.com/chriskempson/tomorrow-theme) themes and copy the theme vim files to the colors folder. Once this is done, edit the .vimrc file and add these lines to let Vim know that we want syntax highlighting based on file names:
+Donwload the [Solarized](http://ethanschoonover.com/solarized) & [Tomorrow Night](https://github.com/chriskempson/tomorrow-theme) themes and copy the vim files the previously created colors folder. Once this is done, edit the .vimrc file and add these lines to let Vim know that we want syntax highlighting based on file names:
 
-filetype on
-syntax on
-colorscheme Tomorrow-Night
+- *filetype on*
+- *syntax on*
+- *colorscheme Tomorrow-Night*
 
 Almost there, getting to the fonts:
 
 Download the Menlo fronts from my [BunsenLabs-Setup](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.fonts) repo and add this line to .vimrc:
 
-set guifont=Menlo\ Regular:h18
+- *set guifont=Menlo\ Regular:h18*
 
 While we are busy also add these lines:
 
-set lines=35 columns=150 # to open with a given size
+- *set lines=35 columns=150 # to open with a given size*
 
-set colorcolumn=90 # adds a colored column at 90 to avoid going to far to the right
+- *set colorcolumn=90 # adds colored column, prevents going to far to the right*
 
-set number # adds line numbering
+- *set number # adds line numbering*
 
 Customizing time. Let’s start to improve how it actually functions:
 
