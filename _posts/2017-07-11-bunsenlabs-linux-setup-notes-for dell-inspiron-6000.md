@@ -180,7 +180,7 @@ Next step is theming our vim:
 
 - $ mkdir ~/.vim/colors
 
-Download the [Solarized](http://ethanschoonover.com/solarized) & [Tomorrow Night](https://github.com/chriskempson/tomorrow-theme) themes and copy the vim files to   the previously created colors folder. Once this is done, edit the .vimrc file and add these lines to let Vim know that we want syntax highlighting based on file names:
+Download the [Solarized](http://ethanschoonover.com/solarized) & [Tomorrow Night](https://github.com/chriskempson/tomorrow-theme) themes and copy the vim files to    the previously created colors folder. Once this is done, edit the .vimrc file and add these lines to let Vim know that we want syntax highlighting based on file names:
 
 - *filetype on*
 - *syntax on*
@@ -201,7 +201,7 @@ While we are busy also add these lines:
 Customizing time. Let’s start to improve how it actually functions:
 
 
-**Note:** For the lazy ones, you could copy my [vim](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim) files.  
+**Note:** Getting tired of reading? You could copy my [vim](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim) files.  
 
  \*6.1.1.1 Bundle\*
 
