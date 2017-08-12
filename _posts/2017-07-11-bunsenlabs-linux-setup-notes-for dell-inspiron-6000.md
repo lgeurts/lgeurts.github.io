@@ -286,5 +286,3 @@ Fonts, icons, customize rc.xml.
 ![Firefox Web Browser](/assets/firefox.png)
 
 **YOU ARE DONE**
-
-![BunsenLabs Deuterium, finished desktop](/assets/bunsenlabs-deuterium2.jpg)
