@@ -176,21 +176,21 @@ Go back to home and [symlink](https://wiki.debian.org/SymLink) the vimrc file. T
 
 - $ ln -s ~/.vim/vimrc ~/.vimrc
 
-Next step is theming our vim:
+Next step is theming our vim: 
 
 - $ mkdir ~/.vim/colors
 
-Download the [Solarized](http://ethanschoonover.com/solarized) & [Tomorrow Night](https://github.com/chriskempson/tomorrow-theme) themes and copy the vim files to    the previously created colors folder. Once this is done, edit the .vimrc file and add these lines to let Vim know that we want syntax highlighting based on file names:
+Copy my [theme git files](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim/colors} to the new colors folder. Once done, edit the .vimrc file and add these lines to let vim know that we want syntax highlighting based on file names:
 
 - *filetype on*
 - *syntax on*
-- *colorscheme Tomorrow-Night*
+- *colorscheme Tomorrow-Night* # love this theme
 
 Almost there, getting to the fonts:
 
 Download the [Menlo](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.fonts) fonts and add this line to .vimrc:
 
-- *set guifont=Menlo\ Regular:h18*
+- *set guifont=Menlo\ Regular:h17*
 
 While we are busy also add these lines:
 
