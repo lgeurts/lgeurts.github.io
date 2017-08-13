@@ -186,9 +186,7 @@ Copy my [theme git files](https://github.com/lgeurts/BunsenLabs-Setup/tree/maste
 - *syntax on*
 - *colorscheme Tomorrow-Night # love this theme*
 
-Let's add some nice fonts:
-
-Download the [Menlo](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.fonts) fonts and add this line to .vimrc:
+Let's add the [Menlo](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.fonts) fonts and add this line:
 
 - *set guifont=Menlo\ Regular:h17 # change size to your liking*
 
@@ -199,7 +197,6 @@ While we are busy also add these lines:
 - *set number # adds line numbering*
 
 Customizing time. Let’s start to improve how it actually functions:
-
 
 **Note:** Getting tired of reading? You could copy my [vim](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim) files.  
 
