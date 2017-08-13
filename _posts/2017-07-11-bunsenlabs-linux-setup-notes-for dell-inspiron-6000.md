@@ -108,7 +108,7 @@ Obligatory. Just a click away.
 
 ***• 4.3.2 Viewnior***
 
-My preference, I don't like the standard BL picture viewer.
+I don't like the standard BL picture viewer.
 
 ***Note:*** I am not using this, but if you are looking for a professional open source painting program with full support for graphics tablets, check out [Krita](https://krita.org/en/).
 
@@ -186,7 +186,7 @@ Copy my [theme git files](https://github.com/lgeurts/BunsenLabs-Setup/tree/maste
 - *syntax on*
 - *colorscheme Tomorrow-Night # love this theme*
 
-Almost there, getting to the fonts:
+Let's add some nice fonts:
 
 Download the [Menlo](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.fonts) fonts and add this line to .vimrc:
 
