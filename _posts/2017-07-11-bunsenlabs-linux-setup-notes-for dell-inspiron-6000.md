@@ -204,7 +204,7 @@ Pathogen is a vim package manager that makes your life easier when working with 
 I prefer Pathogen to some of the alternate vim package managers because it's arguably the most popular (every plugin these days supporting it) and it's zero -config: just drop a vim plugin into the ~/.vim/bundle folder, and it’s installed. From there you can configure the ~/.vimrc file to your taste.
 
 - $ mkdir -p ~/.vim/autoload ~/.vim/bundle && \
-- $ curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
+- $ curl -LSso ~/.vim/autoload/pathogen.vim [https://tpo.pe/pathogen.vim](https://tpo.pe/pathogen.vim)
 
 Add this line to the top of your .vimrc:
 
@@ -219,26 +219,26 @@ For every plugin you need to run:
 - $ cd ~/.vim
 - $ git submodule add git@source/pluginname.git bundle/pluginname
 
-For instance if you want to add *[vim-ruby](https://github.com/vim-ruby/vim-ruby)*, you’ll do:
+For instance if you want to add [vim-ruby](https://github.com/vim-ruby/vim-ruby), you’ll do:
 
 - $ git submodule add git@github.com:vim-ruby/vim-ruby.git bundle/vim-ruby
 
 Read [this file](assets/vim-plugin-settings) for activating plugin specific settings in .vimrc.
 
-[Command-T](https://github.com/wincent/command-t/), [NerdCommenter](https://github.com/scrooloose/nerdcommenter), [NerdTree](https://github.com/scrooloose/nerdtree), [Lightline](https://github.com/itchyny/lightline.vim), [Supertab](https://github.com/ervandew/supertab), [Fugitive](https://github.com/tpope/vim-fugitive), [Git Gutter](https://github.com/airblade/vim-gitgutter),
-[Vim Multiple Cursors](https://github.com/terryma/vim-multiple-cursors/)
-
-Name         | Link
------------- | --------
-Bundler.vim  | https://github.com/tpope/vim-bundler
-
-[Bundler.vim](https://github.com/tpope/vim-bundler)
-
-[Endwise](https://github.com/tpope/vim-endwise)
-
-[Vim-Rails](https://github.com/tpope/vim-rails/)
-
-[Vim-Ruby](https://github.com/vim-ruby)
+Name          | Link
+------------- | --------
+Command-T     | https://github.com/wincent/command-t/
+NerdCommenter | https://github.com/scrooloose/nerdcommenter
+NerdTree      | https://github.com/scrooloose/nerdtree
+Lightline     | https://github.com/itchyny/lightline.vim
+Supertab      | https://github.com/ervandew/supertab
+Fugitive      | https://github.com/tpope/vim-fugitive
+Git Gutter    | https://github.com/airblade/vim-gitgutter
+Vim Multiple Cursors | https://github.com/terryma/vim-multiple-cursors/
+Bundler.vim   | https://github.com/tpope/vim-bundler
+Endwise       | https://github.com/tpope/vim-endwise
+Vim-Rails     | https://github.com/tpope/vim-rails/
+Vim-Ruby      | https://github.com/vim-ruby 
 
 ***• 6.1.2 Gvim***
 
