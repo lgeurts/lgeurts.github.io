@@ -201,11 +201,11 @@ Customizing time! Keep .vimrc open and let’s improve how vim functions:
 
 A leader key is vim’s way to reduce conflicts in configuration. Default it’s a backslash, I like space.
 
-> let mapleader=" " 
+> * let mapleader=" " 
 
 I hate restarting the editor to see the applied changes:
 
-> map <leader>s :source ~/.vimrc<CR> # s + enter runs :source ~/.vimrc
+> * map <leader>s :source ~/.vimrc<CR> # s + enter runs :source ~/.vimrc
 
 Saving previous entries in memory to speed things up:
 
@@ -260,7 +260,7 @@ I prefer Pathogen to some of the alternate vim package managers because it's arg
 
 Add this line to the top of your .vimrc:
 
-> execute pathogen#infect()
+> * execute pathogen#infect()
 
 \*6.1.1.2 Vim plugins\*
 
@@ -275,21 +275,28 @@ For instance if you want to add *[vim-ruby](https://github.com/vim-ruby/vim-ruby
 
 - $ git submodule add git@github.com:vim-ruby/vim-ruby.git bundle/vim-ruby
 
-Cycling thru the plugins I commonly use, keep your .vimrc opened.
+Cycling thru the plugins, keep your .vimrc open for editing.
 
 [Command-T](https://github.com/wincent/command-t/)
-> * noremap <Leader>r :CommandTFlush<CR> # to reindex new files
+Reindex new files:
+> * noremap <Leader>r :CommandTFlush<CR>
 
 [NerdCommenter](https://github.com/scrooloose/nerdcommenter)
 
 [NerdTree](https://github.com/scrooloose/nerdtree)
-> * let NERDTreeMapActivateNode='<right>' # open a node with right arrow
-> * let NERDTreeShowHidden=1 # show hidden files
-> * nmap <leader>n :NERDTreeToggle<CR> # toggle tree display
-> * nmap <leader>j :NERDTreeFind<CR> # locate focused file in tree
-> * autocmd VimEnter * NERDTree # always open tree when booting vim
-> * autocmd VimEnter * wincmd p # always open tree when booting vim
-> * let NERDTreeIgnore=['\.DS_Store', '\~$', '\.swp'] # hide useless files
+Open a node using the right arrow:
+> * let NERDTreeMapActivateNode='<right>'
+Show hidden files:
+> * let NERDTreeShowHidden=1
+Toggle the tree display:
+> * nmap <leader>n :NERDTreeToggle<CR>
+Locate focused file in the tree:
+> * nmap <leader>j :NERDTreeFind<CR>
+Always open tree when booting vim:
+> * autocmd VimEnter * NERDTree
+> * autocmd VimEnter * wincmd p
+Hide useless files:
+> * let NERDTreeIgnore=['\.DS_Store', '\~$', '\.swp']
 
 [Lightline](https://github.com/itchyny/lightline.vim)
 
@@ -298,7 +305,8 @@ Cycling thru the plugins I commonly use, keep your .vimrc opened.
 [Fugitive](https://github.com/tpope/vim-fugitive)
 
 [Git Gutter](https://github.com/airblade/vim-gitgutter)
-> * let g:gitgutter_sign_column_always=1 # always display gutter
+Always display gutter:
+> * let g:gitgutter_sign_column_always=1
 
 [Vim Multiple Cursors](https://github.com/terryma/vim-multiple-cursors/)
 
