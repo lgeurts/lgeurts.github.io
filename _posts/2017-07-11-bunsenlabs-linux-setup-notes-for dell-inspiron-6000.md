@@ -228,6 +228,30 @@ I prefer Pathogen to some of the alternate Vim package managers because it's arg
 
 ***• 6.2.1 Python***
 
+- $ apt-get install python
+
+When the installation is done we will with pip, a a package management tool used to install and manage programs written in Python.
+
+- $ apt-get update
+
+- $ apt-get install python-dev build-essential 
+
+![Python update](/assets/python.png)
+
+Now we can install Pip using the following command:
+
+- $ apt-get install python-pip
+
+![Pip](/assets/pip.png)
+
+The pip version included on Debian apt-get can be outdated. Let's check if we can upgrade:
+
+- $ pip install --upgrade pip
+
+Ready. Now we can get packages using pip:
+
+- $ pip install <package>
+
 ***• 6.2.2 Ruby***
 
 - $ apt-get install ruby-full build-essential
