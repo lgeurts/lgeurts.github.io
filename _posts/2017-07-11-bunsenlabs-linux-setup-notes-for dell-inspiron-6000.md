@@ -212,7 +212,7 @@ Add this line to the top of your .vimrc:
 
 \*6.1.1.2 Vim plugins\*
 
-All plugins are on Git. Makes updating to latest version just pulling master.
+All plugins are on Git. Makes updating to latest version just pulling a master.
 
 For every plugin you need to run:
 
