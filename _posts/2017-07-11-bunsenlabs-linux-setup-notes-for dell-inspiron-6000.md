@@ -212,7 +212,7 @@ I hate restarting the editor to see the applied changes:
 Saving previous entries in memory to speed things up:
 
 > set hidden
-> set history=100
+> set history=100 # find this the best
 
 Set indenting:
 
@@ -279,10 +279,12 @@ For instance if you want to add *[vim-ruby](https://github.com/vim-ruby/vim-ruby
 
 Cycling thru the plugins I commonly use, keep your .vimrc opened.
 
-1. [Command-T](https://github.com/wincent/command-t/)
+[Command-T](https://github.com/wincent/command-t/)
 > noremap <Leader>r :CommandTFlush<CR> # to reindex new files
-2. [NerdCommenter](https://github.com/scrooloose/nerdcommenter)
-3. [NerdTree](https://github.com/scrooloose/nerdtree)
+
+[NerdCommenter](https://github.com/scrooloose/nerdcommenter)
+
+[NerdTree](https://github.com/scrooloose/nerdtree)
 > let NERDTreeMapActivateNode='<right>' # open a node with right arrow
 > let NERDTreeShowHidden=1 # show hidden files
 > nmap <leader>n :NERDTreeToggle<CR> # toggle tree display
@@ -290,16 +292,25 @@ Cycling thru the plugins I commonly use, keep your .vimrc opened.
 > autocmd VimEnter * NERDTree # always open tree when booting vim
 > autocmd VimEnter * wincmd p # always open tree when booting vim
 > let NERDTreeIgnore=['\.DS_Store', '\~$', '\.swp'] # hide useless files
-4. [Lightline](https://github.com/itchyny/lightline.vim)
-5. [Supertab](https://github.com/ervandew/supertab)
-6. [Fugitive](https://github.com/tpope/vim-fugitive)
-7. [Git Gutter](https://github.com/airblade/vim-gitgutter)
+
+[Lightline](https://github.com/itchyny/lightline.vim)
+
+[Supertab](https://github.com/ervandew/supertab)
+
+[Fugitive](https://github.com/tpope/vim-fugitive)
+
+[Git Gutter](https://github.com/airblade/vim-gitgutter)
 > let g:gitgutter_sign_column_always=1 # always display gutter
-8. [Vim multiple cursors](https://github.com/terryma/vim-multiple-cursors/)
-9. [Bundler.vim](https://github.com/tpope/vim-bundler)
-10. [Endwise](https://github.com/tpope/vim-endwise)
-11. [Vim-Rails](https://github.com/tpope/vim-rails/)
-12. [Vim-Ruby](https://github.com/vim-ruby)
+
+[Vim multiple cursors](https://github.com/terryma/vim-multiple-cursors/)
+
+[Bundler.vim](https://github.com/tpope/vim-bundler)
+
+[Endwise](https://github.com/tpope/vim-endwise)
+
+[Vim-Rails](https://github.com/tpope/vim-rails/)
+
+[Vim-Ruby](https://github.com/vim-ruby)
 
 ***• 6.1.2 Gvim***
 
