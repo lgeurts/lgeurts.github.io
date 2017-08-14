@@ -27,7 +27,7 @@ Changes since the last version:
 v1.1
 > * 08/02/17 Reworked the layout.
 > * 08/04/17 Adding info for nftables, screenfetch, iftop, ttyload. 
-> * 08/05/17 Adding info for Claws Mail, mutt, Krita.
+> * 08/05/17 Adding info for LibreOffice, Claws Mail, mutt, Krita.
 > * 08/07/17 Adding info for PostgreSQL, pgAdmin.
 > * 08/08/17 Adding info for mpd, ncmpcpp, youtube-dl.
 > * 08/10/17 Adding info for GnuPG, Sublime 3, Ruby, Jekyll.
