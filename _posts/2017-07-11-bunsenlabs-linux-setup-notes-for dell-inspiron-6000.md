@@ -192,62 +192,10 @@ Now let's download the [Menlo](https://github.com/lgeurts/BunsenLabs-Setup/tree/
 While we are busy also add these lines:
 
 > * set lines=35 columns=150 # to open with a given size
-> * set colorcolumn=90 # adds column, prevents going to far to the right
+> * set colorcolumn=90 # prevents going to far to the right
 > * set number # adds line numbering
 
-Customizing time! Keep .vimrc open and let’s improve how vim functions:
-
-**Note:** Getting tired of reading? You could copy my [vim](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim) files.  
-
-A leader key is vim’s way to reduce conflicts in configuration. Default it’s a backslash, I like space.
-
-> * let mapleader=" " 
-
-I hate restarting the editor to see the applied changes:
-
-> * map <leader>s :source ~/.vimrc<CR> # s + enter runs :source ~/.vimrc
-
-Saving previous entries in memory to speed things up:
-
-> * set hidden
-> * set history=100 # find this the best
-
-Set indenting:
-
-> * filetype indent on
-> * set nowrap
-> * set tabstop=2 # set to 2 because of ruby
-> * set shiftwidth=2 # set to 2 because of ruby
-> * set expandtab
-> * set smartindent
-> * set autoindent
-
-Remove whitespaces on save:
-
-> * autocmd BufWritePre * :%s/\s\+$//e
-
-Let vim hightlight results when doing a search:
-
-> * set hlsearc
-
-Set a key to cancel search:
-
-> * nnoremap <silent> <Esc> :nohlsearch<Bar>:echo<CR> # escape cancels search
-
-Change default vim mapping to using arrows:
-
-> * map <D-A-RIGHT> <C-w>l
-> * map <D-A-LEFT> <C-w>h
-> * map <D-A-DOWN> <C-w><C-w>
-> * map <D-A-UP> <C-w>W
-
-Quickly reload previously opened file:
-
-> * nnoremap <Leader><Leader> :e#<CR> # press leader twice
-
-Hightlight matching when selecting a parenthesis:
-
-> * set showmatch
+Customizing time! I intend to keep this post short and therefore you can download my list with additional settings [here](/assets/vim-custom-settings.txt). Update .vimrc as you see fit.
 
  \*6.1.1.1 Pathogen\*
 
@@ -264,7 +212,7 @@ Add this line to the top of your .vimrc:
 
 \*6.1.1.2 Vim plugins\*
 
-All the following vim plugins are available on Git. Makes updating to the latest version as easy as pulling master.
+All plugins are available on Git. Makes updating to the latest version as easy as pulling master.
 
 For every plugin you need to run:
 
@@ -275,47 +223,14 @@ For instance if you want to add *[vim-ruby](https://github.com/vim-ruby/vim-ruby
 
 - $ git submodule add git@github.com:vim-ruby/vim-ruby.git bundle/vim-ruby
 
-Cycling thru the plugins, keep your .vimrc open for editing.
+Read [this file](assets/vim-plugin-settings) for activating plugin specific settings in .vimrc.
 
-[Command-T](https://github.com/wincent/command-t/)
-
-Reindex new files:
-> * noremap <Leader>r :CommandTFlush<CR>
-
-[NerdCommenter](https://github.com/scrooloose/nerdcommenter)
-
-[NerdTree](https://github.com/scrooloose/nerdtree)
-
-Open a node using the right arrow:
-> * let NERDTreeMapActivateNode='<right>'
-
-Show hidden files:
-> * let NERDTreeShowHidden=1
-
-Toggle the tree display:
-> * nmap <leader>n :NERDTreeToggle<CR>
-
-Locate focused file in the tree:
-> * nmap <leader>j :NERDTreeFind<CR>
-
-Always open tree when booting vim:
-> * autocmd VimEnter * NERDTree
-> * autocmd VimEnter * wincmd p
-
-Hide useless files:
-> * let NERDTreeIgnore=['\.DS_Store', '\~$', '\.swp']
-
-[Lightline](https://github.com/itchyny/lightline.vim)
-
-[Supertab](https://github.com/ervandew/supertab)
-
-[Fugitive](https://github.com/tpope/vim-fugitive)
-
-[Git Gutter](https://github.com/airblade/vim-gitgutter)
-Always display gutter:
-> * let g:gitgutter_sign_column_always=1
-
+[Command-T](https://github.com/wincent/command-t/), [NerdCommenter](https://github.com/scrooloose/nerdcommenter), [NerdTree](https://github.com/scrooloose/nerdtree), [Lightline](https://github.com/itchyny/lightline.vim), [Supertab](https://github.com/ervandew/supertab), [Fugitive](https://github.com/tpope/vim-fugitive), [Git Gutter](https://github.com/airblade/vim-gitgutter),
 [Vim Multiple Cursors](https://github.com/terryma/vim-multiple-cursors/)
+
+Name         | Link
+------------ | --------
+Bundler.vim  | https://github.com/tpope/vim-bundler
 
 [Bundler.vim](https://github.com/tpope/vim-bundler)
 
