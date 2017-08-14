@@ -183,58 +183,58 @@ Next step is theming our vim:
 
 Copy my [theme git files](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim/colors) to the colors folder. Edit the .vimrc file, and add these lines to let vim know that we want syntax highlighting based on file names:
 
-- filetype on
-- syntax on
-- colorscheme Tomorrow-Night # love this theme
+> filetype on
+> syntax on
+> colorscheme Tomorrow-Night # love this theme
 
 Now let's download the [Menlo](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.fonts) fonts and add this line:
 
-- set guifont=Menlo\ Regular:h17 # change size to your liking
+> set guifont=Menlo\ Regular:h17 # change size to your liking
 
 While we are busy also add these lines:
 
-- set lines=35 columns=150 # to open with a given size
-- set colorcolumn=90 # adds column, prevents going to far to the right
-- set number # adds line numbering
+> set lines=35 columns=150 # to open with a given size
+> set colorcolumn=90 # adds column, prevents going to far to the right
+> set number # adds line numbering
 
 Customizing time! Keep .vimrc open and let’s improve how vim functions:
 
 **Note:** Getting tired of reading? You could copy my [vim](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim) files.  
 
-A leader key is vim’s way to reduce conflicts in configuration. Default it’s backslash, I like space.
+A leader key is vim’s way to reduce conflicts in configuration. Default it’s a backslash, I like space.
 
-- let mapleader=" " 
+> let mapleader=" " 
 
 I hate restarting the editor to see the applied changes:
 
-- map <leader>s :source ~/.vimrc<CR> # s + enter runs :source ~/.vimrc
+> map <leader>s :source ~/.vimrc<CR> # s + enter runs :source ~/.vimrc
 
 Saving previous entries in memory to speed things up:
 
-- set hidden
-- set history=100
+> set hidden
+> set history=100
 
 Set indenting:
 
-- filetype indent on
-- set nowrap
-- set tabstop=2 # set to 2 because of ruby
-- set shiftwidth=2 # set to 2 because of ruby
-- set expandtab
-- set smartindent
-- set autoindent
+> filetype indent on
+> set nowrap
+> set tabstop=2 # set to 2 because of ruby
+> set shiftwidth=2 # set to 2 because of ruby
+> set expandtab
+> set smartindent
+> set autoindent
 
 Remove whitespaces on save:
 
-- autocmd BufWritePre * :%s/\s\+$//e
+> autocmd BufWritePre * :%s/\s\+$//e
 
 Let vim hightlight results when doing a search:
 
-- set hlsearc
+> set hlsearc
 
 Set a key to cancel search:
 
-- nnoremap <silent> <Esc> :nohlsearch<Bar>:echo<CR> # escape cancels search
+> nnoremap <silent> <Esc> :nohlsearch<Bar>:echo<CR> # escape cancels search
 
 Change default vim mapping to using arrows:
 
@@ -249,7 +249,7 @@ Quickly reload previously opened file:
 
 Hightlight matching when selecting a parenthesis:
 
-- set showmatch
+> set showmatch
 
  \*6.1.1.1 Pathogen\*
 
@@ -262,7 +262,7 @@ I prefer Pathogen to some of the alternate vim package managers because it's arg
 
 Add this line to the top of your .vimrc:
 
-- execute pathogen#infect()
+> execute pathogen#infect()
 
 \*6.1.1.2 Vim plugins\*
 
@@ -277,27 +277,29 @@ For instance if you want to add *[vim-ruby](https://github.com/vim-ruby/vim-ruby
 
 - $ git submodule add git@github.com:vim-ruby/vim-ruby.git bundle/vim-ruby
 
-1. *[Command-T](https://github.com/wincent/command-t/)*
-1.1 Add *noremap <Leader>r :CommandTFlush<CR>* to .vimrc to reindex new files.
-2. *[NerdCommenter](https://github.com/scrooloose/nerdcommenter)*
-3. *[NerdTree](https://github.com/scrooloose/nerdtree)*
-3.1 Add *let NERDTreeMapActivateNode='<right>'* to open a node with right arrow.
-3.2 Add *let N[https://github.com/ervandew/supertabERDTreeShowHidden=1* to show hidden files.
-3.3 Add *nmap <leader>n :NERDTreeToggle<CR>* to toggle tree display.
-3.4 Add *nmap <leader>j :NERDTreeFind<CR>* to locate focused file in tree.
-3.5 Add *autocmd VimEnter * NERDTree* to always open tree when booting vim.
-3.6 Add *autocmd VimEnter * wincmd p* to always open tree when booting vim.
-3.7 Add *let NERDTreeIgnore=['\.DS_Store', '\~$', '\.swp']* to hide useless files.
-4. *[Lightline](https://github.com/itchyny/lightline.vim)*
-5. *[Supertab](https://github.com/ervandew/supertab)*
-6. *[Fugitive](https://github.com/tpope/vim-fugitive)*
-7. *[Git Gutter](https://github.com/airblade/vim-gitgutter)*
-7.1 Add *let g:gitgutter_sign_column_always=1* to always display gutter.
-8. *[Vim multiple cursors](https://github.com/terryma/vim-multiple-cursors/)*
-9. *[Bundler.vim](https://github.com/tpope/vim-bundler)*
-10. *[Endwise](https://github.com/tpope/vim-endwise)*
-11. *[Vim-Rails](https://github.com/tpope/vim-rails/)*
-12. *[Vim-Ruby](https://github.com/vim-ruby)*
+Cycling thru the plugins I commonly use, keep your .vimrc opened.
+
+1. [Command-T](https://github.com/wincent/command-t/)
+> noremap <Leader>r :CommandTFlush<CR> # to reindex new files
+2. [NerdCommenter](https://github.com/scrooloose/nerdcommenter)
+3. [NerdTree](https://github.com/scrooloose/nerdtree)
+> let NERDTreeMapActivateNode='<right>' # open a node with right arrow
+> let NERDTreeShowHidden=1 # show hidden files
+> nmap <leader>n :NERDTreeToggle<CR> # toggle tree display
+> nmap <leader>j :NERDTreeFind<CR> # locate focused file in tree
+> autocmd VimEnter * NERDTree # always open tree when booting vim
+> autocmd VimEnter * wincmd p # always open tree when booting vim
+> let NERDTreeIgnore=['\.DS_Store', '\~$', '\.swp'] # hide useless files
+4. [Lightline](https://github.com/itchyny/lightline.vim)
+5. [Supertab](https://github.com/ervandew/supertab)
+6. [Fugitive](https://github.com/tpope/vim-fugitive)
+7. [Git Gutter](https://github.com/airblade/vim-gitgutter)
+> let g:gitgutter_sign_column_always=1 # always display gutter
+8. [Vim multiple cursors](https://github.com/terryma/vim-multiple-cursors/)
+9. [Bundler.vim](https://github.com/tpope/vim-bundler)
+10. [Endwise](https://github.com/tpope/vim-endwise)
+11. [Vim-Rails](https://github.com/tpope/vim-rails/)
+12. [Vim-Ruby](https://github.com/vim-ruby)
 
 ***• 6.1.2 Gvim***
 
