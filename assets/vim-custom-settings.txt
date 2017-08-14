@@ -1,0 +1,44 @@
+LEADER KEY
+A leader key is vim’s way to reduce conflicts in configuration. Default it’s backslash, I like space.
+• let mapleader=" "
+
+RELOAD VIM CONFIG ON THE FLY
+Every time you edit your .vimrc file, if you want to see your changes you have to close and open it  again or source the .vimrc file manually. It’s a pain, so let’s map some keys to do it automatically:
+• map <leader>s :source ~/.vimrc<CR>
+Once I add this to my configuration, pressing the leader key followed by s will run the command.
+
+KEEP MORE INFO IN MEMORY TO SPEED THINGS UP
+• set hidden
+• set history=100
+
+ADDING SOME LOGIC TO INDENTING
+• filetype indent on
+• set nowrap
+• set tabstop=2 
+• set shiftwidth=2
+• set expandtab
+• set smartindent
+• set autoindent
+Tabstop is set 2 because of Ruby.
+
+REMOVE WHITESPACES ON SAVE
+• autocmd BufWritePre * :%s/\s\+$//e
+
+HIGHTLIGHT FOUND WORDS IN SEARCH
+• set hlsearch
+
+CANCEL SEARCH USING ESCAPE
+• nnoremap <silent> <Esc> :nohlsearch<Bar>:echo<CR>
+
+USE ARROWS INSTEAD VIM DEFAULT MAPPINGS
+• map <D-A-RIGHT> <C-w>l
+• map <D-A-LEFT> <C-w>h
+• map <D-A-DOWN> <C-w><C-w>
+• map <D-A-UP> <C-w>W
+
+OPEN PREVIOUSLY OPENED FILE
+• nnoremap <Leader><Leader> :e#<CR>
+Allows you to quickly move back and forth between two files by pressing the leader key twice.
+
+HIGHLIGHT MATCHING WHEN SELECTING PARENTHESIS
+• set showmatch
