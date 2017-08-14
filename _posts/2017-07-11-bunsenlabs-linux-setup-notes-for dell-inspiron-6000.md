@@ -239,13 +239,13 @@ Continue with pip, a a package management tool used to manage programs written i
 
 ![Python update](/assets/python.png)
 
-Now we can install Pip using the following command:
+Now we can install pip using the following command:
 
 - $ apt-get install python-pip
 
 ![Pip](/assets/pip.png)
 
-The pip version can be outdated. Let's check for an upgrade:
+The Debian pip version can be outdated. Let's check for an upgrade:
 
 - $ pip install --upgrade pip
 
