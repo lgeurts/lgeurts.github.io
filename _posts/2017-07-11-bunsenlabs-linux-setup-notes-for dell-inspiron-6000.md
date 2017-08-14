@@ -34,7 +34,7 @@ v1.1
 > * 08/08/17 Adding info for mpd, ncmpcpp, youtube-dl.
 > * 08/10/17 Adding info for GnuPG, Sublime 3, Ruby, Jekyll.
 > * 08/13/17 Adding info for vim, Gvim.
-> * 08/14/17 Adding info for Python.
+> * 08/14/17 Adding info for Python, Pathogen.
 
 **2 Before you begin**
 ----------------------
@@ -197,11 +197,11 @@ While we are busy also add these lines:
 - *set colorcolumn=90 # adds column, prevents going to far to the right*
 - *set number # adds line numbering*
 
-Customizing time (many thanks to #marcgg). Let’s start to improve how it actually functions:
+Customizing time! Let’s start to improve how it actually functions:
 
 **Note:** Getting tired of reading? You could copy my [vim](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim) files.  
 
-The Leader key is Vim’s way to reduce conflicts in configuration. The Vim user can set this key to be anything and every command is going to be preceded by this key. By default it’s set to be backslash, but I like it to be a space.
+The Leader key is vim’s way to reduce conflicts in configuration. The user can set this key to be anything and every command is going to be preceded by this key. By default it’s set to be backslash, but I like it to be a space.
 
 - *let mapleader=" "* 
 
