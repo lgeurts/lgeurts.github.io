@@ -278,23 +278,30 @@ For instance if you want to add *[vim-ruby](https://github.com/vim-ruby/vim-ruby
 Cycling thru the plugins, keep your .vimrc open for editing.
 
 [Command-T](https://github.com/wincent/command-t/)
+
 Reindex new files:
 > * noremap <Leader>r :CommandTFlush<CR>
 
 [NerdCommenter](https://github.com/scrooloose/nerdcommenter)
 
 [NerdTree](https://github.com/scrooloose/nerdtree)
+
 Open a node using the right arrow:
 > * let NERDTreeMapActivateNode='<right>'
+
 Show hidden files:
 > * let NERDTreeShowHidden=1
+
 Toggle the tree display:
 > * nmap <leader>n :NERDTreeToggle<CR>
+
 Locate focused file in the tree:
 > * nmap <leader>j :NERDTreeFind<CR>
+
 Always open tree when booting vim:
 > * autocmd VimEnter * NERDTree
 > * autocmd VimEnter * wincmd p
+
 Hide useless files:
 > * let NERDTreeIgnore=['\.DS_Store', '\~$', '\.swp']
 
