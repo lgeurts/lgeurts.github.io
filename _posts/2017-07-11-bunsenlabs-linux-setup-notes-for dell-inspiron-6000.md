@@ -266,7 +266,7 @@ Add this line to the top of your .vimrc:
 
 \*6.1.1.2 Vim plugins\*
 
-All the following vim plugins are available on Git repositories. Makes updating to the latest version as easy as pulling master.
+All the following vim plugins are available on Git. Makes updating to the latest version as easy as pulling master.
 
 For every plugin you need to run:
 
@@ -286,11 +286,17 @@ Cycling thru the plugins I commonly use, keep your .vimrc opened.
 
 [NerdTree](https://github.com/scrooloose/nerdtree)
 > let NERDTreeMapActivateNode='<right>' # open a node with right arrow
+
 > let NERDTreeShowHidden=1 # show hidden files
+
 > nmap <leader>n :NERDTreeToggle<CR> # toggle tree display
+
 > nmap <leader>j :NERDTreeFind<CR> # locate focused file in tree
+
 > autocmd VimEnter * NERDTree # always open tree when booting vim
+
 > autocmd VimEnter * wincmd p # always open tree when booting vim
+
 > let NERDTreeIgnore=['\.DS_Store', '\~$', '\.swp'] # hide useless files
 
 [Lightline](https://github.com/itchyny/lightline.vim)
@@ -302,7 +308,7 @@ Cycling thru the plugins I commonly use, keep your .vimrc opened.
 [Git Gutter](https://github.com/airblade/vim-gitgutter)
 > let g:gitgutter_sign_column_always=1 # always display gutter
 
-[Vim multiple cursors](https://github.com/terryma/vim-multiple-cursors/)
+[Vim Multiple Cursors](https://github.com/terryma/vim-multiple-cursors/)
 
 [Bundler.vim](https://github.com/tpope/vim-bundler)
 
