@@ -25,10 +25,11 @@ Locate the focused file in the tree with <Leader>+j:
 Always open the tree when booting Vim, but don’t focus:
 • autocmd VimEnter * NERDTree
 • autocmd VimEnter * wincmd p 
-Do not display useless files when looking in the in the tree:
+Do not display useless files when looking in the tree:
 • let NERDTreeIgnore=['\.DS_Store', '\~$', '\.swp']
 
 GIT GUTTER
-Displays the diff in the gutter and allows you to do actions on it. With this plugin you can preview a change with <Leader>+hp and revert any change on a line with <Leader>+hr.
+Displays the diff in the gutter and allows you to do actions on it. 
+Best function, preview a change with <Leader>+hp and revert any change on a line with <Leader>+hr.
 I like gutter always displayed - even when there are no changes:
 • let g:gitgutter_sign_column_always=1
