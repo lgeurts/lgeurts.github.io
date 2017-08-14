@@ -249,7 +249,7 @@ The Debian pip version can be outdated. Let's check for an upgrade:
 
 - $ pip install --upgrade pip
 
-Ready. Now we can add packages using pip:
+Ready, we can add packages:
 
 - $ pip install packagename
 
