@@ -232,8 +232,8 @@ Fugitive      | [https://github.com/tpope/vim-fugitive](https://github.com/tpope
 Git Gutter    | [https://github.com/airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter)
 Bundler.vim   | [https://github.com/tpope/vim-bundler](https://github.com/tpope/vim-bundler)
 Endwise       | [https://github.com/tpope/vim-endwise](https://github.com/tpope/vim-endwise)
+Vim-Ruby      | [https://github.com/vim-ruby](https://github.com/vim-ruby)
 Vim-Rails     | [https://github.com/tpope/vim-rails/](https://github.com/tpope/vim-rails/)
-Vim-Ruby      | [https://github.com/vim-ruby](https://github.com/vim-ruby) 
 Multiple Cursors | [https://github.com/terryma/vim-multiple-cursors/](https://github.com/terryma/vim-multiple-cursors/)
 
 Many thanks to marcgg for his extensive info on plugins.
