@@ -229,9 +229,7 @@ I prefer Pathogen to some of the alternate Vim package managers because it's arg
 
 ***• 6.2.1 Python***
 
-- $ apt-get install python
-
-Continue with pip, a a package management tool used to manage programs written in Python.
+Python is pre-installed. Update and add/verify essentials:
 
 - $ apt-get update
 
@@ -239,11 +237,11 @@ Continue with pip, a a package management tool used to manage programs written i
 
 ![Python update](/assets/python.png)
 
-Now we can install pip using the following command:
+Now we can install [pip](https://en.wikipedia.org/wiki/Pip_%28package_manager%29) using the following command:
 
 - $ apt-get install python-pip
 
-![Pip](/assets/pip.png)
+![pip](/assets/pip.png)
 
 The Debian pip version can be outdated. Let's check for an upgrade:
 
