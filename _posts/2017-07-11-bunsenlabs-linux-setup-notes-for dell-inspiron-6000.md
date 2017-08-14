@@ -34,6 +34,7 @@ v1.1
 > * 08/08/17 Adding info for mpd, ncmpcpp, youtube-dl.
 > * 08/10/17 Adding info for GnuPG, Sublime 3, Ruby, Jekyll.
 > * 08/13/17 Adding info for vim, Gvim.
+> * 08/14/17 Adding info for Python.
 
 **2 Before you begin**
 ----------------------
@@ -230,7 +231,7 @@ I prefer Pathogen to some of the alternate Vim package managers because it's arg
 
 - $ apt-get install python
 
-When the installation is done we will with pip, a a package management tool used to install and manage programs written in Python.
+Continue with pip, a a package management tool used to manage programs written in Python.
 
 - $ apt-get update
 
@@ -244,13 +245,15 @@ Now we can install Pip using the following command:
 
 ![Pip](/assets/pip.png)
 
-The pip version included on Debian apt-get can be outdated. Let's check if we can upgrade:
+The pip version can be outdated. Let's check for an upgrade:
 
 - $ pip install --upgrade pip
 
-Ready. Now we can get packages using pip:
+Ready. Now we can add packages using pip:
 
 - $ pip install <package>
+
+**Note:** Full overview of [pip commands](https://pip.pypa.io/en/stable/user_guide/).
 
 ***• 6.2.2 Ruby***
 
