@@ -227,18 +227,20 @@ Read [this file](assets/vim-plugin-settings) for activating plugin specific sett
 
 Name          | Link
 ------------- | --------
-Command-T     | https://github.com/wincent/command-t/
-NerdCommenter | https://github.com/scrooloose/nerdcommenter
-NerdTree      | https://github.com/scrooloose/nerdtree
-Lightline     | https://github.com/itchyny/lightline.vim
-Supertab      | https://github.com/ervandew/supertab
-Fugitive      | https://github.com/tpope/vim-fugitive
-Git Gutter    | https://github.com/airblade/vim-gitgutter
-Vim Multiple Cursors | https://github.com/terryma/vim-multiple-cursors/
-Bundler.vim   | https://github.com/tpope/vim-bundler
-Endwise       | https://github.com/tpope/vim-endwise
-Vim-Rails     | https://github.com/tpope/vim-rails/
-Vim-Ruby      | https://github.com/vim-ruby 
+Command-T     | [https://github.com/wincent/command-t/](https://github.com/wincent/command-t/)
+NerdCommenter | [https://github.com/scrooloose/nerdcommenter](https://github.com/scrooloose/nerdcommenter)
+NerdTree      | [https://github.com/scrooloose/nerdtree](https://github.com/scrooloose/nerdtree)
+Lightline     | [https://github.com/itchyny/lightline.vim](https://github.com/itchyny/lightline.vim)
+Supertab      | [https://github.com/ervandew/supertab](https://github.com/ervandew/supertab)
+Fugitive      | [https://github.com/tpope/vim-fugitive](https://github.com/tpope/vim-fugitive)
+Git Gutter    | [https://github.com/airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter)
+Vim Multiple Cursors | [https://github.com/terryma/vim-multiple-cursors/](https://github.com/terryma/vim-multiple-cursors/)
+Bundler.vim   | [https://github.com/tpope/vim-bundler](https://github.com/tpope/vim-bundler)
+Endwise       | [https://github.com/tpope/vim-endwise](https://github.com/tpope/vim-endwise)
+Vim-Rails     | [https://github.com/tpope/vim-rails/](https://github.com/tpope/vim-rails/)
+Vim-Ruby      | [https://github.com/vim-ruby](https://github.com/vim-ruby) 
+
+**Note:** You can download my vimrc [here]((https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim/). Many thanks to marcgg for his info on plugins.
 
 ***• 6.1.2 Gvim***
 
