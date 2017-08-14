@@ -234,7 +234,7 @@ Lightline     | [https://github.com/itchyny/lightline.vim](https://github.com/it
 Supertab      | [https://github.com/ervandew/supertab](https://github.com/ervandew/supertab)
 Fugitive      | [https://github.com/tpope/vim-fugitive](https://github.com/tpope/vim-fugitive)
 Git Gutter    | [https://github.com/airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter)
-Vim Multiple Cursors | [https://github.com/terryma/vim-multiple-cursors/](https://github.com/terryma/vim-multiple-cursors/)
+Multiple Cursors | [https://github.com/terryma/vim-multiple-cursors/](https://github.com/terryma/vim-multiple-cursors/)
 Bundler.vim   | [https://github.com/tpope/vim-bundler](https://github.com/tpope/vim-bundler)
 Endwise       | [https://github.com/tpope/vim-endwise](https://github.com/tpope/vim-endwise)
 Vim-Rails     | [https://github.com/tpope/vim-rails/](https://github.com/tpope/vim-rails/)
