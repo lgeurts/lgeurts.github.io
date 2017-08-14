@@ -197,11 +197,11 @@ While we are busy also add these lines:
 - set colorcolumn=90 # adds column, prevents going to far to the right
 - set number # adds line numbering
 
-Customizing time! Let’s start to improve how it actually functions:
+Customizing time! Keep .vimrc open and let’s improve how vim functions:
 
 **Note:** Getting tired of reading? You could copy my [vim](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim) files.  
 
-A leader key is vim’s way to reduce conflicts in configuration. By default it’s set to backslash, but I like space.
+A leader key is vim’s way to reduce conflicts in configuration. Default it’s backslash, I like space.
 
 - let mapleader=" " 
 
@@ -229,7 +229,8 @@ Remove whitespaces on save:
 - autocmd BufWritePre * :%s/\s\+$//e
 
 Let vim hightlight results when doing a search:
--set hlsearc
+
+- set hlsearc
 
 Set a key to cancel search:
 
@@ -237,14 +238,14 @@ Set a key to cancel search:
 
 Change default vim mapping to using arrows:
 
-- map <D-A-RIGHT> <C-w>l
-- map <D-A-LEFT> <C-w>h
-- map <D-A-DOWN> <C-w><C-w>
-- map <D-A-UP> <C-w>W
+> map <D-A-RIGHT> <C-w>l
+> map <D-A-LEFT> <C-w>h
+> map <D-A-DOWN> <C-w><C-w>
+> map <D-A-UP> <C-w>W
 
 Quickly reload previously opened file:
 
-- nnoremap <Leader><Leader> :e#<CR> # press leader twice
+> nnoremap <Leader><Leader> :e#<CR> # press leader twice
 
 Hightlight matching when selecting a parenthesis:
 
