@@ -184,7 +184,9 @@ Next step is theming our vim:
 Copy my [theme git files](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim/colors) to the colors folder. Edit the .vimrc file, and add these lines to let vim know that we want syntax highlighting based on file names:
 
 > filetype on
+
 > syntax on
+
 > colorscheme Tomorrow-Night # love this theme
 
 Now let's download the [Menlo](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.fonts) fonts and add this line:
@@ -194,7 +196,9 @@ Now let's download the [Menlo](https://github.com/lgeurts/BunsenLabs-Setup/tree/
 While we are busy also add these lines:
 
 > set lines=35 columns=150 # to open with a given size
+
 > set colorcolumn=90 # adds column, prevents going to far to the right
+
 > set number # adds line numbering
 
 Customizing time! Keep .vimrc open and let’s improve how vim functions:
@@ -212,16 +216,23 @@ I hate restarting the editor to see the applied changes:
 Saving previous entries in memory to speed things up:
 
 > set hidden
+
 > set history=100 # find this the best
 
 Set indenting:
 
 > filetype indent on
+
 > set nowrap
+
 > set tabstop=2 # set to 2 because of ruby
+
 > set shiftwidth=2 # set to 2 because of ruby
+
 > set expandtab
+
 > set smartindent
+
 > set autoindent
 
 Remove whitespaces on save:
@@ -239,8 +250,11 @@ Set a key to cancel search:
 Change default vim mapping to using arrows:
 
 > map <D-A-RIGHT> <C-w>l
+
 > map <D-A-LEFT> <C-w>h
+
 > map <D-A-DOWN> <C-w><C-w>
+
 > map <D-A-UP> <C-w>W
 
 Quickly reload previously opened file:
