@@ -236,7 +236,9 @@ Endwise       | [https://github.com/tpope/vim-endwise](https://github.com/tpope/
 Vim-Rails     | [https://github.com/tpope/vim-rails/](https://github.com/tpope/vim-rails/)
 Vim-Ruby      | [https://github.com/vim-ruby](https://github.com/vim-ruby) 
 
-**Note:** You can download my vimrc [here](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim/). Many thanks to marcgg for his info on plugins.
+Many thanks to marcgg for his extensive info on plugins.
+
+**Note:** Lazy? Download my vimrc [here](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim/).
 
 ***• 6.1.2 Gvim***
 
