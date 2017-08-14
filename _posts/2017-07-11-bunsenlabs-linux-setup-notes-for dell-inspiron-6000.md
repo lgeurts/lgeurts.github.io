@@ -195,7 +195,7 @@ While we are busy also add these lines:
 > * set colorcolumn=90 # prevents going to far to the right
 > * set number # adds line numbering
 
-It's customizing time! I intend to keep this post short and therefore you can download my list with additional settings [here](/assets/vim-custom-settings.txt). Update .vimrc as you see fit.
+It's customizing time! I intend to keep this post short, and therefore you can download my list with additional settings [here](/assets/vim-custom-settings.txt). Update .vimrc as you see fit.
 
  \*6.1.1.1 Pathogen\*
 
@@ -212,16 +212,12 @@ Add this line to the top of your .vimrc:
 
 \*6.1.1.2 Vim plugins\*
 
-All plugins are available on Git. Makes updating to the latest version as easy as pulling master.
+All plugins are GitHub. Makes updating to the latest version just pulling master.
 
 For every plugin you need to run:
 
 - $ cd ~/.vim
 - $ git submodule add git@source/pluginname.git bundle/pluginname
-
-For instance if you want to add [vim-ruby](https://github.com/vim-ruby/vim-ruby), you’ll do:
-
-- $ git submodule add git@github.com:vim-ruby/vim-ruby.git bundle/vim-ruby
 
 Read [this file](assets/vim-plugin-settings) for activating plugin specific settings in .vimrc.
 
