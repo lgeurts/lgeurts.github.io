@@ -201,13 +201,15 @@ Customizing time! Let’s start to improve how it actually functions:
 
 **Note:** Getting tired of reading? You could copy my [vim](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim) files.  
 
-The Leader key is vim’s way to reduce conflicts in configuration. The user can set this key to be anything and every command is going to be preceded by this key. By default it’s set to be backslash, but I like it to be a space.
+A leader key is vim’s way to reduce conflicts in configuration. I can set this key to be anything and every command is going to be preceded by this key. By default it’s set to be backslash, but I like it to be a space.
 
 - *let mapleader=" "* 
 
 I hate restarting the editor to see the applied changes:
 
-- *map <leader>s :source ~/.vimrc<CR> # sets s key followed by an enter to run :source ~/.vimrc*
+- *map <leader>s :source ~/.vimrc<CR>*
+Pressing s followed by an enter runs
+ - $ :source ~/.vimrc*
 
 Saving previous entries in memory to speed things up:
 
