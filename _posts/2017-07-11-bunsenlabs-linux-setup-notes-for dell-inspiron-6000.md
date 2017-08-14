@@ -251,7 +251,7 @@ The Debian pip version can be outdated. Let's check for an upgrade:
 
 Ready. Now we can add packages using pip:
 
-- $ pip install <package>
+- $ pip install packagename
 
 **Note:** Full overview of [pip commands](https://pip.pypa.io/en/stable/user_guide/).
 
