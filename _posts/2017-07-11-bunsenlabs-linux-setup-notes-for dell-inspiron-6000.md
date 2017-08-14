@@ -20,13 +20,11 @@ Here is a rundown of how I configured BunsenLabs to best serve my needs.
 -----------------------------
 
 v1.0
-
 > * 07/11/17 Initial setup.
 
 Changes since the last version:
 
 v1.1
-
 > * 08/02/17 Reworked the layout.
 > * 08/04/17 Adding info for nftables, screenfetch, iftop, ttyload. 
 > * 08/05/17 Adding info for Claws Mail, mutt, Krita.
@@ -189,15 +187,13 @@ Copy my [theme git files](https://github.com/lgeurts/BunsenLabs-Setup/tree/maste
 
 Now let's download the [Menlo](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.fonts) fonts and add this line:
 
-> set guifont=Menlo\ Regular:h17 # change size to your liking
+> * set guifont=Menlo\ Regular:h17 # change size to your liking
 
 While we are busy also add these lines:
 
-> set lines=35 columns=150 # to open with a given size
-
-> set colorcolumn=90 # adds column, prevents going to far to the right
-
-> set number # adds line numbering
+> * set lines=35 columns=150 # to open with a given size
+> * set colorcolumn=90 # adds column, prevents going to far to the right
+> * set number # adds line numbering
 
 Customizing time! Keep .vimrc open and let’s improve how vim functions:
 
@@ -213,55 +209,45 @@ I hate restarting the editor to see the applied changes:
 
 Saving previous entries in memory to speed things up:
 
-> set hidden
-
-> set history=100 # find this the best
+> * set hidden
+> * set history=100 # find this the best
 
 Set indenting:
 
-> filetype indent on
-
-> set nowrap
-
-> set tabstop=2 # set to 2 because of ruby
-
-> set shiftwidth=2 # set to 2 because of ruby
-
-> set expandtab
-
-> set smartindent
-
-> set autoindent
+> * filetype indent on
+> * set nowrap
+> * set tabstop=2 # set to 2 because of ruby
+> * set shiftwidth=2 # set to 2 because of ruby
+> * set expandtab
+> * set smartindent
+> * set autoindent
 
 Remove whitespaces on save:
 
-> autocmd BufWritePre * :%s/\s\+$//e
+> * autocmd BufWritePre * :%s/\s\+$//e
 
 Let vim hightlight results when doing a search:
 
-> set hlsearc
+> * set hlsearc
 
 Set a key to cancel search:
 
-> nnoremap <silent> <Esc> :nohlsearch<Bar>:echo<CR> # escape cancels search
+> * nnoremap <silent> <Esc> :nohlsearch<Bar>:echo<CR> # escape cancels search
 
 Change default vim mapping to using arrows:
 
-> map <D-A-RIGHT> <C-w>l
-
-> map <D-A-LEFT> <C-w>h
-
-> map <D-A-DOWN> <C-w><C-w>
-
-> map <D-A-UP> <C-w>W
+> * map <D-A-RIGHT> <C-w>l
+> * map <D-A-LEFT> <C-w>h
+> * map <D-A-DOWN> <C-w><C-w>
+> * map <D-A-UP> <C-w>W
 
 Quickly reload previously opened file:
 
-> nnoremap <Leader><Leader> :e#<CR> # press leader twice
+> * nnoremap <Leader><Leader> :e#<CR> # press leader twice
 
 Hightlight matching when selecting a parenthesis:
 
-> set showmatch
+> * set showmatch
 
  \*6.1.1.1 Pathogen\*
 
@@ -292,24 +278,18 @@ For instance if you want to add *[vim-ruby](https://github.com/vim-ruby/vim-ruby
 Cycling thru the plugins I commonly use, keep your .vimrc opened.
 
 [Command-T](https://github.com/wincent/command-t/)
-> noremap <Leader>r :CommandTFlush<CR> # to reindex new files
+> * noremap <Leader>r :CommandTFlush<CR> # to reindex new files
 
 [NerdCommenter](https://github.com/scrooloose/nerdcommenter)
 
 [NerdTree](https://github.com/scrooloose/nerdtree)
-> let NERDTreeMapActivateNode='<right>' # open a node with right arrow
-
-> let NERDTreeShowHidden=1 # show hidden files
-
-> nmap <leader>n :NERDTreeToggle<CR> # toggle tree display
-
-> nmap <leader>j :NERDTreeFind<CR> # locate focused file in tree
-
-> autocmd VimEnter * NERDTree # always open tree when booting vim
-
-> autocmd VimEnter * wincmd p # always open tree when booting vim
-
-> let NERDTreeIgnore=['\.DS_Store', '\~$', '\.swp'] # hide useless files
+> * let NERDTreeMapActivateNode='<right>' # open a node with right arrow
+> * let NERDTreeShowHidden=1 # show hidden files
+> * nmap <leader>n :NERDTreeToggle<CR> # toggle tree display
+> * nmap <leader>j :NERDTreeFind<CR> # locate focused file in tree
+> * autocmd VimEnter * NERDTree # always open tree when booting vim
+> * autocmd VimEnter * wincmd p # always open tree when booting vim
+> * let NERDTreeIgnore=['\.DS_Store', '\~$', '\.swp'] # hide useless files
 
 [Lightline](https://github.com/itchyny/lightline.vim)
 
@@ -318,7 +298,7 @@ Cycling thru the plugins I commonly use, keep your .vimrc opened.
 [Fugitive](https://github.com/tpope/vim-fugitive)
 
 [Git Gutter](https://github.com/airblade/vim-gitgutter)
-> let g:gitgutter_sign_column_always=1 # always display gutter
+> * let g:gitgutter_sign_column_always=1 # always display gutter
 
 [Vim Multiple Cursors](https://github.com/terryma/vim-multiple-cursors/)
 
