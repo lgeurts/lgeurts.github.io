@@ -195,7 +195,7 @@ While we are busy also add these lines:
 > * set colorcolumn=90 # prevents going to far to the right
 > * set number # adds line numbering
 
-It's customizing time! I intend to keep this post short, and therefore you can download my list with additional settings from [here](/assets/vim-custom-settings.txt). Update .vimrc as you see fit.
+It's customizing time! I intend to keep this post short, and therefore you can download the list with my settings from [here](/assets/vim-custom-settings.txt). Update .vimrc as you see fit.
 
  \*6.1.1.1 Pathogen\*
 
