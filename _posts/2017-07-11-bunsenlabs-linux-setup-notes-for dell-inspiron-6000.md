@@ -288,27 +288,36 @@ Ready, we can add packages:
 - $ cd ~    
 
 Get the installation script:
+
 - $ curl -sL [https://deb.nodesource.com/setup_6.x](https://deb.nodesource.com/setup_6.x) -o nodesource_setup.sh
 
 Running the script in ~ (will take some time):
+
 - $ bash nodesource_setup.sh
 
 After running the setup script, install the Node.js package. 
+
 - $ apt-get install nodejs
 
-The nodejs package contains the nodejs binary as well as npm. However, in order for some npm packages to work, you will need to install the build-essential package:
+The nodejs package contains nodejs and npm. However, in order for some npm packages to work, you will need to install the build-essential package:
+
 - $ apt-get install build-essential
 
-Use the gpg command to contact a key server and request the RVM project's key:
-- $ gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3
+Use gpg to contact a key server and request the RVM project's key:
+
+![RCM key](assets/rvm-project-key)
+
+**Note:** 409B6B1796C275462A1703113804BB82D39DC0E3.
 
 Download the RVM installation script:
+
  - $ \curl -sSL https://get.rvm.io -o rvm.sh
 
-Pipe the script to bash to install the latest stable Rails version, which also pulls in the associated latest stable release of Ruby:
-- $ cat rvm.sh | bash -s stable --rails
+Pipe the script to bash to install the latest Rails version, which also pulls in the associated latest release of Ruby:
 
-During the installation process, you will be prompted for your password. Enter as requested and RVM will he tools it needs to build and compile Ruby, download the latest version of Ruby, the Ruby on Rails framework, and its dependencies.
+![Piping RVM](/assets/rvm-pipe)
+
+During the installation process, you'll be prompted for your password. Enter as requested and RVM will he tools it needs to build and compile Ruby, download the latest version of Ruby, the Ruby on Rails framework, and its dependencies.
 
 When the installation is complete, source the RVM scripts:
 
