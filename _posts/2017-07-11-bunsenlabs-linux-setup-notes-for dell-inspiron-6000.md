@@ -413,7 +413,7 @@ Tint2 features:
 * Customize mouse events.
 * Window manager's menu.
 
-If you want to follow my theme, download my [oomox-colors.tint2rc](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.config/tint2) and drop it in ~/.config/tint2.
+If you want to follow my theme, download [oomox-colors.tint2rc](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.config/tint2) and drop it in ~/.config/tint2.
 
 **9.3 Window Manager**
 
