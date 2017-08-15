@@ -405,13 +405,13 @@ Open a terminal, set pointer in screen, right-click and select Preferences.
 
 Tint2 features:
 
-* Comes with Openbox.
-* Panel with taskbar, systray, clock and battery status.
-* Customize color/transparency on font, icon, border and background.
-* Pager like capability: send task from one workspace to another, switching workspaces.
-* Multi-monitor: one panel per monitor, show tasks from current monitor.
-* Customize mouse events.
-* Window manager's menu.
+- Comes with Openbox.
+- Panel with taskbar, systray, clock and battery status.
+- Customize color/transparency on font, icon, border and background.
+- Pager like capability: send task from one workspace to another, switching workspaces.
+- Multi-monitor: one panel per monitor, show tasks from current monitor.
+- Customize mouse events.
+- Window manager's menu.
 
 If you want to follow my theme, download [oomox-colors.tint2rc](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.config/tint2) and drop it in ~/.config/tint2.
 
