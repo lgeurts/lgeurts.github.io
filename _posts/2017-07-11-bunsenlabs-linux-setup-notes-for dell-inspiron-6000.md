@@ -193,7 +193,7 @@ While we are busy also add these lines:
 > * set colorcolumn=90 # prevents going to far to the right
 > * set number # adds line numbering
 
-It's customizing time! I intend to keep this post short, and therefore you can download the list with my settings from [here](/assets/vim-custom-settings.txt). Update .vimrc as you see fit.
+It's customizing time! I intended to keep this post short, and therefore you can download the list with my settings from [here](/assets/vim-custom-settings.txt). Update .vimrc as you see fit.
 
  \*6.1.1.1 Pathogen\*
 
@@ -247,7 +247,6 @@ Many thanks to marcgg for his extensive info on plugins.
 ***• 6.1.3 Sublime Text 3***
 
 - $ wget [http://bit.ly/2vTirOt](http://bit.ly/2vTirOt) # //c758482.r82.cf2.rackcdn.com/sublime-text_build-3083_i386.deb
-
 - $ dpkg -i sublime-text_build-3083_i386.deb
 
 ***Note:*** [Sublime](https://www.sublimetext.com/) is non-free. If you are willing to pay some money, you'll get one slick source code editor.
@@ -295,7 +294,7 @@ After running the setup script, install the Node.js package.
 
 - $ apt-get install nodejs
 
-The nodejs binary package contains both nodejs and npm. In order for some npm packages to work:
+This nodejs binary package contains both nodejs and npm. In order for some of the npm packages to work:
 
 - $ apt-get install build-essential
 
