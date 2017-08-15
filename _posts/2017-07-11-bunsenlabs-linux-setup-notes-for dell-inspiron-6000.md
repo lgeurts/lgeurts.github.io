@@ -118,7 +118,7 @@ I don't like the standard BL picture viewer.
 
 - $ apt-get install mpd
 
-To configure mpd (Music Player Daemon), fork and run Ronald van Engelen's [mpd-configure](https://github.com/ronalde) script.
+To configure mpd (Music Player Daemon), download [this script](https://github.com/ronalde/mpd-configure).
 
 ***• 4.4.2 Ncmpcpp***
 
@@ -299,7 +299,7 @@ After running the setup script, install the Node.js package.
 
 - $ apt-get install nodejs
 
-The nodejs package contains both nodejs and npm. In order for some npm packages to work:
+The nodejs binary package contains both nodejs and npm. In order for some npm packages to work:
 
 - $ apt-get install build-essential
 
@@ -317,7 +317,7 @@ Pipe the script to bash to install Rails and the associated latest release of Ru
 
 ![Piping RVM](/assets/rvm-pipe.png)
 
-During the installation process, you'll be prompted for your password. Enter as requested and RVM gets the tools it needs to build and compile Ruby, download the latest version of Ruby, the Ruby on Rails framework, and its dependencies.
+During the installation process, you'll be prompted for your password. Enter as requested and RVM gets all tools it needs to build and compile Ruby, download the latest version of Ruby, the Ruby on Rails framework, and its dependencies.
 
 When the installation is complete, source the RVM scripts:
 
@@ -339,9 +339,9 @@ Check that Ruby is correctly installed:
 
 - $ apt-get install git-core
 
-- $ git config --global user.name "username" # git user name
+- $ git config --global user.name "username"
 
-- $ git config --global user.email username@example.com # git email address
+- $ git config --global user.email "username@example.com"
 
 - $ git config --list # verify settings
 
@@ -361,7 +361,7 @@ Check that Ruby is correctly installed:
 - $ nft list ruleset # check if rules have been applied after boot
 - $ systemctl status nftables.service # check if .service has been started 
 
-***Note:*** You now have a "whitelist" firewall that only accepts connections you created yourself. 
+***Note:*** You now have a "whitelisted" firewall that only accepts connections you created yourself. 
 Problems? [Follow this thread on the BunsenLabs forums](https://forums.bunsenlabs.org/viewtopic.php?id=1765).
 
 Use this basic firewall in addition to restrictive rules on your router!
@@ -370,7 +370,7 @@ Use this basic firewall in addition to restrictive rules on your router!
 
 ***• 7.2.1 GnuPG/GPG***
 
-Full setup notes for creating your private and public key on [Nixcraft](https://www.cyberciti.biz/tips/linux-how-to-create-our-own-gnupg-privatepublic-key.html). Mutt + GnuPG? Again, see my [mutt dotfiles](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.mutt).
+Full setup notes for creating your private and public key on [Nixcraft](https://www.cyberciti.biz/tips/linux-how-to-create-our-own-gnupg-privatepublic-key.html). Mutt and GnuPG? Again, see my [mutt dotfiles](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.mutt).
 
 **8 System information**
 ------------------------
