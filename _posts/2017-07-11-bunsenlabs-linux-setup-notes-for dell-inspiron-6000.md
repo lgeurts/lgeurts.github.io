@@ -195,7 +195,7 @@ While we are busy also add these lines:
 > * set colorcolumn=90 # prevents going to far to the right
 > * set number # adds line numbering
 
-It's customizing time! I intend to keep this post short, and therefore you can download my list with additional settings [here](/assets/vim-custom-settings.txt). Update .vimrc as you see fit.
+It's customizing time! I intend to keep this post short, and therefore you can copy my list with additional settings from [here](/assets/vim-custom-settings.txt). Update .vimrc as you see fit.
 
  \*6.1.1.1 Pathogen\*
 
@@ -238,7 +238,7 @@ Multiple Cursors | [https://github.com/terryma/vim-multiple-cursors/](https://gi
 
 Many thanks to marcgg for his extensive info on plugins.
 
-**Note:** Lazy? Download my vimrc [here](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim/).
+**Note:** Lazy? You can always download my [vimrc](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim/).
 
 ***• 6.1.2 Gvim***
 
