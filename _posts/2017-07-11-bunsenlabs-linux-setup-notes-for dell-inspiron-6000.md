@@ -95,7 +95,6 @@ Claws Mail has an excellent [FAQ](http://www.claws-mail.org/faq/index.php/Main_P
 ![Mutt client](/assets/mutt.png)
 
 - $ apt-get install mutt # the mail user agent
-
 - $ apt-get install mutt-patched # adds sidebar, nntp support, multiple-fcc patches
 
 For a copy of my mutt dotfiles, see the [BunsenLabs-Setup](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.mutt) repo. For everything else, [Mutt Wiki](https://dev.mutt.org/trac/wiki/MuttGuide).
@@ -129,9 +128,7 @@ Probably the best free ncurses mpd client ([screenshot](http://pre00.deviantart.
 ***• 4.4.3 YouTube-dl***
 
 - $ apt-get install curl # command-line tool for transferring data
-
 - $ curl -L [https://yt-dl.org/downloads/latest/youtube-dl](https://yt-dl.org/downloads/latest/youtube-dl) -o /usr/local/bin/ youtube-dl
-
 - $ chmod a+rx /usr/local/bin/youtube-dl
 
 **5 Relational Databases**
@@ -262,7 +259,6 @@ Many thanks to marcgg for his extensive info on plugins.
 Python is pre-installed. Update and add/verify essentials:
 
 - $ apt-get update
-
 - $ apt-get install python-dev build-essential 
 
 ![Python update](/assets/python.png)
@@ -338,11 +334,8 @@ Check that Ruby is correctly installed:
 ***• 6.4.1 Git***
 
 - $ apt-get install git-core
-
 - $ git config --global user.name "username"
-
 - $ git config --global user.email "username@example.com"
-
 - $ git config --list # verify settings
 
 **7 Security**
