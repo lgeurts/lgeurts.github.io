@@ -33,7 +33,7 @@ v1.1
 > * 08/10/17 Adding info for GnuPG, Sublime Text 3, Jekyll.
 > * 08/13/17 Adding info for vim, Gvim.
 > * 08/14/17 Adding info for Python, Pathogen.
-> * 08/15/17 Adding info for Git, Ruby on Rails.
+> * 08/15/17 Adding info for Git, Ruby on Rails, Tint2.
 
 **2 Before you begin**
 ----------------------
