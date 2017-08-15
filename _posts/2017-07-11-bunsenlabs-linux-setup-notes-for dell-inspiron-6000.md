@@ -30,10 +30,10 @@ v1.1
 > * 08/05/17 Adding info for LibreOffice, Claws Mail, mutt, Krita.
 > * 08/07/17 Adding info for PostgreSQL, pgAdmin.
 > * 08/08/17 Adding info for mpd, ncmpcpp, youtube-dl.
-> * 08/10/17 Adding info for GnuPG, Sublime 3, Ruby, Jekyll.
+> * 08/10/17 Adding info for GnuPG, Sublime Text 3, Jekyll.
 > * 08/13/17 Adding info for vim, Gvim.
 > * 08/14/17 Adding info for Python, Pathogen.
-> * 08/15/17 Adding info for Git, Rails.
+> * 08/15/17 Adding info for Git, Ruby on Rails.
 
 **2 Before you begin**
 ----------------------
@@ -247,13 +247,13 @@ Many thanks to marcgg for his extensive info on plugins.
 
 - $ apt-get install gvim
 
-***• 6.1.3 Sublime 3***
+***• 6.1.3 Sublime Text 3***
 
 - $ wget [http://bit.ly/2vTirOt](http://bit.ly/2vTirOt) # //c758482.r82.cf2.rackcdn.com/sublime-text_build-3083_i386.deb
 
 - $ dpkg -i sublime-text_build-3083_i386.deb
 
-***Note:*** [Sublime](https://www.sublimetext.com/) is a non-free source code editor which easily holds its ground against anything Microsoft throws on the market, for example Visual Code.
+***Note:*** [Sublime](https://www.sublimetext.com/) is non-free. If you are willing to pay some money, you'll get one slick source code editor.
 
 **6.2 Programming**
 
