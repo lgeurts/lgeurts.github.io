@@ -397,9 +397,22 @@ Some eye candy because not everything is just about functionality, right?
 
 ***• 9.1.1 Terminator***
 
+Open a terminal, set pointer in screen, right-click and select Preferences. 
+
 **9.2 System Panel/Taskbar**
 
 ***• 9.2.1 Tint2***
+
+Tint2 features:
+
+* Panel with taskbar, systray, clock and battery status
+* Easy to customize : color/transparency on font, icon, border and background
+* Pager like capability : send task from one workspace to another, switch workspace
+* Multi-monitor capability : one panel per monitor, show task from current monitor
+* Customize mouse event
+* Window manager's menu
+
+Download the oomox-colors.tint2rc [here](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.config/tint2). Drop it in ~/.config/tint2.
 
 **9.3 Window Manager**
 
