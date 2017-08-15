@@ -294,7 +294,7 @@ After running the setup script, install the Node.js package.
 
 - $ apt-get install nodejs
 
-This nodejs binary package contains both nodejs and npm. In order for some of the npm packages to work:
+The nodejs binary package contains both nodejs and npm. In order for some of the npm packages to work:
 
 - $ apt-get install build-essential
 
