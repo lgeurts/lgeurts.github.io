@@ -299,7 +299,7 @@ After running the setup script, install the Node.js package.
 
 - $ apt-get install nodejs
 
-The nodejs package contains both nodejs and npm. Updating npm to latest:
+The nodejs package contains both nodejs and npm. In order for some npm packages to work:
 
 - $ apt-get install build-essential
 
@@ -317,7 +317,7 @@ Pipe the script to bash to install Rails and the associated latest release of Ru
 
 ![Piping RVM](/assets/rvm-pipe.png)
 
-During the installation process, you'll be prompted for your password. Enter as requested and RVM will he tools it needs to build and compile Ruby, download the latest version of Ruby, the Ruby on Rails framework, and its dependencies.
+During the installation process, you'll be prompted for your password. Enter as requested and RVM gets the tools it needs to build and compile Ruby, download the latest version of Ruby, the Ruby on Rails framework, and its dependencies.
 
 When the installation is complete, source the RVM scripts:
 
@@ -327,13 +327,13 @@ Check that Ruby is correctly installed:
 
 - $ which ruby
 
-**6.3 Static Web Generators**
+**6.3 Static Web Generator**
 
 ***• 6.3.1 Jekyll***
 
 ***Note:*** For setting up our GitHub Pages site locally with Jekyll click [here](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/).
 
-**6.4 Version Control Systems**
+**6.4 Version Control System**
 
 ***• 6.4.1 Git***
 
