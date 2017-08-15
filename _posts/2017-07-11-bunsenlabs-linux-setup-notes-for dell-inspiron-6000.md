@@ -286,6 +286,8 @@ Ready, we can add packages:
 
 - $ apt-get install ruby-full build-essential
 
+- $ apt-get install ruby-ffi
+
 **6.3 Frameworks**
 
 ***• 6.3.1 Rails***
@@ -296,7 +298,7 @@ Ready, we can add packages:
 
 - $ gem install jekyll
 
-***Note:*** For full documentation: [https://jekyllrb.com/docs/home/]( https://jekyllrb.com/docs/home).
+***Note:*** For setting up our GitHub Pages site locally with Jekyll click [here](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/).
 
 **6.5 Version Control Systems**
 
