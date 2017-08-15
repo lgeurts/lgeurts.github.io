@@ -409,11 +409,11 @@ Tint2 features:
 * Panel with taskbar, systray, clock and battery status.
 * Customize color/transparency on font, icon, border and background.
 * Pager like capability: send task from one workspace to another, switching workspaces.
-* Multi-monitor capability: one panel per monitor, shows tasks from current monitor.
+* Multi-monitor: one panel per monitor, show tasks from current monitor.
 * Customize mouse events.
 * Window manager's menu.
 
-If you want to follow my theme, download the oomox-colors.tint2rc [here](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.config/tint2) and drop it in ~/.config/tint2.
+If you want to follow my theme, download my [oomox-colors.tint2rc](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.config/tint2) and drop it in ~/.config/tint2.
 
 **9.3 Window Manager**
 
