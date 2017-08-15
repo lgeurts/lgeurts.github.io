@@ -33,6 +33,7 @@ v1.1
 > * 08/10/17 Adding info for GnuPG, Sublime 3, Ruby, Jekyll.
 > * 08/13/17 Adding info for vim, Gvim.
 > * 08/14/17 Adding info for Python, Pathogen.
+> * 08/15/17 Adding info for Git, Rails.
 
 **2 Before you begin**
 ----------------------
@@ -282,27 +283,58 @@ Ready, we can add packages:
 
 **Note:** Full overview of [pip commands](https://pip.pypa.io/en/stable/user_guide/).
 
-***• 6.2.2 Ruby***
+***• 6.2.2 Ruby on Rails***
 
-- $ apt-get install ruby-full build-essential
+- $ cd ~    
 
-- $ apt-get install ruby-ffi
+Get the installation script:
+- $ curl -sL [https://deb.nodesource.com/setup_6.x](https://deb.nodesource.com/setup_6.x) -o nodesource_setup.sh
 
-**6.3 Frameworks**
+Running the script in ~ (will take some time):
+- $ bash nodesource_setup.sh
 
-***• 6.3.1 Rails***
+After running the setup script, install the Node.js package. 
+- $ apt-get install nodejs
 
-**6.4 Static Web Generators**
+The nodejs package contains the nodejs binary as well as npm. However, in order for some npm packages to work, you will need to install the build-essential package:
+- $ apt-get install build-essential
 
-***• 6.4.1 Jekyll***
+Use the gpg command to contact a key server and request the RVM project's key:
+- $ gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3
 
-- $ gem install jekyll
+Download the RVM installation script:
+ - $ \curl -sSL https://get.rvm.io -o rvm.sh
+
+Pipe the script to bash to install the latest stable Rails version, which also pulls in the associated latest stable release of Ruby:
+- $ cat rvm.sh | bash -s stable --rails
+
+During the installation process, you will be prompted for your password. Enter as requested and RVM will he tools it needs to build and compile Ruby, download the latest version of Ruby, the Ruby on Rails framework, and its dependencies.
+
+When the installation is complete, source the RVM scripts:
+
+- $ source ~/.rvm/scripts/rvm
+
+Check that Ruby is correctly installed:
+
+- $ which ruby
+
+**6.3 Static Web Generators**
+
+***• 6.3.1 Jekyll***
 
 ***Note:*** For setting up our GitHub Pages site locally with Jekyll click [here](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/).
 
-**6.5 Version Control Systems**
+**6.4 Version Control Systems**
 
-***• 6.5.1 Git***
+***• 6.4.1 Git***
+
+- $ apt-get install git-core
+
+- $ git config --global user.name "username" # git user name
+
+- $ git config --global user.email username@example.com # git email address
+
+- $ git config --list # verify settings
 
 **7 Security**
 --------------
