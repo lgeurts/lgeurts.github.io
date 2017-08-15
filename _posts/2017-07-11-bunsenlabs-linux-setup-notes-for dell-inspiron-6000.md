@@ -299,13 +299,13 @@ After running the setup script, install the Node.js package.
 
 - $ apt-get install nodejs
 
-The nodejs package contains nodejs and npm. However, in order for some npm packages to work, you will need to install the build-essential package:
+The nodejs package contains both nodejs and npm. Updating npm to latest:
 
 - $ apt-get install build-essential
 
 Use gpg to contact a key server and request the RVM project's key:
 
-![RCM key](assets/rvm-project-key)
+![RVM key](/assets/rvm-project-key.png)
 
 **Note:** 409B6B1796C275462A1703113804BB82D39DC0E3.
 
@@ -313,9 +313,9 @@ Download the RVM installation script:
 
  - $ \curl -sSL https://get.rvm.io -o rvm.sh
 
-Pipe the script to bash to install the latest Rails version, which also pulls in the associated latest release of Ruby:
+Pipe the script to bash to install Rails and the associated latest release of Ruby:
 
-![Piping RVM](/assets/rvm-pipe)
+![Piping RVM](/assets/rvm-pipe.png)
 
 During the installation process, you'll be prompted for your password. Enter as requested and RVM will he tools it needs to build and compile Ruby, download the latest version of Ruby, the Ruby on Rails framework, and its dependencies.
 
