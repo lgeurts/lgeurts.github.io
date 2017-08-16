@@ -173,7 +173,7 @@ Go back to home and [symlink](https://wiki.debian.org/SymLink) the vimrc file. T
 
 - $ ln -s ~/.vim/vimrc ~/.vimrc
 
-Next step is theming our vim: 
+Next step is theming and changing the layout:
 
 - $ mkdir ~/.vim/colors
 
@@ -183,8 +183,12 @@ Copy my [theme git files](https://github.com/lgeurts/BunsenLabs-Setup/tree/maste
 
 Some syntax highlighting based on file names would be greatly appreciated:
 
-> * filetype plugin indent on
-> * syntax on
+> * filetype on
+> * filetype plugin on
+
+And text formatting:
+
+> * filetype indent on
 
 Now let's download the [Menlo](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.fonts) fonts and add this line:
 
@@ -195,6 +199,7 @@ While we are busy also add these lines:
 > * set lines=35 columns=150 # to open with a given size
 > * set colorcolumn=90 # prevents going to far to the right
 > * set number # adds line numbering
+> * syntax on
 
 It's customizing time! I intend to keep this post short, and therefore you can download the list with my settings from [here](/assets/vim-custom-settings.txt). Update .vimrc as you see fit.
 
