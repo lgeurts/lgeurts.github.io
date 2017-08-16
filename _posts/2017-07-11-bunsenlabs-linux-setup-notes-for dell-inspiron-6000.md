@@ -177,7 +177,7 @@ Next step is theming our vim:
 
 - $ mkdir ~/.vim/colors
 
-Copy my [theme git files](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim/colors) to the colors folder. Edit the .vimrc file, and add this line:
+Copy my [theme git files](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim/colors) to the colors folder. Edit .vimrc and add this line:
 
 > * colorscheme Tomorrow-Night # I love this theme
 
