@@ -34,7 +34,7 @@ v1.1
 > * 08/13/17 Adding info for vim, Gvim.
 > * 08/14/17 Adding info for Python, Pathogen.
 > * 08/15/17 Adding info for Git, Ruby on Rails, Tint2.
-> *
+> * 08/17/17 Adding infor for terminator.
 
 **2 Before you begin**
 ----------------------
