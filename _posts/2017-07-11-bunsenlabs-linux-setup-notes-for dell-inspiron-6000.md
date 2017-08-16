@@ -26,7 +26,7 @@ Changes since the last version:
 
 v1.1
 > * 08/02/17 Reworked the layout.
-> * 08/04/17 Adding info for nftables, screenfetch, iftop, ttyload. 
+> * 08/04/17 Adding info for nftables, screenfetch, iftop, ttyload.
 > * 08/05/17 Adding info for LibreOffice, Claws Mail, mutt, Krita.
 > * 08/07/17 Adding info for PostgreSQL, pgAdmin.
 > * 08/08/17 Adding info for mpd, ncmpcpp, youtube-dl.
@@ -211,7 +211,7 @@ Add this line to the top of your .vimrc:
 
 > * execute pathogen#infect()
 
-**Note:** Read [Romain Lafourcade's](https://github.com/romainl) '[How to use Tim Pope's Pathogen](https://gist.github.com/romainl/9970697)'.
+**Note:** Read [Romain Lafourcade's](https://github.com/romainl) gist '[How to use Tim Pope's Pathogen](https://gist.github.com/romainl/9970697)'.
 
 \*6.1.1.2 Vim plugins\*
 
