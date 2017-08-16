@@ -179,7 +179,7 @@ Next step is theming our vim:
 
 Copy my [theme git files](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim/colors) to the colors folder. Edit the .vimrc file, and add these lines to let vim know that we want syntax highlighting based on file names:
 
-> * filetype on
+> * filetype plugin indent on
 > * syntax on
 > * colorscheme Tomorrow-Night # love this theme
 
@@ -207,6 +207,8 @@ I prefer Pathogen to some of the alternate vim package managers because it's arg
 Add this line to the top of your .vimrc:
 
 > * execute pathogen#infect()
+
+**Note:** [Romain Lafourcade](https://github.com/romainl) wrote a gist explaining [how to use Tim Pope's Pathogen](https://gist.github.com/romainl/9970697).
 
 \*6.1.1.2 Vim plugins\*
 
