@@ -177,11 +177,14 @@ Next step is theming our vim:
 
 - $ mkdir ~/.vim/colors
 
-Copy my [theme git files](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim/colors) to the colors folder. Edit the .vimrc file, and add these lines to let vim know that we want syntax highlighting based on file names:
+Copy my [theme git files](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim/colors) to the colors folder. Edit the .vimrc file, and add this line:
+
+> * colorscheme Tomorrow-Night # I love this theme
+
+Some syntax highlighting based on file names would be greatly appreciated:
 
 > * filetype plugin indent on
 > * syntax on
-> * colorscheme Tomorrow-Night # love this theme
 
 Now let's download the [Menlo](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.fonts) fonts and add this line:
 
