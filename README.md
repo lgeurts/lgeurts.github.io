@@ -1,7 +1,6 @@
 # Read Me
 
-![MIT](/assets/MIT.svg)
-![MIT](/assets/MIT.swg)
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)
 
 This is the personal website of Luc Geurts hosted by [GitHub Pages](http://pages.github.com). You can find it at [lgeurts.github.io](https://lgeurts.github.io).
 
