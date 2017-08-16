@@ -211,7 +211,7 @@ Add this line to the top of your .vimrc:
 
 > * execute pathogen#infect()
 
-**Note:** Read [Romain Lafourcade's](https://github.com/romainl) [how to use Tim Pope's Pathogen](https://gist.github.com/romainl/9970697).
+**Note:** Read [Romain Lafourcade's](https://github.com/romainl) '[How to use Tim Pope's Pathogen](https://gist.github.com/romainl/9970697)'.
 
 \*6.1.1.2 Vim plugins\*
 
