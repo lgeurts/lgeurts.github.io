@@ -1,6 +1,6 @@
 # Read Me
 
-![MIT](MIT.svg)
+![MIT](/assets/MIT.svg)
 
 This is the personal website of Luc Geurts hosted by [GitHub Pages](http://pages.github.com). You can find it at [lgeurts.github.io](https://lgeurts.github.io).
 
