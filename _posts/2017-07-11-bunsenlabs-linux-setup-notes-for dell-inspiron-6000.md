@@ -392,7 +392,7 @@ Displays system information and ASCII version of the Linux distro logo.
 
 ***• 8.2.1 iftop***
 
-System monitor tool that produces a frequently updated list of network connections.
+Tool that produces a frequently updated list of network connections.
 
 ![iftop](/assets/iftop.png)
 
