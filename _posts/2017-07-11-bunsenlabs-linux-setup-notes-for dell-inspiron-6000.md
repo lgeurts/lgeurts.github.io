@@ -221,6 +221,8 @@ Add this line to the top of your .vimrc:
 
 \*6.1.1.2 Vim plugins\*
 
+![vim](/assets/vim.png)
+
 All plugins are on Git. Makes updating to latest version just pulling a master.
 
 For every plugin you need to run:
