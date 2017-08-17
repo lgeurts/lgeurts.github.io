@@ -392,9 +392,15 @@ Displays system information and ASCII version of the Linux distro logo.
 
 ***• 8.2.1 iftop***
 
+System monitor tool that produces a frequently updated list of network connections. By default, the connections are ordered by bandwidth usage, with only the "top" bandwidth consumers shown.
+
+![iftop](/assets/iftop.png)
+
 - $ apt-get install iftop
 
 ***• 8.2.2 ttyload***
+
+Tracks load averages over time on a UNIX(ish) machine.
 
 ![ttyload](/assets/ttyload.png)
 
