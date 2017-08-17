@@ -230,7 +230,7 @@ For every plugin you need to run:
 - $ cd ~/.vim
 - $ git submodule add git@source/pluginname.git bundle/pluginname
 
-Read [this file](assets/vim-plugin-settings.txt) for an example and how to activate plugin settings in .vimrc.
+Read [this file](assets/vim-plugin-settings.txt) for an example and how to activate plugins in .vimrc.
 
 Name          | Link
 ------------- | --------
