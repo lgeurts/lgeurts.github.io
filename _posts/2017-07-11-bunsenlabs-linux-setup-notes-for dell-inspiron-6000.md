@@ -410,6 +410,10 @@ Some eye candy because not everything is just about functionality, right?
 
 Open a terminal, set pointer in screen, right-click and select Preferences. 
 
+![terminator](/assets/terminator-general.png)
+
+![terminator](/assets/terminator-colors.png)
+
 **9.2 System Panel/Taskbar**
 
 ***• 9.2.1 Tint2***
