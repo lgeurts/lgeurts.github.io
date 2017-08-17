@@ -182,7 +182,7 @@ Copy my [theme git files](https://github.com/lgeurts/BunsenLabs-Setup/tree/maste
 
 > * colorscheme Tomorrow-Night # I love this theme
 
-Some syntax highlighting based on file names would be greatly appreciated:
+Some syntax highlighting based on file names would be appreciated:
 
 > * filetype on
 > * filetype plugin on
