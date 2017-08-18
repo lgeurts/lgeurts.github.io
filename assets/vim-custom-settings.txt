@@ -7,7 +7,8 @@ Every time you edit your .vimrc file, if you want to see your changes you have t
 • map <leader>s :source ~/.vimrc<CR>
 Once I add this to my configuration, pressing the leader key followed by s will run the command.
 
-KEEP MORE INFO IN MEMORY TO SPEED THINGS UP
+PERFORMANCE TWEAKING
+• set lazyredraw
 • set hidden
 • set history=100
 
@@ -26,6 +27,9 @@ REMOVE WHITESPACES ON SAVE
 
 HIGHTLIGHT FOUND WORDS IN SEARCH
 • set hlsearch
+
+MAKE SEARCH ACT AS IN A MODERN BROWSER
+• set incsearch
 
 CANCEL SEARCH USING ESCAPE
 • nnoremap <silent> <Esc> :nohlsearch<Bar>:echo<CR>
