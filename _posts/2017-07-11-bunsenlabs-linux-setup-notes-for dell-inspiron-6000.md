@@ -247,7 +247,7 @@ Vim-Ruby      | [https://github.com/vim-ruby](https://github.com/vim-ruby)
 Vim-Rails     | [https://github.com/tpope/vim-rails/](https://github.com/tpope/vim-rails/)
 Multiple Cursors | [https://github.com/terryma/vim-multiple-cursors/](https://github.com/terryma/vim-multiple-cursors/)
 
-**Note:** Lazy? You can always download my [vimrc](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim/).
+**Note:** Lazy? You can always download my latest [vimrc](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim/).
 
 ***• 6.1.2 Gvim***
 
