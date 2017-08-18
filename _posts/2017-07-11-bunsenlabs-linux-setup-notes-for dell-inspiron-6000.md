@@ -329,7 +329,7 @@ When the installation is complete, source the RVM scripts:
 
 - $ source ~/.rvm/scripts/rvm
 
-Check that Ruby is correctly installed:
+A final check that Ruby is correctly installed:
 
 - $ which ruby
 
