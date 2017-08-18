@@ -202,8 +202,7 @@ While we are busy also add these lines:
 > * `set number`
 > * `syntax on`
 
-It's customizing time! I intend to keep this post short, and therefore you can download the list with my settings from [here]
-(/assets/vim-custom-settings.txt).
+It's customizing time! I intend to keep this post short, and therefore you can download the list with my settings from [here](/assets/vim-custom-settings.txt).
 
 **Note:** Lazy? You can always download my latest [vimrc](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim/).
 
