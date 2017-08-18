@@ -180,7 +180,7 @@ Next step is theming and changing the layout:
 
 Copy my [theme git files](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim/colors) to the colors folder. Edit .vimrc and add this line:
 
-> * `colorscheme Tomorrow-Night " I love this theme`
+> * `colorscheme Tomorrow-Night`
 
 Some syntax highlighting based on file names would be appreciated:
 
@@ -193,13 +193,13 @@ And text formatting:
 
 Now let's download the [Menlo](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.fonts) fonts and add this line:
 
-> * `set guifont=Menlo\ Regular:h17 " change size to your liking`
+> * `set guifont=Menlo\ Regular:h17`
 
 While we are busy also add these lines:
 
-> * `set lines=35 columns=150 " to open vim with a given size`
-> * `set colorcolumn=90 " prevents going to far to the right`
-> * `set number " adds line numbering`
+> * `set lines=35 columns=150`
+> * `set colorcolumn=90`
+> * `set number`
 > * `syntax on`
 
 It's customizing time! I intend to keep this post short, and therefore you can download the list with my settings from [here]
