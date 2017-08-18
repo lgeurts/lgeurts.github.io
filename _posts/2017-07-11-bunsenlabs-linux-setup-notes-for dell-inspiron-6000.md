@@ -197,10 +197,10 @@ Now let's download the [Menlo](https://github.com/lgeurts/BunsenLabs-Setup/tree/
 
 While we are busy also add these lines:
 
-> * set lines=35 columns=150 # to open with a given size
-> * set colorcolumn=90 # prevents going to far to the right
-> * set number # adds line numbering
-> * syntax on
+> * `set lines=35 columns=150 # to open with a given size`
+> * `set colorcolumn=90 # prevents going to far to the right`
+> * `set number # adds line numbering`
+> * `syntax on`
 
 It's customizing time! I intend to keep this post short, and therefore you can download the list with my settings from [here]
 (/assets/vim-custom-settings.txt).
