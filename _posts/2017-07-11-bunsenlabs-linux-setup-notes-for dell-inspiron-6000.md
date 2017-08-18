@@ -202,7 +202,10 @@ While we are busy also add these lines:
 > * set number # adds line numbering
 > * syntax on
 
-It's customizing time! I intend to keep this post short, and therefore you can download the list with my settings from [here](/assets/vim-custom-settings.txt). Update .vimrc as you see fit.
+It's customizing time! I intend to keep this post short, and therefore you can download the list with my settings from [here]
+(/assets/vim-custom-settings.txt).
+
+**Note:** Lazy? You can always download my latest [vimrc](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim/).
 
  \*6.1.1.1 Pathogen\*
 
@@ -246,8 +249,6 @@ Endwise       | [https://github.com/tpope/vim-endwise](https://github.com/tpope/
 Vim-Ruby      | [https://github.com/vim-ruby](https://github.com/vim-ruby)
 Vim-Rails     | [https://github.com/tpope/vim-rails/](https://github.com/tpope/vim-rails/)
 Multiple Cursors | [https://github.com/terryma/vim-multiple-cursors/](https://github.com/terryma/vim-multiple-cursors/)
-
-**Note:** Lazy? You can always download my latest [vimrc](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim/).
 
 ***• 6.1.2 Gvim***
 
