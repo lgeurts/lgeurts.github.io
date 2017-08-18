@@ -449,4 +449,6 @@ Fonts, icons, customize rc.xml.
 
 ![Firefox Web Browser](/assets/firefox.png)
 
+Download this homepage for Firefox [here](https://github.com/unix121/homepage).
+
 **YOU ARE DONE**
