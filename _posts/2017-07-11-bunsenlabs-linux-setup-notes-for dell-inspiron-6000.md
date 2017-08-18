@@ -180,26 +180,26 @@ Next step is theming and changing the layout:
 
 Copy my [theme git files](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim/colors) to the colors folder. Edit .vimrc and add this line:
 
-> * colorscheme Tomorrow-Night # I love this theme
+> * `colorscheme Tomorrow-Night " I love this theme`
 
 Some syntax highlighting based on file names would be appreciated:
 
-> * filetype on
-> * filetype plugin on
+> * `filetype on`
+> * `filetype plugin on`
 
 And text formatting:
 
-> * filetype indent on
+> * `filetype indent on`
 
 Now let's download the [Menlo](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.fonts) fonts and add this line:
 
-> * set guifont=Menlo\ Regular:h17 # change size to your liking
+> * `set guifont=Menlo\ Regular:h17 " change size to your liking`
 
 While we are busy also add these lines:
 
-> * `set lines=35 columns=150 # to open with a given size`
-> * `set colorcolumn=90 # prevents going to far to the right`
-> * `set number # adds line numbering`
+> * `set lines=35 columns=150 " to open vim with a given size`
+> * `set colorcolumn=90 " prevents going to far to the right`
+> * `set number " adds line numbering`
 > * `syntax on`
 
 It's customizing time! I intend to keep this post short, and therefore you can download the list with my settings from [here]
@@ -218,7 +218,7 @@ I prefer Pathogen to some of the alternate vim package managers because it's arg
 
 Add this line to the top of your .vimrc:
 
-> * execute pathogen#infect()
+> * `execute pathogen#infect()`
 
 **Note:** Read [Romain Lafourcade's](https://github.com/romainl) gist '[How to use Tim Pope's Pathogen](https://gist.github.com/romainl/9970697)'.
 
