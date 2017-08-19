@@ -144,7 +144,6 @@ Next, read this [How to install and use PostgreSQL 9.4 on Debian 8](https://www.
 ***• 5.1.2 pgAdmin***
 
 pgAdmin is a graphical administration tool for PostgreSQL.
-
  - $ apt-get install pgadmin3
  
 There are forums which discuss a version 4 install on Jessie but I prefer stable, not the latest bleeding edge.
