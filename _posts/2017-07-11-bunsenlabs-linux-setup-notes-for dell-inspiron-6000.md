@@ -416,7 +416,7 @@ Some eye candy because not everything is just about functionality, right?
 
 ***• 9.1.1 Terminator***
 
-Copy the config file from [here](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.config/terminator) and replace default file in ~/.config/terminator. 
+Copy the config from [here](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.config/terminator) and replace the default file in ~/.config/terminator. 
 
 ![terminator](/assets/terminator-general.png)
 
