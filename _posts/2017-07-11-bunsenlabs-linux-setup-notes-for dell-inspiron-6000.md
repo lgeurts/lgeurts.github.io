@@ -247,6 +247,7 @@ Bundler.vim   | [https://github.com/tpope/vim-bundler](https://github.com/tpope/
 Endwise       | [https://github.com/tpope/vim-endwise](https://github.com/tpope/vim-endwise)
 Vim-Ruby      | [https://github.com/vim-ruby](https://github.com/vim-ruby)
 Vim-Rails     | [https://github.com/tpope/vim-rails/](https://github.com/tpope/vim-rails/)
+Dispatch      | [https://github.com/tpope/vim-dispatch](https://github.com/tpope/vim-dispatch)
 Multiple Cursors | [https://github.com/terryma/vim-multiple-cursors/](https://github.com/terryma/vim-multiple-cursors/)
 
 ***• 6.1.2 Gvim***
