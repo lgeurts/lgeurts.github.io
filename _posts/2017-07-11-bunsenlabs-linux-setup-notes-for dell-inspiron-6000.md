@@ -416,34 +416,11 @@ Some eye candy because not everything is just about functionality, right?
 
 ***• 9.1.1 Terminator***
 
-Open a terminal, set pointer in screen, right-click and select Preferences. 
+Copy the terminator config file from [here](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.config/terminator). 
 
 ![terminator](/assets/terminator-general.png)
 
 ![terminator](/assets/terminator-colors.png)
-
-Name          | Color
-------------- | --------
-foreground    | #EAD49B
-background    | #1E272B
-cursorColor   | #EAD49B
-cursor        | #EAD49B
-color0        | #1E272B
-color1        | #685742
-color2        | #9D6A47
-color3        | #B36D43
-color4        | #78824B
-color5        | #D99F57
-color6        | #C9A554
-color7        | #EAD49B
-color9        | #685742
-color10       | #9D6A47
-color11       | #B36D43
-color12       | #78824B
-color13       | #D99F57
-color14       | #C9A554
-color15       | #EAD49B
-color8        | #666666
 
 **9.2 System Panel/Taskbar**
 
