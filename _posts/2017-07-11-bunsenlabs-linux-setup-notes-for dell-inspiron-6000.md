@@ -335,20 +335,20 @@ A final check that Ruby is correctly installed:
 
 - $ which ruby
 
-**6.3 Static Web Generator**
+**6.3 Version Control System**
 
-***• 6.3.1 Jekyll***
-
-For installation and setting up a GitHub Pages site locally with Jekyll click [here](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/).
-
-**6.4 Version Control System**
-
-***• 6.4.1 Git***
+***• 6.3.1 Git***
 
 - $ apt-get install git-core
 - $ git config --global user.name "username"
 - $ git config --global user.email "username@example.com"
 - $ git config --list # verify settings
+
+**6.4 Static Web Generator**
+
+***• 6.4.1 Jekyll***
+
+For installation and setting up a GitHub Pages site locally with Jekyll click [here](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/).
 
 **7 Security**
 --------------
