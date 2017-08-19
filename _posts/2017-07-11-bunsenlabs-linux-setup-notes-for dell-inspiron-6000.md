@@ -344,7 +344,7 @@ A final check that Ruby is correctly installed:
 - $ git config --global user.email "username@example.com"
 - $ git config --list # verify settings
 
-**6.4 Static Web Generator**
+**6.4 Static Site Generator**
 
 ***• 6.4.1 Jekyll***
 
