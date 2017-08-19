@@ -339,7 +339,7 @@ A final check that Ruby is correctly installed:
 
 ***• 6.3.1 Jekyll***
 
-For installation and setting up our GitHub Pages site locally with Jekyll click [here](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/).
+For installation and setting up a GitHub Pages site locally with Jekyll click [here](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/).
 
 **6.4 Version Control System**
 
