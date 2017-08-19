@@ -416,11 +416,13 @@ Some eye candy because not everything is just about functionality, right?
 
 ***• 9.1.1 Terminator***
 
-Copy the terminator config file from [here](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.config/terminator). 
+Copy my terminator config file from [here](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.config/terminator). 
 
 ![terminator](/assets/terminator-general.png)
 
 ![terminator](/assets/terminator-colors.png)
+
+**Note:** If you want to design your own scheme, visit [terminal.sexy](https://terminal.sexy/).
 
 **9.2 System Panel/Taskbar**
 
