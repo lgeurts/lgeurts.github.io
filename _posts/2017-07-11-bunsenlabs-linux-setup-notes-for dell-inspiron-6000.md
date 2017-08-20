@@ -203,7 +203,7 @@ While we are busy also add these lines:
 > * `set number`
 > * `syntax on`
 
-**Note:** You now have a very basic ***configuration***. Visit this [repo](https://github.com/amix/vimrc) for tweaking or simply copy my dotfile (see end of chapter 6).
+**Note:** You now have a very basic *configuration*. Visit this [repo](https://github.com/amix/vimrc) for tweaking or simply copy my dotfile (see end of chapter 6).
 
  \*6.1.1.1 Pathogen\*
 
