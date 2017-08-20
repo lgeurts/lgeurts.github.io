@@ -12,7 +12,7 @@ I was a **#!** user until it's main developer, [Phillip Newborough](https://core
 
 BunsenLabs does not use a traditional desktop like KDE, GNOME or even Xfce. Instead it's an optimized mix of components from various open source projects including most notably the lightweight Openbox window manager, tint2 panel, the Conky system monitor, and Thunar file manager.
 
-The guide is based on [Deuterium](https://www.bunsenlabs.org/installation.html#downloads) which serves as my main coding OS. It offers a speedy, uncluttered Debian experience which (in my opinion) is only equaled by distros as for example [ArchLabs Linux](https://archlabsblog.wordpress.com/) or ~~[CrunchBang++]~~(https://www.crunchbangplusplus.org/).
+The guide is based on [Deuterium](https://www.bunsenlabs.org/installation.html#downloads) which serves as my main coding OS. It offers a speedy, uncluttered Debian experience which (in my opinion) is only equaled by distros as for example [ArchLabs Linux](https://archlabsblog.wordpress.com/) or [CrunchBang++](https://www.crunchbangplusplus.org/).
 
 Here is a rundown of how I configured BunsenLabs to best serve my needs.
 
@@ -31,7 +31,7 @@ v1.1
 > * 08/07/17 Adding PostgreSQL, pgAdmin.
 > * 08/08/17 Adding mpd, ncmpcpp, youtube-dl.
 > * 08/10/17 Adding GnuPG, Sublime Text 3, Jekyll.
-> * 08/13/17 Adding vim, Gvim, Pathogen, Python.
+> * 08/13/17 Adding vim, Pathogen, Gvim, Python, pip.
 > * 08/15/17 Adding Git, Ruby on Rails, Tint2.
 > * 08/17/17 Adding terminator.
 > * 08/20/17 Made multiple adjustments, removed typos.   
