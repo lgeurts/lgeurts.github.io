@@ -218,7 +218,7 @@ Add this line to the top of your .vimrc:
 
 > * `execute pathogen#infect()`
 
-**Note:** Read [Romain Lafourcade's](https://github.com/romainl) gist '[How to use Tim Pope's Pathogen](https://gist.github.com/romainl/9970697)'.
+**Note:** See [Romain Lafourcade's](https://github.com/romainl) gist '[How to use Tim Pope's Pathogen](https://gist.github.com/romainl/9970697)'.
 
 \*6.1.1.2 Vim plugins\*
 
@@ -253,7 +253,7 @@ Multiple Cursors | [https://github.com/terryma/vim-multiple-cursors/](https://gi
 
 Read [this](assets/vim-plugin-settings.txt) for activating Command-T, NerdTree and Git Gutter in .vimrc.
 
-**Note:** Lazy? Download my latest [vimrc](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim/).
+**Note:** [My notes](assets/vim-plugin-settings.txt) for activating Command-T, NerdTree and Git Gutter in .vimrc. Lazy? Download my latest [vimrc](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim/).
 
 ***• 6.1.2 Gvim***
 
