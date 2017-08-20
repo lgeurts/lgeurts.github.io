@@ -204,8 +204,6 @@ While we are busy also add these lines:
 
 It's customizing time! Download a list with custom settings from [here](/assets/vim-custom-settings.txt) or copy my .vimrc.
 
-**Note:** Lazy? You can always download my latest [vimrc](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim/).
-
  \*6.1.1.1 Pathogen\*
 
 Pathogen is a vim package manager that makes your life easier when working with vim: it’s how you can have your fuzzy finders, file trees, and coding tools without drowning in Vimscript. 
@@ -232,7 +230,9 @@ For every plugin you need to run:
 - $ cd ~/.vim
 - $ git submodule add git@source/pluginname.git bundle/pluginname
 
-Example: $ git submodule add git@github.com:vim-ruby/vim-ruby.git bundle/vim-ruby
+As an example, adding the Ruby plugin:
+
+- $ git submodule add git@github.com:vim-ruby/vim-ruby.git bundle/vim-ruby
 
 Name          | Link
 ------------- | --------
@@ -252,7 +252,7 @@ Multiple Cursors | [https://github.com/terryma/vim-multiple-cursors/](https://gi
 
 Read [this](assets/vim-plugin-settings.txt) for activating Command-T, NerdTree and Git Gutter in .vimrc.
 
-.an example and how to activate plugins in .vimrc.
+**Note:** Lazy? You can always download my latest [vimrc](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim/).
 
 ***• 6.1.2 Gvim***
 
