@@ -12,7 +12,7 @@ I was a **#!** user until it's main developer, [Phillip Newborough](https://core
 
 BunsenLabs does not use a traditional desktop like KDE, GNOME or even Xfce. Instead it's an optimized mix of components from various open source projects including most notably the lightweight Openbox window manager, tint2 panel, the Conky system monitor, and Thunar file manager.
 
-The guide is based on [Deuterium](https://www.bunsenlabs.org/installation.html#downloads) which serves as my main coding OS. It offers a speedy, uncluttered Debian experience which (in my opinion) is only equaled by distros as for example [ArchLabs Linux](https://archlabsblog.wordpress.com/) or [CrunchBang++](https://www.crunchbangplusplus.org/).
+The guide is based on [Deuterium](https://www.bunsenlabs.org/installation.html#downloads) which serves as my main coding OS. It offers a speedy, uncluttered Debian experience which (in my opinion) is only equaled by distros as for example [ArchLabs Linux](https://archlabsblog.wordpress.com/) or ~~[CrunchBang++](https://www.crunchbangplusplus.org/).
 
 Here is a rundown of how I configured BunsenLabs to best serve my needs.
 
