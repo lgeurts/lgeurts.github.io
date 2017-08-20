@@ -232,7 +232,7 @@ For every plugin you need to run:
 
 As an example, adding the Ruby plugin:
 
-- $ git submodule add git@github.com:vim-ruby/vim-ruby.git bundle/vim-ruby
+- $ git submodule add git@github.com:vim-ruby/vim-ruby.git bundle /vim-ruby
 
 Name          | Link
 ------------- | --------
