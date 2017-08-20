@@ -27,14 +27,13 @@ Changes since the last version:
 v1.1
 > * 08/02/17 Reworked the layout.
 > * 08/04/17 Adding info for nftables, screenfetch, iftop, ttyload.
-> * 08/05/17 Adding info for LibreOffice, Claws Mail, mutt, Krita.
+> * 08/05/17 Adding info for LibreOffice, Claws Mail, mutt, 'Krita'.
 > * 08/07/17 Adding info for PostgreSQL, pgAdmin.
 > * 08/08/17 Adding info for mpd, ncmpcpp, youtube-dl.
 > * 08/10/17 Adding info for GnuPG, Sublime Text 3, Jekyll.
-> * 08/13/17 Adding info for vim, Gvim.
-> * 08/14/17 Adding info for Python, Pathogen.
+> * 08/13/17 Adding info for vim, Gvim, Pathogen, Python.
 > * 08/15/17 Adding info for Git, Ruby on Rails, Tint2.
-> * 08/17/17 Adding info for terminator.
+> * 08/17/17 Adding info for terminator, .
 
 **2 Before you begin**
 ----------------------
@@ -110,7 +109,7 @@ Obligatory. Just a click away.
 
 ***• 4.3.2 Viewnior***
 
-I don't like the standard BL picture viewer.
+I don't like the standard Mirage picture viewer.
 
 ***Note:*** I am not using this, but if you are looking for a professional open source painting program with full support for graphics tablets, check out [Krita](https://krita.org/en/).
 
