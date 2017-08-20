@@ -1,12 +1,3 @@
-************************************************************************
-<Example>
-
-Adding vim-ruby located at https://github.com/vim-ruby/vim-ruby:
-$ cd ~/.cim
-$ git submodule add git@github.com:vim-ruby/vim-ruby.git bundle/vim-ruby
-
-************************************************************************
-
 COMMAND-T
 To ignore specific files:
 • set wildignore+=*.log,*.sql,*.cache
