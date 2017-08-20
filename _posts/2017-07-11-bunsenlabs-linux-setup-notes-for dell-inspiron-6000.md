@@ -203,7 +203,7 @@ While we are busy also add these lines:
 > * `set number`
 > * `syntax on`
 
-You now have a basic configuration. Next chapter the package manager.
+** Note:** You now have a very basic configuration. I recommend visiting [this repo](https://github.com/amix/vimrc) for tweaking your .vimrc, or copy my dotfile (see end of chapter 6).
 
  \*6.1.1.1 Pathogen\*
 
@@ -224,7 +224,7 @@ Add this line to the top of your .vimrc:
 
 ![vim](/assets/vim.png)
 
-All plugins are on Git which makes updating to the latest version very easy, i.e. pull master.
+All plugins are on Git which makes updating to the latest version very easy, i.e. pulling master.
 
 For every plugin you need to run:
 
