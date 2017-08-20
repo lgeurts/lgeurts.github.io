@@ -170,7 +170,7 @@ To do this, create a .vim repository with a vimrc file:
 - $ touch vimrc
 - $ git init .
 
-[Symlink](https://wiki.debian.org/SymLink) the vimrc file. This way we can (ab)use it while still getting all the advantages of versioning with Git.
+And [symlink](https://wiki.debian.org/SymLink) the vimrc file. This way we can (ab)use it while still getting all the advantages of versioning with Git.
 
 - $ cd ~
 - $ ln -s ~/.vim/vimrc ~/.vimrc
