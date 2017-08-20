@@ -192,7 +192,7 @@ And text formatting:
 
 > * `filetype indent on`
 
-Set fonts to regular [Menlo](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.fonts) with a size 17:
+Set default font to [Menlo](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.fonts) regular with a size 17:
 
 > * `set guifont=Menlo\ Regular:h17`
 
