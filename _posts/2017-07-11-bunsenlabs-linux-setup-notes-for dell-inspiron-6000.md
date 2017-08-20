@@ -41,7 +41,7 @@ v1.1
 
 Set aside at least half a day to complete the basics –after basic installation and update you'll be adding and configuring a ton of extra files.
 
-In rare cases the Intel PRO/2200BG network adapter is not recognized during setup. Just ignore when it wants to download system updates. Same goes for anything related to Bunsen repositories. After install WiFi will work fine, and you can add [the repos](https://forums.bunsenlabs.org/viewtopic.php?id=1526) in /etc/apt/sources.list.
+***Note:*** In rare cases when using a WiFi connection, the Intel PRO/2200BG adapter is not recognized during setup. Just ignore when it wants to download system updates. Same goes for anything related to Bunsen repositories. After install WiFi will work fine, and you can add [the repos](https://forums.bunsenlabs.org/viewtopic.php?id=1526) in /etc/apt/sources.list.
 
 **3 Bunsen install**
 ---------------------
