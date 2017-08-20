@@ -3,7 +3,7 @@ layout: post
 title: Eat, Study, Sleep and Repeat
 read_time: true  
 comments: true
-category:
+category: Certifications
 tags: [ Amazon Web Services ]
 ---
 
