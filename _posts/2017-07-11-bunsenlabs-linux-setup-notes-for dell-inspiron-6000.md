@@ -41,6 +41,8 @@ v1.1
 
 Set aside at least half a day to complete the basics –after basic installation and update you'll be adding and configuring a ton of extra files.
 
+In rare cases the Intel PRO/2200BG network adapter is not recognized during setup. Just ignore when it wants to download system updates. Same goes for anything related to Bunsen repositories. After install WiFi will work fine, and you can add [the repos](https://forums.bunsenlabs.org/viewtopic.php?id=1526) in /etc/apt/sources.list.
+
 **3 Bunsen install**
 ---------------------
 
@@ -203,7 +205,7 @@ While we are busy also add these lines:
 > * `set number`
 > * `syntax on`
 
-**Note:** Now that your vim starts to look better, let’s improve how it functions. Either visit this [repo](https://github.com/amix/vimrc) for further customization (learn while doing), or copy my dotfile (see end of chapter 6).
+***Note:*** Now that your vim starts to look better, let’s improve how it functions. Either visit this [repo](https://github.com/amix/vimrc) for further customization (learn while doing), or copy my dotfile (see end of chapter 6).
 
  \*6.1.1.1 Pathogen\*
 
@@ -218,7 +220,7 @@ Add this line to the top of your .vimrc:
 
 > * `execute pathogen#infect()`
 
-**Note:** See [Romain Lafourcade's](https://github.com/romainl) gist '[How to use Tim Pope's Pathogen](https://gist.github.com/romainl/9970697)'.
+***Note:*** See [Romain Lafourcade's](https://github.com/romainl) gist '[How to use Tim Pope's Pathogen](https://gist.github.com/romainl/9970697)'.
 
 \*6.1.1.2 Vim plugins\*
 
@@ -251,7 +253,7 @@ Vim-Rails     | [https://github.com/tpope/vim-rails/](https://github.com/tpope/v
 Dispatch      | [https://github.com/tpope/vim-dispatch](https://github.com/tpope/vim-dispatch)
 Multiple Cursors | [https://github.com/terryma/vim-multiple-cursors/](https://github.com/terryma/vim-multiple-cursors/)
 
-**Note:** [My notes](assets/vim-plugin-settings.txt) for activating Command-T, NerdTree and Git Gutter in .vimrc. Lazy? Download my latest [vimrc](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim/).
+***Note:*** [My notes](/assets/vim-plugin-settings.txt) for activating Command-T, NerdTree and Git Gutter in .vimrc. Lazy? Download my latest [vimrc](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim/).
 
 ***• 6.1.2 Gvim***
 
@@ -291,7 +293,7 @@ Ready, we can add packages:
 
 - $ pip install packagename
 
-**Note:** Full overview of [pip commands](https://pip.pypa.io/en/stable/user_guide/).
+***Note:*** Full overview of [pip commands](https://pip.pypa.io/en/stable/user_guide/).
 
 ***• 6.2.2 Ruby on Rails***
 
@@ -319,7 +321,7 @@ Use gpg to contact a key server and request the RVM project's key:
 
 ![RVM key](/assets/rvm-project-key.png)
 
-**Note:** 409B6B1796C275462A1703113804BB82D39DC0E3.
+***Note:*** 409B6B1796C275462A1703113804BB82D39DC0E3.
 
 Download the RVM installation script:
 
@@ -426,7 +428,7 @@ Copy the config from [here](https://github.com/lgeurts/BunsenLabs-Setup/tree/mas
 
 ![terminator](/assets/terminator-colors.png)
 
-**Note:** If you want to design your own scheme, visit [terminal.sexy](https://terminal.sexy/).
+***Note:*** If you want to design your own scheme, visit [terminal.sexy](https://terminal.sexy/).
 
 **9.2 System Panel/Taskbar**
 
@@ -448,7 +450,7 @@ Download [oomox-colors.tint2rc](https://github.com/lgeurts/BunsenLabs-Setup/tree
 
 ***• 9.3.1 Openbox***
 
-Fonts, icons, customize rc.xml.
+Fonts, icons, customize rc.xml > window decorations & disable conky.
 
 **9.4 Internet Browser**
 
