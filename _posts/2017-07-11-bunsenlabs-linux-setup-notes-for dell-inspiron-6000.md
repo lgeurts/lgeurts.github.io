@@ -26,14 +26,15 @@ Changes since the last version:
 
 v1.1
 > * 08/02/17 Reworked the layout.
-> * 08/04/17 Adding info for nftables, screenfetch, iftop, ttyload.
-> * 08/05/17 Adding info for LibreOffice, Claws Mail, mutt, 'Krita'.
-> * 08/07/17 Adding info for PostgreSQL, pgAdmin.
-> * 08/08/17 Adding info for mpd, ncmpcpp, youtube-dl.
-> * 08/10/17 Adding info for GnuPG, Sublime Text 3, Jekyll.
-> * 08/13/17 Adding info for vim, Gvim, Pathogen, Python.
-> * 08/15/17 Adding info for Git, Ruby on Rails, Tint2.
-> * 08/17/17 Adding info for terminator, .
+> * 08/04/17 Adding nftables, screenfetch, iftop, ttyload.
+> * 08/05/17 Adding LibreOffice, Claws Mail, mutt, Krita.
+> * 08/07/17 Adding PostgreSQL, pgAdmin.
+> * 08/08/17 Adding mpd, ncmpcpp, youtube-dl.
+> * 08/10/17 Adding GnuPG, Sublime Text 3, Jekyll.
+> * 08/13/17 Adding vim, Gvim, Pathogen, Python.
+> * 08/15/17 Adding Git, Ruby on Rails, Tint2.
+> * 08/17/17 Adding terminator.
+> * 08/20/17 Made multiple adjustments, removed typos.   
 
 **2 Before you begin**
 ----------------------
