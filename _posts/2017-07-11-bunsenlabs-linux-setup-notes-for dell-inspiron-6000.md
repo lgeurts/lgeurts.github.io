@@ -234,8 +234,6 @@ For every plugin you need to run:
 
 Example: $ git submodule add git@github.com:vim-ruby/vim-ruby.git bundle/vim-ruby
 
-Read [this file](assets/vim-plugin-settings.txt) for an example and how to activate plugins in .vimrc.
-
 Name          | Link
 ------------- | --------
 Command-T     | [https://github.com/wincent/command-t/](https://github.com/wincent/command-t/)
@@ -251,6 +249,10 @@ Vim-Ruby      | [https://github.com/vim-ruby](https://github.com/vim-ruby)
 Vim-Rails     | [https://github.com/tpope/vim-rails/](https://github.com/tpope/vim-rails/)
 Dispatch      | [https://github.com/tpope/vim-dispatch](https://github.com/tpope/vim-dispatch)
 Multiple Cursors | [https://github.com/terryma/vim-multiple-cursors/](https://github.com/terryma/vim-multiple-cursors/)
+
+Read [this](assets/vim-plugin-settings.txt) for activating Command-T, NerdTree and Git Gutter in .vimrc.
+
+.an example and how to activate plugins in .vimrc.
 
 ***• 6.1.2 Gvim***
 
