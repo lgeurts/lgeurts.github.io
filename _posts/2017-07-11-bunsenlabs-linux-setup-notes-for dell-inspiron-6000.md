@@ -202,7 +202,7 @@ While we are busy also add these lines:
 > * `set number`
 > * `syntax on`
 
-It's customizing time! Download a list with custom settings from [here](/assets/vim-custom-settings.txt) or copy my .vimrc.
+You now have a basic configuration. Next chapter the plugins.
 
  \*6.1.1.1 Pathogen\*
 
@@ -230,7 +230,7 @@ For every plugin you need to run:
 - $ cd ~/.vim
 - $ git submodule add git@source/pluginname.git bundle/pluginname
 
-As an example, adding the Ruby plugin:
+For example, adding the Vim-Ruby plugin:
 
 - $ git submodule add git@github.com:vim-ruby/vim-ruby.git bundle/vim -ruby
 
