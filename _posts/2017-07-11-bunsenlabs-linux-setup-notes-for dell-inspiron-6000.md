@@ -224,7 +224,7 @@ Add this line to the top of your .vimrc:
 
 ![vim](/assets/vim.png)
 
-All plugins are on Git which makes updating to the latest version as easy as just pulling master.
+All plugins are on Git which makes updating to the latest version as easy as pull master.
 
 For every plugin you need to run:
 
