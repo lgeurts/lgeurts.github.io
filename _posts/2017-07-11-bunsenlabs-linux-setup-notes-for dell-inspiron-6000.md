@@ -192,7 +192,7 @@ And text formatting:
 
 > * `filetype indent on`
 
-Telling vim to use [Menlo](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.fonts) fonts with size 17:
+Set fonts to regular [Menlo](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.fonts) with a size 17:
 
 > * `set guifont=Menlo\ Regular:h17`
 
