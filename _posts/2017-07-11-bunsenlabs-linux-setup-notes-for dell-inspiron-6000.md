@@ -202,7 +202,7 @@ While we are busy also add these lines:
 > * `set number`
 > * `syntax on`
 
-It's customizing time! I intend to keep this post short, and therefore you can download the list with my settings from [here](/assets/vim-custom-settings.txt).
+It's customizing time! Download a list with custom settings from [here](/assets/vim-custom-settings.txt) or copy my .vimrc.
 
 **Note:** Lazy? You can always download my latest [vimrc](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim/).
 
@@ -231,6 +231,8 @@ For every plugin you need to run:
 
 - $ cd ~/.vim
 - $ git submodule add git@source/pluginname.git bundle/pluginname
+
+Example: $ git submodule add git@github.com:vim-ruby/vim-ruby.git bundle/vim-ruby
 
 Read [this file](assets/vim-plugin-settings.txt) for an example and how to activate plugins in .vimrc.
 
