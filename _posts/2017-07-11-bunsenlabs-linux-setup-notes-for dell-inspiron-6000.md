@@ -191,7 +191,7 @@ And text formatting:
 
 > * `filetype indent on`
 
-Now let's download the [Menlo](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.fonts) fonts and add this line:
+Tell vim to use [Menlo](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.fonts) fonts with size 17:
 
 > * `set guifont=Menlo\ Regular:h17`
 
@@ -202,7 +202,7 @@ While we are busy also add these lines:
 > * `set number`
 > * `syntax on`
 
-You now have a basic configuration. Next chapter the plugins.
+You now have a basic configuration. Next chapter the package manager.
 
  \*6.1.1.1 Pathogen\*
 
@@ -223,7 +223,7 @@ Add this line to the top of your .vimrc:
 
 ![vim](/assets/vim.png)
 
-All plugins are on Git. Makes updating to latest version just pulling a master.
+All plugins are on Git which makes updating to the latest version as easy as just pulling master.
 
 For every plugin you need to run:
 
