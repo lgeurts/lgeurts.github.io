@@ -170,8 +170,9 @@ To do this, create a .vim repository with a vimrc file:
 - $ touch vimrc
 - $ git init .
 
-Go back to home and [symlink](https://wiki.debian.org/SymLink) the vimrc file. This way we use it normally while still getting all the advantages of versioning with Git.
+[Symlink](https://wiki.debian.org/SymLink) the vimrc file. This way we can (ab)use it while still getting all the advantages of versioning with Git.
 
+- $ cd ~
 - $ ln -s ~/.vim/vimrc ~/.vimrc
 
 Next step is theming and changing the layout:
