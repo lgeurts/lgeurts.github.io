@@ -29,10 +29,10 @@ v1.1
 > * 08/04/17 Adding nftables, screenfetch, iftop, ttyload.
 > * 08/05/17 Adding LibreOffice, Claws Mail, mutt, Krita.
 > * 08/07/17 Adding PostgreSQL, pgAdmin.
-> * 08/08/17 Adding mpd, ncmpcpp, youtube-dl.
+> * 08/08/17 Adding mpd, ncmpcpp, curl, youtube-dl.
 > * 08/10/17 Adding GnuPG, Sublime Text 3, Jekyll.
 > * 08/13/17 Adding vim, Pathogen, Gvim, Python, pip.
-> * 08/15/17 Adding Git, Ruby on Rails, Tint2.
+> * 08/15/17 Adding Git, Node.js, Ruby on Rails, Tint2.
 > * 08/17/17 Adding terminator.
 > * 08/20/17 Made multiple adjustments, removed typos.   
 
@@ -130,7 +130,7 @@ Probably the best free ncurses mpd client ([screenshot](http://pre00.deviantart.
 
 ***• 4.4.3 YouTube-dl***
 
-- $ apt-get install curl # command-line tool for transferring data
+- $ apt-get install [curl](https://curl.haxx.se/) # command-line tool for transferring data
 - $ curl -L [https://yt-dl.org/downloads/latest/youtube-dl](https://yt-dl.org/downloads/latest/youtube-dl) -o /usr/local/bin/ youtube-dl
 - $ chmod a+rx /usr/local/bin/youtube-dl
 
@@ -325,7 +325,7 @@ Use gpg to contact a key server and request the RVM project's key:
 
 Download the RVM installation script:
 
- - $ \curl -sSL https://get.rvm.io -o rvm.sh
+ - $ curl -sSL https://get.rvm.io -o rvm.sh
 
 Pipe the script to bash to install Rails and the associated latest release of Ruby:
 
