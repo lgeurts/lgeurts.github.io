@@ -205,7 +205,7 @@ While we are busy also add these lines:
 > * `set number`
 > * `syntax on`
 
-***Note:*** Now that your vim starts to look better, let’s improve how it functions. Either visit this [repo](https://github.com/amix/vimrc) for further customization (learn while doing), or copy my dotfile (see end of chapter 6).
+***Note:*** Now that your vim starts to look better, let’s improve how it functions. Either visit this [repo](https://github.com/amix/vimrc) for further customization (learn while doing), or copy my dotfile (see end of sub 6.1.1.2).
 
  \*6.1.1.1 Pathogen\*
 
