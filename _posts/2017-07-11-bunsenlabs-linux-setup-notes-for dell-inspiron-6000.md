@@ -287,7 +287,7 @@ Now we can install [pip](https://en.wikipedia.org/wiki/Pip_%28package_manager%29
 
 The Debian pip version can be outdated. Let's check for an upgrade:
 
-- $ pip install - -upgrade pip
+- $ pip install --upgrade pip
 
 Ready, we can add packages:
 
