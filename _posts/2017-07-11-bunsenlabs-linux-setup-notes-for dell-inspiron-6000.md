@@ -287,7 +287,7 @@ Now we can install [pip](https://en.wikipedia.org/wiki/Pip_%28package_manager%29
 
 The Debian pip version can be outdated. Let's check for an upgrade:
 
-- $ pip install --upgrade pip
+- $ pip install --upgrade pip # -- 2x -
 
 Ready, we can add packages:
 
@@ -346,9 +346,9 @@ A final check that Ruby is correctly installed:
 ***• 6.3.1 Git***
 
 - $ apt-get install git-core
-- $ git config --global user.name "username"
-- $ git config --global user.email "username@example.com"
-- $ git config --list # verify settings
+- $ git config --global user.name "username" # -- 2x -
+- $ git config --global user.email "username@example.com" # -- 2x -
+- $ git config --list # verify settings # -- 2x -
 
 **6.4 Static Site Generator**
 
