@@ -233,7 +233,7 @@ For every plugin you need to run:
 - $ cd ~/.vim
 - $ git submodule add git@source/pluginname.git bundle/pluginname
 
-For example, adding the Vim-Ruby plugin:
+For example, adding the vim-ruby plugin:
 
 - $ git submodule add git@github.com:vim-ruby/vim-ruby.git bundle/vim -ruby
 
