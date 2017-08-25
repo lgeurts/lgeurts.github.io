@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Linux kernel, how does it work?
+title: The Linux kernel, babble for non-programmers
 read_time: true  
 comments: true
 category: Open Source
