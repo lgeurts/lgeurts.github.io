@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Eat, Study, Sleep and Repeat
+title: The Linux kernel, how does it work?
 read_time: true  
 comments: true
-category: 
+category: Open Source
 tags: [ Linux ]
 ---
 
