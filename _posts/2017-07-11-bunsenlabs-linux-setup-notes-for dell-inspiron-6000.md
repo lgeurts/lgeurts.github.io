@@ -343,7 +343,7 @@ A final check that Ruby is correctly installed:
 
 - $ which ruby
 
-***Note:*** Robby Russell wrote a [script](https://github.com/robbyrussell/laptop) that transforms your laptop in a rails development machine. Use at your own risk.
+***Note:*** Robby Russell wrote a [script](https://github.com/robbyrussell/laptop) that transforms your Jessie laptop in a rails development machine. Use at your own risk.
 
 **6.3 Version Control System**
 
