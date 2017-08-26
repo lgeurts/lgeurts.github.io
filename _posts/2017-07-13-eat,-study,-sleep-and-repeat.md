@@ -4,7 +4,7 @@ title: Eat, Study, Sleep and Repeat
 read_time: true  
 comments: true
 category: Cloud Computing  
-tags: [ Amazon, Cerification ]
+tags: [ Certifications ]
 ---
 
 Going for AWS Certified SysOps Administrator and Certified Solutions Architect certs.
