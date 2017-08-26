@@ -41,7 +41,7 @@ v1.1
 **2 Before you begin**
 ----------------------
 
-Set aside at least half a day to complete the basics; after basic installation and updates you'll be adding and configuring a ton of extra files.
+Set aside at least half a day to complete the basics; you'll be adding and configuring a ton of extra files.
 
 As a good practice, before installation I always first boot the system from Live USB or DVD and download/run [lshw](https://packages.debian.org/search?keywords=lshw).
 
@@ -410,7 +410,7 @@ Tool that produces a frequently updated list of network connections.
 
 - $ apt-get install iftop
 
-***Note:*** Apt-get [nicstat](https://blogs.oracle.com/timc/nicstat-the-solaris-and-linux-network-monitoring-tool-you-did-not-know-you-needed) for scripted network stat reports. 
+***Note:*** Add [nicstat](https://blogs.oracle.com/timc/nicstat-the-solaris-and-linux-network-monitoring-tool-you-did-not-know-you-needed) for scripting network stat reports. 
 
 ***• 8.2.2 ttyload***
 
