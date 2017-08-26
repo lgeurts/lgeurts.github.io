@@ -8,3 +8,4 @@ tags: Books
 ---
 
 ![Python Third Edition](/assets/python-book.jpg)
+
