@@ -257,7 +257,7 @@ Rails         | [https://github.com/tpope/vim-rails/](https://github.com/tpope/v
 Dispatch      | [https://github.com/tpope/vim-dispatch](https://github.com/tpope/vim-dispatch)
 Multiple Cursors | [https://github.com/terryma/vim-multiple-cursors/](https://github.com/terryma/vim-multiple-cursors/)
 
-***Note:*** My [memo](/assets/vim-plugin-settings.txt) for activating Command-T, NerdTree and Git Gutter in .vimrc.           Lazy? Download my latest [dotfile](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim/).
+***Note:*** My [memo](/assets/vim-plugin-settings.txt) for activating Command-T, NerdTree and Git Gutter in .vimrc.           Lazy? Download my latest [config](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim/).
 
 ***• 6.1.2 Gvim***
 
