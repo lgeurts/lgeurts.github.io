@@ -35,7 +35,8 @@ v1.1
 > * 08/13/17 Adding vim, Pathogen, Gvim, Python, pip.
 > * 08/15/17 Adding Git, Node.js, Ruby on Rails, Tint2.
 > * 08/17/17 Adding terminator.
-> * 08/20/17 Made multiple adjustments, removed typos.   
+> * 08/20/17 Made multiple adjustments, removed typos.
+> * 08/26/17 Adding nicstat, lshw. 
 
 **2 Before you begin**
 ----------------------
@@ -406,6 +407,8 @@ Tool that produces a frequently updated list of network connections.
 ![iftop](/assets/iftop.png)
 
 - $ apt-get install iftop
+
+***Note:*** Apt-get [nicstat](https://blogs.oracle.com/timc/nicstat-the-solaris-and-linux-network-monitoring-tool-you-did-not-know-you-needed) for scripted network stat reports. 
 
 ***• 8.2.2 ttyload***
 
