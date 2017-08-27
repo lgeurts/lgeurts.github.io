@@ -430,8 +430,6 @@ Some eye candy because not everything is just about functionality, right?
 
 Copy the config from [here](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.config/terminator) and replace the default file in ~/.config/terminator. 
 
-![terminator](/assets/terminator-general.png)
-
 ![terminator](/assets/terminator-colors.png)
 
 ***Note:*** If you want to design your own scheme, visit [terminal.sexy](https://terminal.sexy/).
