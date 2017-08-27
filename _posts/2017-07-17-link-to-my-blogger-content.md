@@ -4,7 +4,7 @@ title: Link to my Blogger content
 read_time: true  
 comments: false
 category: Social Media
-tags: [ Personal WebLogs ]
+tags: [ Personal WebLog ]
 ---
 
 MSFT oriented, for the moment obsolete: [bitcruncher.blogspot.com](https://bitcruncher.blogspot.com).
