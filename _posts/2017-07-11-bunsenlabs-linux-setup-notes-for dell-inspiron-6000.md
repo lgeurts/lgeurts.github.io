@@ -422,6 +422,7 @@ Tracks load averages over time on a UNIX(ish) machine.
 
 **9 Theming your Openbox desktop**
 ----------------------------------
+
 Some eye candy because not everything is just about functionality, right?
 
 **9.1 Terminal Colors**
