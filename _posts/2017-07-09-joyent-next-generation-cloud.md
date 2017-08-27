@@ -3,8 +3,8 @@ layout: post
 title: Spin up a Docker dev/test environment on bare metal in 60 minutes or less
 read_time: true  
 comments: true
-category: Cloud Computing
-tags: DevOps 
+category: Open Source
+tags: [ Cloud Computing ] 
 ---
 
 [Joyent's](https://www.joyent.com/) public and private cloud, free for use as open source.
