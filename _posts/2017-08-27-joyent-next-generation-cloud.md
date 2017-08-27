@@ -10,4 +10,3 @@ tags: DevOps
 [Joyent's](https://www.joyent.com/) public cloud is open source and available for anybody to install.
 
 ![Triton](https://www.joyent.com/content/blog/20150727-spin-up-a-docker-dev-test-environment-in-60-minutes-or-less/portable-dc.jpg)
-
