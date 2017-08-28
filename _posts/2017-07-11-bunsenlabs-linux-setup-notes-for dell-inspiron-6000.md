@@ -274,7 +274,7 @@ Multiple Cursors | [https://github.com/terryma/vim-multiple-cursors/](https://gi
 
 ***• 6.2.1 Python***
 
-Jessie ships with both Python 2 **and** Python 3 pre-installed. Let’s update and upgrade the system:
+Jessie ships with both **Python 2** and **Python 3** pre-installed. Let’s update and upgrade the system:
 
 - $ apt-get update
 - $ apt-get -y upgrade 
