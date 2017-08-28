@@ -295,15 +295,12 @@ We need a few more packages and development tools to ensure that we have a robus
 
 - $ apt-get install build-essential libssl-dev libffi-dev python-dev
 
-Here comes the tricky part, as probably version 2.7 is set as default:
+Here comes the tricky part as probably version 2.7 is set as default:
 
 - $ python -V
-
-Wich results in something like this:
-
 * `Python 2.7.9`
 
-Using the update-alternatives command to set 3.4 as the new default:
+I will use the update-alternatives command to set 3.4 as the new default:
 
 - $ update-alternatives --install /usr/bin/python python /usr/bin/python2.7 1
 - $ update-alternatives --install /usr/bin/python python /usr/bin/python3.4 2
@@ -319,9 +316,9 @@ Next, we can list all python alternatives:
 * `/usr/bin/python2.7`
 * `/usr/bin/python3.4`
 
-From now on, we can switch between the listed python versions by entering a selection number: 
+From now on, we can switch between the python versions by entering a selection number: 
 
-- $ update-alternatives --config python -- equals 2 -
+- $ update-alternatives --config python # -- equals 2 -
 
 ***• 6.2.2 Ruby on Rails***
 
