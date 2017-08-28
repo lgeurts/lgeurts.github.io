@@ -274,60 +274,52 @@ Multiple Cursors | [https://github.com/terryma/vim-multiple-cursors/](https://gi
 
 ***• 6.2.1 Python***
 
-Debian 8 ships with both Python 3 and Python 2 pre-installed. To make sure that our versions are up-to-date, let’s update and upgrade the system:
+Debian 8 ships with both Python 3 and Python 2 pre-installed. Let’s update and upgrade the system:
 
 - $ apt-get update
 - $ apt-get -y upgrade 
 
-Once the process is complete, we can check the version of Python 3 that is installed in the system by typing:
+Once the process is complete, we check the Python 3 version by typing:
 
 - $ python3 -V
 
 Output should look similar like this:
 
-> * `Python 3.4.2`
+* `Python 3.4.2`
 
 Now we can install [pip](https://en.wikipedia.org/wiki/Pip_%28package_manager%29) using the following command:
 
 - $ apt-get install -y python3-pip
 
-Once installed you can fetch Python packages by typing:
-
-- $ pip3 install package_name
-
-***Note:*** Full overview of [pip commands](https://pip.pypa.io/en/stable/user_guide/).
-
 We need a few more packages and development tools to ensure that we have a robust set-up for our new programming environment:
 
 - $ apt-get install build-essential libssl-dev libffi-dev python-dev
 
-Now comes the tricky part, as you probably have version 2.7 set as default. Let's check if we are correct:
+Here comes the tricky part, as probably version 2.7 is set as default:
 
 - $ python -V
 
-Wich results in my case in something like this:
+Wich results in something like this:
 
-> * `Python 2.7.9`
+* `Python 2.7.9`
 
-Presuming version 3.4 is what we want as a standard, we have to use the update-alternatives command:
+Using the update-alternatives command to set 3.4 as the new default:
 
 - $ update-alternatives --install /usr/bin/python python /usr/bin/python2.7 1
 - $ update-alternatives --install /usr/bin/python python /usr/bin/python3.4 2
 
-Do you see the numbers 1 and 2 after the commands? The one with the highest number is our new default python version. 
+Do you see the numbers 1 and 2 after the commands? The one with the higher number is our new default python version. 
 
 - $ python -V 
-
-> * `Python 3.4.2`
+* `Python 3.4.2`
 
 Next, we can list all python alternatives:
 
 - $ update-alternatives --list python # -- equals 2 -
+* `/usr/bin/python2.7`
+* `/usr/bin/python3.4`
 
-> * `/usr/bin/python2.7`
-> * `/usr/bin/python3.4`
-
-From now on, we can switch between the listed python alternative versions using below command and entering a selection number: 
+From now on, we can switch between the listed python versions by entering a selection number: 
 
 - $ update-alternatives --config python -- equals 2 -
 
