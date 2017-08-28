@@ -274,7 +274,7 @@ Multiple Cursors | [https://github.com/terryma/vim-multiple-cursors/](https://gi
 
 ***• 6.2.1 Python***
 
-Debian 8 ships with both Python 3 and Python 2 pre-installed. Let’s update & upgrade the system:
+Jessie ships with both Python 3 and Python 2 pre-installed. Let’s update and upgrade the system:
 
 - $ apt-get update
 - $ apt-get -y upgrade 
@@ -282,7 +282,7 @@ Debian 8 ships with both Python 3 and Python 2 pre-installed. Let’s update & u
 Once the process is complete, we check the Python 3 version by typing:
 
 - $ python3 -V
-  * Python 3.4.2
+  * *Python 3.4.2*
 
 Now we can install [pip](https://en.wikipedia.org/wiki/Pip_%28package_manager%29) using the following command:
 
@@ -292,26 +292,26 @@ We need a few more packages and development tools to ensure that we have a robus
 
 - $ apt-get install build-essential libssl-dev libffi-dev python-dev
 
-Here comes the tricky part as probably version 2.7 is set as default:
+Here comes the tricky part as probably version 2.7 is system default:
 
 - $ python -V
-  * Python 2.7.9
+  * *Python 2.7.9*
 
 I will use the update-alternatives command to set 3.4 as the new default:
 
 - $ update-alternatives --install /usr/bin/python python /usr/bin/python2.7 1
 - $ update-alternatives --install /usr/bin/python python /usr/bin/python3.4 2
 
-Do you see the numbers 1 and 2 after the commands? The one with the higher number is our new default python version. 
+Do you see the numbers 1 and 2 after the commands? The one with the higher number is our new default Python version. 
 
 - $ python -V 
-  * Python 3.4.2
+  * *Python 3.4.2*
 
-Next, we can list all python alternative
+Listing all Python alternatives:
 
 - $ update-alternatives --list python 
-  * /usr/bin/python2.7
-  * /usr/bin/python3.4
+  * */usr/bin/python2.7*
+  * */usr/bin/python3.4*
 
 From now on, we can switch between versions by entering a selection number: 
 
