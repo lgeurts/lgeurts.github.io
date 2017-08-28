@@ -274,28 +274,62 @@ Multiple Cursors | [https://github.com/terryma/vim-multiple-cursors/](https://gi
 
 ***• 6.2.1 Python***
 
-Python comes pre-installed. Update and add essential packages:
+Debian 8 ships with both Python 3 and Python 2 pre-installed. To make sure that our versions are up-to-date, let’s update and upgrade the system:
 
 - $ apt-get update
-- $ apt-get install python-dev build-essential 
+- $ apt-get -y upgrade 
 
-![Python update](/assets/python.png)
+Once the process is complete, we can check the version of Python 3 that is installed in the system by typing:
+
+- $ python3 -V
+
+Output should look similar like this:
+
+> * `Python 3.4.2`
 
 Now we can install [pip](https://en.wikipedia.org/wiki/Pip_%28package_manager%29) using the following command:
 
-- $ apt-get install python-pip
+- $ apt-get install -y python3-pip
 
-![pip](/assets/pip.png)
+Once installed you can fetch Python packages by typing:
 
-The Debian pip version can be outdated. Let's check for an upgrade:
-
-- $ pip install --upgrade pip # -- 2x -
-
-Ready, we can add packages:
-
-- $ pip install packagename
+- $ pip3 install package_name
 
 ***Note:*** Full overview of [pip commands](https://pip.pypa.io/en/stable/user_guide/).
+
+We need a few more packages and development tools to ensure that we have a robust set-up for our new programming environment:
+
+- $ apt-get install build-essential libssl-dev libffi-dev python-dev
+
+Now comes the tricky part, as you probably have version 2.7 set as default. Let's check if we are correct:
+
+- $ python -V
+
+Wich results in my case in something like this:
+
+> * `Python 2.7.9`
+
+Presuming version 3.4 is what we want as a standard, we have to use the update-alternatives command:
+
+- $ update-alternatives --install /usr/bin/python python /usr/bin/python2.7 1
+- $ update-alternatives --install /usr/bin/python python /usr/bin/python3.4 2
+
+Do you see the numbers 1 and 2 after the commands? The one with the highest number is our new default python version. 
+
+- $ python -V 
+
+> * `Python 3.4.2`
+
+Next, we can list all python alternatives:
+
+- $ update-alternatives --list python # -- equals 2 -
+
+> * `/usr/bin/python2.7`
+> * `/usr/bin/python3.4`
+
+From now on, we can switch between the listed python alternative versions using below command and entering a selection number: 
+
+- $ update-alternatives --config python -- equals 2 -
 
 ***• 6.2.2 Ruby on Rails***
 
