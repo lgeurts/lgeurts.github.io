@@ -132,7 +132,7 @@ Probably the best free ncurses mpd client ([screenshot](http://pre00.deviantart.
 
 ***• 4.4.3 YouTube-dl***
 
-- $ apt-get install [curl](https://curl.haxx.se/) # command-line tool for transferring data
+- $ apt-get install [curl](https://packages.debian.org/jessie/curl) # command-line tool for transferring data
 - $ curl -L [https://yt-dl.org/downloads/latest/youtube-dl](https://yt-dl.org/downloads/latest/youtube-dl) -o /usr/local/bin/ youtube-dl
 - $ chmod a+rx /usr/local/bin/youtube-dl
 
@@ -284,9 +284,9 @@ Once the process is complete, we check the Python 3 version by typing:
 - $ python3 -V
   * *Python 3.4.2*
 
-Now we can install [pip](https://en.wikipedia.org/wiki/Pip_%28package_manager%29) using the following command:
+Now we can install [pip](https://packages.debian.org/jessie/python-pip) using the following command:
 
-- $ apt-get install -y python3-pip
+- $ apt-get install -y [python3-pip](https://packages.debian.org/jessie/python3-pip)
 
 We need a few more packages and development tools to ensure that we have a robust set-up for our new programming environment:
 
