@@ -299,8 +299,8 @@ Here comes the tricky part as probably version 2.7 is system default:
 
 I will use the update-alternatives command to set 3.4 as the new default:
 
-- $ update-alternatives --install /usr/bin/python python /usr/bin/python2.7 
- 1 # lowest number
+- $ update-alternatives --install /usr/bin/python python /usr/bin/python2.7
+1 # lowest number
 - $ update-alternatives --install /usr/bin/python python /usr/bin/python3.4
 2 # higher number which will prevail
 
