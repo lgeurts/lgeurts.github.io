@@ -370,9 +370,9 @@ A final check that Ruby is correctly installed:
 ***• 6.3.1 Git***
 
 - $ apt-get install git-core
-- $ git config --global user.name "username" # -- 2x -
-- $ git config --global user.email "username@example.com" # -- 2x -
-- $ git config --list # verify settings # -- 2x -
+- $ git config --global user.name "username"
+- $ git config --global user.email "username@example.com"
+- $ git config --list # verify settings
 
 **6.4 Static Site Generator**
 
