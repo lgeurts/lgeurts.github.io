@@ -313,7 +313,7 @@ Listing all Python alternatives:
   * */usr/bin/python2.7*
   * */usr/bin/python3.4*
 
-From now on, we can switch between versions by entering a selection number. Just type the below command and choose.
+From now on, we can switch between versions by entering a selection number. Just type the below command and pick the one you want.
 
 - $ update-alternatives --config python
 
