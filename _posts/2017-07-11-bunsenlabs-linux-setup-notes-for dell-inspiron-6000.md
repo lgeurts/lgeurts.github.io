@@ -430,8 +430,6 @@ Tool that produces a frequently updated list of network connections.
 
 - $ apt-get install iftop
 
-***Note:*** Add [nicstat](https://blogs.oracle.com/timc/nicstat-the-solaris-and-linux-network-monitoring-tool-you-did-not-know-you-needed) for scripting network stat reports. 
-
 ***• 8.2.2 ttyload***
 
 Tracks load averages over time on a UNIX(ish) machine.
@@ -486,3 +484,8 @@ Fonts, icons, customize rc.xml > window decorations & disable conky.
 Download this homepage for Firefox [here](https://github.com/unix121/homepage).
 
 **YOU ARE DONE**
+
+**10 Extras**
+-------------
+
+- $ apt-get install [geany-plugins](https://packages.debian.org/jessie/geany-plugins) [ranger](https://packages.debian.org/jessie/utils/ranger) [nicstat](https://packages.debian.org/jessie/nicstat)
