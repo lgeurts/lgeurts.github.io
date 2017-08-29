@@ -36,12 +36,13 @@ v1.1
 > * 08/15/17 Adding Git, Node.js, Ruby on Rails, Tint2.
 > * 08/17/17 Adding terminator.
 > * 08/20/17 Made multiple adjustments, removed typos.
-> * 08/26/17 Adding nicstat, lshw.
+> * 08/26/17 Adding lshw.
+> * 08/29/17 Adding Geany-plugins, ranger, nicstat.
 
 **2 Before you begin**
 ----------------------
 
-As a good practice, before installation I always first boot the system from Live USB or DVD and download/run [lshw](https://packages.debian.org/search?keywords=lshw) to check the hardware components.
+As a good practice, before installation I always first boot the system from Live USB or DVD and download/run [lshw](https://packages.debian.org/jessie/utils/lshw) to check the hardware components.
 
 In rare cases when using a WiFi connection to connect to the internet, the Pro 2200BG adapter is not recognized during setup. Just ignore any system update. Same for anything related to Bunsen repositories; after install WiFi works fine, and you can add [the repos](https://forums.bunsenlabs.org/viewtopic.php?id=1526) manually in /etc/apt/sources.list.
 
@@ -483,9 +484,11 @@ Fonts, icons, customize rc.xml > window decorations & disable conky.
 
 Download this homepage for Firefox [here](https://github.com/unix121/homepage).
 
-**YOU ARE DONE**
-
 **10 Extras**
 -------------
 
+Packages I use on a daily basis but often forget to install in a new setup:
+
 - $ apt-get install [geany-plugins](https://packages.debian.org/jessie/geany-plugins) [ranger](https://packages.debian.org/jessie/utils/ranger) [nicstat](https://packages.debian.org/jessie/nicstat)
+
+**YOU ARE DONE**
