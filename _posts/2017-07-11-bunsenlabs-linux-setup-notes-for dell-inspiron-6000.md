@@ -36,8 +36,7 @@ v1.1
 > * 08/15/17 Adding Git, Node.js, Ruby on Rails, Tint2.
 > * 08/17/17 Adding terminator.
 > * 08/20/17 Made multiple adjustments, removed typos.
-> * 08/26/17 Adding lshw.
-> * 08/29/17 Adding Geany-plugins, ranger, nicstat.
+> * 08/29/17 Adding Geany-plugins, ranger, nicstat, lshw.
 
 **2 Before you begin**
 ----------------------
@@ -406,7 +405,7 @@ Use this basic firewall in addition to restrictive rules on your router!
 
 ***• 7.2.1 GnuPG/GPG***
 
-Full setup notes for creating your private and public keys on [Nixcraft](https://www.cyberciti.biz/tips/linux-how-to-create-our-own-gnupg-privatepublic-key.html). Mutt and GnuPG? Again, see my [mutt dotfiles](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.mutt).
+Full setup notes for creating your private and public keys on [NixCraft](https://www.cyberciti.biz/tips/linux-how-to-create-our-own-gnupg-privatepublic-key.html). Mutt and GnuPG? See Justin R. Miller's [tutorial](http://codesorcery.net/old/mutt/mutt-gnupg-howto).
 
 **8 System information**
 ------------------------
