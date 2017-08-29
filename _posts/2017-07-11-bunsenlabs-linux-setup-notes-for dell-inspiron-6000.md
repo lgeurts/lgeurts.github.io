@@ -299,10 +299,10 @@ Here comes the tricky part as probably version 2.7 is system default:
 
 I will use the update-alternatives command to set 3.4 as the new default:
 
-- $ update-alternatives --install /usr/bin/python python /usr/bin/python2.7                                                       1
-- $ update-alternatives --install /usr/bin/python python /usr/bin/python3.4                                                       2
+- $ update-alternatives --install /usr/bin/python python /usr/bin/python2.7 (low number) 1
+- $ update-alternatives --install /usr/bin/python python /usr/bin/python3.4 (high number) 2
 
-Do you see the numbers 1 and 2 after the commands? The one with the higher number is our new default Python version. 
+What's that with those numbers? The one with the higher number is automatically our new default Python version. 
 
 - $ python -V 
   * *Python 3.4.2*
@@ -313,7 +313,7 @@ Listing all Python alternatives:
   * */usr/bin/python2.7*
   * */usr/bin/python3.4*
 
-From now on, we can switch between versions by entering a selection number: 
+From now on, we can switch between versions by entering a selection number. 
 
 - $ update-alternatives --config python
 
