@@ -126,7 +126,9 @@ To configure mpd (Music Player Daemon), download [this script](https://github.co
 
 ***• 4.4.2 Ncmpcpp***
 
-Probably the best free ncurses mpd client ([screenshot](http://pre00.deviantart.net/31fd/th/pre/f/2017/128/9/0/screenshot_by_phleagol-db8ildu.png) to wet your appetite).
+Probably the best free ncurses mpd client available.
+
+![ncmpcpp](/assets/ncmpcpp.png)
 
 - $ apt-get install ncmpcpp
 
