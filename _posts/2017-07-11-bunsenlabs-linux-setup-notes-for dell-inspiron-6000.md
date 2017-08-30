@@ -284,7 +284,7 @@ Once the process is complete, we check the Python 3 version by typing:
 - $ python3 -V
   * *Python 3.4.2*
 
-Now we can install [pip](https://packages.debian.org/jessie/python-pip) using the following command:
+Now we can install [pip](https://packages.debian.org/jessie/python3-pip) using the following command:
 
 - $ apt-get install -y python3-pip
 
