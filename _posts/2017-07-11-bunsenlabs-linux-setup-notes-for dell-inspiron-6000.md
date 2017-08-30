@@ -286,13 +286,13 @@ Once the process is complete, we check the Python 3 version by typing:
 
 Now we can install [pip](https://packages.debian.org/jessie/python-pip) using the following command:
 
-- $ apt-get install -y [python3-pip](https://packages.debian.org/jessie/python3-pip)
+- $ apt-get install -y python3-pip
 
 We need a few more packages and development tools to ensure that we have a robust set-up for our new programming environment:
 
 - $ apt-get install build-essential libssl-dev libffi-dev python-dev
 
-Here comes the tricky part as probably version 2.7 is system default:
+Probably version 2.7 is still system default:
 
 - $ python -V
   * *Python 2.7.9*
