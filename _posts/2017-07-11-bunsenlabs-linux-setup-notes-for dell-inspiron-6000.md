@@ -36,7 +36,7 @@ v1.1
 > * 08/15/17 Adding Git, Node.js, Ruby on Rails, Tint2.
 > * 08/17/17 Adding terminator.
 > * 08/20/17 Made multiple adjustments, removed typos.
-> * 08/29/17 Adding Geany-plugins, ranger, nicstat, lshw,dzen2.
+> * 08/29/17 Adding Geany-plugins, ranger, nicstat, lshw, dzen2.
 
 **2 Before you begin**
 ----------------------
@@ -477,7 +477,7 @@ Download [oomox-colors.tint2rc](https://github.com/lgeurts/BunsenLabs-Setup/tree
 
 ***• 9.3.1 Openbox***
 
-Fonts, icons, customize rc.xml > window decorations & disable conky.
+Fonts, icons, customize rc.xml & autostart > window decorations & disable conky.
 
 **9.4 Internet Browser**
 
