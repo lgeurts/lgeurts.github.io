@@ -292,7 +292,7 @@ We need a few more packages and development tools to ensure that we have a robus
 
 - $ apt-get install build-essential libssl-dev libffi-dev python-dev
 
-Probably version 2.7 is still system default:
+Probably version 2.7 is still my system default:
 
 - $ python -V
   * *Python 2.7.9*
