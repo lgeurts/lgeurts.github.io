@@ -309,7 +309,7 @@ Enable the project environment:
 
 - $ source 'projectname'/bin/activate
 
-Probably Jessie uses Python version 2.7 as system default:
+A fresh Jessie installation uses Python version 2.7 as system default:
 
 - $ python -V
   * *Python 2.7.9*
@@ -336,7 +336,7 @@ From now on, typing:
 
 - $ update-alternatives --config python
 
-will make it possible to switch versions by entering a selection number. 
+... makes it possible to switch versions by entering a selection number. 
 
 ***• 6.2.2 Ruby on Rails***
 
@@ -348,19 +348,19 @@ Get the installation script:
 
 - $ curl -sL [https://deb.nodesource.com/setup_6.x](https://deb.nodesource.com/setup_6.x) -o nodesource_setup.sh
 
-Running the script in ~ (will take some time):
+Running the script in ~ (get some coffee):
 
 - $ bash nodesource_setup.sh
 
-After running the setup script, install the Node.js package. 
+After running the setup script, install the [Node.js](https://packages.debian.org/jessie/nodejs) package. 
 
 - $ apt-get install nodejs
 
-This nodejs binary package contains both nodejs and npm. In order for some of the npm packages to work:
+This nodejs binary package contains both nodejs and [npm](https://packages.debian.org/jessie/npm). In order for some of the npm packages to work:
 
 - $ apt-get install build-essential
 
-Use gpg to contact a key server and request the RVM project's key:
+Use gpg to contact a key server and request the [RVM](https://rvm.io/) project's key:
 
 ![RVM key](/assets/rvm-project-key.png)
 
@@ -507,7 +507,7 @@ Download this homepage for Firefox [here](https://github.com/unix121/homepage).
 **10 Extras**
 -------------
 
-Packages I use on a daily basis but for whatever reason forget when creating a new setup:
+Packages I use on a daily basis but for whatever dark reason always forget when creating a new setup:
 
 - $ apt-get install [geany-plugins](https://packages.debian.org/jessie/geany-plugins) [ranger](https://packages.debian.org/jessie/utils/ranger) [nicstat](https://packages.debian.org/jessie/nicstat) [dzen2](https://packages.debian.org/jessie/x11/dzen2)
 
