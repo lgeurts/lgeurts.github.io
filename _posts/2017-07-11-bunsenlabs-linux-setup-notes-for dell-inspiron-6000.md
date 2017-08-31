@@ -290,16 +290,31 @@ Guess I'll add [pip](https://packages.debian.org/jessie/python3-pip), Always han
 
 - $ apt-get install -y python3-pip
 
-We need a few more packages and development tools to ensure that we have a robust set-up for our new programming environment:
+We need a few more packages and development tools to ensure that we have a robust setup:
 
 - $ apt-get install build-essential libssl-dev libffi-dev python-dev
 
-Probably version 2.7 is still my system default:
+Setting up isolated project spaces (virtual environment):
+
+- $ cd ~
+- $ apt-get install -y python3-venv
+- $ mkdir py3venv
+- $ cd py3venv
+
+Creating a project directory:
+
+- $ python3 -m venv 'projectname' 
+
+Enable the project environment:
+
+- $ source 'projectname'/bin/activate
+
+Probably Jessie uses Python version 2.7 as system default:
 
 - $ python -V
   * *Python 2.7.9*
 
-I will use the update-alternatives command to set 3.4 as the new default:
+I will use the update-alternatives command to set 3.4 as the new standard:
 
 - $ update-alternatives --install /usr/bin/python python /usr/bin/python2.7
 '1' # lowest number
@@ -317,9 +332,11 @@ Listing all Python alternatives:
   * */usr/bin/python2.7*
   * */usr/bin/python3.4*
 
-From now on, we can switch between versions by entering a selection number. Just type the below command and pick the one you want.
+From now on, typing:
 
 - $ update-alternatives --config python
+
+will make it possible to switch versions by entering a selection number. 
 
 ***• 6.2.2 Ruby on Rails***
 
