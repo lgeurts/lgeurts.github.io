@@ -507,7 +507,7 @@ Download this homepage for Firefox [here](https://github.com/unix121/homepage).
 **10 Extras**
 -------------
 
-Packages I use on a daily basis but often forget to install in a new setup:
+Packages I use on a daily basis but for whatever reason forget when creating a new setup:
 
 - $ apt-get install [geany-plugins](https://packages.debian.org/jessie/geany-plugins) [ranger](https://packages.debian.org/jessie/utils/ranger) [nicstat](https://packages.debian.org/jessie/nicstat) [dzen2](https://packages.debian.org/jessie/x11/dzen2)
 
