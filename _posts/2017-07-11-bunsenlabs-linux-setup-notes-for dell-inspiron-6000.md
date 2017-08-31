@@ -494,7 +494,7 @@ Download [oomox-colors.tint2rc](https://github.com/lgeurts/BunsenLabs-Setup/tree
 
 ***• 9.3.1 Openbox***
 
-Fonts, icons, customize rc.xml & autostart > window decorations & disable conky.
+Fonts, icons, rc.xml & autostart > window decorations & disable conky.
 
 **9.4 Internet Browser**
 
