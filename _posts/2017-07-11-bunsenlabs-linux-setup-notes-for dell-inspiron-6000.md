@@ -299,7 +299,7 @@ We need a few more packages and development tools to ensure that we have a robus
 
 - $ apt-get install build-essential libssl-dev libffi-dev python-dev
 
-Setting up isolated project spaces (virtual environment):
+Setting up isolated project spaces (virtual environments):
 
 - $ cd ~
 - $ apt-get install -y python3-venv
@@ -308,7 +308,7 @@ Setting up isolated project spaces (virtual environment):
 
 Creating a project directory:
 
-- $ python3 -m venv 'projectname' 
+- $ python3.4 -m venv 'projectname' 
 
 Enable the project environment:
 
@@ -341,7 +341,24 @@ From now on, typing:
 
 - $ update-alternatives --config python
 
-... makes it possible to switch versions by entering a selection number. 
+... makes it possible to switch versions by entering a selection number.
+
+For the real diehards, if you want version 3.6, do a make/altinstall:
+
+- $ wget https://www.python.org/ftp/python/3.6.0/Python-3.6.0.tgz
+- $ tar xvf Python-3.6.0.tgz
+- $ cd Python-3.6.0
+- $ ./configure --enable-optimizations
+- $ make -j8
+- $ make altinstall
+
+Then, to create a python3.6 virtual environment:
+
+- $ cd py3venv
+- $ python3.6 -m venv 'projectname'
+- $ source 'projectname'/bin/activate
+- $ python -V
+  * *Python 3.6.0*
 
 ***• 6.2.2 Ruby on Rails***
 
