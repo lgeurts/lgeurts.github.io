@@ -271,9 +271,9 @@ Multiple Cursors | [https://github.com/terryma/vim-multiple-cursors/](https://gi
 - $ ~~wget [http://bit.ly/2vTirOt](http://bit.ly/2vTirOt) # //c758482.r82.cf2.rackcdn.com/sublime-text_build-3083_i386.deb~
 - $ dpkg -i sublime-text_build-3083_i386.deb
 
-~~***Note:*** [Sublime](https://www.sublimetext.com/) is non-free. If you are willing to pay some money, you'll get one slick source code editor.
+~~***Note:*** [Sublime](https://www.sublimetext.com/) is non-free. If you are willing to pay some money, you'll get one slick source code editor.~~
 
-*** Update:*** I switched from Sublime to Atom. GitHub does not offer an i386 build but luckily [Andras Retzler](http://ha5kfu.sch.bme.hu/node/189) took the time to create one. 
+***Update:*** I switched from Sublime to Atom. GitHub does not offer an i386 build but luckily [Andras Retzler](http://ha5kfu.sch.bme.hu/node/189) took the time to create one. 
 
 ![Atom](/assets/atom.png)
 
