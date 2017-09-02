@@ -273,7 +273,7 @@ Multiple Cursors | [https://github.com/terryma/vim-multiple-cursors/](https://gi
 
 ~~***Note:*** [Sublime](https://www.sublimetext.com/) is non-free. If you are willing to pay some money, you'll get one slick source code editor.~~
 
-***Update:*** I switched from Sublime to Atom. GitHub does not offer an i386 build but luckily [Andras Retzler](http://ha5kfu.sch.bme.hu/node/189) took the time to create one. 
+***Update:*** I switched from Sublime to [Atom](https://atom.io/). GitHub does not offer an i386 build but luckily [Andras Retzler](http://ha5kfu.sch.bme.hu/node/189) took the time to create one. 
 
 ![Atom](/assets/atom.png)
 
