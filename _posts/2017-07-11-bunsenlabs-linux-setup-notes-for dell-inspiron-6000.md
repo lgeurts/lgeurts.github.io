@@ -259,9 +259,9 @@ Multiple Cursors | [https://github.com/terryma/vim-multiple-cursors/](https://gi
 
 ***Note:*** My [memo](/assets/vim-plugin-settings.txt) for activating Command-T, NerdTree and Git Gutter in .vimrc.             Feeling lazy? Download my latest [config](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim/).
 
-***• 6.1.2 Gvim***
+***• 6.1.2 gVim***
 
-![Gvim Editor](/assets/gvim.png)
+![gVim Editor](/assets/gvim.png)
 
 - $ apt-get install gvim
 
