@@ -343,7 +343,7 @@ From now on, typing:
 
 ... makes it possible to switch versions by entering a selection number.
 
-For the real diehards, if you want version 3.6, do a make/altinstall:
+***Note:*** For the real diehards, if you want version 3.6, do a make/altinstall:
 
 - $ wget https://www.python.org/ftp/python/3.6.0/Python-3.6.0.tgz
 - $ tar xvf Python-3.6.0.tgz
@@ -352,7 +352,7 @@ For the real diehards, if you want version 3.6, do a make/altinstall:
 - $ make -j8
 - $ make altinstall
 
-Then, to create a python3.6 virtual environment:
+Then, to create a Python 3.6 virtual environment:
 
 - $ cd py3venv
 - $ python3.6 -m venv 'projectname'
@@ -360,6 +360,8 @@ Then, to create a python3.6 virtual environment:
 - $ python -V
   * *Python 3.6.0*
 
+Happy? Follow the 3.4 procedure to make 3.6 the new default.
+  
 ***• 6.2.2 Ruby on Rails***
 
 Change dir to your home:
