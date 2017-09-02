@@ -343,7 +343,7 @@ From now on, typing:
 
 ... makes it possible to switch versions by entering a selection number.
 
-***Note:*** For the real diehards, if you want version 3.6, do a make/altinstall:
+***Note:*** For the real diehards, if you want version 3.6, do a make/altinstall like:
 
 - $ wget [https://www.python.org/ftp/python/3.6.0/Python-3.6.0.tgz](https://www.python.org/ftp/python/3.6.0/Python-3.6.0.tgz)
 - $ tar xvf Python-3.6.0.tgz
