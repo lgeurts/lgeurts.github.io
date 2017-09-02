@@ -269,7 +269,7 @@ Multiple Cursors | [https://github.com/terryma/vim-multiple-cursors/](https://gi
 ***• 6.1.3 Sublime Text 3***
 
 - $ ~~wget [http://bit.ly/2vTirOt](http://bit.ly/2vTirOt) # //c758482.r82.cf2.rackcdn.com/sublime-text_build-3083_i386.deb~
-- $ dpkg -i sublime-text_build-3083_i386.deb
+- $ dpkg -i sublime-text_build-3083_i386.deb~~
 
 ~~***Note:*** [Sublime](https://www.sublimetext.com/) is non-free. If you are willing to pay some money, you'll get one slick source code editor.~~
 
