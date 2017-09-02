@@ -345,7 +345,7 @@ From now on, typing:
 
 ***Note:*** For the real diehards, if you want version 3.6, do a make/altinstall:
 
-- $ wget https://www.python.org/ftp/python/3.6.0/Python-3.6.0.tgz
+- $ wget [https://www.python.org/ftp/python/3.6.0/Python-3.6.0.tgz](https://www.python.org/ftp/python/3.6.0/Python-3.6.0.tgz)
 - $ tar xvf Python-3.6.0.tgz
 - $ cd Python-3.6.0
 - $ ./configure --enable-optimizations
@@ -360,7 +360,7 @@ Then, to create a Python 3.6 virtual environment:
 - $ python -V
   * *Python 3.6.0*
 
-Happy? Follow the 3.4 procedure to make 3.6 the new default.
+Now happy? Follow the 3.4 procedure to make 3.6 the new default.
   
 ***• 6.2.2 Ruby on Rails***
 
