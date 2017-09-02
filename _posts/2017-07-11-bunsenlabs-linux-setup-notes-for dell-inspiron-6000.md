@@ -37,6 +37,7 @@ v1.1
 > * 08/17/17 Adding terminator.
 > * 08/20/17 Made multiple adjustments, removed typos.
 > * 08/29/17 Adding Geany-plugins, ranger, nicstat, lshw, dzen2.
+> * 09/02/17 Adding Atom. 
 
 **2 Before you begin**
 ----------------------
@@ -267,10 +268,14 @@ Multiple Cursors | [https://github.com/terryma/vim-multiple-cursors/](https://gi
 
 ***• 6.1.3 Sublime Text 3***
 
-- $ wget [http://bit.ly/2vTirOt](http://bit.ly/2vTirOt) # //c758482.r82.cf2.rackcdn.com/sublime-text_build-3083_i386.deb
+- $ ~~wget [http://bit.ly/2vTirOt](http://bit.ly/2vTirOt) # //c758482.r82.cf2.rackcdn.com/sublime-text_build-3083_i386.deb~
 - $ dpkg -i sublime-text_build-3083_i386.deb
 
-***Note:*** [Sublime](https://www.sublimetext.com/) is non-free. If you are willing to pay some money, you'll get one slick source code editor.
+~~***Note:*** [Sublime](https://www.sublimetext.com/) is non-free. If you are willing to pay some money, you'll get one slick source code editor.
+
+*** Update:*** I switched from Sublime to Atom. GitHub does not offer an i386 build but luckily [Andras Retzler](http://ha5kfu.sch.bme.hu/node/189) took the time to create one. 
+
+![Atom](/assets/atom.png)
 
 **6.2 Programming**
 
