@@ -27,7 +27,7 @@ Changes since the last version:
 
 v1.1
 > * 08/02/17 Reworked the layout.
-> * 08/03/17 Adding Firefox & plugins. 
+> * 08/03/17 Adding Firefox, Gimp, Viewnior.
 > * 08/04/17 Adding nftables, screenfetch, iftop, ttyload.
 > * 08/05/17 Adding LibreOffice, Claws Mail, mutt, Krita.
 > * 08/07/17 Adding PostgreSQL, pgAdmin.
@@ -77,7 +77,7 @@ I made a choice for Firefox but you can install any browser next to it.
 
 ***Note:*** The plugins I'm presently using:
 
-[Privacy Badger](https://www.eff.org/privacybadger), [HTTPS Everywhere](https://www.eff.org/https-everywhere), [Self-Destructing Cookies](https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies/), [Stylish](https://addons.mozilla.org/en-US/firefox/addon/stylish/), [Ghostery](https://addons.mozilla.org/en-US/firefox/addon/ghostery/) & [Duck DuckGo Plus](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/).
+[Privacy Badger](https://www.eff.org/privacybadger), [HTTPS Everywhere](https://www.eff.org/https-everywhere), [Self-Destructing Cookies](https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies/), [Ghostery](https://addons.mozilla.org/en-US/firefox/addon/ghostery/), [Duck DuckGo Plus](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/), [Stylish](https://addons.mozilla.org/en-US/firefox/addon/stylish/).
 
 **4.2 Office**
 
@@ -114,7 +114,7 @@ Obligatory. Just a click away.
 
 ***• 4.3.2 Viewnior***
 
-I don't like the standard Mirage picture viewer.
+I don't like the Mirage picture viewer.
 
 ***Note:*** I am not using this, but if you are looking for a professional open source painting program with full support for graphics tablets, check out [Krita](https://krita.org/en/).
 
