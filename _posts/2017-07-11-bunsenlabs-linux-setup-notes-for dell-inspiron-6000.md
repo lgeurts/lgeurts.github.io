@@ -283,7 +283,8 @@ Multiple Cursors | [https://github.com/terryma/vim-multiple-cursors/](https://gi
 
 Jessie ships with both **Python 2** and **Python 3** pre-installed. Let’s update and upgrade the system:
 
-- $ apt-get update && apt-get upgrade 
+- $ apt-get update 
+- $ apt-get -y upgrade 
 
 Once the process is complete, we check the Python 3 version by typing:
 
