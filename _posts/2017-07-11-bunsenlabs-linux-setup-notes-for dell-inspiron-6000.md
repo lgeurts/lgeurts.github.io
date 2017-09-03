@@ -27,12 +27,13 @@ Changes since the last version:
 
 v1.1
 > * 08/02/17 Reworked the layout.
+> * 08/03/17 Adding Firefox & plugins. 
 > * 08/04/17 Adding nftables, screenfetch, iftop, ttyload.
 > * 08/05/17 Adding LibreOffice, Claws Mail, mutt, Krita.
 > * 08/07/17 Adding PostgreSQL, pgAdmin.
 > * 08/08/17 Adding mpd, ncmpcpp, curl, youtube-dl.
 > * 08/10/17 Adding GnuPG, Sublime Text 3, Jekyll.
-> * 08/13/17 Adding vim, Pathogen, Gvim, Python, pip.
+> * 08/13/17 Adding vim, Pathogen, gVim, Python, pip.
 > * 08/15/17 Adding Git, Node.js, Ruby on Rails, Tint2.
 > * 08/17/17 Adding terminator.
 > * 08/20/17 Made multiple adjustments, removed typos.
@@ -74,9 +75,9 @@ Let's start with the list.
 
 I made a choice for Firefox but you can install any browser next to it.
 
-***Note:*** The plugins I'm presently using.
+***Note:*** The plugins I'm presently using:
 
-[Privacy Badger](https://www.eff.org/privacybadger), [HTTPS Everywhere](https://www.eff.org/https-everywhere), [Self-Destructing Cookies](https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies/), [Stylish](https://addons.mozilla.org/en-US/firefox/addon/stylish/) & [Duck DuckGo Plus](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/).
+[Privacy Badger](https://www.eff.org/privacybadger), [HTTPS Everywhere](https://www.eff.org/https-everywhere), [Self-Destructing Cookies](https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies/), [Stylish](https://addons.mozilla.org/en-US/firefox/addon/stylish/), [Ghostery](https://addons.mozilla.org/en-US/firefox/addon/ghostery/) & [Duck DuckGo Plus](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/).
 
 **4.2 Office**
 
