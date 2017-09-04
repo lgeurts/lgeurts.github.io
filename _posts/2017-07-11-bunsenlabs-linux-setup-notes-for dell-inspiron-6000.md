@@ -26,20 +26,19 @@ v1.0
 Changes since the last version:
 
 v1.1
-> * 08/02/17 Rework the layout.
-> * 08/03/17 Adding Firefox, Gimp, Viewnior.
-> * 08/04/17 Adding nftables, screenfetch, iftop, ttyload.
-> * 08/05/17 Adding LibreOffice, Claws Mail, mutt, Krita.
-> * 08/07/17 Adding PostgreSQL, pgAdmin.
-> * 08/08/17 Adding mpd, ncmpcpp, curl, youtube-dl.
-> * 08/10/17 Adding GnuPG, Sublime Text 3, Jekyll.
-> * 08/13/17 Adding vim, Pathogen, gVim, Python, pip.
-> * 08/15/17 Adding Git, Node.js, Ruby on Rails, Tint2.
-> * 08/17/17 Adding terminator.
+> * 08/02/17 Reworked the layout.
+> * 08/03/17 Added Firefox, Gimp, Viewnior.
+> * 08/04/17 Added nftables, screenfetch, iftop, ttyload.
+> * 08/05/17 Added LibreOffice, Claws Mail, mutt, Krita.
+> * 08/07/17 Added PostgreSQL, pgAdmin.
+> * 08/08/17 Added mpd, ncmpcpp, curl, youtube-dl.
+> * 08/10/17 Added GnuPG, Sublime Text 3, Jekyll.
+> * 08/13/17 Added vim, Pathogen, gVim, Python, pip.
+> * 08/15/17 Added Git, Node.js, Ruby on Rails, Tint2.
+> * 08/17/17 Added terminator.
 > * 08/20/17 Made multiple adjustments, removed typos.
-> * 08/29/17 Adding Geany-plugins, ranger, nicstat, lshw, dzen2.
-> * 09/02/17 Adding Atom.
-> * 09/04/17 Updating Python to the latest version.  
+> * 08/29/17 Added Geany-plugins, ranger, nicstat, lshw, dzen2.
+> * 09/02/17 Replaced Sublime Text 3 with Atom.
 
 **2 Before you begin**
 ----------------------
@@ -345,7 +344,7 @@ From now on, typing:
 
 ... makes it possible to switch versions by entering a selection number.
 
-***Update:*** As version 3.6 is now mainstream, we will download from the website and do a make altinstall:
+***Update:*** As version 3.6 is now mainstream, we will download from the Python website and build from source:
 
 - $ wget [https://www.python.org/ftp/python/3.6.0/Python-3.6.0.tgz](https://www.python.org/ftp/python/3.6.0/Python-3.6.0.tgz)
 - $ tar xvf Python-3.6.0.tgz
@@ -354,7 +353,7 @@ From now on, typing:
 - $ make -j8
 - $ make altinstall
 
-Repeat the steps from 3.4 for creating a virtual environment and don't forget to update your alternatives.
+Repeat the previous steps for creating a virtual environment and don't forget to update your alternatives.
 
 ***• 6.2.2 Ruby on Rails***
 
