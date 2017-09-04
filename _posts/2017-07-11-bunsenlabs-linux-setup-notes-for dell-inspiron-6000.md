@@ -353,7 +353,7 @@ From now on, typing:
 - $ make -j8
 - $ make altinstall
 
-Don't forget to update your alternatives, and create a virtual environment.
+Don't forget to update your alternatives & create a virtual environment.
 
 ***• 6.2.2 Ruby on Rails***
 
