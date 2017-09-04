@@ -38,7 +38,7 @@ v1.1
 > * 08/17/17 Adding terminator.
 > * 08/20/17 Made multiple adjustments, removed typos.
 > * 08/29/17 Adding Geany-plugins, ranger, nicstat, lshw, dzen2.
-> * 09/02/17 Adding Atom. 
+> * 09/02/17 Adding Atom, update Python with v3.6.
 
 **2 Before you begin**
 ----------------------
@@ -344,7 +344,7 @@ From now on, typing:
 
 ... makes it possible to switch versions by entering a selection number.
 
-***Update:*** The Debian 8 repositories do not hold version 3.6. If you want the latest, do a make/altinstall like:
+***Update:*** Python version 3.6 is not available in the Debian 8 repos. Download/make altinstall like:
 
 - $ wget [https://www.python.org/ftp/python/3.6.0/Python-3.6.0.tgz](https://www.python.org/ftp/python/3.6.0/Python-3.6.0.tgz)
 - $ tar xvf Python-3.6.0.tgz
