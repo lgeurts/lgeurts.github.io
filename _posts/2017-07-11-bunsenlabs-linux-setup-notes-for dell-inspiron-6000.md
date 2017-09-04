@@ -26,7 +26,7 @@ v1.0
 Changes since the last version:
 
 v1.1
-> * 08/02/17 Reworked the layout.
+> * 08/02/17 Rework the layout.
 > * 08/03/17 Adding Firefox, Gimp, Viewnior.
 > * 08/04/17 Adding nftables, screenfetch, iftop, ttyload.
 > * 08/05/17 Adding LibreOffice, Claws Mail, mutt, Krita.
@@ -38,7 +38,8 @@ v1.1
 > * 08/17/17 Adding terminator.
 > * 08/20/17 Made multiple adjustments, removed typos.
 > * 08/29/17 Adding Geany-plugins, ranger, nicstat, lshw, dzen2.
-> * 09/02/17 Adding Atom, update Python with v3.6.
+> * 09/02/17 Adding Atom.
+> * 09/04/17 Updating Python to the latest version.  
 
 **2 Before you begin**
 ----------------------
@@ -344,7 +345,7 @@ From now on, typing:
 
 ... makes it possible to switch versions by entering a selection number.
 
-***Update:*** Python version 3.6 is not available in the Debian 8 repositories. Download/make altinstall like:
+***Update:*** There's no version 3.6 in the Debian 8 repo. Download & make altinstall like:
 
 - $ wget [https://www.python.org/ftp/python/3.6.0/Python-3.6.0.tgz](https://www.python.org/ftp/python/3.6.0/Python-3.6.0.tgz)
 - $ tar xvf Python-3.6.0.tgz
@@ -353,16 +354,8 @@ From now on, typing:
 - $ make -j8
 - $ make altinstall
 
-Then, to create a Python 3.6 virtual environment:
+Repeat the steps from 3.4 for creating a virtual environment and don't forget to update your alternatives.
 
-- $ cd py3venv
-- $ python3.6 -m venv 'projectname'
-- $ source 'projectname'/bin/activate
-- $ python -V
-  * *Python 3.6.0*
-
-Now happy? Follow the 3.4 procedure to make 3.6 the new default.
-  
 ***• 6.2.2 Ruby on Rails***
 
 Change dir to your home:
