@@ -344,7 +344,7 @@ From now on, typing:
 
 ... makes it possible to switch versions by entering a selection number.
 
-***Update:*** Python version 3.6 is not available in the Debian 8 repos. Download/make altinstall like:
+***Update:*** Python version 3.6 is not available in the Debian 8 repositories. Download/make altinstall like:
 
 - $ wget [https://www.python.org/ftp/python/3.6.0/Python-3.6.0.tgz](https://www.python.org/ftp/python/3.6.0/Python-3.6.0.tgz)
 - $ tar xvf Python-3.6.0.tgz
