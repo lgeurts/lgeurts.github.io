@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![KNAV mountaineering course in Austria.](/assets/C2ADV01.jpg)
+![KNAV Austria](/assets/C2ADV01.jpg)
 
 Hi, I am a self-employed DevOps & Infrastructure Engineer, living in the central north of France.
 In a former life, I was a Microsoft PFE, an Escalation Engineer at Dell, Support Escalation Engineer at HP, and and... the list goes on up to 1995.
