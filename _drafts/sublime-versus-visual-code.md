@@ -1,4 +1,4 @@
-Best Text Editor? Atom vs Sublime vs Visual Studio Code vs Vim
+Best Free Text Editor? Atom vs Vim vs Visual Studio Code
 
 With so many programming text editors out there today, the seemingly simple task of choosing one suddenly becomes daunting and overwhelming.
 
@@ -39,6 +39,7 @@ enter image description here
 Another nice feature of Atom that I've found lacking in Sublime is the drag/drop file/folder support in the tree view. I'm so used to not having it in Sublime that being able to shift things around is a real treat!
 
 Finally, the git integration is great... it is made by GitHub after all!
+
 Customization
 
 Ability to customize an editor to match your development flow and style is essential. Personally, I always need to enable things like "trim whitespaces on save", "save on lost focus of file", both of which are easy to set up and override in Atom.
@@ -56,48 +57,6 @@ Verdict
 Atom is a great tool, especially for those who want to customize their editor easily, and beyond what others provide. As a web developer, the freedom to tweak, add, and extend your editor gives an incredible feeling of power. I also love its docs. The Atom Flight Manual provides a great starting point for new users.
 
 The greatest downside for me would still be the performance issues, but for a free editor, Atom shines brightly!
-Sublime
-
-text editor
-
-    Url: https://www.sublimetext.com/
-    Cost: $70 license fee with free trial
-    Developer: Jon Skinner former Google Engineer
-    Platforms: OSX, Windows, Linux
-
-Sublime was released back in 2007, so it's had almost a decade to mature. According to Stackoverflow's 2016 developer survey it's the 3rd most popular Development Environment.
-
-V3 Beta is its latest version and while it's been in beta for a long time now, don't let that concern you. The product is actually very stable.
-Packages
-
-Any Sublime user will tell you the first package they install is Sublime Package Control plugin. I think we all secretly hope that Sublime 3 will add this by default, but for now, you simply have to go to the installation page on their website and copy some incomprehensible Python and... Presto! You can now install any package easily from within Sublime.
-
-text editor
-
-Like Atom, Sublime has a lot of packages and themes! For me the essentials are:
-
-    SideBarEnhancements: without this, renaming/moving/duplicating files is not supported.
-    SublimeLinter: To add linters for different languages
-    GitGutter - Shows git status on the left side next to line numbers.
-
-There's plenty more to choose from, too. Overall, Sublime's package support is very good, it's just a shame that you have to jump through that one hoop at the beginning to even get started with it.
-Editing and Workflow
-
-For me the use of projects is critical when working in Sublime - it helps me stay focussed on the relevant files for what I need. Being able to search for a file and across files is fast and easy. I've often had to perform searches across hundreds of files to find a snippet of code and Sublime's speed has never let me down.
-
-As with Atom—the real power comes once you have some key plugins installed. Getting the right syntax highlighting, JSON formatters, linters, etc takes some time, but once they're installed and set up, they don't need to be touched again.
-
-One downside I've found is there's no decent Git plugin that lets me do nice diffs and stage changes. I only really trust using SourceTree for that. I'm sure others will be able to correct me if there is a decent plugin that can help.
-Customization
-
-Again, Sublime is very much like Atom. The power to control aspects such as "save on lost focus", "trim whitespace" and more is available. The configuration files are simple JSON and there's a whole host of hidden settings waiting for you to play with.
-Performance
-
-Here's where Sublime outperforms Atom—opening, closing, searching, etc is very smooth and fast. The only issue I've ever faced with performance is from badly performing plugins—but even then you'll get a warning message when a plugin seems to be taking too long.
-Verdict
-
-As I mentioned at the start, I'm a long time Sublime user so my opinions here are likely to be slightly biased, but in general, Sublime is a flexible and fast editor. There's a reason it still makes the top 3 Development Environment in 2016.
-Visual Studio Code
 
 text editor
 
