@@ -52,7 +52,7 @@ In rare cases when using a WiFi connection to connect to the internet, the Pro 2
 
 Download the appropriate ISO (bl-Deuterium-i386_20170429.iso).
 
-Do an install from [Live USB](https://www.bunsenlabs.org/installation.html). As soon its finished, and after reboot, you will see underneath screen asking you to update the system. Press 'Enter'.
+Do an install from [Live USB](https://www.bunsenlabs.org/installation.html). As soon its finished, and after reboot, you will see underneath screen asking you to update the system.
 
 When the updating is done the script will run a set of options for attaching the Debian repositories, some 3rd party multimedia plugins, printer support, Java, and adding packages for developers. 
 
