@@ -274,9 +274,23 @@ Multiple Cursors | [https://github.com/terryma/vim-multiple-cursors/](https://gi
 
 ~~***Note:*** [Sublime](https://www.sublimetext.com/) is non-free. If you are willing to pay some money, you'll get one slick source code editor.~~
 
-***Update:*** I switched from Sublime to [Atom](https://atom.io/). GitHub does not offer an i386 build but luckily [Andras Retzler](http://ha5kfu.sch.bme.hu/node/189) took the time to create one. 
+***Update:*** I switched from Sublime to [Atom](https://atom.io/). GitHub does not offer an i386 build but luckily [Andras Retzler](http://ha5kfu.sch.bme.hu/node/189) took the time to create one. You can also build from Mind you it's an old version
 
 ![Atom](/assets/atom.png)
+
+Must have community packages:
+
+Name          | Link
+------------- | --------
+Atom-Beautify | [https://atom.io/themes/atom-beautify](https://atom.io/themes/atom-beautify)
+Todo-Show     | [https://atom.io/packages/todo-show](https://atom.io/packages/todo-show)
+Expose        | [https://atom.io/packages/expose](https://atom.io/packages/expose)
+Emmet         | [https://atom.io/themes/emmet](https://atom.io/themes/emmet)
+Pigments      | [https://github.com/abe33/atom-pigments](https://github.com/abe33/atom-pigments)
+File-icons    | [https://atom.io/themes/file-icons](https://atom.io/themes/file-icons)
+Color-picker  | [https://atom.io/themes/color-picker](https://atom.io/themes/color-picker)
+Language-Markdown | [https://atom.io/packages/language-markdown](https://atom.io/packages/language-markdown)
+Autocomplete-Python | [https://atom.io/packages/autocomplete-python](https://atom.io/packages/autocomplete-python)
 
 **6.2 Programming**
 
