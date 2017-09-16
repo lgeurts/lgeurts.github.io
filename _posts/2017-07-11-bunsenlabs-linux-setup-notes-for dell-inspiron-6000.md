@@ -278,7 +278,7 @@ Multiple Cursors | [https://github.com/terryma/vim-multiple-cursors/](https://gi
 
 ![Atom](/assets/atom.png)
 
-Must have community packages:
+Must have community themes and packages:
 
 Name          | Link
 ------------- | --------
