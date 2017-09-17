@@ -37,7 +37,7 @@ v1.1
 > * 08/15/17 Added Git, Node.js, Ruby on Rails, Tint2.
 > * 08/17/17 Added terminator.
 > * 08/20/17 Made multiple adjustments, removed typos.
-> * 08/29/17 Added Geany-plugins, ranger, nicstat, lshw, dzen2.
+> * 08/29/17 Added Geany-plugins, ranger, nicstat, lshw.
 > * 09/02/17 Replaced Sublime Text 3 with Atom.
 
 **2 Before you begin**
@@ -540,7 +540,7 @@ Download this homepage for Firefox [here](https://github.com/unix121/homepage).
 
 Packages I use on a daily basis but for whatever dark reason always forget when creating a new setup:
 
-- $ apt-get install [geany-plugins](https://packages.debian.org/jessie/geany-plugins) [ranger](https://packages.debian.org/jessie/utils/ranger) [nicstat](https://packages.debian.org/jessie/nicstat) [dzen2](https://packages.debian.org/jessie/x11/dzen2)
+- $ apt-get install [geany-plugins](https://packages.debian.org/jessie/geany-plugins) [ranger](https://packages.debian.org/jessie/utils/ranger) [nicstat](https://packages.debian.org/jessie/nicstat)
 
 **YOU ARE DONE**
 
