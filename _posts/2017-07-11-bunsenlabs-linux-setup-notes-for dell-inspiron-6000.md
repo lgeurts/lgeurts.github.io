@@ -39,6 +39,7 @@ v1.1
 > * 08/20/17 Made multiple adjustments, removed typos.
 > * 08/29/17 Added Geany-plugins, ranger, nicstat, lshw.
 > * 09/02/17 Replaced Sublime Text 3 with Atom.
+> * 09/20/17 Added Openbox.
 
 **2 Before you begin**
 ----------------------
@@ -525,7 +526,7 @@ Download [oomox-colors.tint2rc](https://github.com/lgeurts/BunsenLabs-Setup/tree
 
 ***• 9.3.1 Openbox***
 
-If you want the same look everywhere, snag the [oomox-colors.tar.gz](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.themes) package. The theme's icons can be found here: [oomox-colors-flat.tar.gz](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.icons). 
+If you want the same look everywhere, snag this [oomox-colors.tar.gz](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.themes) package. The theme's icons can be found here: [oomox-colors-flat.tar.gz](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.icons). 
 
 Time to teach Openbox a few tricks as well. Let’s set the number of desktops to four and disable all window decorations in ~/.config/openbox/rc.xml: 
 ```
