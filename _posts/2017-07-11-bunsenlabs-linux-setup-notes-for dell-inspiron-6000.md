@@ -546,7 +546,7 @@ Time to teach Openbox a few tricks as well. Set the number of desktops to four a
     <decor>no</decor>
   </application>
 ```
-***Note:*** Instead disabling all you can also do this for just a single app.
+***Note:*** You can also disable just a single app, for example terminator.
 
 **9.4 Internet Browser**
 
