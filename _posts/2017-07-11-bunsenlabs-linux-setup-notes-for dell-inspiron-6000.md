@@ -493,7 +493,9 @@ Tracks load averages over time on a UNIX(ish) machine.
 **9 Theming your Openbox desktop**
 ----------------------------------
 
-Some eye candy because not everything is just about functionality, right?
+Some eye candy because not everything is just about functionality, right? 
+
+If you want the same look as my desktop, snag the [oomox-colors.tar.gz](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.themes) package. The theme's icons can be found here: [oomox-colors-flat.tar.gz](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.icons). 
 
 **9.1 Terminal Colors**
 
