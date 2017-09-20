@@ -525,8 +525,8 @@ Download [oomox-colors.tint2rc](https://github.com/lgeurts/BunsenLabs-Setup/tree
 
 ***• 9.3.1 Openbox***
 
-Time to teach Openbox a few tricks as well. Let’s set the number of desktops to four and disable window decorations in ~/.config/openbox/rc.xml:
-````xml
+Time to teach Openbox a few tricks as well. Let’s set the number of desktops to four and disable all window decorations in ~/.config/openbox/rc.xml: 
+```
 <desktops>
   <number>4</number>
   <firstdesk>1</firstdesk>
@@ -543,7 +543,6 @@ Time to teach Openbox a few tricks as well. Let’s set the number of desktops t
     <decor>no</decor>
   </application>
 ```
-Fonts, icons, rc.xml & autostart > window decorations & disable conky.
 
 **9.4 Internet Browser**
 
@@ -561,4 +560,3 @@ Packages I use on a daily basis but for whatever dark reason always forget when 
 - $ apt-get install [geany-plugins](https://packages.debian.org/jessie/geany-plugins) [ranger](https://packages.debian.org/jessie/utils/ranger) [nicstat](https://packages.debian.org/jessie/nicstat)
 
 **YOU ARE DONE**
-
