@@ -546,6 +546,8 @@ Time to teach Openbox a few tricks as well. Let’s set the number of desktops t
     <decor>no</decor>
   </application>
 ```
+***Note:*** Instead disabling all you can also do this for just a single app like terminator.
+
 **9.4 Internet Browser**
 
 ***•9.4.1 Firefox*** 
