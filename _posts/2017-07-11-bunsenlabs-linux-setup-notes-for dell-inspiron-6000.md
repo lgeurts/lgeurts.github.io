@@ -543,7 +543,6 @@ Time to teach Openbox a few tricks as well. Let’s set the number of desktops t
     <decor>no</decor>
   </application>
 ```
-
 **9.4 Internet Browser**
 
 ***•9.4.1 Firefox*** 
