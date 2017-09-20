@@ -30,7 +30,7 @@ v1.1
 > * 08/03/17 Added Firefox, Gimp, Viewnior.
 > * 08/04/17 Added nftables, screenfetch, iftop, ttyload.
 > * 08/05/17 Added LibreOffice, Claws Mail, mutt, Krita.
-> * 08/07/17 Added PostgreSQL, pgAdmin. 
+> * 08/07/17 Added PostgreSQL, pgAdmin.
 > * 08/08/17 Added mpd, ncmpcpp, curl, youtube-dl.
 > * 08/10/17 Added GnuPG, Sublime Text 3, Jekyll.
 > * 08/13/17 Added vim, Pathogen, gVim, Python, pip.
@@ -528,7 +528,7 @@ Download [oomox-colors.tint2rc](https://github.com/lgeurts/BunsenLabs-Setup/tree
 
 If you want the same look everywhere, snag this [oomox-colors.tar.gz](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.themes) package. The theme's icons can be found [here](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.icons). 
 
-Time to teach Openbox a few tricks as well. Let’s set the number of desktops to four and disable all window decorations in ~/.config/openbox/rc.xml: 
+Time to teach Openbox a few tricks as well. Set the number of desktops to four and disable all window decorations in ~/.config/openbox/rc.xml: 
 ```
 <desktops>
   <number>4</number>
@@ -546,7 +546,7 @@ Time to teach Openbox a few tricks as well. Let’s set the number of desktops t
     <decor>no</decor>
   </application>
 ```
-***Note:*** Instead disabling all you can also do this for just a single app like terminator.
+***Note:*** Instead disabling all you can also do this for just a single app.
 
 **9.4 Internet Browser**
 
