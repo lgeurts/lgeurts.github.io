@@ -527,7 +527,7 @@ Download [oomox-colors.tint2rc](https://github.com/lgeurts/BunsenLabs-Setup/tree
 
 Ok, time to teach Openbox a few new tricks as well. Let’s start with setting the number of desktops to four in ~/.config/openbox/rc.xml:
 
-<desktops>
+`<desktops>
   <number>4</number>
   <firstdesk>1</firstdesk>
   <names>
@@ -537,13 +537,13 @@ Ok, time to teach Openbox a few new tricks as well. Let’s start with setting t
     <name>4</name>
   </names>
   <popupTime>875</popupTime>
-</desktops>
+</desktops>`
 
 Then we’ll disable the window decorations for all apps because they look much cooler that way:
 
-<application name="*">
+`<application name="*">
   <decor>no</decor>
-</application>
+</application>`
 
 Fonts, icons, rc.xml & autostart > window decorations & disable conky.
 
