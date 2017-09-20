@@ -525,8 +525,7 @@ Download [oomox-colors.tint2rc](https://github.com/lgeurts/BunsenLabs-Setup/tree
 
 ***• 9.3.1 Openbox***
 
-Ok, time to teach Openbox a few new tricks as well. Let’s start with setting the number of desktops to four in ~/.config/openbox/rc.xml:
-
+Ok, time to teach Openbox a few new tricks as well. Let’s set the number of desktops to four and disable window decorations for all apps in ~/.config/openbox/rc.xml:
 ````xml
 <desktops>
   <number>4</number>
@@ -540,12 +539,10 @@ Ok, time to teach Openbox a few new tricks as well. Let’s start with setting t
   <popupTime>875</popupTime>
 </desktops>
 ```
-Then we’ll disable the window decorations for all apps because they look much cooler that way:
-
-```xml
+```
 <application name="*">
-  <decor>no</decor>
-</application>
+    <decor>no</decor>
+  </application>
 ```
 Fonts, icons, rc.xml & autostart > window decorations & disable conky.
 
