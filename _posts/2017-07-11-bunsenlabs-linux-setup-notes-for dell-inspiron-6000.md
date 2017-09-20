@@ -493,9 +493,7 @@ Tracks load averages over time on a UNIX(ish) machine.
 **9 Theming your Openbox desktop**
 ----------------------------------
 
-Some eye candy because not everything is just about functionality, right? 
-
-If you want the same look as my desktop, snag the [oomox-colors.tar.gz](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.themes) package. The theme's icons can be found here: [oomox-colors-flat.tar.gz](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.icons). 
+Some eye candy because not everything is just about functionality, right?
 
 **9.1 Terminal Colors**
 
@@ -526,6 +524,8 @@ Download [oomox-colors.tint2rc](https://github.com/lgeurts/BunsenLabs-Setup/tree
 **9.3 Window Manager**
 
 ***• 9.3.1 Openbox***
+
+If you want the same look everywhere, snag the [oomox-colors.tar.gz](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.themes) package. The theme's icons can be found here: [oomox-colors-flat.tar.gz](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.icons). 
 
 Time to teach Openbox a few tricks as well. Let’s set the number of desktops to four and disable all window decorations in ~/.config/openbox/rc.xml: 
 ```
