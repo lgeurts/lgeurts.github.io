@@ -15,4 +15,4 @@ If your message is private, use PGP/GPG encryption to secure communications.
 Note on integrity of my emails
 ------------------------------
 
-All email sent by me from the protonmail account should be signed with GPG.
+All email sent by me from the ProtonMail account should be signed with GPG.
