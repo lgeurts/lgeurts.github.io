@@ -78,7 +78,7 @@ I made a choice for Firefox but you can install any browser next to it.
 
 ***Note:*** The plugins I'm presently using:
 
-[Privacy Badger](https://www.eff.org/privacybadger), [HTTPS Everywhere](https://www.eff.org/https-everywhere), [Self-Destructing Cookies](https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies/), [Ghostery](https://addons.mozilla.org/en-US/firefox/addon/ghostery/), [Duck DuckGo Plus](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/), [Stylish](https://addons.mozilla.org/en-US/firefox/addon/stylish/).
+[Privacy Badger](https://www.eff.org/privacybadger), [HTTPS Everywhere](https://www.eff.org/https-everywhere), [Self-Destructing Cookies](https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies/), [Ghostery](https://addons.mozilla.org/en-US/firefox/addon/ghostery/), [Duck DuckGo Plus](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/), [Stylish](https://addons.mozilla.org/en-US/firefox/addon/stylish/), [User-Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/user-agent-switcher-firefox/).
 
 **4.2 Office**
 
