@@ -77,7 +77,7 @@ Let's start with the list.
 
 I made a choice for Firefox but you can install any browser next to it.
 
-***Note:*** Top add-ons: [[HTTPS Everywhere]](https://www.eff.org/https-everywhere), [[Ghostery]](https://addons.mozilla.org/en-US/firefox/addon/ghostery/), [[DuckDuckGo]](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/), [[Stylish]](https://addons.mozilla.org/en-US/firefox/addon/stylish/) & [[User-Agent Switcher]](https://addons.mozilla.org/en-US/firefox/addon/user-agent-switcher-firefox/) (an updated .xml file with user agents is available [here](http://techpatterns.com/forums/about304.html)).
+***Note:*** Top 5 add-ons: [[HTTPS Everywhere]](https://www.eff.org/https-everywhere) [[Ghostery]](https://addons.mozilla.org/en-US/firefox/addon/ghostery/) [[DuckDuckGo]](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/) [[Stylish]](https://addons.mozilla.org/en-US/firefox/addon/stylish/) & [[User-Agent Switcher]](https://addons.mozilla.org/en-US/firefox/addon/user-agent-switcher-firefox/) (an updated .xml file with user agents is available [here](http://techpatterns.com/forums/about304.html)).
 
 **4.2 Office**
 
