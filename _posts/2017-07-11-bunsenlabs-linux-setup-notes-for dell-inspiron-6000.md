@@ -40,7 +40,7 @@ v1.1
 > * 08/29/17 Added Geany-plugins, ranger, nicstat, lshw.
 > * 09/02/17 Replaced Sublime Text 3 with Atom.
 > * 09/20/17 Added Openbox.
-> * 09/28/17 Updated list with Firefox Add-ons.
+> * 09/28/17 Updated list with Firefox add-ons.
 
 **2 Before you begin**
 ----------------------
@@ -563,4 +563,3 @@ Packages I use on a daily basis but for whatever dark reason always forget when 
 - $ apt-get install [geany-plugins](https://packages.debian.org/jessie/geany-plugins) [ranger](https://packages.debian.org/jessie/utils/ranger) [nicstat](https://packages.debian.org/jessie/nicstat)
 
 **YOU ARE DONE**
-
