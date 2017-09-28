@@ -27,9 +27,9 @@ Changes since the last version:
 
 v1.1
 > * 08/02/17 Reworked the layout.
-> * 08/03/17 Added Firefox, Gimp, Viewnior.
+> * 08/03/17 Added Firefox, Gimp, Viewnior, Krita.
 > * 08/04/17 Added nftables, screenfetch, iftop, ttyload.
-> * 08/05/17 Added LibreOffice, Claws Mail, mutt, Krita.
+> * 08/05/17 Added LibreOffice, Claws Mail, mutt.
 > * 08/07/17 Added PostgreSQL, pgAdmin.
 > * 08/08/17 Added mpd, ncmpcpp, curl, youtube-dl.
 > * 08/10/17 Added GnuPG, Sublime Text 3, Jekyll.
