@@ -40,6 +40,7 @@ v1.1
 > * 08/29/17 Added Geany-plugins, ranger, nicstat, lshw.
 > * 09/02/17 Replaced Sublime Text 3 with Atom.
 > * 09/20/17 Added Openbox.
+> * 09/28/17 Updated list with Firefox add-ons.
 
 **2 Before you begin**
 ----------------------
@@ -76,9 +77,7 @@ Let's start with the list.
 
 I made a choice for Firefox but you can install any browser next to it.
 
-***Note:*** The add-ons I'm currently using. An updated .xml file with user agents is available [here](http://techpatterns.com/forums/about304.html).
-
-[[HTTPS Everywhere]](https://www.eff.org/https-everywhere), [[Ghostery]](https://addons.mozilla.org/en-US/firefox/addon/ghostery/), [[DuckDuckGo Plus]](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/), [[Stylish]](https://addons.mozilla.org/en-US/firefox/addon/stylish/), [[User-Agent Switcher]](https://addons.mozilla.org/en-US/firefox/addon/user-agent-switcher-firefox/).
+***Note:*** The add-ons I'm currently using. An updated .xml file with user agents is available [here](http://techpatterns.com/forums/about304.html). [[HTTPS Everywhere]](https://www.eff.org/https-everywhere), [[Ghostery]](https://addons.mozilla.org/en-US/firefox/addon/ghostery/), [[DuckDuckGoPlus]](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/), [[Stylish]](https://addons.mozilla.org/en-US/firefox/addon/stylish/), [[User-Agent Switcher]](https://addons.mozilla.org/en-US/firefox/addon/user-agent-switcher-firefox/).
 
 **4.2 Office**
 
