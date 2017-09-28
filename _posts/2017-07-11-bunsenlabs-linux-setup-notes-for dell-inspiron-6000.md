@@ -40,6 +40,7 @@ v1.1
 > * 08/29/17 Added Geany-plugins, ranger, nicstat, lshw.
 > * 09/02/17 Replaced Sublime Text 3 with Atom.
 > * 09/20/17 Added Openbox.
+> * 09/28/17 Updated list with Firefox Add-ons.
 
 **2 Before you begin**
 ----------------------
