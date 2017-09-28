@@ -76,7 +76,7 @@ Let's start with the list.
 
 I made a choice for Firefox but you can install any browser next to it.
 
-***Note:*** The add-ons I'm currently using. An updated xml file with new strings for User-Agent Switcher is available [here](http://techpatterns.com/forums/about304.html).
+***Note:*** The add-ons I'm currently using. An updated .xml file with strings for User-Agent Switcher is available [here](http://techpatterns.com/forums/about304.html).
 
 [Privacy Badger](https://www.eff.org/privacybadger), [HTTPS Everywhere](https://www.eff.org/https-everywhere), [Self-Destructing Cookies](https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies/), [Ghostery](https://addons.mozilla.org/en-US/firefox/addon/ghostery/), [Duck DuckGo Plus](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/), [Stylish](https://addons.mozilla.org/en-US/firefox/addon/stylish/), [User-Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/user-agent-switcher-firefox/).
 
