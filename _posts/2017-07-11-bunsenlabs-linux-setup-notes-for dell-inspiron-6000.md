@@ -78,7 +78,7 @@ I made a choice for Firefox but you can install any browser next to it.
 
 ***Note:*** The add-ons I'm currently using. An updated .xml file with user agents is available [here](http://techpatterns.com/forums/about304.html).
 
-~~[[Privacy Badger]](https://www.eff.org/privacybadger)~~, [[HTTPS Everywhere]](https://www.eff.org/https-everywhere), [[Ghostery]](https://addons.mozilla.org/en-US/firefox/addon/ghostery/), [[Duck- DuckGo Plus]](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/), [[Stylish]](https://addons.mozilla.org/en-US/firefox/addon/stylish/), [[User-Agent Switcher]](https://addons.mozilla.org/en-US/firefox/addon/user-agent-switcher-firefox/).
+~~[[Privacy Badger]](https://www.eff.org/privacybadger)~~, [[HTTPS Everywhere]](https://www.eff.org/https-everywhere), [[Ghostery]](https://addons.mozilla.org/en-US/firefox/addon/ghostery/), [[DuckDuckGo Plus]](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/), [[Stylish]](https://addons.mozilla.org/en-US/firefox/addon/stylish/), [[User-Agent Switcher]](https://addons.mozilla.org/en-US/firefox/addon/user-agent-switcher-firefox/).
 
 **4.2 Office**
 
