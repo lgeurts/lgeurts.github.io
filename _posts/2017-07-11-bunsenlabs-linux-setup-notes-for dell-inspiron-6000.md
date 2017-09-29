@@ -457,7 +457,7 @@ Use this basic firewall in addition to restrictive rules on your router!
 
 ***• 7.2.1 GnuPG/GPG***
 
-Full setup notes for creating your private and public keys on [NixCraft](https://www.cyberciti.biz/tips/linux-how-to-create-our-own-gnupg-privatepublic-key.html). Mutt and GnuPG? See Justin R. Miller's [tutorial](http://codesorcery.net/old/mutt/mutt-gnupg-howto).
+Full setup notes for creating your private and public key on [NixCraft](https://www.cyberciti.biz/tips/linux-how-to-create-our-own-gnupg-privatepublic-key.html). Mutt and GnuPG? See Justin R. Miller's [tutorial](http://codesorcery.net/old/mutt/mutt-gnupg-howto).
 
 **8 System information**
 ------------------------
