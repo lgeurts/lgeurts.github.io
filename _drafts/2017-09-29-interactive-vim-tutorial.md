@@ -7,4 +7,4 @@ category: Open Source
 tags: [ ] 
 ---
 
-![vim-interactive](http://www.openvim.com/)
+![vim-interactive](http://www.openvim.com/tutorial.html)
