@@ -1,6 +1,6 @@
-# Read Me
-
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/lgeurts/lgeurts.github.io) [![Project Status: Active](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active) [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?label=my-website)](https://lgeurts.github.io) 
+
+# Read Me
 
 This is the personal website of Luc Geurts hosted by [GitHub Pages](http://pages.github.com). You can find it at [lgeurts.github.io](https://lgeurts.github.io).
 
