@@ -1,6 +1,6 @@
 # Read Me
 
-![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)
+![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg) [![Project Status: Active](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
 
 This is the personal website of Luc Geurts hosted by [GitHub Pages](http://pages.github.com). You can find it at [lgeurts.github.io](https://lgeurts.github.io).
 
