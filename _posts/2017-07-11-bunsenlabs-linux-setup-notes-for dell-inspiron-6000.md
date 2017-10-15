@@ -41,6 +41,7 @@ v1.1
 > * 09/02/17 Replaced Sublime Text 3 with Atom.
 > * 09/20/17 Added Openbox.
 > * 09/28/17 Updated list with Firefox add-ons.
+> * 10/16/17 Added redshift.
 
 **2 Before you begin**
 ----------------------
@@ -560,7 +561,7 @@ Download this homepage for Firefox [here](https://github.com/unix121/homepage).
 
 Packages I use on a daily basis but for whatever dark reason always forget when creating a new setup:
 
-- $ apt-get install [geany-plugins](https://packages.debian.org/jessie/geany-plugins) [ranger](https://packages.debian.org/jessie/utils/ranger) [nicstat](https://packages.debian.org/jessie/nicstat)
+- $ apt-get install [geany-plugins](https://packages.debian.org/jessie/geany-plugins) [ranger](https://packages.debian.org/jessie/utils/ranger) [nicstat](https://packages.debian.org/jessie/nicstat) [redshift](https://packages.debian.org/jessie/redshift)
 
 **YOU ARE DONE**
 
