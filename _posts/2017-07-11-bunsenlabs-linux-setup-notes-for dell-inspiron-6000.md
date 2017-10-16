@@ -41,7 +41,7 @@ v1.1
 > * 09/02/17 Replaced Sublime Text 3 with Atom.
 > * 09/20/17 Added Openbox.
 > * 09/28/17 Updated list with Firefox add-ons.
-> * 10/16/17 Added redshift.
+> * 10/16/17 Added redshift, Openbox rounded corners patch.
 
 **2 Before you begin**
 ----------------------
@@ -548,7 +548,7 @@ Time to teach Openbox a few tricks as well. Set the number of desktops to four a
 ```
 ***Note:*** You can also disable just a single app, e.g. x-terminal-emulator.
 
-***Update:*** Head_on_a_Stick has built some experimental packages which theme Openbox with rounded corners. I installed the i386 .deb file without any issues. A how-to can be found [here](https://forums.bunsenlabs.org/viewtopic.php?id=3173&p=3).
+***Update:*** Head_on_a_Stick has built some experimental packages which theme Openbox with rounded corners. For a how-to, see [this thread](https://forums.bunsenlabs.org/viewtopic.php?id=3173&p=3).
 
 **9.4 Internet Browser**
 
