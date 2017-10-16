@@ -548,7 +548,7 @@ Time to teach Openbox a few tricks as well. Set the number of desktops to four a
 ```
 ***Note:*** You can also disable just a single app, e.g. x-terminal-emulator.
 
-***Update:*** Head_on_a_Stick has built has built packages which theme Openbox with rounded corners. Still experimental but I installed the i386 .deb file without any issues. A how-to can be found [here](https://forums.bunsenlabs.org/viewtopic.php?id=3173&p=3).
+***Update:*** Head_on_a_Stick has built some experimental packages which theme Openbox with rounded corners. I installed the i386 .deb file without any issues. A how-to can be found [here](https://forums.bunsenlabs.org/viewtopic.php?id=3173&p=3).
 
 **9.4 Internet Browser**
 
