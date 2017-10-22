@@ -42,6 +42,7 @@ v1.1
 > * 09/20/17 Added Openbox.
 > * 09/28/17 Updated list with Firefox add-ons.
 > * 10/16/17 Added redshift, Openbox rounded corners patch.
+> * 10/22/17 Added newsbeuter.
 
 **2 Before you begin**
 ----------------------
@@ -563,7 +564,7 @@ Download this homepage for Firefox [here](https://github.com/unix121/homepage).
 
 Packages I use on a daily basis but for whatever dark reason always forget when creating a new setup:
 
-- $ apt-get install [geany-plugins](https://packages.debian.org/jessie/geany-plugins) [ranger](https://packages.debian.org/jessie/utils/ranger) [nicstat](https://packages.debian.org/jessie/nicstat) [redshift](https://packages.debian.org/jessie/redshift)
+- $ apt-get install [newsbeuter](https://packages.debian.org/jessie/newsbeuter) [geany-plugins](https://packages.debian.org/jessie/geany-plugins) [ranger](https://packages.debian.org/jessie/utils/ranger) [nicstat](https://packages.debian.org/jessie/nicstat) [redshift](https://packages.debian.org/jessie/redshift)
 
 **YOU ARE DONE**
 
