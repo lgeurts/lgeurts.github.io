@@ -7,6 +7,6 @@ category: Open Source
 tags: [ Programming ]
 ---
 
-Reading [Vim After 15 Years](htps://statico.github.io/) makes me feel like: MAN, SAY WHUUUT?!.
+Reading [Vim After 15 Years](htps://statico.github.io/) makes me feel like MAN, SAY WHUUUT?!.
 
 ![Lightline plugin](https://statico.github.io/images/vim/vim3-ale.png)
