@@ -8,4 +8,4 @@ tags: [ Programming ]
 ---
 
 Guess I'll stick to Vim.
-[https://statico.github.io/](https://statico.github.io/images/vim/vim3.png) 
+[https://statico.github.io/images/vim/vim3.png](htps://statico.github.io/)
