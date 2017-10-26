@@ -7,4 +7,5 @@ category: Open Source
 tags: [ Programming ]
 ---
 
-[https://statico.github.io/](https://statico.github.io/images/vim/vim3.png)
+Guess I'll stick to Vim.
+[https://statico.github.io/](https://statico.github.io/images/vim/vim3.png) 
