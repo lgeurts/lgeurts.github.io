@@ -7,5 +7,5 @@ category: Open Source
 tags: [ Programming ]
 ---
 
-Guess I'll stick to Vim.
-[https://statico.github.io/images/vim/vim3.png](htps://statico.github.io/)
+Reading [Ian's Blog](htps://statico.github.io/), guess I'll stick to Vim.
+![Vim](https://statico.github.io/images/vim/vim3.png)
