@@ -9,7 +9,7 @@ tags: [ Programming ]
 
 Ian's [Vim After 15 Years](https://statico.github.io/) made me feel like: UUHMM, SAY WHUT?
 
-![lightline.vim](https://statico.github.io/images/vim/vim3-ale.png)
+![vim](https://statico.github.io/images/vim/vim3.png)
 
 ![vim-githutter](https://statico.github.io/images/vim/vim3-gitgutter.png)
 
