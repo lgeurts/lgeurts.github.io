@@ -7,7 +7,7 @@ category: Open Source
 tags: [ Programming ]
 ---
 
-Raeding [Vim After 15 Years](https://statico.github.io/). UUHMM, SAY WHUT?
+Reading [Vim After 15 Years](https://statico.github.io/). UUHMM, SAY WHUT?
 
 ![vim-githutter](https://statico.github.io/images/vim/vim3-gitgutter.png)
 
