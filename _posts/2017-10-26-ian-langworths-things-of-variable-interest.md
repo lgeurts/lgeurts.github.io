@@ -11,4 +11,4 @@ Reading [Vim After 15 Years](https://statico.github.io/). UUHMM, SAY WHUT?
 
 ![vim-githutter](https://statico.github.io/images/vim/vim3-gitgutter.png)
 
-Fzf and fzf.vim for finding files, ack.vim and ag for searching files, Vim 8 + tmux combi, ALE, the [Vim Awesome](https://vimawesome.com/) community site.... Update your .vimrc!
+Fzf and fzf.vim for finding files, ack.vim and ag for searching files, Vim 8 + tmux combi, ALE, the [Vim Awesome](https://vimawesome.com/) community site.... Start your engines!
