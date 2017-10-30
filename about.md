@@ -8,7 +8,7 @@ title: About
 I am a self-employed DevOps and Cloud Platforms Engineer, living in the central north of France.
 In a former life I was a Microsoft PFE, T3 Escalation Engineer at Dell, Support Escalation Engineer at HP, and and... the list goes on up to 1995.
 
-Learned a lot and met amazingly talented people  of which I can call some a close friend. Sounds great? It is, but I also discovered I could not imagine me doing the same old 'new' thing for the rest of my productive life. So I jumped into the deep, switched to the uncertainty as a one-man show, and am loving every minute of it.
+Learned a lot and met amazingly talented people  of which I can call some a close friend. Sounds great? It is, but I also discovered I could not imagine me doing the same old 'new' thing for the rest of my productive life. So I jumped into the deep, switched to the uncertainty as a one-man show, and love every minute of it.
 
 What else? I am interested in 'too' many things, ranging from science to history, philosophy, Ruby on Rails, AWS, Linux, Windows Server, ETW tracing, kendo and kenjutsu, gaming, traveling planet earth, foreign languages, and many more.
 
