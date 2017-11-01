@@ -7,8 +7,4 @@ category: Open Source
 tags: [ Programming ]
 ---
 
-Reading Ian's [Vim After 15 Years](https://statico.github.io/). UUHMM, 15 YEARS?
-
-![vim-gitgutter](https://statico.github.io/images/vim/vim3-gitgutter.png)
-
-Fzf and fzf.vim for finding files, ack.vim and ag for searching files, Vim 8 + tmux combi, ALE, the [Vim Awesome](https://vimawesome.com/) community site.... Starting engines!
+Reading Ian's [Vim After 15 Years](https://statico.github.io/). Fzf and fzf.vim for finding files, ack.vim and ag for searching files, Vim 8 + tmux combi, ALE, the [Vim Awesome](https://vimawesome.com/) community site.... Guess its time to update my rc files.
