@@ -10,9 +10,9 @@ tagline:             ''
 description:         'Musings of a would be front-end web developer.'
 url:                 http://lgeurts.github.io
 baseurl:             ''
-plugins: 			 [jekyll-paginate]
+plugins: 			       [jekyll-paginate]
 paginate:            6
-paginate_path: 		 "page:num"
+paginate_path: 		   "page:num"
 
 # About/contact
 author:
