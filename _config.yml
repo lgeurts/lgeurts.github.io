@@ -11,7 +11,7 @@ description:         'Musings of a would be front-end web developer.'
 url:                 http://lgeurts.github.io
 baseurl:             ''
 plugins: 			 [jekyll-paginate]
-paginate:            5
+paginate:            6
 paginate_path: 		 "page:num"
 
 # About/contact
