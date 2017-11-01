@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Curl wttr.in - Weather forecasting in your terminal
+title: Weather forecasting in your terminal - wttr.in
 read_time: true  
 comments: true
 category: Open Source
-tags: [ ]
+tags: [ GitHub Projects ]
 ---
 
+![wttr.in](/assets/wttr.in.png)
