@@ -6,7 +6,7 @@ title: About
 ![KNAV Austria](/assets/C2ADV01.jpg)
 
 I am a self-employed DevOps and Cloud Platforms Engineer, living in the central north of France.
-In a former life I was a Microsoft PFE, T3 Escalation Engineer at Dell, Support Escalation Engineer at HP. The list goes on up to 1995.
+In a former life I was a Microsoft PFE, T3 Escalation Engineer at Dell, Support Escalation Engineer at HP. The list goes back to 1995.
 
 Learned a lot and met amazingly talented people  of which I can call some a close friend. Sounds great? It is. But I also discovered I could not imagine me doing the same old 'new' things for the rest of my life. Personal growth; stepping out of the comfort zone has always been my primary drive and what's better than having to depend on your own, on your own intuition? So, I jumped into the deep, resigned and switched to the uncertainty of a one-man show. And love every minute of it.
 
@@ -17,4 +17,3 @@ Guess that's it. If you like this site, you can follow me on my Twitter [@lgeurt
 Go n-éirí an bothar leat,
 
 /Luge
-    
