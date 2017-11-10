@@ -12,7 +12,7 @@ Learned a lot and met amazingly talented people  of which I can call some a clos
 
 What else? I'm interested in far too much topics ranging from science to history, philosophy, robotics, kendo and kenjutsu, grade 3 ice climbing, trekking, playing drums, gaming, traveling planet earth, foreign languages, and many more.
 
-Guess that's it. If you like this site, you can follow me on my Twitter [@lgeurts](https://twitter.com/lgeurts) or send a connection request on [LinkedIn](https://www.linkedin.com/in/lucgeurts). If you want to hire me, please check [this page](https://github.com/lgeurts/Resume/blob/master/Moderncv%20Resume%20Luc%20Geurts%20%28US%29.pdf) before contacting me. 
+Guess that's it. If you like this site, you can follow me on my Twitter [@lgeurts](https://twitter.com/lgeurts) or send a connection request on [LinkedIn](https://www.linkedin.com/in/lucgeurts). If you want to hire me, please check [this page](https://github.com/lgeurts/Resume/blob/master/Moderncv%20Resume%20Luc%20Geurts%20%28US%29.pdf) for my resume.
 
 Go n-éirí an bothar leat,
 
