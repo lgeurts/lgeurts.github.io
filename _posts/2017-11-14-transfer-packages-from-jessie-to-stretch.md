@@ -11,4 +11,4 @@ tags: [ Debian Linux ]
 
 ```$ sudo apt-get install $(cat my-packages)```
 
-Or get [apt-clone](https://packages.debian.org/en/jessie/apt-clone).
+I know, there is also [apt-clone](https://packages.debian.org/en/jessie/apt-clone). Just use what you like.
