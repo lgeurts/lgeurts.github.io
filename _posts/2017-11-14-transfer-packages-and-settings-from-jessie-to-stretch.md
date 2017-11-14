@@ -8,9 +8,6 @@ tags: [  ]
 ---
 
 1. List the currently installed packages, save them to a file 'my-settings' and then read that file to reinstall:
-
-- $ dpkg -l | grep ^ii | awk '{print $2}' > my-settings
-
+```- $ dpkg -l | grep ^ii | awk '{print $2}' > my-settings```
 2. In your newly installed Debian-based distro, install the saved packages:
-
-- $ sudo apt-get my-settings $(cat installed)
+```- $ sudo apt-get my-settings $(cat installed)```
