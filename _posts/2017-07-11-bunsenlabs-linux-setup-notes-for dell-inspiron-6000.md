@@ -41,6 +41,7 @@ v1.1
 > * 09/28/17 Updated list with Firefox add-ons.
 > * 10/16/17 Added redshift, Openbox rounded corners patch.
 > * 10/22/17 Added newsbeuter.
+> * 11/15/17 Added Atom package Language-PowerShell.
 
 **2 Before you begin**
 ----------------------
@@ -290,6 +291,7 @@ Pigments      | [https://github.com/abe33/atom-pigments](https://github.com/abe3
 File-icons    | [https://atom.io/themes/file-icons](https://atom.io/themes/file-icons)
 Color-picker  | [https://atom.io/themes/color-picker](https://atom.io/themes/color-picker)
 Language-Markdown | [https://atom.io/packages/language-markdown](https://atom.io/packages/language-markdown)
+Language-PowerShell | [https://atom.io/packages/language-powershell](https://atom.io/packages/language-powershell)
 Autocomplete-Python | [https://atom.io/packages/autocomplete-python](https://atom.io/packages/autocomplete-python)
 
 **6.2 Programming**
