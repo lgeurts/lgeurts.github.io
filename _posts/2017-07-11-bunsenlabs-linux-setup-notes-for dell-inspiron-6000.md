@@ -41,7 +41,6 @@ v1.1
 > * 09/28/17 Updated list with Firefox add-ons.
 > * 10/16/17 Added redshift, Openbox rounded corners patch.
 > * 10/22/17 Added newsbeuter.
-> * 11/15/17 Added Atom package Language-PowerShell.
 
 **2 Before you begin**
 ----------------------
