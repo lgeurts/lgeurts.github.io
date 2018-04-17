@@ -7,4 +7,4 @@ category: Open Source
 tags: [ Programming ]
 ---
 
-Am reading Ian's [Vim After 15 Years](https://statico.github.io/). Fzf and fzf.vim for finding files, ack.vim and ag for searching files, Vim + tmux, ALE & a [Vim Awesome](https://vimawesome.com/) community. Like!
+Am reading Ian's [Vim After 15 Years](https://statico.github.io/): Fzf and fzf.vim for finding files, ack.vim and ag for searching files, Vim + tmux, ALE & a [Vim Awesome](https://vimawesome.com/) community.
