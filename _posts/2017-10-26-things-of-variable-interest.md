@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ian Langworth's Things of Variable Interest
+title: Things of Variable Interest
 read_time: true  
 comments: true
 category: Open Source
