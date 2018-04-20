@@ -5,7 +5,7 @@ title: About
 
 ![KNAV Austria](/assets/C2ADV01.jpg)
 
-I am a Technical Team Lead and (Cloud) Platforms Engineer, living in the central north of France.
+I'm a Technical Team Lead and (Cloud) Platforms Engineer, living in the central north of France.
 In a former life I was a Microsoft PFE, T3 Escalation Engineer at Dell, HP Support Escalation Engineer ... A career stretching back to the MS-DOS era early 1995.
 
 Learned a lot and met amazingly talented people of which I can call some a close friend. Sounds great? It is, but I also discovered I couldn't imagine me doing this same old new thing for the rest of my life. Personal growth; stepping out of your comfort zone has always been my primary goal, and what's better than having to depend on your own intuitions? So I jumped into the deep, started as a one-man shop, and am loving every minute of it.
