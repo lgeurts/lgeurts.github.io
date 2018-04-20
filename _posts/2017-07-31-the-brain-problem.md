@@ -4,7 +4,7 @@ title: The Brain Problem by Robert C. Martin
 read_time: true  
 comments: true
 category: Science
-tags: [ Artificial Sentience ]
+tags: [ Artificial Intelligence ]
 ---
 
 The idea that our meager internet, which indirectly interconnects only a trifling few 'HUNDREDS of MILLIONS' of pitifully weak serial processors, could emulate the information of a single brain is absurd.
