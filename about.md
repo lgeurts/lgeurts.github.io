@@ -8,7 +8,7 @@ title: About
 I'm a Technical Team Lead and (Cloud) Platforms Engineer, living in the central north of France.
 In a former life I was a Microsoft PFE, T3 Escalation Engineer at Dell, HP Support Escalation Engineer ... A career stretching back to the MS-DOS era early 1995.
 
-Learned a lot and met amazingly talented people of which I can call some a close friend. Sounds great? It is, but I discovered I couldn't imagine me repeating this same tech routine for the rest of my working days. Personal growth; leaving your comfort zone has always been my primary goal, and what's better than having to depend on your own intuitions? So I jumped into the deep, started as a one-man shop and never looked back. Sure, I had some pitfalls, but that kick you get when rebuilding your world, stepping into the wide open, far outweighs the bad.   
+Learned a lot and met amazingly talented people of which I can call some a close friend. Sounds great?? It is, but I discovered I couldn't imagine me repeating this same tech routine for the rest of my working days. Personal growth; leaving your comfort zone has always been my primary goal, and what's better than having to depend on your own intuitions? So I jumped into the deep, started as a one-man shop and never looked back. Sure, I had some pitfalls, but that kick you get when rebuilding your world, stepping into the wide open, far outweighs the bad.   
 
 What else? I'm interested in far too much topics ranging from science to history, philosophy, robotics, kendo and kenjutsu, grade 3 ice climbing, trekking, playing drums, gaming, traveling planet earth, foreign languages, and many more.
 
