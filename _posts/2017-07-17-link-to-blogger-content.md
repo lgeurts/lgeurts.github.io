@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link to my Blogger content
+title: Link to Blogger content
 read_time: true  
 comments: false
 category: Social Media
