@@ -4,7 +4,7 @@ title: My BunsenLabs Linux setup notes for Dell Inspiron 6000
 read_time: true  
 comments: true
 category: Open Source
-tags: [ Linux, Tutorials ]
+tags: [ Linux Tutorials ]
 ---
 
 ![BunsenLabs Deuterium, fresh install](/assets/bunsenlabs-deuterium.jpg)
