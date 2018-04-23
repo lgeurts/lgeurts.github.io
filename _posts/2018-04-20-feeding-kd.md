@@ -10,4 +10,4 @@ tags: [ WinDbg ]
 - Show the bug check code and its parameters: `.bugcheck`.
 - Getting a quick preliminary report: `!analyze -v;r;kv;lmnt;q`.
 
-One line, each day.
+One line, each week.
