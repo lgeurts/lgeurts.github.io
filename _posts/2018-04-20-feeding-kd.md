@@ -7,5 +7,5 @@ category: Debugging
 tags: [ WinDbg ]
 ---
 
-Show the bug check code and its parameters: `.bugcheck`.
-Getting a quick preliminary report: `!analyze -v;r;kv;lmnt;q`.
+- Show the bug check code and its parameters: `.bugcheck`.
+- Getting a quick preliminary report: `!analyze -v;r;kv;lmnt;q`.
