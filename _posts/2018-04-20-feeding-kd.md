@@ -8,7 +8,7 @@ tags: [ WinDbg ]
 ---
 
 * Show the bug check code and its parameters: `.bugcheck`.
-* Show pending entries in the I/O system's error log: `!errlog`.
+* Show content of entries in the I/O system's error log: `!errlog`.
 * Create a quick preliminary report: `!analyze -v;r;kv;lmnt;q`.
 
 One line, each week.
