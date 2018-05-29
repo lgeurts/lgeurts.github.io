@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Testing Elastic Stack, the cheapest way
+title: Testing Elastic Stack (ELK) on an Ubuntu VM in Azure
 read_time: true
 comments: true
 category: Open Source
