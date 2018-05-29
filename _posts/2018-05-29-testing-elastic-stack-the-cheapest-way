@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Testing Elastic Stack the cheapest way
+title: Testing Elastic Stack, the cheapest way
 read_time: true
 comments: true
 category: Open Source
 tags: [ Data Search & Analytics ]
 ---
 
-Elastic Stack (ELK)
+This post walks you through how to deploy Elasticsearch, Logstash, and Kibana, on an Ubuntu VM in Azure. 
+
