@@ -14,7 +14,8 @@ Looking back now, and despite the pitfalls, probably one of my best decisions.
 
 What else? I'm interested in far too much topics ranging from science to history, philosophy, robotics, kendo and kenjutsu, grade 3 ice climbing, trekking, playing drums, gaming, traveling planet earth, foreign languages, and many more.
 
-Guess that's it. If you like this site, you can follow me on [Twitter](https://twitter.com/lgeurts) or [Instagram](https://www.instagram.com/luc.geurts/). If you want to hire me, please check [this page](https://github.com/lgeurts/Resume/blob/master/Moderncv%20Resume%20Luc%20Geurts%20%28US%29.pdf) for my resume.
+Guess that's it. If you like this site, you can follow me on [Twitter](https://twitter.com/lgeurts) or [Instagram](https://www.instagram.com/luc.geurts/). 
+If you want to hire me, please check [this page](https://github.com/lgeurts/Resume/blob/master/Moderncv%20Resume%20Luc%20Geurts%20%28US%29.pdf) for my latest resume.
 
 Go n-éirí an bothar leat,
 
