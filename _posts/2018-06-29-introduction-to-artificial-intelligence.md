@@ -11,8 +11,8 @@ tags: [ edX Courseware, artificial intelligence ]
 
 Machine learning provides the foundation for artificial intelligence. We train our software model using data e.g. the model learns from the training cases and then we use the trained model to make predictions for new data cases.
 
-Let's start with a data set containing historical records. Every record includes numerical values (X) quantifying characteristics of the item we are working with. 
-There are also values we try to predict (Y). 
+Let's start with a data set which contains historical records. Every record includes numerical values (X) quantifying characteristics of the item we are working with. 
+Then there are also values we try to predict (Y). 
 
 
 
