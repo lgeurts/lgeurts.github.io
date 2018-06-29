@@ -9,5 +9,7 @@ tags: [ edX Courseware, artificial intelligence ]
 
 Day 1
 
+Machine learning provides the foundation for artificial intelligence.
+
 
 
