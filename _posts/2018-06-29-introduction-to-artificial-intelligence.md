@@ -16,7 +16,7 @@ There are also values we try to predict (Y). We will use training cases to train
 
 There are two common kinds of machine learning, ***supervised*** and ***unsupervised***. In a supervised learning scenario, we start with  observations that include known values for the variable we want to predict. We call these ***labels***.
 
-Because we started with data that includes the label we're trying to predict, we can train the model using only some of the data and withhold the rest of the data for evaluating model performance.
+Because we started with data that includes the label we are trying to predict, we can train the model using only some of the data and withhold the rest of the data for evaluating our models performance.
 
 
 
