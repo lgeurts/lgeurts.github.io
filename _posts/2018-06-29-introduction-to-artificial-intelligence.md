@@ -7,12 +7,14 @@ category: Education & Training
 tags: [ Artificial Intelligence ]
 ---
 
-**Day 1: What is Machine Learning?**
+**What is Machine Learning?**
 
 Machine learning provides the foundation for artificial intelligence. We train our software model using data e.g. the model learns from the training cases and then we use the trained model to make predictions for new data cases.
 
-Let's start with a data set that contains ***historical*** records. Every record includes numerical values (X) quantifying characteristics of the item we are working with. 
-Then there are also values we try to predict: (Y). We'll use training cases to train a machine learning model so that it can calculate a value for Y from the values in X.
+Let's start with a data set that contains ***historical*** records aka observations. Every record includes numerical features (X) quantifying characteristics of the item we are working with. 
+Then there are also values we try to predict: (Y). We'll use training cases to train a machine learning model so that it can calculate a value for Y from the features in X.
+
+There are two kinds of machine learning, supervised and unsupervised. In supervised learning scenarios, we start with the observations that include known values for the variable we want to predict. We call these labels.
 
 
 
