@@ -9,7 +9,7 @@ tags: [ edX Courseware, artificial intelligence ]
 
 Day 1
 
-Machine learning provides the foundation for artificial intelligence.
+Machine learning provides the foundation for artificial intelligence. We train a software model using data. The model learns from the training cases and then we can use the trained model to make predictions for new data cases.
 
 
 
