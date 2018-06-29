@@ -6,3 +6,5 @@ comments: true
 category: Education & Training
 tags: [ edX Courseware, artificial intelligence ]
 ---
+
+Day 1
