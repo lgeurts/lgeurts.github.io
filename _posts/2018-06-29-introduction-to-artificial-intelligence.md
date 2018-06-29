@@ -7,7 +7,7 @@ category: Education & Training
 tags: [ Artificial Intelligence ]
 ---
 
-(/assets/artificial-intelligence.jpg)
+![AI](/assets/artificial-intelligence.jpg)
 
 **What is Machine Learning?**
 
