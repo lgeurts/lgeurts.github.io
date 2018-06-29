@@ -8,3 +8,6 @@ tags: [ edX Courseware, artificial intelligence ]
 ---
 
 Day 1
+
+
+
