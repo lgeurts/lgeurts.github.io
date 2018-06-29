@@ -14,7 +14,7 @@ Machine learning provides the foundation for artificial intelligence. We train o
 Let's start with a data set that contains ***historical*** records aka observations. Every record includes numerical features (X) quantifying characteristics of the item we are working with. 
 There are also values we try to predict (Y). We will use training cases to train a machine learning model so that it calculates a value for (Y) from the features in (X).
 
-There are two common kinds of machine learning, ***supervised*** and ***unsupervised***. In supervised learning scenarios, we start with the observations that include known values for the variable we want to predict. We call these labels.
+There are two common kinds of machine learning, ***supervised*** and ***unsupervised***. In a supervised learning scenario, we start with the observations that include known values for the variable we want to predict. We call these labels.
 
 
 
