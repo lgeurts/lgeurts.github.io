@@ -4,7 +4,7 @@ title: edX Study Notes - Introduction to Artificial Intelligence (AI)
 read_time: true  
 comments: true
 category: Education & Training
-tags: [ edX Courseware, Artificial Intelligence ]
+tags: [ Artificial Intelligence ]
 ---
 
 **Day 1: What is Machine Learning?**
