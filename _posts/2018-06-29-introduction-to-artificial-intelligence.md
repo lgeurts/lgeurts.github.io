@@ -31,5 +31,7 @@ In a ***unsupervised*** learning scenario, we don't have any known label values 
 
 We'll train the model by finding similarities between observations. Once we have trained the model, any new observations are added to a group (officially ***cluster***) of observations with akin characteristics.
 
+**Techniques**
+
 
 
