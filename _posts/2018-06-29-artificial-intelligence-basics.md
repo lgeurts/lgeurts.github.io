@@ -9,12 +9,13 @@ tags: [ Artificial Intelligence ]
 
 ![Robot](/assets/artificial-intelligence.jpg)
 
-These personal notes are broadly intended to cover the basics for machine learning and artificial intelligence. 
+These are my personal notes, broadly intended to cover the basics for machine learning and artificial intelligence. 
 
 Some caveats:
 * This is still very much a work in progress and it will be changing a lot.
 * Some content may be out of order, missing.
 * These notes are generated for markdown, so they unfortunately lack snazzy interactivity.
+* Part of this material is adapted, sometimes directly copied, from elsewhere. I have tried to give credit where due. 
 
 **What is Machine Learning?**
 
