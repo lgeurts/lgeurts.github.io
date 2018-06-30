@@ -41,7 +41,9 @@ Let's take one male. We want to model calories burned while exercising. First we
 
 In this case we know all features and have a known label value of 231 calories. So we need our algorithm to learn a function that operates of all exercise features to give us a net result of 231.
 
-A sample of one person isn't likely to give a function that generalizes well. So we gather the same data from a large number participants, and then train the model using the bigger set of data. That done, we will have a generalized function that can be used to calculate our label (Y), we can then plot the values of (Y), calculated for specific features of (X) values.
+A sample of one person isn't likely to give a function that generalizes well. So we gather the same data from a large number participants, and then train the model using the bigger set of data. 
+
+After training, and now having a generalized function that can be used to calculate our label (Y), we can then plot the values of (Y), calculated for specific features of (X) values.
 
 
 
