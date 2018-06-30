@@ -37,6 +37,6 @@ When we need to predict a numeric value, for example an amount of calories, we u
 
 Let's take one male. We want to model calories burned while exercising. First we get some pre-liminary data, then put him on a fitness monitor and capture more data using known features like age, weight, heart rate, duration. 
 
-In this case we know all features and have a known label value of 231 calories. So we need our algorithm to learn the function that operates of all of his exercise features to give us a net result of 231.
+In this case we know all features and have a known label value of 231 calories. So we need our algorithm to learn a function that operates of all exercise features to give us a net result of 231.
 
 
