@@ -9,7 +9,7 @@ tags: [ Artificial Intelligence ]
 
 ![Robot](/assets/artificial-intelligence.jpg)
 
-These are my personal notes. They are broadly intended to cover the basics for machine learning, and artificial intelligence. 
+These are my personal notes, broadly intended to cover the basics for machine learning, and artificial intelligence. 
 
 Some caveats:
 * This post may not be helpful for your purposes. 
@@ -23,7 +23,7 @@ Some caveats:
 > 1. What is Machine Learning
 > 2. Techniques
 
-**What is Machine Learning?**
+**1. What is Machine Learning?**
 
 Machine learning provides the foundation for artificial intelligence. We train our software model using data e.g. the model learns from the training cases and then we use the trained model to make predictions for new data cases.
 
@@ -45,7 +45,7 @@ In a ***unsupervised*** learning scenario, we don't have any known label values 
 
 We'll train the model by finding similarities between observations. Once we have trained this model, more observations are added to a ***cluster*** of observations with akin characteristics. (Cluster = Group)
 
-**Techniques**
+**2. Techniques**
 
 When we need to predict a numeric value, for example an amount of calories, we use a supervised learning technique called ***regression***. 
 
