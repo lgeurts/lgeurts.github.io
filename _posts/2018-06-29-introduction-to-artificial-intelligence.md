@@ -27,5 +27,7 @@ First step, using an algorithm to train a model that fits the features to the kn
 
 As we started with a known label value, we can validate the model by comparing the value predicted by the function to the actual label value that we knew. Then, when we're happy that the model works, we can use it with new observations for which the label is unknown, and generate new predicted values.
 
+Unsupervised learning means we don't have known label values in our training data set. Instead We train the model by finding similarities between observations. Once we trained the model every new observation is added to a group (cluster) of observations with similar characteristics.
+
 
 
