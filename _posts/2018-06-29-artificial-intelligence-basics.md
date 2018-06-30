@@ -18,6 +18,7 @@ Some caveats:
 * Part of this material is adapted, sometimes directly copied, from elsewhere. I have tried to give credit where due. 
 
 **What is Machine Learning?**
+-----------------------------
 
 Machine learning provides the foundation for artificial intelligence. We train our software model using data e.g. the model learns from the training cases and then we use the trained model to make predictions for new data cases.
 
