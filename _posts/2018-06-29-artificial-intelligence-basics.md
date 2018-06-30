@@ -20,7 +20,7 @@ Some caveats:
 
 **TABLE OF CONTENT:**
 
-> 1. What is Machine Learning
+> 1. What is Machine Learning?
 > 2. Techniques
 
 **1. What is Machine Learning?**
@@ -37,7 +37,7 @@ In a ***supervised*** learning scenario, we start with  observations that includ
 
 Because we are starting with data that includes the label we are trying to predict, we can train the model using only some data and hold the rest for evaluating our models performance. 
 
-We'll then use an algorithm to train a model fitting features to the known label. 
+We'll then use a algorithm to train a model that fits features to the known label. 
 
 As we started with a known label value, we can validate the model by comparing the value predicted by the function to the actual label value that we knew. Then, when we're happy that the model works, we can use it with new observations for which the label is unknown, and generate new predicted values.
 
@@ -54,6 +54,4 @@ Let's take one male. We want to model calories burned while exercising. First we
 In this case we know all features and have a known label value of 231 calories. So we need our algorithm to learn a function that operates of all exercise features to give us a net result of 231.
 
 A sample of one person isn't likely to give a function that generalizes well. So we gather the same data from a large number participants, and then train the model using the bigger set of data. When done, and now having a new function that can be used to calculate our label (Y), we can finally plot the values of (Y), calculated for specific features of (X) values.
-
-
 
