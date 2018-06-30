@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Study Notes - Artificial Intelligence (AI) Basics
+title: Study Notes - Artificial Intelligence Basics
 read_time: true  
 comments: false
 category: Education & Training
