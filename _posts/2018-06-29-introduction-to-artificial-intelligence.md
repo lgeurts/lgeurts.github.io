@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Study Notes - Introduction to Artificial Intelligence (AI)
+title: Study Notes - An Introduction to Artificial Intelligence (AI)
 read_time: true  
 comments: false
 category: Education & Training
