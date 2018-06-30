@@ -37,7 +37,7 @@ In a ***supervised*** learning scenario, we start with  observations that includ
 
 Because we are starting with data that includes the label we are trying to predict, we can train the model using only some data and hold the rest for evaluating our models performance. 
 
-We'll then use an algorithm to train a model that fits the features to the known label. 
+We'll then use an algorithm to train a model fitting features to the known label. 
 
 As we started with a known label value, we can validate the model by comparing the value predicted by the function to the actual label value that we knew. Then, when we're happy that the model works, we can use it with new observations for which the label is unknown, and generate new predicted values.
 
