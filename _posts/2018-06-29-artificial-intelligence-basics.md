@@ -7,7 +7,13 @@ category: Education & Training
 tags: [ Artificial Intelligence ]
 ---
 
-This post is purely for own use (quick reference).
+These are my personal notes which are broadly intended to cover the basics necessary for machine learning, and artificial intelligence. 
+
+Some caveats:
+
+* This is still very much a work in progress and it will be changing a lot.
+* Some content may be out of order, missing.
+* These notes are generated in markdown, so they unfortunately lack any snazzy interactivity.
 
 ![AI](/assets/artificial-intelligence.jpg)
 
