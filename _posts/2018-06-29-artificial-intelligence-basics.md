@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Study Notes - Artificial Intelligence Basics
+title: Study Notes - Artificial Intelligence (AI)
 read_time: true  
 comments: false
 category: Education & Training
@@ -12,10 +12,9 @@ tags: [ Artificial Intelligence ]
 These are my personal notes which are broadly intended to cover the basics for machine learning and artificial intelligence. 
 
 Some caveats:
-
 * This is still very much a work in progress and it will be changing a lot.
 * Some content may be out of order, missing.
-* These notes are generated in markdown, so they unfortunately lack any snazzy interactivity.
+* These notes are generated in markdown, so they unfortunately lack snazzy interactivity.
 
 **What is Machine Learning?**
 
