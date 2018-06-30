@@ -7,6 +7,8 @@ category: Education & Training
 tags: [ Artificial Intelligence ]
 ---
 
+This post is purely for own use (quick reference).
+
 ![AI](/assets/artificial-intelligence.jpg)
 
 **What is Machine Learning?**
