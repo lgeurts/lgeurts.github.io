@@ -12,6 +12,7 @@ tags: [ Artificial Intelligence ]
 **These are my personal notes**. They are broadly intended to cover the basics for machine learning and artificial intelligence. 
 
 Some caveats:
+* This post may not be helpful for your purposes. 
 * This is still very much a work in progress and it will be changing a lot.
 * Some content may be out of order, missing. Don't get upset.
 * These notes are generated for markdown, so they unfortunately lack snazzy interactivity.
