@@ -9,7 +9,7 @@ tags: [ Artificial Intelligence ]
 
 ![Robot](/assets/artificial-intelligence.jpg)
 
-These are my personal notes. They are broadly intended to cover the basics for machine learning and artificial intelligence. 
+**These are my personal notes**. They are broadly intended to cover the basics for machine learning and artificial intelligence. 
 
 Some caveats:
 * This is still very much a work in progress and it will be changing a lot.
