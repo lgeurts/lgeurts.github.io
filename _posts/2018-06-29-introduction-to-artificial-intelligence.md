@@ -19,7 +19,7 @@ There are also values we try to predict (Y). We will use training cases to train
 
 There are two common kinds of machine learning, ***supervised*** and ***unsupervised***. 
 
-In a supervised learning scenario, we start with  observations that include known values for the variable we want to predict. We call these ***labels***.
+In a ***supervised*** learning scenario, we start with  observations that include known values for the variable we want to predict. We call these ***labels***.
 
 Because we are starting with data that includes the label we are trying to predict, we can train the model using only some data and hold the rest for evaluating our models performance. 
 
@@ -27,7 +27,7 @@ First step, using an algorithm to train a model that fits the features to the kn
 
 As we started with a known label value, we can validate the model by comparing the value predicted by the function to the actual label value that we knew. Then, when we're happy that the model works, we can use it with new observations for which the label is unknown, and generate new predicted values.
 
-Unsupervised learning means we don't have known label values in our training data set. Instead We train the model by finding similarities between observations. Once we trained the model every new observation is added to a group (cluster) of observations with similar characteristics.
+***Unsupervised*** learning means we don't have known label values in our training data set. Instead We train the model by finding similarities between observations. Once we trained the model every new observation is added to a group (cluster) of observations with similar characteristics.
 
 
 
