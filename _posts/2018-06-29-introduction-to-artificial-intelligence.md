@@ -17,7 +17,7 @@ Let's start with a data set that contains historical records aka ***observations
 
 There are also values we try to predict (Y). We will use training cases to train the machine learning model so that it calculates a value for (Y), from the features in (X). Simply said, we're creating a ***function*** that operates on a set of features, (X), to produce predictions, (Y).
 
-There are two kinds of machine learning, ***supervised*** and ***unsupervised***. 
+There are two kinds of machine learning, supervised and unsupervised. 
 
 In a ***supervised*** learning scenario, we start with  observations that include known values for the variable we want to predict. We call these ***labels***.
 
