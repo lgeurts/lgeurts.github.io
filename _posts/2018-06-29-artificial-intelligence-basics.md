@@ -20,11 +20,11 @@ Some caveats:
 
 ***Table of Contents:***
 
-1. What is Machine Learning
-2. Techniques
+> 1. What is Machine Learning
+> 2. Techniques
 
 **What is Machine Learning?**
----------------------------------
+
 Machine learning provides the foundation for artificial intelligence. We train our software model using data e.g. the model learns from the training cases and then we use the trained model to make predictions for new data cases.
 
 Let's start with a data set that contains historical records aka ***observations***. Every record includes numerical ***features*** (X) quantifying characteristics of the item we are working with. 
