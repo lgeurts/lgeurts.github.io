@@ -18,6 +18,10 @@ Some caveats:
 * These notes are generated for markdown, so they unfortunately lack snazzy interactivity.
 * Part of this material is adapted, sometimes directly copied, from elsewhere. I have tried to give credit where due. 
 
+Table of Contents:
+
+1. [What is Machine Learning](#example)
+
 **What is Machine Learning?**
 -----------------------------
 
