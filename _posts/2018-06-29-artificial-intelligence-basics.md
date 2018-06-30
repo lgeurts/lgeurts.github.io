@@ -20,10 +20,9 @@ Some caveats:
 
 Table of Contents:
 
-1. [What is Machine Learning](#example)
+1. [What is Machine Learning](#What is Machine Learning)
 
 **What is Machine Learning?**
------------------------------
 
 Machine learning provides the foundation for artificial intelligence. We train our software model using data e.g. the model learns from the training cases and then we use the trained model to make predictions for new data cases.
 
