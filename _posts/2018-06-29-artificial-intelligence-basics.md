@@ -33,11 +33,12 @@ There are also values we try to predict (Y). We will use training cases to train
 
 There are five types of machine learning:
 
-* ***Supervised learning*** - the learning algorithm is provided with pre-labeled training examples to learn from.
-* ***Unsupervised learning*** - the learning algorithm is provided with unlabeled examples. Generally, unsupervised learning is used to uncover some structure of or pattern in the data.
+* ***Supervised learning*** - the learning algorithm is provided with a pre-labeled training example to learn from.
+* ***Unsupervised learning*** - the learning algorithm is provided with unlabeled examples. Generally used to uncover some structure of or pattern in the data.
 * ***Semi-supervised learning*** - the learning algorithm is provided with a mixture of labeled and unlabeled data.
 * ***Active learning*** - similar to semi-supervised learning, but the algorithm can "ask" for extra labeled data based on what it needs to improve on.
-* ***Reinforcement learning*** - actions are taken and rewarded or penalized in some way and the goal is maximizing lifetime/long-term reward (or minimizing lifetime/long-term penalty).
+* ***Reinforcement learning*** - actions are taken, rewarded or penalized in some way and the goal is maximizing lifetime/long-term reward (or minimizing lifetime/long-term penalty).
+
 *Ref: Neural Computing: Theory and Practice (1989) - Philip D. Wasserman.*
 
 In this course we only discuss the 2 most common; supervised and unsupervised:
