@@ -48,7 +48,7 @@ There are also values we try to predict (Y). We will use training cases to train
 
 **Note:** We will discuss the 2 most common; ***supervised*** and ***unsupervised***.
 
-**Learning Scenarios:**
+**Learning scenarios:**
 
 In a ***supervised*** learning scenario, we start with  observations that include known values for the variable we want to predict. We call these ***labels***.
 
