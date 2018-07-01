@@ -52,7 +52,7 @@ There are also values we try to predict (Y). We will use training cases to train
 
 *Ref: Neural Computing: Theory and Practice (1989) - Philip D. Wasserman.*
 
-**We will discuss the 2 most common; supervised and unsupervised:**
+**Note:** We will discuss the 2 most common; supervised and unsupervised
 
 In a ***supervised*** learning scenario, we start with  observations that include known values for the variable we want to predict. We call these ***labels***.
 
