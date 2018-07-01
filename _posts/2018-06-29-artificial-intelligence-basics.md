@@ -23,15 +23,16 @@ Some caveats:
 > 1. What is Machine Learning?
 > 2. Techniques
 
-#### 1. What is Machine Learning?
-
+### 1. What is Machine Learning?
+--------------------------------
 Machine learning provides the foundation for artificial intelligence. We train our software model using data e.g. the model learns from the training cases and then we use the trained model to make predictions for new data cases.
 
 Let's start with a data set that contains historical records aka ***observations***. Every record includes numerical ***features*** (X) quantifying characteristics of the item we are working with. 
 
 There are also values we try to predict (Y). We will use training cases to train the machine learning model so that it calculates a value for (Y), from the features in (X). Simply said, we're creating a ***function*** that operates on a set of features, (X), to produce predictions, (Y).
 
-There are five types of machine learning:
+**There are five types of machine learning:**
+
 * ***Supervised learning*** - the algorithm is given a pre-labeled training example to learn from.
 * ***Unsupervised learning*** - the algorithm is given unlabeled examples.
 * ***Semi-supervised learning*** - the algorithm is given a mixture of labeled and unlabeled data.
@@ -40,7 +41,8 @@ There are five types of machine learning:
 
 *Ref: Neural Computing: Theory and Practice (1989) - Philip D. Wasserman.*
 
-In this course we discuss the 2 most common; supervised and unsupervised:
+**In this course we discuss the 2 most common; supervised and unsupervised:**
+
 In a ***supervised*** learning scenario, we start with  observations that include known values for the variable we want to predict. We call these ***labels***.
 
 Because we are starting with data that includes the label we are trying to predict, we can train the model using only some data and hold the rest for evaluating our models performance. 
@@ -53,8 +55,8 @@ In a ***unsupervised*** learning scenario, we don't have any known label values 
 
 We'll train the model by finding similarities between observations. Once we have trained this model, more observations are added to a ***cluster*** of observations with akin characteristics. (Cluster = Group)
 
-#### 2. Techniques
-
+### 2. Techniques
+-----------------
 When we need to predict a numeric value, for example an amount of calories, we use a supervised learning technique called ***regression***. 
 
 Let's take one male. We want to model calories burned while exercising. First we get some pre-liminary data, then put him on a fitness monitor and capture more data using features like age, weight, heart rate, and duration. 
