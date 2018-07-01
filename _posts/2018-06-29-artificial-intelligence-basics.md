@@ -16,23 +16,23 @@ Some caveats:
 * These notes are generated for markdown, so they unfortunately lack snazzy interactivity.
 * Part of this material is adapted, sometimes directly copied, from elsewhere. I have tried to give credit where due. 
 
-![Robot](/assets/artificial-intelligence.jpg)
-
 ------------------------------------------------------------------------------
 
 **TABLE OF CONTENT:**
 
 > 1. What is Machine Learning?
 > 2. Techniques
->
->
->
->
->
->
->
+> 3.
+> 4.
+> 5.
+> 6.
+> 7.
+> 8.
+> 9.
 
 ------------------------------------------------------------------------------
+
+![Robot](/assets/artificial-intelligence.jpg)
 
 ### **1. What is Machine Learning?**
 
