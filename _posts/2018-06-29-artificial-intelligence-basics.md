@@ -18,18 +18,10 @@ Some caveats:
 
 ------------------------------------------------------------------------------
 
-**TABLE OF CONTENT:**
+#### **Table of Content**
 
 > 1. What is Machine Learning?
 > 2. Techniques
-> 3.
-> 4.
-> 5.
-> 6.
-> 7.
-> 8.
-> 9.
-
 ------------------------------------------------------------------------------
 
 ![Robot](/assets/artificial-intelligence.jpg)
