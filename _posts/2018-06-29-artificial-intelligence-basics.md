@@ -7,8 +7,6 @@ category: Education & Training
 tags: [ Artificial Intelligence ]
 ---
 
-![Robot](/assets/artificial-intelligence.jpg)
-
 These are ***personal*** notes, broadly intended to cover basics for machine learning, and artificial intelligence. 
 
 Some caveats:
@@ -17,6 +15,8 @@ Some caveats:
 * Some content may be out of order, missing. Don't get upset.
 * These notes are generated for markdown, so they unfortunately lack snazzy interactivity.
 * Part of this material is adapted, sometimes directly copied, from elsewhere. I have tried to give credit where due. 
+
+![Robot](/assets/artificial-intelligence.jpg)
 
 ------------------------------------------------------------------------------
 
@@ -54,7 +54,7 @@ There are also values we try to predict (Y). We will use training cases to train
 
 **Note:** We will discuss the 2 most common; ***supervised*** and ***unsupervised***.
 
-**Scenarios:**
+**Learning Scenarios:**
 
 In a ***supervised*** learning scenario, we start with  observations that include known values for the variable we want to predict. We call these ***labels***.
 
