@@ -20,7 +20,7 @@ Some minor caveats:
 
 ------------------------------------------------------------------------------
 
-#### **Table of Content**
+## **Table of Content**
 
 > 1. What is Machine Learning?
 > 2. Techniques
