@@ -23,7 +23,7 @@ Some caveats:
 > 1. What is Machine Learning?
 > 2. Techniques
 
-### 1. What is Machine Learning?
+### **1. What is Machine Learning?**
 
 Machine learning provides the foundation for artificial intelligence. We train our software model using data e.g. the model learns from the training cases and then we use the trained model to make predictions for new data cases.
 
@@ -35,7 +35,7 @@ There are also values we try to predict (Y). We will use training cases to train
 
 * ***Supervised learning*** - the algorithm is given a pre-labeled training example to learn from.
 * ***Unsupervised learning*** - the algorithm is given unlabeled examples.
-* ***Semi-supervised learning*** - the algorithm is given a mixture of labeled and unlabeled data.
+* ***Semi-supervised learning*** - the algorithm uses a mix of labeled/unlabeled data.
 * ***Active learning*** - similar to semi-supervised learning, but the algorithm can "ask" for extra labeled data based on what it needs to improve on.
 * ***Reinforcement learning*** - actions are taken and rewarded or penalized, the goal is maximizing lifetime/long-term reward (or vice versa).
 
@@ -55,7 +55,7 @@ In a ***unsupervised*** learning scenario, we don't have any known label values 
 
 We'll train the model by finding similarities between observations. Once we have trained this model, more observations are added to a ***cluster*** of observations with akin characteristics. (Cluster = Group)
 
-### 2. Techniques
+### **2. Techniques**
 
 When we need to predict a numeric value, for example an amount of calories, we use a supervised learning technique called ***regression***. 
 
