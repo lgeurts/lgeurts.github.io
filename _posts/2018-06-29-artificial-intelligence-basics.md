@@ -7,7 +7,7 @@ category: Education & Training
 tags: [ Artificial Intelligence ]
 ---
 
-These are <u>***personal***</u> notes, broadly intended to cover basics for machine learning, and artificial intelligence. 
+These are ***<u>personal</u>*** notes, broadly intended to cover basics for machine learning, and artificial intelligence. 
 
 ![Robot](/assets/artificial-intelligence.jpg)
 
