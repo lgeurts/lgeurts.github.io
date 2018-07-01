@@ -24,6 +24,7 @@ Some minor caveats:
 
 > 1. What is Machine Learning?
 > 2. Techniques
+
 ------------------------------------------------------------------------------
 
 ### **1. What is Machine Learning?**
