@@ -9,7 +9,9 @@ tags: [ Artificial Intelligence ]
 
 These are ***personal*** notes, broadly intended to cover basics for machine learning, and artificial intelligence. 
 
-Some caveats:
+![Robot](/assets/artificial-intelligence.jpg)
+
+Some minor caveats:
 * This post may not be helpful for your purposes. 
 * This is still very much a work in progress and it will be changing a lot.
 * Some content may be out of order, missing. Don't get upset.
@@ -23,8 +25,6 @@ Some caveats:
 > 1. What is Machine Learning?
 > 2. Techniques
 ------------------------------------------------------------------------------
-
-![Robot](/assets/artificial-intelligence.jpg)
 
 ### **1. What is Machine Learning?**
 
