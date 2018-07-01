@@ -17,7 +17,7 @@ Some minor caveats:
 * Some content may be out of order, missing. Don't get upset.
 * These notes are generated for markdown, so they unfortunately lack snazzy interactivity.
 * Part of this material is adapted, sometimes directly copied, from elsewhere. I have tried to give credit where due. 
-* The raw notes are open source - should you encounter errors, don't hesistate to submit a pull request.
+* The raw notes are open source - should you encounter errors, or have a better way of explaining something better, don't hesistate to submit a pull request.
 
 ------------------------------------------------------------------------------
 
