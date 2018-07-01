@@ -31,7 +31,7 @@ Let's start with a data set that contains historical records aka ***observations
 
 There are also values we try to predict (Y). We will use training cases to train the machine learning model so that it calculates a value for (Y), from the features in (X). Simply said, we're creating a ***function*** that operates on a set of features, (X), to produce predictions, (Y).
 
-###### There are five types of machine learning:
+##### There are five types of machine learning:
 * ***Supervised learning*** - the algorithm is given a pre-labeled training example to learn from.
 * ***Unsupervised learning*** - the algorithm is given unlabeled examples.
 * ***Semi-supervised learning*** - the algorithm is given a mixture of labeled and unlabeled data.
