@@ -35,9 +35,9 @@ There are also values we try to predict (Y). We will use training cases to train
 
 * ***Supervised learning*** - the algorithm is given a pre-labeled training example to learn from.
 * ***Unsupervised learning*** - the algorithm is given unlabeled examples.
-* ***Semi-supervised learning*** - the algorithm uses a mix of labeled/unlabeled data.
+* ***Semi-supervised learning*** - the algorithm uses a mix of labeled & unlabeled data.
 * ***Active learning*** - similar to semi-supervised learning, but the algorithm can "ask" for extra labeled data based on what it needs to improve on.
-* ***Reinforcement learning*** - actions are taken and rewarded or penalized, the goal is maximizing lifetime/long-term reward (or vice versa).
+* ***Reinforcement learning*** - actions are taken and rewarded or penalized, goal is maximizing lifetime/long-term reward (or vice versa).
 
 *Ref: Neural Computing: Theory and Practice (1989) - Philip D. Wasserman.*
 
