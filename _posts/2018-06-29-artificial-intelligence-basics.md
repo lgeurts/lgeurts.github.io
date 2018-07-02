@@ -70,7 +70,9 @@ We'll train the model by finding similarities between observations. Once we have
 
 When we need to predict a numeric value, for example an amount of calories, we use a supervised learning technique called ***regression***. 
 
-Let's take one male. We want to model calories burned while exercising. First we get some pre-liminary data, then put him on a fitness monitor and capture more data using features like age, weight, heart rate, and duration. 
+Let's take one male. We want to model calories burned while exercising. First we get some pre-liminary data (age: 34, gender: 1, weight: 60, height: 65), then put him on a fitness monitor and capture more data using features like heart rate: 134, temperature: 37,  and duration: 25. 
+
+> * `F([31, 1, 60, 65, 134, 37, 25]) = 231`
 
 In this case we know all features and have a known label value of 231 calories. So we need our algorithm to learn a function that operates of all the males exercise features to give us a net result of 231.
 
