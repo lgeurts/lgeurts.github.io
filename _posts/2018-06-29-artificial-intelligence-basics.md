@@ -78,9 +78,13 @@ First we'll get some preliminary data (age: 34, gender: 1, weight: 60, height: 6
 
 In this case we know all features and have a known label value of 231 calories. So we need our algorithm to learn a function that operates of all the males exercise features to give us a net result of 231.
 
-A sample of one person isn't likely to give a function that generalizes well. So we gather the same data from a large number participants, and then train the model using the bigger set of data. When done, and now having a new function that can be used to calculate our label (Y), we can finally plot the values of (Y), calculated for specific features of (X) values.
+A sample of one person isn't likely to give a function that generalizes well. So we gather the same data from a large number participants, and then train the model using the bigger set of data. 
 
 > * `F([X1, X2, X3, X4, X5, X6, X7]) = Y`
+
+When done, and now having a new function that can be used to calculate our label (Y), we can finally plot the values of (Y), calculated for specific features of (X) values.
+
+
 
 And we can interpolate any new values of (X) to predict an unknown (Y). 
 
