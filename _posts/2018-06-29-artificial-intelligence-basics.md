@@ -74,7 +74,7 @@ First we'll get some preliminary data (age: 34, gender: 1, weight: 60, height: 6
 
 > * `F([34, 1, 60, 65, 134, 37, 25]) = 231`
 
-In this case we know all features and have a known label value of 231 calories. So we need our algorithm to learn a function that operates of all the males exercise features to give us a net result of 231.
+In this case we know all features and have a known label value of 231 calories. So we need our algorithm to learn a function, that operates of all the males exercise features to give us a net result of 231.
 
 A sample of one person isn't likely to give a function that generalizes well. So we gather the same data from a large number participants, and then train the model using the bigger set of data. 
 
@@ -83,11 +83,9 @@ A sample of one person isn't likely to give a function that generalizes well. So
 Now having a new function that can be used to calculate label (Y), we can finally plot the values of (Y), calculated for specific features of (X) values on a chart:
 
 :-----------------:|:-----------------:
-<img src="/assets/plotted-chart-1.png" align="left" width="285" height="160" alt=""> | <img src="/assets/plotted-chart-1.png" align="left" width="285" height="160" alt="">
+<img src="/assets/plotted-chart-1.png" align="left" width="284" height="160" alt=""> | <img src="/assets/plotted-chart-1.png" align="left" width="284" height="160" alt="">
 
-And we can interpolate any new values of (X) to predict an unknown (Y). 
-
-Because we started with data that includes the label we are trying to predict, we can train the model using only some of the data. And hold the rest of the data for evaluating the models performance. Then we can use the model to predict (F) of (X) for evaluation data and compare the predictions or scored labels to the actual labels that we know to be true.
+And we can interpolate any new values of (X) to predict an unknown (Y). As we started with data that includes the label we are trying to predict, we can train the model using only some of the data. And hold the rest of the data for evaluating the models performance. Then we can use the model to predict (F) of (X) for evaluation data and compare the predictions or scored labels to the actual labels that we know to be true.
 
 
 
