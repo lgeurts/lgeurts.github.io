@@ -7,11 +7,12 @@ category: Education & Training
 tags: [ Artificial Intelligence ]
 ---
 
-These are ***personal notes***, broadly intended to cover basics for machine learning, and artificial intelligence. 
+These are ***personal notes***, broadly intended to cover basics for machine learning, and artificial intelligence.
+Machine learning, and artificial intelligence are huge fields that share some foundational overlap but go in quite different directions. This ese notes are not comprehensive but aim to cover a significant portion of that common ground. 
 
 ![Robot](/assets/artificial-intelligence.jpg)
 
-Some 'minor' caveats:
+Some minor caveats:
 * This post may not be helpful for your purposes. 
 * This is still very much a work in progress and it will be changing a lot.
 * Some content may be out of order, missing. Don't get upset.
@@ -22,7 +23,7 @@ The raw notes are ***open sourced*** - should you encounter errors, have a bette
 
 ------------------------------------------------------------------------------
 
-## **<u>Table of Content</u>**
+## **<u>Table of Contents</u>**
 
 > 1. What is Machine Learning?
 > 2. Techniques
