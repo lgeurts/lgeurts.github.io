@@ -7,7 +7,7 @@ category: Education & Training
 tags: [ Artificial Intelligence ]
 ---
 
-These are ***<u>personal</u>*** notes, broadly intended to cover basics for machine learning, and artificial intelligence. 
+These are ***personal notes***, broadly intended to cover basics for machine learning, and artificial intelligence. 
 
 ![Robot](/assets/artificial-intelligence.jpg)
 
@@ -22,7 +22,7 @@ The raw notes are ***open sourced*** - should you encounter errors, have a bette
 
 ------------------------------------------------------------------------------
 
-## **Table of Content**
+## **<u>Table of Content</u>**
 
 > 1. What is Machine Learning?
 > 2. Techniques
