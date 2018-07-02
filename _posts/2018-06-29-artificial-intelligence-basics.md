@@ -90,6 +90,6 @@ And we can interpolate any new values of (X) to predict an unknown (Y).
 As we started with data that includes the label we try to predict, we can train the model using some data and keep the rest for evaluating the models performance. Then we can use the model to predict (F) of (X) for evaluation data and compare the predictions or scored labels to the actual labels that we know to be true.
 
 :-----------------:|:-----------------:
-<img src="/assets/plotted-chart-3.png" align="left" width="285" height="160" alt="Holding data for model performance"> | <img src="" align="left" width="285" height="160" alt="Comparing predictions">
+<img src="/assets/plotted-chart-3.png" align="left" width="285" height="160" alt="Holding data for model performance"> | <img src="/assets/plotted-chart-4.png" align="left" width="285" height="160" alt="Comparing predictions">
 
 
