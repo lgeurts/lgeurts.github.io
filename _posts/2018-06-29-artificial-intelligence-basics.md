@@ -8,7 +8,7 @@ tags: [ Artificial Intelligence ]
 ---
 
 These are ***personal notes***, broadly intended to cover basics for ***machine learning***, and ***artificial intelligence***.
-They are intended to provide intuitive understandings of concepts that I encounter while wading through a host of online articles, videos and books. If you are looking for a more comprehensive study, there are many other resources which will help with that.
+They are intended to provide intuitive understandings of concepts that I encounter while wading through online articles, videos and books. If you are looking for a more comprehensive study, there are many other resources which will help with that.
 
 ![Robot](/assets/artificial-intelligence.jpg)
 
