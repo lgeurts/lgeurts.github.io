@@ -72,7 +72,11 @@ When we need to predict a numeric value, for example an amount of calories, we u
 
 Let's take one male. We want to model calories burned while exercising. First we get some pre-liminary data, then put him on a fitness monitor and capture more data using features like age, weight, heart rate, and duration. 
 
-In this case we know all features and have a known label value of 231 calories. So we need our algorithm to learn a function that operates of all exercise features to give us a net result of 231.
+In this case we know all features and have a known label value of 231 calories. So we need our algorithm to learn a function that operates of all the males exercise features to give us a net result of 231.
 
 A sample of one person isn't likely to give a function that generalizes well. So we gather the same data from a large number participants, and then train the model using the bigger set of data. When done, and now having a new function that can be used to calculate our label (Y), we can finally plot the values of (Y), calculated for specific features of (X) values.
+
+And of course, we can interpolate any new values of (X) to predict and unknown (Y). Because we started with data that includes the label we are trying to predict, we can train the model using only some of the data. And withold the rest of the data for evaluating the models performance. Then we can use the model to predict (F) of (X) for evaluation data and compare the predictions or scored labels to the actual labels that we know to be true.
+
+
 
