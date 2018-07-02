@@ -79,7 +79,8 @@ In this case we know all features and have a known label value of 231 calories. 
 A sample of one person isn't likely to give a function that generalizes well. So we gather the same data from a large number participants, and then train the model using the bigger set of data. When done, and now having a new function that can be used to calculate our label (Y), we can finally plot the values of (Y), calculated for specific features of (X) values.
 
 > * `F([X1, X2, X3, X4, X5, X6, X7]) = Y`
-And of course, we can interpolate any new values of (X) to predict and unknown (Y). Because we started with data that includes the label we are trying to predict, we can train the model using only some of the data. And withold the rest of the data for evaluating the models performance. Then we can use the model to predict (F) of (X) for evaluation data and compare the predictions or scored labels to the actual labels that we know to be true.
+
+We can interpolate any new values of (X) to predict and unknown (Y). Because we started with data that includes the label we are trying to predict, we can train the model using only some of the data. And withold the rest of the data for evaluating the models performance. Then we can use the model to predict (F) of (X) for evaluation data and compare the predictions or scored labels to the actual labels that we know to be true.
 
 
 
