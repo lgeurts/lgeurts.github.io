@@ -8,7 +8,7 @@ tags: [ Artificial Intelligence ]
 ---
 
 These are ***personal notes***, broadly intended to cover basics for machine learning, and artificial intelligence.
-Machine learning, and artificial intelligence are huge fields that share some foundational overlap but go in quite different directions. This ese notes are not comprehensive but aim to cover a significant portion of that common ground. 
+They are intended to provide intuitive understandings of concepts that i encounter while wading through online articles, videos and books. 
 
 ![Robot](/assets/artificial-intelligence.jpg)
 
