@@ -82,8 +82,8 @@ A sample of one person isn't likely to give a function that generalizes well. So
 
 Now having a new function that can be used to calculate label (Y), we can finally plot the values of (Y), calculated for specific features of (X) values on a chart:
 
-<img src="/assets/plotted-chart-1.png" align="left" width="400" height="240" alt="">
-<img src="/assets/plotted-chart-1.png" align="right" width="400" height="240" alt="">
+<img src="/assets/plotted-chart-1.png" align="left" width="360" height="240" alt="">
+<img src="/assets/plotted-chart-1.png" align="right" width="360" height="240" alt="">
 
 
 
