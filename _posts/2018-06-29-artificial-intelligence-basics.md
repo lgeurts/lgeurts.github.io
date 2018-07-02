@@ -72,7 +72,7 @@ When we need to predict a numeric value, for example an amount of calories, we u
 
 Let's take one male. We want to model calories burned while exercising. 
 
-First we get some pre-liminary data (age: 34, gender: 1, weight: 60, height: 65), then put him on a fitness monitor and capture more data using features like heart rate: 134, temperature: 37,  and duration: 25. 
+First we'll get some preliminary data (age: 34, gender: 1, weight: 60, height: 65), then put him on a fitness monitor and capture more data using features like his heart rate: 134, temperature: 37,  and duration: 25. 
 
 > * `F([34, 1, 60, 65, 134, 37, 25]) = 231`
 
