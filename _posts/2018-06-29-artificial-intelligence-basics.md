@@ -50,7 +50,7 @@ There are also values we try to predict (Y). We will use training cases to train
 
 *Ref: Neural Computing: Theory and Practice (1989) - Philip D. Wasserman.*
 
-**Note:** Following course guidelines, we will discuss the two most common methods; ***supervised*** and ***unsupervised***.
+**Note:** Following course guidelines, we'll discuss the two most common methods; ***supervised*** and ***unsupervised***.
 
 **Learning scenarios:**
 
