@@ -82,7 +82,9 @@ A sample of one person isn't likely to give a function that generalizes well. So
 
 > * `F([X1, X2, X3, X4, X5, X6, X7]) = Y`
 
-We can interpolate any new values of (X) to predict and unknown (Y). Because we started with data that includes the label we are trying to predict, we can train the model using only some of the data. And withold the rest of the data for evaluating the models performance. Then we can use the model to predict (F) of (X) for evaluation data and compare the predictions or scored labels to the actual labels that we know to be true.
+And we can interpolate any new values of (X) to predict an unknown (Y). 
+
+Because we started with data that includes the label we are trying to predict, we can train the model using only some of the data. And withold the rest of the data for evaluating the models performance. Then we can use the model to predict (F) of (X) for evaluation data and compare the predictions or scored labels to the actual labels that we know to be true.
 
 
 
