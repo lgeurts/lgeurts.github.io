@@ -12,7 +12,7 @@ They are intended to provide intuitive understandings of concepts that i encount
 
 ![Robot](/assets/artificial-intelligence.jpg)
 
-Some minor caveats:
+Some final caveats:
 * This post may not be helpful for your purposes. 
 * This is still very much a work in progress and it will be changing a lot.
 * Some content may be out of order, missing. Don't get upset.
