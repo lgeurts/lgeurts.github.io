@@ -10,7 +10,7 @@ tags: [ Artificial Intelligence ]
 These are ***personal notes***, broadly intended to cover basics for ***machine learning***, and ***artificial intelligence***.
 They are intended to provide intuitive understandings of concepts that I encounter while wading my way through course materials and a host of online articles. 
 
-If you are looking for a more comprehensive study, I am sure there are many other resources which will help with that.
+If you are looking for a more comprehensive study/rigorous proof, there are many other resources which will help with that.
 
 ![Robot](/assets/artificial-intelligence.jpg)
 
