@@ -12,7 +12,7 @@ They are intended to provide intuitive understandings of concepts that I encount
 
 If you are looking for a more comprehensive study, rest assured. There are many other resources out there which will help with that.
 
-![Robot](/assets/artificial-intelligence.jpg)
+#![Robot](/assets/artificial-intelligence.jpg)
 
 Some final caveats:
 * This post may not be helpful for your purposes. 
