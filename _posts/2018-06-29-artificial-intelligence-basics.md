@@ -85,9 +85,9 @@ Now having a new function that can be used to calculate label (Y), we can finall
 :-----------------:|:-----------------:
 <img src="/assets/plotted-chart-1.png" align="left" width="285" height="160" alt=""> | <img src="/assets/plotted-chart-1.png" align="left" width="285" height="160" alt="">
 
-And we can interpolate any new values of (X) to predict an unknown (Y). 
+And we can interpolate any new values of (X) to predict an unknown (Y).
 
-Because ***started*** with data that includes the label we are trying to predict, we can train the model using only some of the data. And hold the rest of the data for evaluating the models performance. Then we can use the model to predict (F) of (X) for evaluation data and compare the predictions or scored labels to the actual labels that we know to be true.
+As we started with data that includes the label we try to predict, we can train the model using only some of the data. And hold the rest of the data for evaluating the models performance. Then we can use the model to predict (F) of (X) for evaluation data and compare the predictions or scored labels to the actual labels that we know to be true.
 
 
 
