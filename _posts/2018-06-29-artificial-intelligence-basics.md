@@ -84,7 +84,7 @@ Now having a new function that can be used to calculate label (Y), we can finall
 
 <img src="/assets/plotted-chart-1.png" align="left" width="360" height="240" alt=""> <img src="/assets/plotted-chart-1.png" align="right" width="360" height="240" alt="">
 
-:---------------------:|:---------------------:
+:-------------------:|:-------------------:
 <img src="/assets/plotted-chart-1.png" align="left" width="360" height="240" alt=""> | <img src="/assets/plotted-chart-1.png" align="left" width="360" height="240" alt="">
 
 
