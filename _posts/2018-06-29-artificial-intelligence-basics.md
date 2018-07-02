@@ -84,10 +84,10 @@ Now having a new function that can be used to calculate label (Y), we can finall
 
 <img src="/assets/plotted-chart-1.png"
      alt="Pl0tted Chart"
-     style="float: left; margin-right: 10px;" />
+     align= "left"; wide="200"; height="40"; margin-right= "10px" />
 
 
-![Chart](/assets/plotted-chart-1.pn|g)
+![Chart](/assets/plotted-chart-1.png)
 
 And we can interpolate any new values of (X) to predict an unknown (Y). 
 
