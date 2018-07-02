@@ -82,9 +82,9 @@ A sample of one person isn't likely to give a function that generalizes well. So
 
 > * `F([X1, X2, X3, X4, X5, X6, X7]) = Y`
 
-Now having a new function that can be used to calculate label (Y), we can finally plot the values of (Y), calculated for specific features of (X) values.
+Now having a new function that can be used to calculate label (Y), we can finally plot the values of (Y), calculated for specific features of (X) values on a chart:
 
-
+![Chart](/assets/plotted-chart-1.png)
 
 And we can interpolate any new values of (X) to predict an unknown (Y). 
 
