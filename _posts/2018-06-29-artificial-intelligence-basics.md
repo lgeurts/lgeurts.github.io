@@ -12,8 +12,6 @@ They are intended to provide intuitive understandings of concepts that I encount
 
 If you are looking for a more comprehensive study, rest assured. There are many other resources out there which will help with that.
 
-![Quark](/assets/quark.gif)
-
 Some final caveats:
 * This post may not be helpful for your purposes. 
 * This is still very much a work in progress and it will be changing a lot.
