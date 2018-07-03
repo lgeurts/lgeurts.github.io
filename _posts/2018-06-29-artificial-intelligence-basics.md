@@ -70,11 +70,11 @@ When we need to predict a numeric value, for example an amount of calories, we u
 
 Let's take one male. We want to model calories burned while exercising. 
 
-First we'll get some preliminary data (age: 34, gender: 1, weight: 60, height: 65), then put him on a fitness monitor and capture additional information. Now what we do is model the calories burned using features from his exercise like his heart rate: 134, temperature: 37, and duration: 25. 
+First we'll get some preliminary data (age: 34, gender: 1, weight: 60, height: 165), then put him on a fitness monitor and capture additional information. Now what we do is model the calories burned using features from his exercise like his heart rate: 134, temperature: 37, and duration: 25. 
 
 In this case we know all features and have a known label value of 231 calories. So we need our algorithm to learn a function, that operates of all the males exercise features to give us a net result of 231.
 
-> * `F([34, 1, 60, 65, 134, 37, 25]) = 231`
+> * `F([34, 1, 60, 165, 134, 37, 25]) = 231`
 
 A sample of one person isn't likely to give a function that generalizes well. So we gather the same data from a large number participants, and then train the model using the bigger set of data. 
 
