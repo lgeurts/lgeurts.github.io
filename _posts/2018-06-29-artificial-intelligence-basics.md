@@ -70,7 +70,7 @@ When we need to predict a numeric value, for example an amount of calories, we u
 
 Let's take one male. We want to model calories burned while exercising. 
 
-First we'll get some preliminary data (age: 34, gender: 1, weight: 60, height: 65), then put him on a fitness monitor and capture additional information. Now what we wanna do is model the calories burned using features from his exercise like his heart rate: 134, temperature: 37, and duration: 25. 
+First we'll get some preliminary data (age: 34, gender: 1, weight: 60, height: 65), then put him on a fitness monitor and capture additional information. Now what we do is model the calories burned using features from his exercise like his heart rate: 134, temperature: 37, and duration: 25. 
 
 In this case we know all features and have a known label value of 231 calories. So we need our algorithm to learn a function, that operates of all the males exercise features to give us a net result of 231.
 
@@ -87,7 +87,7 @@ Now having a new function that can be used to calculate label (Y), we can finall
 
 And we can interpolate any new values of (X) to predict an unknown (Y).
 
-As we started with data that includes the label we try to predict, we can train the model using some data and keep the rest for evaluating the models performance. Then we can use the model to predict (F) of (X) for evaluation data and compare the predictions or scored labels to the actual labels that we know to be true.
+As we started with data that includes the label we try to predict, we can train the model using some data and keep the rest for evaluating the models performance. Then we can use the model to predict (F) of (X) for evaluation data, and compare the predictions or scored labels to the actual labels that we know to be true.
 
 :-----------------:|:-----------------:
 <img src="/assets/plotted-chart-3.png" align="left" width="285" height="160" alt="Holding data for model performance"> | <img src="/assets/plotted-chart-4.png" align="left" width="285" height="160" alt="Comparing predictions">
