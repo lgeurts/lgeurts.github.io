@@ -92,7 +92,7 @@ As we started with data that includes the label we try to predict, we can train 
 :-----------------:|:-----------------:
 <img src="/assets/plotted-chart-3.png" align="left" width="285" height="160" alt="Holding data for model performance"> | <img src="/assets/plotted-chart-4.png" align="left" width="285" height="160" alt="Comparing predictions">
 
-The difference between the predicted and actual levels are what we call the ***residuals***. And they can tell us something about the error level in the model. 
+The difference between the predicted and actual levels are called the ***residuals***. And they can tell us something about the error level in the model. 
 
 Now there are a few ways we can measure the error in the model, and these include root-mean-square error, or ***RMSE***, and mean absolute error.
 
