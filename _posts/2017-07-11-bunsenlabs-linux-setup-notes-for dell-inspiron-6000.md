@@ -60,7 +60,7 @@ When the updating is done the script will run a set of options for attaching the
 
 Each of these options may be selected individually.
 
-![BunsenLabs Welcome](/assets/bl-welcome.png)
+![BunsenLabs Welcome](/assets/bunsenlabs-linux-setup/bl-welcome.png)
 
 **4 Productivity**
 ------------------
@@ -99,7 +99,7 @@ Claws Mail has an excellent [FAQ](http://www.claws-mail.org/faq/index.php/Main_P
  
 ***Note:*** If you want to send and receive mail via a terminal, Mutt (-patched) is a must.
 
-![Mutt client](/assets/mutt.png)
+![Mutt client](/assets/bunsenlabs-linux-setup/mutt.png)
 
 - $ apt-get install mutt # the mail user agent
 - $ apt-get install mutt-patched # adds sidebar, nntp support, multiple-fcc patches
@@ -130,7 +130,7 @@ To configure mpd (Music Player Daemon), download [this script](https://github.co
 
 Probably the best free ncurses mpd client available.
 
-![ncmpcpp](/assets/ncmpcpp.png)
+![ncmpcpp](/assets/bunsenlabs-linux-setup/ncmpcpp.png)
 
 - $ apt-get install ncmpcpp
 
@@ -259,11 +259,11 @@ Rails         | [https://github.com/tpope/vim-rails/](https://github.com/tpope/v
 Dispatch      | [https://github.com/tpope/vim-dispatch](https://github.com/tpope/vim-dispatch)
 Multiple Cursors | [https://github.com/terryma/vim-multiple-cursors/](https://github.com/terryma/vim-multiple-cursors/)
 
-***Note:*** My [memo](/assets/vim-plugin-settings.txt) for activating Command-T, NerdTree and Git Gutter in .vimrc.             Feeling lazy? Download my latest [config](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim/).
+***Note:*** My [memo](/assets/bunsenlabs-linux-setup/vim-plugin-settings.txt) for activating Command-T, NerdTree and Git Gutter in .vimrc.             Feeling lazy? Download my latest [config](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim/).
 
 ***• 6.1.2 gVim***
 
-![gVim Editor](/assets/gvim.png)
+![gVim Editor](/assets/bunsenlabs-linux-setup/gvim.png)
 
 - $ apt-get install gvim
 
@@ -276,7 +276,7 @@ Multiple Cursors | [https://github.com/terryma/vim-multiple-cursors/](https://gi
 
 ***Update:*** I switched from Sublime to [Atom](https://atom.io/). GitHub does not offer an i386 build but luckily [Andras Retzler](http://ha5kfu.sch.bme.hu/node/189) created one following [this procedure](https://github.com/atom/atom/blob/master/docs/build-instructions/linux.md).
 
-![Atom](/assets/atom.png)
+![Atom](/assets/bunsenlabs-linux-setup/atom.png)
 
 Must have community themes and packages:
 
@@ -394,7 +394,7 @@ This nodejs binary package contains both nodejs and [npm](https://packages.debia
 
 Use gpg to contact a key server and request the [RVM](https://rvm.io/) project's key:
 
-![RVM key](/assets/rvm-project-key.png)
+![RVM key](/assets/bunsenlabs-linux-setup/rvm-project-key.png)
 
 ***Note:*** 409B6B1796C275462A1703113804BB82D39DC0E3.
 
@@ -404,7 +404,7 @@ Download the RVM installation script:
 
 Pipe the script to bash to install Rails and the associated latest release of Ruby:
 
-![Piping RVM](/assets/rvm-pipe.png)
+![Piping RVM](/assets/bunsenlabs-linux-setup/rvm-pipe.png)
 
 During the installation process, you'll be prompted for your password. Enter as requested and RVM gets all tools it needs to build and compile Ruby, download the latest version of Ruby, the Ruby on Rails framework, and its dependencies.
 
@@ -479,7 +479,7 @@ Displays system information and ASCII version of the Linux distro logo.
 
 Tool that produces a frequently updated list of network connections.
 
-![iftop](/assets/iftop.png)
+![iftop](/assets/bunsenlabs-linux-setup/iftop.png)
 
 - $ apt-get install iftop
 
@@ -487,7 +487,7 @@ Tool that produces a frequently updated list of network connections.
 
 Tracks load averages over time on a UNIX(ish) machine.
 
-![ttyload](/assets/ttyload.png)
+![ttyload](/assets/bunsenlabs-linux-setup/ttyload.png)
 
 - $ apt-get install ttyload
 
@@ -502,7 +502,7 @@ Some eye candy because not everything is just about functionality, right?
 
 Copy the config from [here](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.config/terminator) and replace the default file in ~/.config/terminator. 
 
-![terminator](/assets/terminator-colors.png)
+![terminator](/assets/bunsenlabs-linux-setup/terminator-colors.png)
 
 ***Note:*** If you want to design your own scheme, visit [terminal.sexy](https://terminal.sexy/).
 
@@ -554,7 +554,7 @@ Time to teach Openbox a few tricks as well. Set the number of desktops to four a
 
 ***•9.4.1 Firefox*** 
 
-![Firefox Web Browser](/assets/firefox.png)
+![Firefox Web Browser](/assets/bunsenlabs-linux-setup/firefox.png)
 
 Download this homepage for Firefox [here](https://github.com/unix121/homepage).
 
