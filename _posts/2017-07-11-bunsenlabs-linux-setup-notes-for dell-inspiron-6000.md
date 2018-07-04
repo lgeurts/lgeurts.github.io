@@ -7,7 +7,7 @@ category: Open Source
 tags: [ Linux Tutorials ]
 ---
 
-![BunsenLabs Deuterium, fresh install](/assets/bunsenlabs-deuterium.jpg)
+![BunsenLabs Deuterium, fresh install](/assets/bunsenlabs-linux-setup/bunsenlabs-deuterium.jpg)
 
 BunsenLabs does not use a traditional desktop like KDE, GNOME or even Xfce. Instead it's an optimized mix of components from various open source projects including most notably the lightweight Openbox window manager, tint2 panel, the Conky system monitor, and Thunar file manager.
 
