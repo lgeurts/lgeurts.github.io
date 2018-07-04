@@ -10,8 +10,6 @@ tags: [ Artificial Intelligence ]
 These are ***personal notes***, broadly intended to cover basics for ***machine learning***, and ***artificial intelligence***.
 They are intended to provide intuitive understandings of concepts that I encounter while wading my way through course materials and a host of online articles. 
 
-If you are looking for a more comprehensive study, rest assured. There are many other resources out there which will help with that.
-
 Some final caveats:
 * This post may not be helpful for your purposes. 
 * This is still very much a work in progress and it will be changing a lot.
@@ -85,14 +83,14 @@ A sample of one person isn't likely to give a function that generalizes well. So
 Now having a new function that can be used to calculate label (Y), we can finally plot the values of (Y), calculated for specific features of (X) values on a chart:
 
 :-----------------:|:-----------------:
-<img src="/assets/plotted-chart-1.png" align="left" width="285" height="160" alt="Generalized function"> | <img src="/assets/plotted-chart-2.png" align="left" width="285" height="160" alt="Plotting">
+<img src="/assets/artificial-intelligence/plotted-chart-1.png" align="left" width="285" height="160" alt="Generalized function"> | <img src="/assets/artificial-intelligence/plotted-chart-2.png" align="left" width="285" height="160" alt="Plotting">
 
 And we can interpolate any new values of (X) to predict an unknown (Y).
 
 As we started with data that includes the label we try to predict, we can train the model using some data and keep the rest for evaluating the models performance. Then we can use the model to predict (F) of (X) for evaluation data, and compare the predictions or scored labels to the actual labels that we know to be true.
 
 :-----------------:|:-----------------:
-<img src="/assets/plotted-chart-3.png" align="left" width="285" height="160" alt="Holding data for model performance"> | <img src="/assets/plotted-chart-4.png" align="left" width="285" height="160" alt="Comparing predictions">
+<img src="/assets/artificial-intelligence/plotted-chart-3.png" align="left" width="285" height="160" alt="Holding data for model performance"> | <img src="/assets/artificial-intelligence/plotted-chart-4.png" align="left" width="285" height="160" alt="Comparing predictions">
 
 The difference between the predicted and actual levels are called the ***residuals***. And they can tell us something about the error level in the model. 
 
