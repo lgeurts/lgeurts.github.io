@@ -1,0 +1,26 @@
+COMMAND-T
+To ignore specific files:
+• set wildignore+=*.log,*.sql,*.cache
+Reindex all files by simply pressing <Leader>+r:
+• noremap <Leader>r :CommandTFlush<CR>
+
+NERDTREE
+Hit the right arrow to open a node:
+• let NERDTreeMapActivateNode='<right>'
+Display hidden files:
+• let NERDTreeShowHidden=1
+Toggle display of the tree with <Leader>+n:
+• nmap <leader>n :NERDTreeToggle<CR>
+Locate the focused file in the tree with <Leader>+j:
+• nmap <leader>j :NERDTreeFind<CR>
+Always open the tree when booting Vim, but don’t focus:
+• autocmd VimEnter * NERDTree
+• autocmd VimEnter * wincmd p 
+Do not display useless files when looking in the tree:
+• let NERDTreeIgnore=['\.DS_Store', '\~$', '\.swp']
+
+GIT GUTTER
+Displays the diff in the gutter and allows you to do actions on it. 
+Best function, preview a change with <Leader>+hp and revert any change on a line with <Leader>+hr.
+I like gutter always displayed - even when there are no changes:
+• let g:gitgutter_sign_column_always=1
