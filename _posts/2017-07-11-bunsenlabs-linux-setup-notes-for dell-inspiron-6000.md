@@ -230,7 +230,7 @@ Add this line to the top of your .vimrc:
 
 \*6.1.1.2 Vim plugins\*
 
-![vim](/assets/vim.png)
+![vim](/assets/bunsenlabs-linux-setup/vim.png)
 
 All plugins are on Git which makes updating to the latest version very easy, i.e. pulling master.
 
