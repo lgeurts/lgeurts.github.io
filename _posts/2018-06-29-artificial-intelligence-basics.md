@@ -25,6 +25,7 @@ The raw notes are ***open sourced*** - should you encounter errors, have a bette
 
 > 1. What is Machine Learning?
 > 2. Techniques
+> 3. Classification
 
 ------------------------------------------------------------------------------
 
