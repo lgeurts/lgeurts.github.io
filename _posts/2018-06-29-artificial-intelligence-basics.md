@@ -66,7 +66,7 @@ As we started with a known label value, we can validate the model by comparing t
 
 In a ***unsupervised*** learning scenario, we don't have any known label values in our training data set. 
 
-We'll train the model by finding similarities between observations. Once we have trained this model, more observations are added to a ***cluster*** of observations with akin characteristics. (Cluster = Group)
+We'll train the model by finding similarities between observations. Once we have trained this model, more observations are added to a ***cluster*** of observations with alike characteristics. (Cluster = Group)
 
 ### **2. Techniques**
 
