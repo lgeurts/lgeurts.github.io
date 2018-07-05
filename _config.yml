@@ -8,7 +8,7 @@ permalink:           pretty
 title:               LUC GEURTS • Cloud, Linux, Xperf, Coding
 tagline:             ''
 description:         'I have no special talents. I am only passionately curious.'
-url:                 http://lgeurts.github.io
+url:                 https://lgeurts.github.io
 baseurl:             ''
 plugins: 			       [jekyll-paginate]
 paginate:            6
