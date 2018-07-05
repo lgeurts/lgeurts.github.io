@@ -107,7 +107,7 @@ Both are absolute measures of error in the model. For example, having an RMSE va
 
 You might want to evaluate the model using relative metrics to indicate a more general level of error as a relative value between 0 and 1. ***Relative absolute error*** (***RAE***) and ***relative squared error*** (***RSE***) produce metrics where the closer to 0 the error, the better the model.
 
-The ***coefficient of determination*** (***CoDR***) aka R squared, is another relative metric, but this time a value closer to 1 indicates a good fit for the model.
+***Coefficient of determination*** (***CoDR***) or ***R squared***, is another relative metric, but this time a value closer to 1 indicates a good fit for the model.
 
 :-----------------:|:-----------------:
 <img src="/assets/artificial-intelligence/plotted-chart-7.png" align="left" width="285" height="160" alt=""> | <img src="/assets/artificial-intelligence/plotted-chart-8.png" align="right" width="285" height="160" alt="">
