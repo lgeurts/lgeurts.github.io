@@ -103,6 +103,4 @@ There are a few ways we can measure the error in the model, and these include **
 :-----------------:|:-----------------:
 <img src="/assets/artificial-intelligence/plotted-chart-5.png" align="left" width="285" height="160" alt="RMSE"> | <img src="/assets/artificial-intelligence/plotted-chart-6.png" align="left" width="285" height="160" alt="MAE">
 
-Both are absolute measures of error in the model. For example, an RMSE value of 5 would mean that the standard deviation of error from our test error is 5 calories.
-
-
+Both are absolute measures of error in the model. For example, an RMSE value of 5 would mean that the standard deviation of error from our test error is 5 calories. Absolute values can vary wildly depending on what you are predicting. An error of 5 calories seems to indicate a reasonably good model, but let's suppose we are predicting how long an exercise session takes. An error of 5 hours would be a very bad model.
