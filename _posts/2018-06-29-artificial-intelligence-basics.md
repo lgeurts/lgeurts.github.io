@@ -100,3 +100,7 @@ The difference between the predicted and actual levels are called the ***residua
 
 There are a few ways we can measure the error in the model, and these include ***root-mean-square error***, or ***RMSE***, and mean absolute error.
 
+:-----------------:|:-----------------:
+<img src="/assets/artificial-intelligence/plotted-chart-5.png" align="left" width="285" height="160" alt="RMSE"> | <img src="/assets/artificial-intelligence/plotted-chart-6.png" align="left" width="285" height="160" alt="MAE">
+
+Both are absolute measures of error in the model.
