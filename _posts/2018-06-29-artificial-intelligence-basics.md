@@ -87,7 +87,7 @@ A sample of one person isn't likely to give a function that generalizes well. So
 Now having a new function that can be used to calculate label (Y), we can finally plot the values of (Y), calculated for specific features of (X) values on a chart:
 
 :-----------------:|:-----------------:
-<img src="/assets/artificial-intelligence/plotted-chart-1.png" align="left" width="300" height="180" alt=""> | <img src="/assets/artificial-intelligence/plotted-chart-2.png" align="right" width="300" height="180" alt="">
+<img src="/assets/artificial-intelligence/plotted-chart-1.png" align="left" width="300" height="180" alt=""> | <img src="/assets/artificial-intelligence/plotted-chart-2.png" align="right" width="300" height="200" alt="">
 
 And we can interpolate any new values of (X) to predict an unknown (Y).
 
@@ -101,10 +101,10 @@ The difference between the predicted and actual levels are called the ***residua
 There are a few ways we can measure the error in the model, and these include ***root-mean-square error***, or ***RMSE***.
 
 :-----------------:|:-----------------:
-<img src="/assets/artificial-intelligence/plotted-chart-5.png" align="left" width="300" height="180" alt=""> | <img src="/assets/artificial-intelligence/plotted-chart-6.png" align="left" width="285" height="160" alt="">
+<img src="/assets/artificial-intelligence/plotted-chart-5.png" align="left" width="300" height="180" alt=""> | <img src="/assets/artificial-intelligence/plotted-chart-6.png" align="right" width="285" height="160" alt="">
 
 Both are absolute measures of error in the model. For example, having an RMSE value of 5 would mean that the standard deviation of error from our test error is 5 calories. An error of 5 calories seems to indicate a reasonably good model, but let's suppose we are predicting how long an exercise session takes. An error of 5 hours would be a very bad model.
 
 :-----------------:|:-----------------:
-<img src="/assets/artificial-intelligence/plotted-chart-7.png" align="left" width="285" height="160" alt=""> | <img src="/assets/artificial-intelligence/plotted-chart-8.png" align="left" width="285" height="160" alt="">
+<img src="/assets/artificial-intelligence/plotted-chart-7.png" align="left" width="285" height="160" alt=""> | <img src="/assets/artificial-intelligence/plotted-chart-8.png" align="right" width="285" height="160" alt="">
 
