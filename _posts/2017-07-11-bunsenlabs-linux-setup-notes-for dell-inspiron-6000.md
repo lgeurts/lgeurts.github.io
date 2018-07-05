@@ -552,7 +552,7 @@ Time to teach Openbox a few tricks as well. Set the number of desktops to four a
 
 **9.4 Internet Browser**
 
-***•9.4.1 Firefox*** 
+***• 9.4.1 Firefox*** 
 
 ![Firefox Web Browser](/assets/bunsenlabs-linux-setup/firefox.png)
 
