@@ -87,7 +87,7 @@ A sample of one person isn't likely to give a function that generalizes well. So
 Now having a new function that can be used to calculate label (Y), we can finally plot the values of (Y), calculated for specific features of (X) values on a chart:
 
 :-----------------:|:-----------------:
-<img src="/assets/artificial-intelligence/plotted-chart-1.png" align="left" width="265" height="150" alt=""> | <img src="/assets/artificial-intelligence/plotted-chart-2.png" align="left" width="265" height="150" alt="">
+<img src="/assets/artificial-intelligence/plotted-chart-1.png" align="left" width="295" height="170" alt=""> | <img src="/assets/artificial-intelligence/plotted-chart-2.png" align="left" width="265" height="150" alt="">
 
 And we can interpolate any new values of (X) to predict an unknown (Y).
 
