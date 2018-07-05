@@ -13,6 +13,19 @@ baseurl:             ''
 plugins: 			       [jekyll-paginate]
 paginate:            6
 paginate_path: 		   "page:num"
+markdown:            redcarpet
+
+redcarpet:
+  extensions:
+    - tables
+    - superscript
+    - with_toc_data
+    - lax_spacing
+    - fenced_code_blocks
+    - strikethrough
+    - space_after_headers
+    - no_intra_emphasis
+    - no_styles
 
 # About/contact
 author:
