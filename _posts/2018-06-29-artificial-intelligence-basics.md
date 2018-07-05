@@ -98,7 +98,7 @@ As we started with data that includes the label we try to predict, we can train 
 
 The difference between the predicted and actual levels are called the ***residuals***. And they can tell us something about the error level in the model. 
 
-We can measure the error in the model, using ***root-mean-square error***, or ***RMSE*** and ***mean absolute error*** (***MAE***).
+We can measure the error in the model using ***root-mean-square error*** or (***RMSE***) and ***mean absolute error*** (***MAE***).
 
 :-----------------:|:-----------------:
 <img src="/assets/artificial-intelligence/plotted-chart-5.png" align="left" width="285" height="160" alt=""> | <img src="/assets/artificial-intelligence/plotted-chart-6.png" align="right" width="285" height="160" alt="">
