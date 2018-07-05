@@ -23,9 +23,9 @@ The raw notes are ***open sourced*** - should you encounter errors, have a bette
 
 ## **<u>Table of Contents</u>**
 
-> 1. What is Machine Learning?
-> 2. Techniques
-> 3. Classification
+> ### 1. What is Machine Learning?
+> ### 2. Techniques
+> ### 3. Classification
 
 ------------------------------------------------------------------------------
 
