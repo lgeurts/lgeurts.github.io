@@ -87,24 +87,24 @@ A sample of one person isn't likely to give a function that generalizes well. So
 Now having a new function that can be used to calculate label (Y), we can finally plot the values of (Y), calculated for specific features of (X) values on a chart:
 
 :-----------------:|:-----------------:
-<img src="/assets/artificial-intelligence/plotted-chart-1.png" align="left" width="265" height="150" alt="Generalized function"> | <img src="/assets/artificial-intelligence/plotted-chart-2.png" align="left" width="285" height="160" alt="Plotting">
+<img src="/assets/artificial-intelligence/plotted-chart-1.png" align="left" width="265" height="150" alt=""> | <img src="/assets/artificial-intelligence/plotted-chart-2.png" align="left" width="265" height="150" alt="">
 
 And we can interpolate any new values of (X) to predict an unknown (Y).
 
 As we started with data that includes the label we try to predict, we can train the model using some data and keep the rest for evaluating the models performance. Then we can use the model to predict (F) of (X) for evaluation data, and compare the predictions or scored labels to the actual labels that we know to be true.
 
 :-----------------:|:-----------------:
-<img src="/assets/artificial-intelligence/plotted-chart-3.png" align="left" width="285" height="160" alt="Holding data for model performance"> | <img src="/assets/artificial-intelligence/plotted-chart-4.png" align="left" width="285" height="160" alt="Comparing predictions">
+<img src="/assets/artificial-intelligence/plotted-chart-3.png" align="left" width="265" height="150" alt=""> | <img src="/assets/artificial-intelligence/plotted-chart-4.png" align="left" width="265" height="150" alt="">
 
 The difference between the predicted and actual levels are called the ***residuals***. And they can tell us something about the error level in the model. 
 
 There are a few ways we can measure the error in the model, and these include ***root-mean-square error***, or ***RMSE***.
 
 :-----------------:|:-----------------:
-<img src="/assets/artificial-intelligence/plotted-chart-5.png" align="left" width="285" height="160" alt="RMSE"> | <img src="/assets/artificial-intelligence/plotted-chart-6.png" align="left" width="285" height="160" alt="MAE">
+<img src="/assets/artificial-intelligence/plotted-chart-5.png" align="left" width="285" height="160" alt=""> | <img src="/assets/artificial-intelligence/plotted-chart-6.png" align="left" width="285" height="160" alt="">
 
 Both are absolute measures of error in the model. For example, having an RMSE value of 5 would mean that the standard deviation of error from our test error is 5 calories. An error of 5 calories seems to indicate a reasonably good model, but let's suppose we are predicting how long an exercise session takes. An error of 5 hours would be a very bad model.
 
 :-----------------:|:-----------------:
-<img src="/assets/artificial-intelligence/plotted-chart-7.png" align="left" width="285" height="160" alt="RMSE"> | <img src="/assets/artificial-intelligence/plotted-chart-8.png" align="left" width="285" height="160" alt="MAE">
+<img src="/assets/artificial-intelligence/plotted-chart-7.png" align="left" width="285" height="160" alt=""> | <img src="/assets/artificial-intelligence/plotted-chart-8.png" align="left" width="285" height="160" alt="">
 
