@@ -105,9 +105,9 @@ There are a few ways we can measure the error in the model, and these include **
 
 Both are absolute measures of error in the model. For example, having an RMSE value of 5 would mean that the standard deviation of error from our test error is 5 calories. An error of 5 calories seems to indicate a reasonably good model, but let's suppose we are predicting how long an exercise session takes. An error of 5 hours would be a very bad model.
 
-You might want to evaluate the model using relative metrics to indicate a more general level of error as a relative value between 0 and 1. ***Relative absolute error*** (***RAE***) and ***relative squared error*** (***RSE***) produce a metric where the closer to 0 the error, the better the model.
+You might want to evaluate the model using relative metrics to indicate a more general level of error as a relative value between 0 and 1. ***Relative absolute error*** (***RAE***) and ***relative squared error*** (***RSE***) produce metrics where the closer to 0 the error, the better the model.
 
-The ***coefficient of determination*** (***CoDR***), also called R squared, is another relative metric, but this time a value closer to 1 indicates a good fit for the model.
+The ***coefficient of determination*** (***CoDR***) aka R squared, is another relative metric, but this time a value closer to 1 indicates a good fit for the model.
 
 :-----------------:|:-----------------:
 <img src="/assets/artificial-intelligence/plotted-chart-7.png" align="left" width="285" height="160" alt=""> | <img src="/assets/artificial-intelligence/plotted-chart-8.png" align="right" width="285" height="160" alt="">
