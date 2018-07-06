@@ -24,8 +24,8 @@ The raw notes are ***open sourced*** - should you encounter errors, have a bette
 ## **<u>Table of Contents</u>**
 
 > 1. What is Machine Learning?
-> 2. Techniques
-> 3. Classification
+> 2. Techniques: regression & classification
+> 3.
 
 ------------------------------------------------------------------------------
 
@@ -112,4 +112,6 @@ You might want to evaluate the model using relative metrics to indicate a more g
 
 :-----------------:|:-----------------:
 <img src="/assets/artificial-intelligence/plotted-chart-7.png" align="left" width="285" height="160" alt=""> | <img src="/assets/artificial-intelligence/plotted-chart-8.png" align="right" width="285" height="160" alt="">
+ 
+ Another kind of supervised learnming is called ***classification***.
 
