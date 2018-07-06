@@ -113,4 +113,4 @@ You might want to evaluate the model using relative metrics to indicate a more g
  
 Another kind of supervised learning is called ***classification***.
 
-Classification is a technique that we can use to predict which class, or category, something belongs to. Its simplest variant is the binary classification where we predict whether entities belong to one of two classes. Classification is often used to determine if something is true or false about an entity.
+Classification is a technique that we can use to predict which class, or category, something belongs to. Its simplest variant is the binary classification where we predict whether entities belong to one of two classes (true or false). 
