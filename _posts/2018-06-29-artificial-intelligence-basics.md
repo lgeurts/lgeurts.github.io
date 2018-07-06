@@ -7,7 +7,7 @@ category: Education & Training
 tags: [ Artificial Intelligence ]
 ---
 
-These are my ***personal notes***, broadly covering the basics for ***machine learning*** and ***artificial intelligence***.
+These are my ***personal notes***, broadly covering ***machine learning*** and ***artificial intelligence***.
 They are intended to provide intuitive understandings of concepts that I encounter, while wading my way through course materials and a host of online articles. 
 
 Some final caveats:
