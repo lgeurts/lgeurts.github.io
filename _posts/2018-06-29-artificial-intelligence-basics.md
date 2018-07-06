@@ -14,7 +14,7 @@ Some final caveats:
 * This post may not be helpful for your purposes. 
 * This is still very much a work in progress and it will be changing a lot.
 * Some content may be out of order, missing. Don't get upset.
-* These notes are generated for markdown, so they unfortunately lack snazzy interactivity.
+* These notes are generated in markdown, so they unfortunately lack snazzy interactivity.
 * Part of this material is adapted, sometimes directly copied, from elsewhere. I have tried to give credit where due. 
 
 The raw notes are ***open sourced*** - should you encounter errors, have a better way of explaining something, don't hesitate to submit a pull request.
@@ -114,4 +114,4 @@ You might want to evaluate the model using relative metrics to indicate a more g
  
 Another kind of supervised learning is called ***classification***.
 
-Classification is a technique that we can use to predict which class, or category, something belongs to. Its simplest variant is the binary classification where we predict whether entities belong to one of two classes. It's often used to find if something is true or false about the entity.
+Classification is a technique that we can use to predict which class, or category, something belongs to. Its simplest variant is the binary classification where we predict whether entities belong to one of two classes. It is often used to find if something is true or false about the entity.
