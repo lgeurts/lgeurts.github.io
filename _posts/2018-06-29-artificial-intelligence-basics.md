@@ -113,5 +113,6 @@ You might want to evaluate the model using relative metrics to indicate a more g
 :-----------------:|:-----------------:
 <img src="/assets/artificial-intelligence/plotted-chart-7.png" align="left" width="285" height="160" alt=""> | <img src="/assets/artificial-intelligence/plotted-chart-8.png" align="right" width="285" height="160" alt="">
  
- Another kind of supervised learnming is called ***classification***.
+Another kind of supervised learning is called ***classification***.
 
+Classification is a technique that we can use to predict which class, or category, something belongs to. The simplest variant is binary classification where we predict whether an entity belongs to one of two classes. It's often used to determine if something is true or false about the entity.
