@@ -49,7 +49,7 @@ At heart, a function is the mapping from a set in a ***domain*** to a set in a *
 * ***Active learning*** - similar to semi-supervised learning, but the algorithm can "ask" for extra labeled data based on what it needs to improve on.
 * ***Reinforcement learning*** - actions are taken and rewarded or penalized, goal is maximizing lifetime/long-term reward (or vice versa).
 
-*Ref: [Neural Computing: Theory and Practice (1989)](https://www.amazon.co.uk/Neural-Computing-Practice-Wasserman-1989-06-03/dp/B01F81V01S?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duc08-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01F81V01S) - Philip D. Wasserman.*
+*Ref: Book: Neural Computing: Theory and Practice (1989) - Philip D. Wasserman.*
 
 **Note:** Following course guidelines, we'll discuss the two most common methods; ***supervised*** and ***unsupervised***.
 
