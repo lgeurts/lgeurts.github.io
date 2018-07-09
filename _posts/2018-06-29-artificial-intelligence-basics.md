@@ -69,7 +69,7 @@ We'll train the model by finding similarities between observations. Once we have
 
 ### **2. Techniques**
 
-When we need to predict a numeric value, for example an amount of calories, we use a supervised learning technique called ***<u>regression</u>***. 
+* When we need to predict a numeric value, for example an amount of calories, we use a supervised learning technique called ***<u>regression</u>***. 
 
 Let's take one male. We want to model calories burned while exercising. 
 
