@@ -69,7 +69,7 @@ We'll train the model by finding similarities between observations. Once we have
 
 ### **2. Techniques**
 
-#### **Regression**
+#### **2.1 Regression**
 
 When we need to predict a numeric value, for example an amount of calories, we use a supervised learning technique called ***regression***. 
 
@@ -113,7 +113,7 @@ You might want to evaluate the model using relative metrics to indicate a more g
 :-----------------:|:-----------------:
 <img src="/assets/artificial-intelligence/plotted-chart-7.png" align="left" width="285" height="160" alt=""> | <img src="/assets/artificial-intelligence/plotted-chart-8.png" align="right" width="285" height="160" alt="">
  
-#### **Classification**
+#### **2.2 Classification**
 
 Another kind of supervised learning is called ***classification***.
 
