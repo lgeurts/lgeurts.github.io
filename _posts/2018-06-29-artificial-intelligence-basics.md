@@ -39,6 +39,8 @@ At heart, a function is the mapping from a set in a ***domain*** to a set in a *
 
 ![Function](/assets/artificial-intelligence/function.png)
 
+We have ***[scalar-valued]***(http://mathworld.wolfram.com/ScalarFunction.html) or ***real-valued*** and ***[vector-valued]***(http://mathworld.wolfram.com/VectorFunction.html) functions.
+
 *Ref: [Mathworld Wolfram](http://mathworld.wolfram.com/) - Eric W. Weisstein.*
 
 **There are five types of machine learning:**
