@@ -33,7 +33,7 @@ Machine learning provides the foundation for artificial intelligence. We train o
 
 Let's start with a data set that contains historical records aka ***observations***. Every record includes numerical ***features*** (X) quantifying characteristics of the item we are working with. 
 
-There are also values we try to predict (Y). We will use training cases to train the machine learning model so that it calculates a value for (Y), from the features in (X). Simply said, we are creating a ***function*** that operates on a ***set*** of features, (X), to produce predictions, (Y): f:X→Y.
+There are also values we try to predict (Y). We will use training cases to train the machine learning model so that it calculates a value for (Y), from the features in (X). Simply said, we are creating a ***function*** that operates on a ***set*** of features, (X), to produce predictions, (Y): `f: X → Y`.
 
 At heart, a function is the mapping from a set in a ***domain*** to a set in a ***codomain***.
 
@@ -127,5 +127,5 @@ We can learn a function that can be applied to the patient features and give the
 
 and 0 for patients that aren't.
 
-Generally, a binary classifier is a function that can be applied to features (X) to produce a (Y) value of 1 or 0.
+Generally, a binary classifier is a function that can be applied to features (X) to produce a (Y) value of 1 or 0. This function won't actually calculate an absolute value of 1 or 0, instead it will calculate a value between 1 and 0, and we'll use a threshold value to decide whether the result should be counted as a 1 or a 0.
 
