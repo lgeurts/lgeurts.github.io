@@ -42,6 +42,7 @@ At heart, a function is the mapping from a set in a ***domain*** to a set in a *
 *Ref: Web: [Mathworld Wolfram](http://mathworld.wolfram.com/) - Eric W. Weisstein.*
 
 **There are five types of machine learning:**
+#### **Types of machine learning**
 
 * ***Supervised learning*** - the algorithm is given a pre-labeled training example to learn from.
 * ***Unsupervised learning*** - the algorithm is given unlabeled examples.
