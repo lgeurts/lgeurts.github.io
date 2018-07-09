@@ -87,7 +87,7 @@ A sample of one person isn't likely to give a function that generalizes well. So
 
 > * `F([X1, X2, X3, X4, X5, X6, X7]) = Y`
 
-Now having a new function that can be used to calculate label (Y), we can finally plot the values of (Y), calculated for specific features of (X) values on a chart:
+Now having a new function that can be used to calculate label (Y), we can finally plot the values of (Y) calculated for specific features of (X) values, on a chart:
 
 :-----------------:|:-----------------:
 <img src="/assets/artificial-intelligence/plotted-chart-1.png" align="left" width="285" height="160" alt=""> | <img src="/assets/artificial-intelligence/plotted-chart-2.png" align="right" width="285" height="160" alt="">
