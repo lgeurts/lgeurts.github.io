@@ -69,7 +69,7 @@ We'll train the model by finding similarities between observations. Once we have
 
 ### **2. Techniques**
 
-When we need to predict a numeric value, for example an amount of calories, we use a supervised learning technique called ***regression***. 
+When we need to predict a numeric value, for example an amount of calories, we use a supervised learning technique called ***<u>regression</u>***. 
 
 Let's take one male. We want to model calories burned while exercising. 
 
@@ -111,7 +111,7 @@ You might want to evaluate the model using relative metrics to indicate a more g
 :-----------------:|:-----------------:
 <img src="/assets/artificial-intelligence/plotted-chart-7.png" align="left" width="285" height="160" alt=""> | <img src="/assets/artificial-intelligence/plotted-chart-8.png" align="right" width="285" height="160" alt="">
  
-Another kind of supervised learning is called ***classification***.
+Another kind of supervised learning is called ***<u>classification</u>***.
 
 Classification is a technique that we can use to predict which class, or category, something belongs to. Its simplest variant is the binary classification where we predict whether entities belong to one of two classes (true or false).
 
