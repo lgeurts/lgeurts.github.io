@@ -39,7 +39,7 @@ At heart, a function is the mapping from a set in a ***domain*** to a set in a *
 
 ![Function](/assets/artificial-intelligence/function.png)
 
-*Ref: [Mathworld Wolfram])(http://mathworld.wolfram.com/) - Eric W. Weisstein.*
+*Ref: [Mathworld Wolfram](http://mathworld.wolfram.com/) - Eric W. Weisstein.*
 
 **There are five types of machine learning:**
 
