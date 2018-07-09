@@ -90,14 +90,14 @@ A sample of one person isn't likely to give a function that generalizes well. So
 Now having a new function that can be used to calculate label (Y), we can finally plot the values of (Y), calculated for specific features of (X) values on a chart:
 
 :-----------------:|:-----------------:
-<img src="/assets/artificial-intelligence/plotted-chart-1.png" align="center" width="285" height="160" alt=""> | <img src="/assets/artificial-intelligence/plotted-chart-2.png" align="center" width="285" height="160" alt="">
+<img src="/assets/artificial-intelligence/plotted-chart-1.png" align="left" width="285" height="160" alt=""> | <img src="/assets/artificial-intelligence/plotted-chart-2.png" align="right" width="285" height="160" alt="">
 
 And we can interpolate any new values of (X) to predict an unknown (Y).
 
 As we started with data that includes the label we try to predict, we can train the model using some data and keep the rest for evaluating the models performance. Then we can use the model to predict (F) of (X) for evaluation data, and compare the predictions or scored labels to the actual labels that we know to be true.
 
 :-----------------:|:-----------------:
-<img src="/assets/artificial-intelligence/plotted-chart-3.png" align="center" width="285" height="160" alt=""> | <img src="/assets/artificial-intelligence/plotted-chart-4.png" align="center" width="285" height="160" alt="">
+<img src="/assets/artificial-intelligence/plotted-chart-3.png" align="left" width="285" height="160" alt=""> | <img src="/assets/artificial-intelligence/plotted-chart-4.png" align="right" width="285" height="160" alt="">
 
 The difference between the predicted and actual levels are called the ***residuals***. And they can tell us something about the error level in the model. 
 
