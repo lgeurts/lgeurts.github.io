@@ -35,11 +35,11 @@ Let's start with a data set that contains historical records aka ***observations
 
 There are also values we try to predict (Y). We will use training cases to train the machine learning model so that it calculates a value for (Y), from the features in (X). Simply said, we are creating a ***function*** that operates on a ***set*** of features, (X), to produce predictions, (Y).
 
-At heart, a [function](/assets/artificial-intelligence/function.txt) is the mapping from a set in a ***domain*** to a set in a ***codomain***.
+At heart, a function is the mapping from a set in a ***domain*** to a set in a ***codomain***.
 
 ![Function](/assets/artificial-intelligence/function.png)
 
-*Ref: Mathworld - Eric W. Wolfram.*
+*Ref: [Mathworld Wolfram])(http://mathworld.wolfram.com/) - Eric W. Weisstein.*
 
 **There are five types of machine learning:**
 
@@ -49,7 +49,7 @@ At heart, a [function](/assets/artificial-intelligence/function.txt) is the mapp
 * ***Active learning*** - similar to semi-supervised learning, but the algorithm can "ask" for extra labeled data based on what it needs to improve on.
 * ***Reinforcement learning*** - actions are taken and rewarded or penalized, goal is maximizing lifetime/long-term reward (or vice versa).
 
-*Ref: Neural Computing: Theory and Practice (1989) - Philip D. Wasserman.*
+*Ref: [Neural Computing: Theory and Practice (1989)](https://www.amazon.co.uk/Neural-Computing-Practice-Wasserman-1989-06-03/dp/B01F81V01S?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duc08-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01F81V01S) - Philip D. Wasserman.*
 
 **Note:** Following course guidelines, we'll discuss the two most common methods; ***supervised*** and ***unsupervised***.
 
