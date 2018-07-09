@@ -115,4 +115,4 @@ Another kind of supervised learning is called ***<u>classification</u>***.
 
 Classification is a technique that we can use to predict which class, or category, something belongs to. Its simplest variant is the binary classification where we predict whether entities belong to one of two classes (true or false).
 
-For example, we'll take a number of patients in a health clinic, gather some personal details, run tests, and we can identify which patients are diabetic and which are not.
+Example, we take a number of patients in a health clinic, gather some personal details, run tests, and we can identify which patients are diabetic and which are not.
