@@ -127,5 +127,5 @@ We can learn a function that can be applied to the patient features and give the
 
 and 0 for patients that aren't.
 
-Generally, a binary classifier is a function that
+Generally, a binary classifier is a function that can be applied to features (X) to produce a (Y) value of 1 or 0.
 
