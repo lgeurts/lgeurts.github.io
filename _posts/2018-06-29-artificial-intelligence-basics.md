@@ -35,7 +35,7 @@ Let's start with a data set that contains historical records aka ***observations
 
 There are also values we try to predict (Y). We will use training cases to train the machine learning model so that it calculates a value for (Y), from the features in (X). Simply said, we are creating a ***function*** that operates on a ***set*** of features, (X), to produce predictions, (Y).
 
-Fundamentally a [function](/assets/artificial-intelligence/function.txt) is the mapping from a set in a ***domain*** to a set in a ***codomain***.
+At heart, a [function](/assets/artificial-intelligence/function.txt) is the mapping from a set in a ***domain*** to a set in a ***codomain***.
 
 ![Function](/assets/artificial-intelligence/function.png)
 
