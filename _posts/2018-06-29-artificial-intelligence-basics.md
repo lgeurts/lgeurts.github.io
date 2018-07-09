@@ -41,7 +41,7 @@ At heart, a function is the mapping from a set in a ***domain*** to a set in a *
 
 *Ref: Web: [Mathworld Wolfram](http://mathworld.wolfram.com/) - Eric W. Weisstein.*
 
-#### **1.1 Types of machine learning**
+**Types of machine learning:**
 
 * ***Supervised learning*** - the algorithm is given a pre-labeled training example to learn from.
 * ***Unsupervised learning*** - the algorithm is given unlabeled examples.
@@ -53,7 +53,7 @@ At heart, a function is the mapping from a set in a ***domain*** to a set in a *
 
 **Note:** Following course guidelines, we'll discuss the two most common methods; ***supervised*** and ***unsupervised***.
 
-#### **1.2 Learning scenarios**
+**Learning scenarios:**
 
 In a ***supervised*** learning scenario, we start with  observations that include known values for the variable we want to predict. We call these ***labels***.
 
