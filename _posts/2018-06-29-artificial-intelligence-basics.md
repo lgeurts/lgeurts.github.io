@@ -81,7 +81,7 @@ We'll train the model by finding similarities between observations. Once we have
 
 ### **2. Techniques**
 
-**Basic Concepts:**
+#### 2.1 Basic Concepts
 
 The typical notation for a learning algorithm is:
 
@@ -93,11 +93,9 @@ The typical notation for a learning algorithm is:
 
 The hypothesis can be thought of as the model that you try to learn for a particular task. You then use this model on new inputs, e.g. to make predictions - generalization is how the model performs on new examples.
 
-In machine learning, there are generally two kinds of problems: regression and classification problems. Machine learning algorithms are typically designed for one or the other.
+##### **2.1.1 Regression**
 
-#### **2.1 Regression**
-
-When we need to predict continuous valued output (i.e a numeric value), we use a supervised learning technique called ***regression***. 
+When we need to predict continuous valued output (i.e a numeric value), we use a supervised learning technique called regression. 
 
 Let's take one male. We want to model the calories burned while exercising. 
 
