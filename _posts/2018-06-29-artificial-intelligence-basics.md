@@ -48,8 +48,7 @@ The ***range*** is the subset of the codomain which the function maps to. Functi
 
 ![Function](/assets/artificial-intelligence/function.png)
 
-There are 2 types of functions:
-Functions which map to *`R`* are known as ***scalar-valued*** or ***real-valued***.
+There are 2 types of functions. Functions which map to *`R`* are known as ***scalar-valued*** or ***real-valued***.
 Functions which map to *`Rn`* where *`n > 1`* are known as ***vector-valued***.
 
 *Ref: Web: [Mathworld Wolfram](http://mathworld.wolfram.com/) - Eric W. Weisstein.*
