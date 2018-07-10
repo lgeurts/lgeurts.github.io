@@ -38,11 +38,11 @@ Machine learning provides the foundation for artificial intelligence. We train o
 
 Let's start with a data set that contains historical records aka ***observations***. Every record includes numerical ***features*** (X) quantifying characteristics of the item we are working with. 
 
-There are also values we try to predict (Y). We will use training cases to train the machine learning model so that it calculates a value for (Y), from the features in (X). Simply said, we are creating a ***function*** that operates on a ***set*** of features, (X), to produce predictions, (Y): `f: X → Y`.
+There are also values we try to predict (Y). We will use training cases to train the machine learning model so that it calculates a value for (Y), from the features in (X). Simply said, we are creating a ***function*** that operates on a ***set*** of features, (X), to produce predictions, (Y): *`f: X → Y`*.
 
 #### **1.1 Functions**
 
-At heart, a function is the mapping from a set in a ***domain*** to a set in a ***codomain***. A function can map a set to itself. For example, `*f(X)= X2*`, also notated `*f: X ↦ X2*`, is the mapping of all real numbers to all real numbers, or `*f*: R → R`. 
+At heart, a function is the mapping from a set in a ***domain*** to a set in a ***codomain***. A function can map a set to itself. For example, *`f(X) = X2`*, also notated *`f: X → X2`*, is the mapping of all real numbers to all real numbers, or *`f: R → R`*. 
 
 The ***range*** is the subset of the codomain which the function actually maps to (a function doesn't necessarily map to every value in the codomain. But where it does, the range equals the codomain).
 
