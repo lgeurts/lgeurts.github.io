@@ -13,7 +13,7 @@ Some final caveats:
 * This post may not be helpful for your purposes. 
 * This is still very much a work in progress and it will be changing a lot.
 * Some content may be out of order, missing. Don't get upset.
-* These notes are generated in markdown, so they unfortunately lack snazzy interactivity.
+* These notes are generated in ***markdown***, so they unfortunately lack snazzy interactivity.
 * Part of this material is adapted, sometimes directly copied, from elsewhere. I have tried to give credit where due. 
 
 The raw notes are ***open sourced*** - should you encounter errors, have a better way of explaining something, don't hesitate to submit a pull request.
