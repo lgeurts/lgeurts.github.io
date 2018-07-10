@@ -48,7 +48,7 @@ The ***range*** is the subset of the codomain which the function maps to. Functi
 
 ![Function](/assets/artificial-intelligence/function.png)
 
-There are 2 types of functions. Functions which map to *`R`* are known as ***scalar-valued*** or ***real-valued***.
+There are 2 sorts of functions. Functions which map to *`R`* are known as ***scalar-valued*** or ***real-valued***.
 Functions which map to *`Rn`* where *`n > 1`* are known as ***vector-valued***.
 
 *Ref: Web: [Mathworld Wolfram](http://mathworld.wolfram.com/) - Eric W. Weisstein.*
@@ -91,11 +91,11 @@ First we get some pre-liminary data (age: 34, gender: 1, weight: 60, height: 165
 
 In this case we know all features and have a known label value of 231 calories. So we need our algorithm to learn a function, that operates of all the males exercise features to give us a net result of 231.
 
-> * `F([34, 1, 60, 165, 134, 37, 25]) = 231`
+> * *`f([34, 1, 60, 165, 134, 37, 25]) = 231*`
 
 A sample of one person isn't likely to give a function that generalizes well. So we gather the same data from a large number participants, and then train the model using the bigger set of data. 
 
-> * `F([X1, X2, X3, X4, X5, X6, X7]) = Y`
+> * *`f([X1, X2, X3, X4, X5, X6, X7]) = Y`*
 
 Now having a new function that can be used to calculate label (Y), we can finally plot the values of (Y) calculated for specific features of (X) values, on a chart:
 
@@ -135,7 +135,7 @@ Example, we take a number of patients in a health clinic, gather some personal d
 
 We can learn a function that can be applied to the patient features and give the result 1 for patients that are diabetic:
 
-> * `F([23, 1, 171, 43.5]) = 1`
+> * *`f([23, 1, 171, 43.5]) = 1`*
 
 and 0 for patients that aren't.
 
