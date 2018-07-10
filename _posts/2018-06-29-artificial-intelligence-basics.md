@@ -24,7 +24,7 @@ The raw notes are ***open sourced*** - should you encounter errors, have a bette
 
 > 1. What is Machine Learning?
 > * 1.1 Functions
-> * 1.2 Algorithms Grouped by Learning Style
+> * 1.2 Algorithms grouped by Learning Style
 > * 1.3 Supervised v. Unsupervised
 > 2. Techniques
 > * 2.1 Regression
@@ -53,7 +53,7 @@ Functions which map to *`Rn`* where *`n > 1`* are known as ***vector-valued***.
 
 *Ref: Web: [Mathworld Wolfram](http://mathworld.wolfram.com/) - Eric W. Weisstein.*
 
-#### **1.2 Algorithms Grouped by Learning Style**
+#### **1.2 Algorithms grouped by Learning Style**
 
 * ***Supervised learning*** - the algorithm is given a pre-labeled training example to learn from.
 * ***Unsupervised learning*** - the algorithm is given unlabeled examples.
