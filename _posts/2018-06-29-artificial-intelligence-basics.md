@@ -25,7 +25,7 @@ The raw notes are ***open sourced*** - should you encounter errors, have a bette
 > 1. What is Machine Learning?
 > * 1.1 Functions
 > * 1.2 Algorithms Grouped by Learning Style
-> * 1.3 Learning Scenarios
+> * 1.3 Supervised v. Unsupervised
 > 2. Techniques
 > * 2.1 Regression
 > * 2.2 Classification
@@ -65,7 +65,7 @@ Functions which map to *`Rn`* where *`n > 1`* are known as ***vector-valued***.
 
 **Note:** Following course guidelines, we'll discuss the two most common methods; ***supervised*** and ***unsupervised***.
 
-#### **1.3 Learning Scenarios**
+#### **1.3 Supervised v. Unsupervised**
 
 In a ***supervised*** learning scenario, we start with  observations that include known values for the variable we want to predict. We call these ***labels***.
 
