@@ -81,6 +81,18 @@ We'll train the model by finding similarities between observations. Once we have
 
 ### **2. Techniques**
 
+**Basic Concepts:**
+
+The typical notation for a learning algorithm is:
+
+* *m* = number training of examples
+* *x*'s = input variables or features
+* *y*'s = output variables or the "target" variable
+* (*x*(*i*), *y*(*i*)) = the *i*th training example
+* *h* = the hypothesis, that is, the function that the learning algorithm learns, taking *x*'s as input and outputting *y*'s
+
+The hypothesis can be thought of as the model that you try to learn for a particular task. You then use this model on new inputs, e.g. to make predictions - generalization is how the model performs on new examples.
+
 #### **2.1 Regression**
 
 When we need to predict continuous valued output (i.e a numeric value), we use a supervised learning technique called ***regression***. 
@@ -125,7 +137,7 @@ You might want to evaluate the model using relative metrics to indicate a more g
 :-----------------:|:-----------------:
 <img src="/assets/artificial-intelligence/plotted-chart-7.png" align="left" width="285" height="160" alt=""> | <img src="/assets/artificial-intelligence/plotted-chart-8.png" align="right" width="285" height="160" alt="">
 
-*Ref: Web: [MSXDAT2612017-V010300](https://www.youtube.com/watch?v=1O0_u9WRo-0/) - Microsoft Learning.*
+*Ref: Web: [MSXDAT2612017-V010300](https://www.youtube.com/watch?v=1O0_u9WRo-0/) - edX.*
 
 #### **2.2 Classification**
 
