@@ -46,7 +46,7 @@ At heart, a function is the mapping from a set in a ***domain*** to a set in a *
 
 ![Function](/assets/artificial-intelligence/function.png)
 
-Deepers insights on functions can be found [here](assets/artificial-intelligence/1.1-functions.md)
+Functions which map to $\mathbb R$ are known as scalar-valued or real-valued functions.
 
 *Ref: Web: [Mathworld Wolfram](http://mathworld.wolfram.com/) - Eric W. Weisstein.*
 
