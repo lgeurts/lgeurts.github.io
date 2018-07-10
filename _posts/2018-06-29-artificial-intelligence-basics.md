@@ -143,7 +143,7 @@ and 0 for patients that aren't.
 
 Generally, a binary classifier is a function that can be applied to features (X) to produce a (Y) value of 1 or 0. This function won't actually calculate an absolute value of 1 or 0, instead it will calculate a value between 1 and 0, and we'll use a threshold value to decide whether the result should be counted as a 1 or a 0.
 
-***Note***: the typical (official) notation for a learning algorithm is:
+**Note:** the typical (semi-official) notation for a learning algorithm is:
 
 * *m* = number training of examples
 * *x*'s = input variables or features
