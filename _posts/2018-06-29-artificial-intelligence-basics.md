@@ -81,9 +81,7 @@ We'll train the model by finding similarities between observations. Once we have
 
 ### **2. Techniques**
 
-#### 2.1 Basic Concepts
-
-The typical notation for a learning algorithm is:
+Something to remember, the typical notation for a learning algorithm is:
 
 * *m* = number training of examples
 * *x*'s = input variables or features
@@ -91,9 +89,9 @@ The typical notation for a learning algorithm is:
 * (*x*(*i*), *y*(*i*)) = the *i*th training example
 * *h* = the hypothesis, that is, the function that the learning algorithm learns, taking *x*'s as input and outputting *y*'s
 
-The hypothesis can be thought of as the model that you try to learn for a particular task. You then use this model on new inputs, e.g. to make predictions - generalization is how the model performs on new examples.
+Hypothesis can be thought of as the model that you try to learn for a particular task. You then use this model on new inputs, e.g. to make predictions - generalization is how the model performs on new examples.
 
-##### **2.1.1 Regression**
+#### **2.1 Regression**
 
 When we need to predict continuous valued output (i.e a numeric value), we use a supervised learning technique called regression. 
 
