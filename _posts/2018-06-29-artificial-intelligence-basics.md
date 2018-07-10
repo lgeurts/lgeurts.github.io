@@ -23,7 +23,7 @@ The raw notes are ***open sourced*** - should you encounter errors, have a bette
 ## **<u>Table of Contents</u>**
 
 > 1. What is Machine Learning?
-.. * Functions
+> .. * 1.1 Functions
 > 2. Techniques
 
 ------------------------------------------------------------------------------
@@ -44,7 +44,7 @@ At heart, a function is the mapping from a set in a ***domain*** to a set in a *
 
 *Ref: Web: [Mathworld Wolfram](http://mathworld.wolfram.com/) - Eric W. Weisstein.*
 
-#### **1.2 The different types of Machine Learning**
+#### **1.2 Types of Machine Learning**
 
 * ***Supervised learning*** - the algorithm is given a pre-labeled training example to learn from.
 * ***Unsupervised learning*** - the algorithm is given unlabeled examples.
@@ -56,7 +56,7 @@ At heart, a function is the mapping from a set in a ***domain*** to a set in a *
 
 **Note:** Following course guidelines, we'll discuss the two most common methods; ***supervised*** and ***unsupervised***.
 
-#### **1.3 Learning Scenarios:**
+#### **1.3 Learning Scenarios**
 
 In a ***supervised*** learning scenario, we start with  observations that include known values for the variable we want to predict. We call these ***labels***.
 
