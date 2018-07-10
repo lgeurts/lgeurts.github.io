@@ -125,7 +125,7 @@ You might want to evaluate the model using relative metrics to indicate a more g
 :-----------------:|:-----------------:
 <img src="/assets/artificial-intelligence/plotted-chart-7.png" align="left" width="285" height="160" alt=""> | <img src="/assets/artificial-intelligence/plotted-chart-8.png" align="right" width="285" height="160" alt="">
 
-*Ref: Web: [MSXDAT2612017-V010300](https://www.youtube.com/watch?v=1O0_u9WRo-0/) - edX.*
+*Ref: Web: [MSXDAT2612017](https://www.youtube.com/watch?v=1O0_u9WRo-0/) - edX.*
 
 #### **2.2 Classification**
 
