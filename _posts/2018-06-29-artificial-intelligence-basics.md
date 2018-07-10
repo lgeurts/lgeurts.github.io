@@ -44,12 +44,12 @@ There are also values we try to predict (Y). We will use training cases to train
 
 At heart, a function is the mapping from a set in a ***domain*** to a set in a ***codomain***. A function can map a set to itself. For example, *`f(x) = x2`*, also notated *`f: x ↦ x2`*, is the mapping of all real numbers to all real numbers, or *`f: R → R`*. 
 
-The ***range*** is the subset of the codomain which the function maps to (a function doesn't necessarily map to every value in the codomain. Where it does, the range equals the codomain).
+The ***range*** is the ***subset*** of the codomain which the function maps to (a function doesn't necessarily map to every value in the codomain. Where it does, the range equals the codomain).
 
 ![Function](/assets/artificial-intelligence/function.png)
 
-Functions which map to *`R`* are known as ***scalar-valued*** or ***real-valued*** functions.
-Functions which map to *`Rn`* where *`n > 1`* are known as ***vector-valued*** functions.
+Functions which map to *`R`* are known as ***scalar-valued*** or ***real-valued***.
+Functions which map to *`Rn`* where *`n > 1`* are known as ***vector-valued***.
 
 *Ref: Web: [Mathworld Wolfram](http://mathworld.wolfram.com/) - Eric W. Weisstein.*
 
