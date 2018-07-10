@@ -24,7 +24,11 @@ The raw notes are ***open sourced*** - should you encounter errors, have a bette
 
 > 1. What is Machine Learning?
 > * 1.1 Functions
+> * 1.2 Types of Machine Learning
+> * 1.3 Learning Scenarios
 > 2. Techniques
+> * 2.1 Regression
+> * 2.1 Classification
 
 ------------------------------------------------------------------------------
 
