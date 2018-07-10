@@ -46,6 +46,8 @@ At heart, a function is the mapping from a set in a ***domain*** to a set in a *
 
 ![Function](/assets/artificial-intelligence/function.png)
 
+$$ \DeclareMathOperator{\Img}{im} $$
+
 Functions which map to $\mathbb R$ are known as scalar-valued or real-valued functions.
 
 *Ref: Web: [Mathworld Wolfram](http://mathworld.wolfram.com/) - Eric W. Weisstein.*
