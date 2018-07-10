@@ -51,7 +51,7 @@ The ***range*** is the subset of the codomain which the function maps to. Functi
 There are 2 sorts of functions. Functions which map to *`R`*, are known as ***scalar-valued*** or ***real-valued***.
 Functions which map to *`Rn`* where *`n > 1`* are known as ***vector-valued***.
 
-*Ref: Web: [Mathworld Wolfram](http://mathworld.wolfram.com/) - Eric W. Weisstein.*
+*Ref: Web: [Mathworld Wolfram](https://mathworld.wolfram.com/) - Eric W. Weisstein.*
 
 #### **1.2 Algorithms: Grouped by Learning Style**
 
@@ -125,8 +125,6 @@ You might want to evaluate the model using relative metrics to indicate a more g
 :-----------------:|:-----------------:
 <img src="/assets/artificial-intelligence/plotted-chart-7.png" align="left" width="285" height="160" alt=""> | <img src="/assets/artificial-intelligence/plotted-chart-8.png" align="right" width="285" height="160" alt="">
 
-*Ref: Web: [MSXDAT2612017](https://www.youtube.com/watch?v=1O0_u9WRo-0/) - edX.*
-
 #### **2.2 Classification**
 
 Another kind of supervised learning is called ***classification***.
@@ -142,6 +140,8 @@ We can learn a function that can be applied to the patient features and give the
 and 0 for patients that aren't.
 
 Generally, a binary classifier is a function that can be applied to features (X) to produce a (Y) value of 1 or 0. This function won't actually calculate an absolute value of 1 or 0, instead it will calculate a value between 1 and 0, and we'll use a threshold value to decide whether the result should be counted as a 1 or a 0.
+
+*Ref: Web: [MSXDAT262017](https://www.youtube.com/watch?v=1O0_u9WRo-0/) - edX.*
 
 **Note:** the typical (semi-official) notation for a learning algorithm is:
 
