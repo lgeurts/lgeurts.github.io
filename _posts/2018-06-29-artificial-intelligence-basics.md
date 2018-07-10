@@ -35,6 +35,8 @@ Let's start with a data set that contains historical records aka ***observations
 
 There are also values we try to predict (Y). We will use training cases to train the machine learning model so that it calculates a value for (Y), from the features in (X). Simply said, we are creating a ***function*** that operates on a ***set*** of features, (X), to produce predictions, (Y): `f: X → Y`.
 
+**Functions:**
+
 At heart, a function is the mapping from a set in a ***domain*** to a set in a ***codomain***. A function can map a set to itself. The ***range*** is the subset of the codomain which the function actually maps to (a function doesn't necessarily map to every value in the codomain. But where it does, the range equals the codomain).
 
 ![Function](/assets/artificial-intelligence/function.png)
@@ -69,7 +71,7 @@ We'll train the model by finding similarities between observations. Once we have
 
 ### **2. Techniques**
 
-**Regression:**
+#### **2.1 Regression:**
 
 When we need to predict a numeric value, for example an amount of calories, we use a supervised learning technique called ***regression***. 
 
@@ -113,7 +115,7 @@ You might want to evaluate the model using relative metrics to indicate a more g
 :-----------------:|:-----------------:
 <img src="/assets/artificial-intelligence/plotted-chart-7.png" align="left" width="285" height="160" alt=""> | <img src="/assets/artificial-intelligence/plotted-chart-8.png" align="right" width="285" height="160" alt="">
  
-**Classification:**
+#### **2.2 Classification:**
 
 Another kind of supervised learning is called ***classification***.
 
