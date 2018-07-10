@@ -23,7 +23,7 @@ The raw notes are ***open sourced*** - should you encounter errors, have a bette
 ## **<u>Table of Contents</u>**
 
 > 1. What is Machine Learning?
-> .. * 1.1 Functions
+> * 1.1 Functions
 > 2. Techniques
 
 ------------------------------------------------------------------------------
