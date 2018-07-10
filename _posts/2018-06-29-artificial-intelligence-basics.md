@@ -151,7 +151,7 @@ Generally, a binary classifier is a function that can be applied to features (X)
 * (*x*(*i*), *y*(*i*)) = the *i*th training example
 * *h* = the hypothesis, that is, the function that the learning algorithm learns, taking *x*'s as input and outputting *y*'s
 
-You can think of hypothesis as the model that you try to learn for a particular task. You then use this model on new inputs, e.g. to make predictions.
+You could think of hypothesis as the model that you try to learn for a particular task. You'll then use this model on new inputs, e.g. to make predictions.
 
 
 
