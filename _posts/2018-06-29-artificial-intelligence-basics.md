@@ -83,8 +83,6 @@ We'll train the model by finding similarities between observations. Once we have
 
 #### **2.1 Regression**
 
-In ***regression problems***, you try to predict some continuous valued output (i.e. a numeric value, a real number).
-
 When we need to predict continuous valued output (i.e a numeric value), we use a supervised learning technique called ***regression***. 
 
 Let's take one male. We want to model the calories burned while exercising. 
@@ -126,7 +124,9 @@ You might want to evaluate the model using relative metrics to indicate a more g
 
 :-----------------:|:-----------------:
 <img src="/assets/artificial-intelligence/plotted-chart-7.png" align="left" width="285" height="160" alt=""> | <img src="/assets/artificial-intelligence/plotted-chart-8.png" align="right" width="285" height="160" alt="">
- 
+
+*Ref: Web: [MSXDAT2612017-V010300](https://www.youtube.com/watch?v=1O0_u9WRo-0/) - Microsoft Learning.*
+
 #### **2.2 Classification**
 
 Another kind of supervised learning is called ***classification***.
