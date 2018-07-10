@@ -81,16 +81,6 @@ We'll train the model by finding similarities between observations. Once we have
 
 ### **2. Techniques**
 
-Something to remember, the typical notation for a learning algorithm is:
-
-* *m* = number training of examples
-* *x*'s = input variables or features
-* *y*'s = output variables or the "target" variable
-* (*x*(*i*), *y*(*i*)) = the *i*th training example
-* *h* = the hypothesis, that is, the function that the learning algorithm learns, taking *x*'s as input and outputting *y*'s
-
-Hypothesis can be thought of as the model that you try to learn for a particular task. You then use this model on new inputs, e.g. to make predictions.
-
 #### **2.1 Regression**
 
 When we need to predict continuous valued output (i.e a numeric value), we use a supervised learning technique called regression. 
@@ -152,4 +142,16 @@ We can learn a function that can be applied to the patient features and give the
 and 0 for patients that aren't.
 
 Generally, a binary classifier is a function that can be applied to features (X) to produce a (Y) value of 1 or 0. This function won't actually calculate an absolute value of 1 or 0, instead it will calculate a value between 1 and 0, and we'll use a threshold value to decide whether the result should be counted as a 1 or a 0.
+
+***Note***: the typical notation for a learning algorithm is:
+
+* *m* = number training of examples
+* *x*'s = input variables or features
+* *y*'s = output variables or the "target" variable
+* (*x*(*i*), *y*(*i*)) = the *i*th training example
+* *h* = the hypothesis, that is, the function that the learning algorithm learns, taking *x*'s as input and outputting *y*'s
+
+You can think of hypothesis as the model that you try to learn for a particular task. You then use this model on new inputs, e.g. to make predictions.
+
+
 
