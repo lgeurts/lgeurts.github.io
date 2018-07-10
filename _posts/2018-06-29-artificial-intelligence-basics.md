@@ -83,9 +83,11 @@ We'll train the model by finding similarities between observations. Once we have
 
 #### **2.1 Regression**
 
+In ***regression problems***, you try to predict some continuous valued output (i.e. a numeric value, a real number).
+
 When we need to predict a numeric value, for example an amount of calories, we use a supervised learning technique called ***regression***. 
 
-Let's take one male. We want to model calories burned while exercising. 
+Let's take one male. We want to model the amount of calories burned while exercising. 
 
 First we get some pre-liminary data (age: 34, gender: 1, weight: 60, height: 165), then put him on a fitness monitor and capture additional information. Now what we do is model the calories burned using features from his exercise like his heart rate: 134, temperature: 37, and duration: 25. 
 
