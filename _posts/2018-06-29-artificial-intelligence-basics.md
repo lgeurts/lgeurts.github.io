@@ -30,6 +30,8 @@ The raw notes are ***open sourced*** - should you encounter errors, have a bette
 > * 2.1 Regression
 > * 2.2 Classification
 
+> 9. In Practice.
+
 ------------------------------------------------------------------------------
 
 ### **1. What is Machine Learning?**
