@@ -93,7 +93,7 @@ We'll train the model by finding similarities between observations. Once we have
 
 #### **2.1 Regression**
 
-When we need to predict continuous valued output (i.e a numeric value), we use a supervised learning technique called regression. 
+When we need to predict continuous valued output (i.e. a numeric value), we use a supervised learning technique called regression. 
 
 Let's take one male. We want to model the calories burned while exercising. 
 
@@ -169,5 +169,5 @@ To start:
 * Start with a simple algorithm which can be implemented quickly.
 * Test the simple algorithm on your validation data, evaluate the results.
 * Plot learning curves to decide where things need work. As example, do you need more data, features?
-* Analysis: manually examine examples in the validation set the algorithm made errors on.
+* Analysis: manually examine examples in the validation set your algorithm made errors on.
 
