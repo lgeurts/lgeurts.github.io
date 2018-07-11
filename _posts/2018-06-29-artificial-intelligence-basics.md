@@ -83,7 +83,7 @@ Typical notation:
 * *x*'s = input variables or features
 * *y*'s = output variables or the "target" variable
 * (*x*(*i*), *y*(*i*)) = the *i*th training example
-* *h* = the hypothesis, that is, the function that the learning algorithm learns, taking *x*'s as input and outputting *y*'s
+* *h* = hypothesis i.e. the function that the algorithm learns, taking *x*'s as input and outputting *y*'s
 
 In a ***unsupervised*** learning scenario, we don't have any known label values in our training data set. 
 
