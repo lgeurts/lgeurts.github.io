@@ -153,3 +153,9 @@ Generally, a binary classifier is a function that can be applied to features (X)
 
 *Ref: Web: [MSXDAT262017](https://www.youtube.com/watch?v=1O0_u9WRo-0/) - edX.*
 
+### **9. In Practice**
+
+Before you start building your machine learning system, you should:
+
+* Be explicit about the problem.
+* * Start with a very specific and well-defined question. What do you want to predict, and what do you have to predict it with?
