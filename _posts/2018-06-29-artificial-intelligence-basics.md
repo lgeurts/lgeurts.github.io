@@ -163,7 +163,7 @@ Before you start building your machine learning system, you should:
 * Brainstorm possible strategies like what features might be useful or do you need to collect more data?
 * Try and find good input data.
 * Randomly split data into: training samples, testing samples and validation samples.
-* Use features of, or features built from, the data that may help with making predictions.
+* Use features of, or features built from the data, that may help with making predictions.
 
 To start:
 
