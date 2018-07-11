@@ -169,5 +169,5 @@ To start:
 * Start with a simple algorithm which can be implemented quickly.
 * Test the simple algorithm on your validation data, evaluate the results.
 * Plot learning curves to decide where things need work. As example, do you need more data, features?
-* Manually examine the examples in the validation set that your algorithm made errors on.
+* Analysis: manually examine examples in the validation set that your algorithm made errors on.
 
