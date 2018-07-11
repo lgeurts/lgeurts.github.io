@@ -158,4 +158,4 @@ Generally, a binary classifier is a function that can be applied to features (X)
 Before you start building your machine learning system, you should:
 
 * Be explicit about the problem.
-* * Start with a very specific and well-defined question. What do you want to predict, and what do you have to predict it with?
+** Start with a very specific and well-defined question. What do you want to predict, and what do you have to predict it with?
