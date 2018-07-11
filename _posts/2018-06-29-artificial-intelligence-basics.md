@@ -159,15 +159,15 @@ Before you start building your machine learning system, you should:
 
 * Be explicit about the problem.
 * Start with a specific question. What do you want to predict, and what tools do you have to predict it with?
-* Brainstorm possible strategies like what features might be useful, or do you need to collect more data?
+* Brainstorm possible strategies like what features might be useful or do you need to collect more data?
 * Try and find good input data.
 * Randomly split data into: training samples, testing samples and validation samples.
-* Use features of, or features built from, the data that may help with prediction.
+* Use features of, or features built from, the data that may help with making predictions.
 
 To start:
 
 * Start with a simple algorithm which can be implemented quickly.
 * Test the simple algorithm on your validation data, evaluate the results.
-* Plot learning curves to decide where things need work. For example, do you need more data, features?
+* Plot learning curves to decide where things need work. As example, do you need more data, features?
 * Manually examine the examples in the validation set that your algorithm made errors on.
 
