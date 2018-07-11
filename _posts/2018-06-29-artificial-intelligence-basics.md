@@ -44,7 +44,9 @@ There are also values we try to predict (Y). We will use training cases to train
 
 At heart, a function is the mapping from a set in a ***domain*** to a set in a ***codomain***. A function can map a set to itself. For example, *`f(x) = x2`*, also notated *`f: x ↦ x2`*, is the mapping of all real numbers to all real numbers, or *`f: R → R`*. 
 
-The ***range*** is the subset of the codomain which the function maps to. Functions don't necessarily map to every value in the codomain. Where they do, the range equals the codomain.
+The ***range*** is the ***subset*** of the codomain which the function maps to. 
+
+Functions don't necessarily map to every value in the codomain. Where they do, the range equals the codomain.
 
 ![Function](/assets/artificial-intelligence/function.png)
 
