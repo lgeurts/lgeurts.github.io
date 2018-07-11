@@ -75,6 +75,16 @@ We'll then use a algorithm to train a model that fits features to the known labe
 
 As we started with a known label value, we can validate the model by comparing the value predicted by the function to the actual label value that we knew. Then, when we're happy that the model works, we can use it with new observations for which the label is unknown, and generate new predicted values.
 
+**Note:** Typical notation:
+
+* *m* = number training of examples
+* *x*'s = input variables or features
+* *y*'s = output variables or the "target" variable
+* (*x*(*i*), *y*(*i*)) = the *i*th training example
+* *h* = the hypothesis, that is, the function that the learning algorithm learns, taking *x*'s as input and outputting *y*'s
+
+You could think of hypothesis as the model that you try to learn for a particular task. You'll then use this model on new inputs, e.g. to make predictions.
+
 In a ***unsupervised*** learning scenario, we don't have any known label values in our training data set. 
 
 We'll train the model by finding similarities between observations. Once we have trained this model, more observations are added to a ***cluster*** of observations with alike characteristics. (Cluster = Group)
@@ -142,16 +152,4 @@ and 0 for patients that aren't.
 Generally, a binary classifier is a function that can be applied to features (X) to produce a (Y) value of 1 or 0. This function won't actually calculate an absolute value of 1 or 0, instead it will calculate a value between 1 and 0, and we'll use a threshold value to decide whether the result should be counted as a 1 or a 0.
 
 *Ref: Web: [MSXDAT262017](https://www.youtube.com/watch?v=1O0_u9WRo-0/) - edX.*
-
-**Note:** the typical (semi-official) notation for a learning algorithm is:
-
-* *m* = number training of examples
-* *x*'s = input variables or features
-* *y*'s = output variables or the "target" variable
-* (*x*(*i*), *y*(*i*)) = the *i*th training example
-* *h* = the hypothesis, that is, the function that the learning algorithm learns, taking *x*'s as input and outputting *y*'s
-
-You could think of hypothesis as the model that you try to learn for a particular task. You'll then use this model on new inputs, e.g. to make predictions.
-
-
 
