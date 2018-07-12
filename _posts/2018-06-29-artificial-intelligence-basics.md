@@ -172,3 +172,21 @@ To start:
 * Plot learning curves to decide where things need work. As example, do you need more data, features?
 * Analysis: manually examine examples in the validation set your algorithm made errors on.
 
+To generate a learning curve, you deliberately shrink the size of your training set and see how the training and validation errors change as you increase the training set size. This way you can see how your model improves (or doesn't, if something unexpected is happening) with more training data.
+
+With smaller training sets, we expect the training error will be low because it will be easier to fit to less data. So as training set size grows, the average training set error is expected to grow.
+ Conversely, we expect the average validation error to decrease as the training set size increases.
+
+If it seems like the training and validation error curves are flattening out at a high error as training set size increases, then you have a high bias problem. The curves flattening out indicates that getting more training data will not (by itself) help much.
+
+On the other hand, high variance problems are indicated by a large gap between the training and validation error curves as training set size increases. You would also see a low training error. In this case, the curves are converging and more training data would help.
+
+
+
+
+
+
+
+
+
+
