@@ -181,3 +181,4 @@ If our training and validation error curves flatten out at a high error as set s
 
 On the other hand, high variance problems are indicated by a large gap between the training and validation error curves as training set size increases. You would see a low training error. In this case, the curves are converging and adding more training data would help.
 
+*Ref: Web: [Intro to Artificial Intelligence](https://eu.udacity.com/course/intro-to-artificial-intelligence--cs271) - Udacity.*
