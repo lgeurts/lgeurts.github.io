@@ -177,7 +177,7 @@ To generate a learning curve, you deliberately shrink the size of the training s
 With smaller training sets, we expect the training error will be low because it is easier to fit to less data. As the training set size grows your average training set error is expected to grow.
 Conversely, we expect the average validation error to decrease as the training set size increases.
 
-If our training and validation error curves flatten out at a high error as the set size increases, then you have a high bias problem. The curves flattening out indicates that getting more training data will not (by itself) help much.
+If our training and validation error curves flatten out at a high error as set sizes increases, then you have a high bias problem. The curves flattening out indicates that getting more training data will not (by itself) help much.
 
 On the other hand, high variance problems are indicated by a large gap between the training and validation error curves as training set size increases. You would also see a low training error. In this case, the curves are converging and more training data would help.
 
