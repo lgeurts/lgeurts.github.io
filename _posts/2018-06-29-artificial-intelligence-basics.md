@@ -179,7 +179,7 @@ Conversely, we expect the average validation error to decrease as the training s
 
 If our training and validation error curves flatten out at a high error as set sizes increase, then you have a high bias problem. Adding more training data will not (by itself) help much.
 
-On the other hand, high variance problems are indicated by a large gap between the training and validation error curves as training set size increases. You would also see a low training error. In this case, curves are converging and adding more training data would help.
+On the other hand, high variance problems are indicated by a large gap between the training and validation error curves as training set size increases. You would see a low training error. In this case, the curves are converging and adding more training data would help.
 
 
 
