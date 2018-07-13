@@ -152,7 +152,7 @@ and 0 for patients that aren't.
 
 Generally, a binary classifier is a function, that can be applied to features (X), to produce a (Y) value of 1 or 0. This function won't actually calculate the absolute value of 1 or 0. Instead, it will calculate a value between 1 and 0, and we'll use a threshold value to decide whether the result should be counted as a 1 or a 0.
 
-When you use the model to predict values, the resulting value is classed as 1/0 depending on which side of the threshold line it falls.
+When you use the model to predict values, the resulting value is classed as 1/0, depending on which side of the threshold line it falls.
 
 *Ref: Web: [MSXDAT262017](https://www.youtube.com/watch?v=1O0_u9WRo-0/) - edX.*
 
