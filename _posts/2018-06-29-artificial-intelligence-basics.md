@@ -159,7 +159,9 @@ When using this model to predict values, the resulting value is classed as 1 or 
 
 Because classification is a supervised learning technique, we withhold some of the test data to validate the model using known labels.
 
-Cases where the model predicts a 1 for a test observation, holding a label value of 1, are considered true positives, and cases where the model predicts 0, and the actual label is 0, are true negatives.
+Cases where the model predicts a 1 for a test observation, holding a label value of 1, are considered ***true positives***.
+
+Cases where the model predicts 0, and the actual label is 0, are ***true negatives***.
 
 *Ref: Web: [MSXDAT262017](https://www.youtube.com/watch?v=1O0_u9WRo-0/) - edX.*
 
