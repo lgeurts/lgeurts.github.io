@@ -166,7 +166,7 @@ Cases where the model predicts 0, and the actual label is 0, are ***true negativ
 :-----------------:|:-----------------:
 <img src="/assets/artificial-intelligence/treshold-value-3.png" align="left" width="285" height="160" alt=""> | <img src="/assets/artificial-intelligence/treshold-value-4.png" align="right" width="285" height="160" alt="">
 
-If the model predicts 1, but the label is 0, that's a ***false positive***. If the model predicts 0, but the value is 1, we have a ***false negative***.
+If the model predicts 1, but the label is a 0, that's a ***false positive***. If the model predicts 0, but the value is 1, we have a ***false negative***.
 
 *Ref: Web: [MSXDAT262017](https://www.youtube.com/watch?v=1O0_u9WRo-0/) - edX.*
 
