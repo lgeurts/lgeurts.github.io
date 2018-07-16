@@ -159,9 +159,11 @@ When using this model to predict values, the resulting value is classed as 1 or 
 
 Because classification is a supervised learning technique, we withhold some of the test data to validate the model using known labels.
 
-Cases where the model predicts a 1 for a test observation, holding a label value of 1, are considered ***true positives***.
+Cases where the model predicts a 1 for a test observation, while holding a label value of 1, are considered ***true positives***.
 
 Cases where the model predicts 0, and the actual label is 0, are ***true negatives***.
+
+<img src="/assets/artificial-intelligence/treshold-value-3.png" align="left" width="285" height="160" alt=""> | <img src="/assets/artificial-intelligence/treshold-value-4.png" align="right" width="285" height="160" alt="">
 
 *Ref: Web: [MSXDAT262017](https://www.youtube.com/watch?v=1O0_u9WRo-0/) - edX.*
 
