@@ -129,7 +129,7 @@ We can measure the error in the model using ***root-mean-square error*** or (***
 
 Both are absolute measures of error in the model. For example, having an RMSE value of 5 would mean that the standard deviation of error from our test error is 5 calories. An error of 5 calories seems to indicate a reasonably good model, but let's suppose we are predicting how long an exercise session takes. An error of 5 hours would be a very bad model.
 
-You might want to evaluate the model using ***relative metrics*** to indicate a more general level of error as a ***relative value*** between 0 and 1. ***Relative absolute error*** (***RAE***) and ***relative squared error*** (***RSE***) produce metrics where the closer to 0 the error, the better the model.
+You might want to evaluate the model using ***relative metrics***, to indicate a more general level of error as a ***relative value*** between 0 and 1. ***Relative absolute error*** (***RAE***) and ***relative squared error*** (***RSE***) produce metrics where the closer to 0 the error, the better the model.
 
 ***Coefficient of determination*** (***CoDR***) or ***R squared***, is another relative metric, but this time a value closer to 1 indicates a good fit for the model.
 
@@ -166,7 +166,7 @@ Cases where the model predicts 0, and the actual label is 0, are ***true negativ
 :-----------------:|:-----------------:
 <img src="/assets/artificial-intelligence/treshold-value-3.png" align="left" width="285" height="160" alt=""> | <img src="/assets/artificial-intelligence/treshold-value-4.png" align="right" width="285" height="160" alt="">
 
-If the model predicts 1, but the label is a 0, that's a ***false positive***. If the model predicts 0, but the value is 1, we have a ***false negative***.
+If the model predicts 1, but the actual label is a 0, that's a ***false positive***. If the model predicts 0, but the value is 1, we have a ***false negative***.
 
 *Ref: Web: [MSXDAT262017](https://www.youtube.com/watch?v=1O0_u9WRo-0/) - edX.*
 
