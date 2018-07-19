@@ -102,11 +102,11 @@ First we get some pre-liminary data (age: 34, gender: 1, weight: 60, height: 165
 
 In this case we know all features and have a known label value of 231 calories. So we need our algorithm to learn a function, that operates of all the males exercise features to give us a net result of 231.
 
-> * *`f([34, 1, 60, 165, 134, 37, 25]) = 231`*
+* *`f([34, 1, 60, 165, 134, 37, 25]) = 231`*
 
 A sample of one person isn't likely to give a function that generalizes well. So we gather the same data from a large number participants, and then train the model using the bigger set of data. 
 
-> * *`f([X1, X2, X3, X4, X5, X6, X7]) = Y`*
+* *`f([X1, X2, X3, X4, X5, X6, X7]) = Y`*
 
 Now having a new function that can be used to calculate label (Y), we can finally plot the values of (Y) calculated for specific features of (X) values, on a chart:
 
@@ -146,7 +146,7 @@ Example, we'll take a number of patients in a health clinic, gather some persona
 
 We could learn a function that can be applied to the patient features and give us the result 1 for patients that are diabetic:
 
-> * *`f([23, 1, 171, 43.5]) = 1`*
+* *`f([23, 1, 171, 43.5]) = 1`*
 
 and 0 for patients that aren't.
 
