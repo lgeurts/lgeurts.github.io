@@ -170,6 +170,9 @@ If the model predicts 1, but the actual label is a 0, that's a ***false positive
 
 If the model predicts 0, but the value is 1, we have a ***false negative***.
 
+The treshold determines how predicted values are classified. In the case of our diabetes model it could be better to have more false positives, thus reducing the amount of false negatives. This way more people with a chance on diabetes get identified.  
+The number of true/false positives and negatives that are produced by your model, is crucial in evaluating its effectiveness. These are often shown in a so called ***confusion matrix***, which provides the basis for calculating performance metrics for the classifier.
+
 *Ref: Web: [MSXDAT262017](https://www.youtube.com/watch?v=1O0_u9WRo-0/) - edX.*
 
 ### **9. In Practice**
