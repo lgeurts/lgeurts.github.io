@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes on dual-booting Ubuntu Linux with Windows 10 BitLocker and Secure Boot
+title: Notes on dual-booting Ubuntu Linux / Windows 10 with BitLocker and Secure Boot
 read_time: true
 comments: true
 category: Open Source
