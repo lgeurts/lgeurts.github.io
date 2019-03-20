@@ -7,13 +7,12 @@ category: Open Source
 Tags: [ Linux Tutorials ]
 ---
 
+![Boot menul](/assets/windows-linux.png)
+
 These notes are meant to help you setup a dual-booting system with Linux on a computer running Windows 10 with BitLocker Device Encryption, Modern Standby (a.k.a. Fast Boot), and Secure Boot.
 Linux (or another secondary operating system) installation is only covered in brief as these notes will focus on preserving the Windows pre-boot UEFI environment in such a setup.
 
-![Boot menul](/assets/windows-linux.png)
-
-
-***MAKING PREPARATIONS*** 
+****MAKING PREPARATIONS****
 
 Devices shipping with a Trusted Platform Module (TPM) may come with BitLocker Device Encryption enabled by default. As the encryption secret is held by the TPM, you’ll not be prompted for a decryption password on startup and may not even be aware that the device is configured with enhanced security. It’s important to make adequate preparations when making changes to the boot environment on such a setup.
 
