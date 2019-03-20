@@ -11,7 +11,7 @@ Tags: [ Linux Tutorials ]
 
 These notes are meant to help you setup a dual-booting Linux on a computer running Windows 10 PRO with BitLocker Device Encryption, Modern Standby (a.k.a. Fast Boot), and Secure Boot.
 
-Linux installation is only covered in brief as we will focus on preserving the Windows pre-boot UEFI environment in such a setup.
+Linux installation is covered in brief as we will focus on preserving the Windows pre-boot UEFI environment in such a setup.
 
 **MAKING PREPARATIONS**
 
