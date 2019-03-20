@@ -12,7 +12,7 @@ Tags: [ Linux Tutorials ]
 These notes are meant to help you setup a dual-booting system with Linux on a computer running Windows 10 with BitLocker Device Encryption, Modern Standby (a.k.a. Fast Boot), and Secure Boot.
 Linux (or another secondary operating system) installation is only covered in brief as these notes will focus on preserving the Windows pre-boot UEFI environment in such a setup.
 
-***MAKING PREPARATIONS**
+**MAKING PREPARATIONS**
 
 Devices shipping with a Trusted Platform Module (TPM) may come with BitLocker Device Encryption enabled by default. As the encryption secret is held by the TPM, you’ll not be prompted for a decryption password on startup and may not even be aware that the device is configured with enhanced security. It’s important to make adequate preparations when making changes to the boot environment on such a setup.
 
@@ -28,7 +28,7 @@ A good example is [this code](https://blog.ahasayen.com/how-to-backup-bitlocker-
 
 Lastly, you should double-check that you have the latest firmware updates installed — especially your Trusted Platform Module (TPM) firmware. Vendors might not auto-update the TPM using their regular driver and firmware update utilities.
 
-***FREEING UP SPACE ON THE DRIVE***
+**FREEING UP SPACE ON THE DRIVE**
 
 To install a second operating system — whether another copy of Windows, Linux, or something more exotic — you'll need to free up space on your system drive. You can also use a secondary drive, but this is probably not an option for laptop users and small-form-factor devices.
 
@@ -43,7 +43,7 @@ After disabling BitLocker Device Encryption from Windows Settings, you must wait
 
 If you’ve already stored personal data on the drive, you should first backup everything, leave BitLocker Device encryption enabled, and then just resize the encrypted drive and hope for the best. Don’t format or partition the freed up space afterwards, leave this to the Linux installer.
 
-***INSTALLING THE SCEONDARY OS***
+**INSTALLING THE SCEONDARY OS**
 
 Linux installers vary a lot, so I’ll only give some general pointers on the installation process. You shouldn’t need to disable Secure Boot to install a modern Linux distribution. Refer to the documentation for your distribution for specifics. Depending on your device, you may have to boot into your installation media from the Windows Settings app: System and Updates: Recovery: Advanced Startup.
 
