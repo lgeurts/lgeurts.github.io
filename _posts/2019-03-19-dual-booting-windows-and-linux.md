@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes - Dual-booting Linux / Windows 10 (BitLocker /& Secure Boot)
+title: Notes on dual-booting Linux/Windows 10 (BitLocker, Secure Boot)
 read_time: true
 comments: true
 category: Open Source
