@@ -9,7 +9,7 @@ Tags: [ Linux Tutorials ]
 
 ![Boot menul](/assets/windows-linux.png)
 
-These notes are meant to help you setup a dual-booting system on a computer running Windows 10 Professional with BitLocker Device Encryption, Modern Standby (a.k.a. Fast Boot), and Secure Boot.
+These notes are meant to help you setup a dual-booting system on a computer running Windows 10 Professional using BitLocker Device Encryption, Modern Standby (a.k.a. Fast Boot), and Secure Boot.
 
 Linux installation is covered in brief as we will focus on preserving the Windows pre-boot UEFI environment in such a setup.
 
