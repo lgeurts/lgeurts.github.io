@@ -17,6 +17,7 @@ Devices shipping with a Trusted Platform Module (TPM) may come with BitLocker De
 Before proceeding you should backup all important data to an external hard drive or your preferred online backup provider. There is a not insignificant risk of permanently breaking your Windows 10 installation in a non-recoverable fashion as you’ll be making changes to the UEFI partition in your computer.
 
 You should also print a copy of your BitLocker recovery key as it may be needed during this process. This is not your BitLocker PIN or password, but a separate numeric key. You can print your recovery key from Control Panel: System and Security: BitLocker Drive Encryption.
+
 Please note that ***the recovery key changes every time you disable and re-enable BitLocker Device Encryption***. 
 Be sure you always have several copies of the most recent recovery key, or you may loose access to your encrypted data! I'd recommend creating a script that automatically backups your key to a secure place on the cloud. 
 A good example is [this code](https://blog.ahasayen.com/how-to-backup-bitlocker-keys/) from Ammar Hasayen.
