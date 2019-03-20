@@ -55,6 +55,6 @@ Older versions of Windows and some Linux installers would sometimes overwrite th
 
 OS-prober should auto-detect Windows and create a boot menu item for it alongside Linux in GRUB2. Windows Update requires multiple reboots, so you’ll want to configure GRUB to remember your last boot menu selection (GRUB_DEFAULT=saved; GRUB_SAVEDEFAULT=true). This will allow either operating system to trigger multiple reboots to perform updates and have it boot into the correct operating system. It’ll also get you back into the same operating system that you used the last time you booted your system.
 
-****You may be prompted for your BitLocker Recovery key after completing the installation****.
+**You may be prompted for your BitLocker Recovery key after completing the installation**.
 
 I hope you’ll now feel a little bit more prepared to create a dual-booting system with Secure Boot and BitLocker Device Encryption. Things really should just work, but the boot process is delicate so you must take precautions in case you need to restore your system. Good luck!
