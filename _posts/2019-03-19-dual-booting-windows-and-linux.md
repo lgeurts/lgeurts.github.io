@@ -19,7 +19,9 @@ Devices shipping with a Trusted Platform Module (TPM) may come with BitLocker De
 Before proceeding you should backup all important data to an external hard drive or your preferred online backup provider. There is a not insignificant risk of permanently breaking your Windows 10 installation in a non-recoverable fashion as you’ll be making changes to the UEFI partition in your computer.
 
 You should also print a copy of your BitLocker recovery key as it may be needed during this process. This is not your BitLocker PIN or password, but a separate numeric key. You can print your recovery key from Control Panel: System and Security: BitLocker Drive Encryption.
-Please note that ****the recovery key changes every time you disable and re-enable BitLocker Device Encryption****. Be sure you always have several copies of the most recent recovery key, or you may loose access to your encrypted data! I'd recommend creating a script that automatically backups your key to a secure place on the cloud. A good example is [this](https://blog.ahasayen.com/how-to-backup-bitlocker-keys/) code from Ammar Hasayen.
+Please note that ***the recovery key changes every time you disable and re-enable BitLocker Device Encryption***. 
+Be sure you always have several copies of the most recent recovery key, or you may loose access to your encrypted data! I'd recommend creating a script that automatically backups your key to a secure place on the cloud. 
+A good example is [this code](https://blog.ahasayen.com/how-to-backup-bitlocker-keys/) from Ammar Hasayen.
 
 [Download and prepare a Windows 10 Installation Media](https://www.microsoft.com/en-us/software-download/windows10) (e.g. a 16 GiB+ USB stick) for recovery purposes beforehand. Note that you’ll also need a separate Linux installation media.
 
@@ -40,7 +42,7 @@ After disabling BitLocker Device Encryption from Windows Settings, you must wait
 
 If you’ve already stored personal data on the drive, you should first backup everything, leave BitLocker Device encryption enabled, and then just resize the encrypted drive and hope for the best. Don’t format or partition the freed up space afterwards, leave this to the Linux installer.
 
-***• Installing the secondary operating system***
+***• Installing the secondary OS***
 
 Linux installers vary a lot, so I’ll only give some general pointers on the installation process. You shouldn’t need to disable Secure Boot to install a modern Linux distribution. Refer to the documentation for your distribution for specifics. Depending on your device, you may have to boot into your installation media from the Windows Settings app: System and Updates: Recovery: Advanced Startup.
 
