@@ -6,8 +6,6 @@ comments: true
 category: Open Source
 Tags: [ Linux Tutorials ]
 ---
-**Warning**
-------------
 
 These notes are meant to help you setup a dual-booting system with Linux on a computer running Windows 10 with BitLocker Device Encryption, Modern Standby (a.k.a. Fast Boot), and Secure Boot.
 Linux (or another secondary operating system) installation is only covered in brief as these notes will focus on preserving the Windows pre-boot UEFI environment in such a setup.
