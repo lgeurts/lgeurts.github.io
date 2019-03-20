@@ -4,7 +4,7 @@ title: Notes on dual-booting Linux/Windows 10 with BitLocker and Secure Boot
 read_time: true
 comments: true
 category: Secure Computing
-tags: [ Windows Notes ]
+tags: [ Secure Computing ]
 ---
 
 ![Boot menul](/assets/windows-linux.png)
