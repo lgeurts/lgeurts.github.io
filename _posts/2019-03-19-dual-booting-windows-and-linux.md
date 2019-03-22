@@ -15,7 +15,7 @@ These **notes** are meant to help you setup a dual-booting system on a computer 
 
 **MAKING PREPARATIONS**
 
-First, before proceeding you should backup all important data to an external hard drive or your preferred online backup provider. There is a not insignificant risk of permanently breaking your Windows 10 installation in a non-recoverable fashion as you’ll be making changes to the UEFI partition in your computer.
+First, before proceeding you should **BACKUP** all important data to an external disk or your preferred online backup provider. There is a not insignificant risk of permanently breaking your Windows 10 installation in a non-recoverable fashion as you’ll be making changes to the UEFI partition in your computer.
 
 You should also print a copy of your BitLocker recovery key as it may be needed during this process. This is not your BitLocker PIN or password, but a separate numeric key. You can print your recovery key from Control Panel: System and Security: BitLocker Drive Encryption.
 
