@@ -15,7 +15,8 @@ These **notes** are meant to help you setup a dual-booting system on a computer 
 
 **MAKING PREPARATIONS**
 
-Devices with a Trusted Platform Module (TPM) often ship with BitLocker Device Encryption enabled by default. As the encryption secret is held by the TPM, you’ll not be prompted for a decryption password on startup and may not even be aware that the device is configured with enhanced security. It’s important to make adequate preparations when making changes to the boot environment on such a setup.
+Devices with a Trusted Platform Module (TPM) often ship with BitLocker Device Encryption enabled by default. 
+As the encryption secret is held by the TPM, you’ll not be prompted for a decryption password on startup and may not even be aware that the device is configured with enhanced security. It’s important to make adequate preparations when making changes to the boot environment on such a setup.
 
 Before proceeding you should backup all important data to an external hard drive or your preferred online backup provider. There is a not insignificant risk of permanently breaking your Windows 10 installation in a non-recoverable fashion as you’ll be making changes to the UEFI partition in your computer.
 
