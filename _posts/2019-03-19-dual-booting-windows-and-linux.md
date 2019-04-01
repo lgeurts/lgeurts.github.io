@@ -9,17 +9,15 @@ tags: [ Secure Computing ]
 
 ![Boot menul](/assets/windows-linux.png)
 
-These notes are meant to help you setup a dual-booting system on a computer running Windows 10 Professional using BitLocker Device Encryption, Modern Standby (a.k.a. Fast Boot), and Secure Boot.
+These **notes** are meant to help you setup a dual-booting system on a computer running **Windows 10** Professional using BitLocker Device Encryption, Modern Standby (a.k.a. Fast Boot), and Secure Boot.
 
-Linux installation is covered briefly as we will focus on preserving the Windows pre-boot UEFI environment in such a setup.
+**Linux** installation is covered briefly as we will focus on preserving the Windows pre-boot UEFI environment in such a setup.
 
 **MAKING PREPARATIONS**
 
-Devices shipping with a Trusted Platform Module (TPM) may come with BitLocker Device Encryption enabled by default. As the encryption secret is held by the TPM, you’ll not be prompted for a decryption password on startup and may not even be aware that the device is configured with enhanced security. It’s important to make adequate preparations when making changes to the boot environment on such a setup.
+Before proceeding you should **backup all** important data to an external disk or your preferred online backup provider. Remember... there is a not insignificant risk of permanently breaking the Windows 10 installation in a non-recoverable fashion as you’ll be making changes to the UEFI partition in your computer.
 
-Before proceeding you should backup all important data to an external hard drive or your preferred online backup provider. There is a not insignificant risk of permanently breaking your Windows 10 installation in a non-recoverable fashion as you’ll be making changes to the UEFI partition in your computer.
-
-You should also print a copy of your BitLocker recovery key as it may be needed during this process. This is not your BitLocker PIN or password, but a separate numeric key. You can print your recovery key from Control Panel: System and Security: BitLocker Drive Encryption.
+You should also print a copy of your BitLocker recovery key as it may be needed during this process. This is not your **BitLocker PIN** or **password**, but a separate numeric key. Print this key from Control Panel: System and Security: BitLocker Drive Encryption.
 
 Please note that ***the recovery key changes every time you disable and re-enable BitLocker Device Encryption***.
 Be sure you always have several copies of the most recent recovery key, or you may loose access to your encrypted data! I'd recommend creating a script that automatically backups your key to a secure place on the cloud.
