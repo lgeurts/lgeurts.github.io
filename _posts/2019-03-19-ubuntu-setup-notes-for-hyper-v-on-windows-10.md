@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes on configuring an Ubuntu 18.04.2 LTS (Bionic Beaver) VM for software developmnent
+title: Notes on configuring an Ubuntu 18.04.2 LTS VM for software development
 read_time: true
 comments: true
 category: Open Source 
