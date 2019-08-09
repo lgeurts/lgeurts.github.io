@@ -17,4 +17,4 @@ v1.0
 
 Changes since the last version:
 
-These **notes** are meant to help you configure a Bionic Beaver based development environment using Windows 10 Hyper-V enhanced mode.
+This guide was created to help you configure a Bionic Beaver based development environment (a la Sputnik) using Windows 10 Hyper-V enhanced mode.
