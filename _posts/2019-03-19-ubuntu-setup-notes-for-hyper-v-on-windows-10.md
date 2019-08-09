@@ -15,4 +15,6 @@ tags: [ Developer Tools, Linux Tutorials ]
 v1.0
 > * 08/09/19 Initial setup.
 
+Changes since the last version:
+
 These **notes** are meant to help you configure a Bionic Beaver based development environment using Windows 10 Hyper-V enhanced mode.
