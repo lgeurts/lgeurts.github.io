@@ -7,4 +7,4 @@ category: Open Source
 tags: [ Software Engineering ]
 ---
 
-![devops](/assets/devops-cartoon.jpg)
+![](/assets/devops-cartoon.jpg)
