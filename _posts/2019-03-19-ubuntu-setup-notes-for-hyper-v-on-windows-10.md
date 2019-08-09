@@ -17,6 +17,6 @@ v1.0
 
 Changes since the last version:
 
-This guide was written to help you configure a Bionic Beaver based environment resembling [Project Sputnik](https://bartongeorge.io/2018/11/29/sputnik-turns-6-presenting-the-folks-behind-it/) using Windows 10 Hyper-V enhanced mode.
+This guide was written to help you configure a Bionic Beaver based environment, resembling [Project Sputnik](https://bartongeorge.io/2018/11/29/sputnik-turns-6-presenting-the-folks-behind-it/) in Windows 10 Hyper-V enhanced mode.
 
 **TO BE CONTINUED**
