@@ -7,6 +7,6 @@ category: Open Source
 tags: [ Developer Tools, Linux Tutorials ]
 ---
 
-![Sputnik](/assets/)
+![Project Sputnik](/assets/sputnik.png)
 
 These **notes** are meant to help you configure a Bionic Beaver based development environment using Windows 10 Hyper-V enhanced mode.
