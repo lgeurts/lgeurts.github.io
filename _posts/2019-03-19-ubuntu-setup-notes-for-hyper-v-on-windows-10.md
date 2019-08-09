@@ -18,6 +18,6 @@ v1.0
 Changes since the last version:
 
 This guide was written to help you configure a Bionic Beaver based environment in Windows 10 Hyper-V enhanced mode.
-Much of this content will link to Dells [Sputnik](https://bartongeorge.io/2018/11/29/sputnik-turns-6-presenting-the-folks-behind-it/) project, which is now in its 7th edition and available on for example the XPS 13 Developer Edition laptop and Precision workstation line.
+Much of my content links to Dells [Sputnik](https://bartongeorge.io/2018/11/29/sputnik-turns-6-presenting-the-folks-behind-it/) project, which is now in its 7th edition and available on for example the XPS 13 Developer Edition laptop and Precision workstation line.
 
 **TO BE CONTINUED**
