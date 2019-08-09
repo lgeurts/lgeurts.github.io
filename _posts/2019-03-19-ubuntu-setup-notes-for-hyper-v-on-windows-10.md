@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to configure a Ubuntu 18.04 LTS VM for software development in Hyper-V
+title: How to configure a Ubuntu 18.04 LTS VM in Hyper-V for software development
 read_time: true
 comments: true
 category: Open Source 
