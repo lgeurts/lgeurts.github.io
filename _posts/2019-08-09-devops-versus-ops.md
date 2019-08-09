@@ -4,7 +4,7 @@ title: DevOps, what's the fuss?
 read_time: true  
 comments: true
 category: Open Source
-tags: [ Humor ] 
+tags: [ Software Engineering ]
 ---
 
-![devops](/assets/devops-cartoon.png)
+![devops](/assets/devops-cartoon.jpg)
