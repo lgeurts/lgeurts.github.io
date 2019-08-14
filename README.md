@@ -7,6 +7,3 @@ This is the personal website of Luc Geurts hosted by [GitHub Pages](http://pages
 Credits to [Kyle Stratis](https://github.com/kylestratis) for the sidebar opacity trick and to [Carlos Becker](https://github.com/caarlos0/caarlos0.github.com) for his article: 'Jekyll: Reading time without plugins'. Used his formula to create a somewhat different solution (no separate .html file).
 
 <3
-
-
-https://img.shields.io/website-up-down-green-red/http/shields.io.svg?label=my-website
