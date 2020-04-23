@@ -1,6 +1,6 @@
 # Read Me
 
-[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/lgeurts/lgeurts.github.io) [![Project Status: Active](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active) [![Website](https://img.shields.io/website/https/lgeurts.github.io?down_color=red&down_message=Website%20down%21&up_message=Website%20up)](https://lgeurts.github.io)
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/lgeurts/lgeurts.github.io/blob/master/LICENSE.md) [![Project Status: Active](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active) [![Website](https://img.shields.io/website/https/lgeurts.github.io?down_color=red&down_message=Website%20down%21&up_message=Website%20up)](https://lgeurts.github.io)
 
 This is the personal website of Luc Geurts hosted by [GitHub Pages](http://pages.github.com). You can find it at [lgeurts.github.io](https://lgeurts.github.io).
 
