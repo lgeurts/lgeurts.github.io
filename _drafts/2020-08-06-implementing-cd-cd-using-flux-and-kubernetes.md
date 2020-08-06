@@ -7,17 +7,19 @@ category: Education & Training
 tags: [ GitOps ]
 ---
 
+These notes were briefly scrambled on a piece of paper while setting up Flux. Do not expect a full tutorial. Instead you will mostly see code snippets used during the process.
+
 ------------------------------------------------------------------------------
 
 ## **<u>Table of Contents</u>**
 
-> 1. What is Machine Learning?
-> * 1.1 Functions
-> * 1.2 Algorithms - Grouped by Learning Style
-> * 1.3 Supervised v. Unsupervised
-> 2. Techniques
-> * 2.1 Regression
-> * 2.2 Classification
+> 1. What is Flux?
+> 2. Installing and Configuring Flux with GitHub
+> * 2.1 Deploying Flux into a Cluster
+> * 2.2 Verifying the Deployment and obtaining the RSA Key
+> * 2.3 Implementing the RSA Key in GitHub
+> * 2.4 Using fluxctl sync to synchronize the Cluster with a repository
+> 3. 
 > 9. In Practice
 
 ------------------------------------------------------------------------------
