@@ -7,7 +7,7 @@ category: Education & Training
 tags: [ GitOps ]
 ---
 
-These notes were briefly scrambled on a piece of paper while setting up Flux. Do not expect a full tutorial. Instead you will mostly see code snippets used during the process.
+These notes were briefly scrambled on a piece of paper while setting up Flux. This is not a full tutorial, instead you will mostly see code snippets used during setup.
 
 ------------------------------------------------------------------------------
 
