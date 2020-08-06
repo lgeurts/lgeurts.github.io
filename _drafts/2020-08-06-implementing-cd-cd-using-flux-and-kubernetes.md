@@ -19,8 +19,16 @@ These notes were briefly scrambled on a piece of paper while setting up Flux. Th
 > * 2.2 Verifying the Deployment and obtaining the RSA Key
 > * 2.3 Implementing the RSA Key in GitHub
 > * 2.4 Using fluxctl sync to synchronize the Cluster with a repository
-> 3. 
-> 9. In Practice
+> 3. Operating and troubleshooting Flux in Kubernetes
+> * 3.1 Analyzing the YAML used to install Flux
+> * 3.2 Displaying the log produced by the fluxd daemon
+> * 3.3 Displaying details about the running flux pod
+> 4. Using Flux & Manifests with Kubernetes clusters
+> * 4.1 Setting up a GitHub repo with the required YAML
+> * 4.2 Installing and configuring Fluxd
+> * 4.2 Syncing the Cluster with the repository and check the results
+> * 4.3 Verifying the image tag names provided in Docker Hub and use automate and release commands to deploy specific containers
+> 5. Deployinging applications with GitHub Actions Workflow and Flux
 
 ------------------------------------------------------------------------------
 
