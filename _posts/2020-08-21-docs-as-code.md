@@ -15,7 +15,7 @@ tags: [ Technical Writing ]
 - Test it, and then publish the deliverable.
 
 *In technical writing terms, it can look something like:*
-- Store your content source in a version control system like Github (typically in format like Markdown),
+- Store your content source in a version control system like Github (typically in a format like Markdown),
 - Using a static site generator like Middleman, Gatsby, Hugo, Jekyll, VuePress, MKDocs etc.,
 - Produce a documentation site, running some validation checks (like broken links) and then publish it to your hosting provider.
 
