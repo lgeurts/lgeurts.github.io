@@ -34,7 +34,7 @@ A documentation file on the other hand will require extra elements, such as:
 
 In terms of source code files, compilers are pretty mature and stable. If there is a syntax error (not functional errors) the compiler will catch them immediately.
 
-In contrast, converting a Markdown file (using a static code generator parser) into a final output file like HTML is error-prone. More than that there is no defined syntax for formats like Markdown, merely various flavours of it.
+In contrast, converting Markdown (using a static code generator parser) into a final output file like HTML is error-prone. More than that, there is no defined syntax for formats like Markdown, merely various flavours of it (yes, you too GitHub).
 
 **Challenges I encountered when using this approach:**
 
