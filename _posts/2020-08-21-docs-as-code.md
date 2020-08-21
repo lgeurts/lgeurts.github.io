@@ -9,7 +9,7 @@ tags: [ Technical Writing ]
 
 ### **Hey, what do you mean with "Docs-as-Code"?**
 
-#### *"Docs-as-Code” is basically an approach similar to the way software engineers:*
+#### *"Docs-as-Code” is basically just an approach similar to the way software engineers:*
 - Write code,
 - Build an executable,
 - Test it, and then publish the deliverable.
