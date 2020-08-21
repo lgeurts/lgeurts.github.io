@@ -37,10 +37,10 @@ In contrast, converting Markdown (using a static code generator parser) to HTML 
 ### **Challenges encountered when using this approach:**
 
 - Simple fixes are complex,
-- Editorial Workflow and Review processes,
+- Editorial workflow and review processes,
 - Image management and preview, 
-- Category Management,
-- Search Implementation,
+- Category management,
+- Search implementation,
 - When devs need to write technical docs, things can go frantic.
 
 ### **Is it worth the trouble?**
