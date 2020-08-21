@@ -1,6 +1,6 @@
 ---
 layout: post
-title:“ Docs-as-Code", hype or not? 
+title: “Docs-as-Code", hype or not? 
 read_time: true  
 comments: false
 category: 
