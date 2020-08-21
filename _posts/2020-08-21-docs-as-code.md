@@ -32,9 +32,9 @@ A documentation file on the other hand will require extra elements, such as:
 - Who is going to upload what,
 - Different rich styles like Tables, Tabs, Source code viewer, etc.
 
-In terms of source code files, compilers are pretty mature and stable. If there is a syntax error (not functional errors) the compiler will catch them immediately.
+In terms of source code files, compilers are pretty mature and stable. If there are syntax errors (not functional errors) the compiler will catch them immediately.
 
-In contrast, converting Markdown (using a static code generator parser) to HTML is error-prone. More than that, there is no defined syntax for formats like Markdown, merely various flavours of it (yes, you too GitHub).
+In contrast, converting Markdown (using a static code generator parser) to HTML is error-prone. There is no defined syntax for formats like Markdown, merely various flavours of it (yes, you too GitHub!).
 
 **Challenges I encountered when using this approach:**
 
