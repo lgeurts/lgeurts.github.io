@@ -28,8 +28,8 @@ For me, a source code file and a documentation file (even if it’s written in p
 A source code file is in plain text. A compiler (ex: C#, Java) reads the file and converts it into a machine-readable format (like an executable file).
 
 A documentation file on the other hand will require extra elements, such as:
-- A link to an image (raising questions like, Where will it be hosted)?, 
-- Who is going to upload it?,
+- A link to an image (Where will it be hosted), 
+- Who is going to upload what,
 - Different rich styles like Tables, Tabs, Source code viewer, etc.
 
 In terms of source code files, compilers are pretty mature and stable. If there is a syntax error (not functional errors) the compiler will catch them immediately.
@@ -43,5 +43,5 @@ In contrast, converting a Markdown file (using a static code generator parser) i
 - Image management and preview, 
 - Category Management,
 - Search Implementation,
-- Developers are not writers ...
+- Developers are usually not writers ...
 
