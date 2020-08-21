@@ -36,12 +36,13 @@ In terms of source code files, compilers are pretty mature and stable. If there 
 
 In contrast, converting a Markdown file (using a static code generator parser) into a final output file like HTML is error-prone. More than that there is no defined syntax for formats like Markdown, merely various flavours of it.
 
-**Challenges when using this approach:**
+**Challenges I encountered when using this approach:**
 
 - Simple fixes are complex,
 - Editorial Workflow and Review processes,
 - Image management and preview, 
 - Category Management,
 - Search Implementation,
-- Developers are usually not writers ...
-
+- Developers are usually not writers. They need education.
+ 
+ 
