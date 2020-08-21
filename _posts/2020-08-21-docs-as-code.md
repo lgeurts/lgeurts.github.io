@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Docs-as-Code, should I use it? 
+title: Docs-as-Code, my thoughts, should I use it? 
 read_time: true  
 comments: false
 category: 
@@ -11,7 +11,6 @@ tags: [ GitHub Projects ]
 - Write code,
 - Build an executable,
 - Test it, and then publish the deliverable.
-- In technical writing terms, it can look something like:
 
 *In technical writing terms, it can look something like:*
 - Store your content source in a version control system like Github (typically in format like Markdown),
@@ -20,14 +19,25 @@ tags: [ GitHub Projects ]
 
 *So should you treat documentation the same as for example a source file?*
 
-For me, a source code file and a documentation file (even if it’s written in plain Markdown format) are not the same.
+For me, a source code file and a documentation file (even if it’s written in plain MD) are not the same.
 
 A source code file is in plain text. A compiler (ex: C#, Java) reads the file and converts it into a machine-readable format (like an executable file).
 
 A documentation file on the other hand will require extra elements, such as:
-- A link to an image (raising questions like, Where will it be hosted?, 
-- Who is going to upload it?) and different rich styles like Tables, Tabs, Source code viewer, etc.
+- A link to an image (raising questions like, Where will it be hosted)?, 
+- Who is going to upload it?,
+- Different rich styles like Tables, Tabs, Source code viewer, etc.
 
 In terms of source code files, compilers are pretty mature and stable. If there is a syntax error (not functional errors) the compiler will catch them immediately.
 
 In contrast, converting a Markdown file (using a static code generator parser) into a final output file like HTML is error-prone. More than that there is no defined syntax for formats like Markdown, merely various flavours of it.
+
+*challenges when using a docs like code approach:*
+
+- Simple fixes are complex,
+- Editorial Workflow and Review processes,
+- Image management and preview, 
+- Category Management,
+- Search Implementation,
+- Developers are not writers ...
+
