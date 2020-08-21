@@ -7,7 +7,7 @@ category:
 tags: [ Technical Writing ]
 ---
 
-**What do you mean with "Docs as Code"?**
+### **What do you mean with "Docs as Code"?**
 
 *"Docs as code” is basically an approach similar to the way software engineers:*
 - Write code,
