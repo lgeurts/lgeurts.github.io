@@ -19,7 +19,7 @@ tags: [ Technical Writing ]
 - Using a static site generator like Middleman, Gatsby, Hugo, Jekyll, VuePress, MKDocs etc.,
 - Produce a documentation site, running some validation checks (like broken links) and then publish it to your hosting provider.
 
-**So should I treat documentation the same as for example source files?**
+### **So should I treat documentation the same as for example source files?**
 
 Source code and documentation files (even if written in MD) are not the same.
 
@@ -34,7 +34,7 @@ In terms of source code files, compilers are pretty mature and stable. If there 
 
 In contrast, converting Markdown (using a static code generator parser) to HTML is prone to errors. There is no defined syntax for formats like MD, merely various flavours of it.
 
-**Challenges encountered when using this approach:**
+### **Challenges encountered when using this approach:**
 
 - Simple fixes are complex,
 - Editorial Workflow and Review processes,
@@ -43,15 +43,15 @@ In contrast, converting Markdown (using a static code generator parser) to HTML 
 - Search Implementation,
 - When devs need to write technical docs, things can go frantic.
 
-**Is it worth the trouble?**
+### **Is it worth the trouble?**
 
 Docs differ significantly when compared to source code. In theory, it might look facinating to go down the “Docs-as-Code” path. 
 
 In practice it can get quite rough, especially when you are a single guy creating software documentation in a few GitHub repos, or writing some technical posts. If that's the case, I suggest skipping or you should like self-punishment.
 
-Companies with dedicated teams should probably look at tools like [docToolChain](https://doctoolchain.github.io/docToolchain/) which is an implementation of the docs-as-code approach for software architecture. 
+Companies with dedicated teams should probably look at tools like for example [docToolChain](https://doctoolchain.github.io/docToolchain/) which is an implementation of the docs-as-code approach for software architecture. 
 
-**Further reading (English books)**
+### **Further reading (English books)**
 
 * [DOCS-LIKE-CODE by Anne Gentle](https://www.amazon.de/dp/B0784ZJWSR)
 * [Modern Technical Writing by Andrew Etter](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
