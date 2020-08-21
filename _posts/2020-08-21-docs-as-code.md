@@ -19,7 +19,7 @@ tags: [ Technical Writing ]
 - Using a static site generator like Middleman, Gatsby, Hugo, Jekyll, VuePress, MKDocs etc.,
 - Produce a documentation site, running some validation checks (like broken links) and then publish it to your hosting provider.
 
-**So should I treat documentation the same as for example a source file?**
+**So should I treat documentation the same as for example source files?**
 
 Source code and documentation files (even if written in MD) are not the same.
 
