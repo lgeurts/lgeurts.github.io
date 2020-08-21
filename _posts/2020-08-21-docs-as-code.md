@@ -4,7 +4,7 @@ title: Docs-as-Code, should I use it?
 read_time: true  
 comments: false
 category: 
-tags: [  ]
+tags: [ GitHub Projects ]
 ---
 
 *"Docs as code” is basically an approach similar to the way software engineers:*
