@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Docs-as-Code, my thoughts, when to use it 
+title: Docs-as-Code, when to use it 
 read_time: true  
 comments: false
 category: 
