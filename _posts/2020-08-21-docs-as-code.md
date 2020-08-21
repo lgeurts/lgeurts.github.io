@@ -54,5 +54,6 @@ In addition, there is an [open source tool-chain](https://doctoolchain.github.io
 **Further reading**
 
 [DOCS-LIKE-CODE by Anne Gentle](https://www.amazon.de/dp/B0784ZJWSR)
+
 [Modern Technical Writing by Andrew Etter](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 
