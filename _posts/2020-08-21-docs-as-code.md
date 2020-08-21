@@ -19,7 +19,7 @@ tags: [ GitHub Projects ]
 - Using a static site generator like Middleman, Gatsby, Hugo, Jekyll, VuePress, MKDocs etc.,
 - Produce a documentation site, running some validation checks (like broken links) and then publish it to your hosting provider.
 
-***Questions***
+**Questions**
 
 *So should you treat documentation the same as for example a source file?*
 
@@ -36,7 +36,7 @@ In terms of source code files, compilers are pretty mature and stable. If there 
 
 In contrast, converting a Markdown file (using a static code generator parser) into a final output file like HTML is error-prone. More than that there is no defined syntax for formats like Markdown, merely various flavours of it.
 
-***Challenges when using this approach:***
+**Challenges when using this approach:**
 
 - Simple fixes are complex,
 - Editorial Workflow and Review processes,
