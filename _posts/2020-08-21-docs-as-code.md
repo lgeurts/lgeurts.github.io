@@ -19,7 +19,7 @@ tags: [ Technical Writing ]
 - Using a static site generator like Middleman, Gatsby, Hugo, Jekyll, VuePress, MKDocs etc.,
 - Produce a documentation site, running some validation checks (like broken links) and then publish it to your hosting provider.
 
-### **So should I treat documentation the same as for example source files?**
+### **Should I treat documentation the same as for example source files?**
 
 Source code and documentation files (even if written in MD) are not the same.
 
@@ -49,7 +49,7 @@ Docs differ significantly when compared to source code. In theory, it might look
 
 In practice it can get quite rough, especially when you are a single guy creating software documentation in a few GitHub repos, or writing some technical posts. If that's the case, I suggest skipping or you should like self-punishment.
 
-Companies with dedicated teams should probably look at tools like for example [docToolChain](https://doctoolchain.github.io/docToolchain/) which is an implementation of the docs-as-code approach for software architecture. 
+Companies with dedicated teams should probably look at tools like for example [docToolChain](https://doctoolchain.github.io/docToolchain/). The basis of docToolchain is the philosophy that software documentation should be treated in the same way as code together with the arc42 template for software architecture. which is an implementation of the Docs-as-Code approach for software architecture. 
 
 ### **Further reading (English books)**
 
