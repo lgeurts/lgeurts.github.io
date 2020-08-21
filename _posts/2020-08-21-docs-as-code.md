@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Docs-as-Code, my thoughts, why I use it 
+title: Docs-as-Code, my thoughts, when to use it 
 read_time: true  
 comments: false
 category: 
@@ -19,7 +19,7 @@ tags: [ Technical Writing ]
 - Using a static site generator like Middleman, Gatsby, Hugo, Jekyll, VuePress, MKDocs etc.,
 - Produce a documentation site, running some validation checks (like broken links) and then publish it to your hosting provider.
 
-**So should you treat documentation the same as for example a source file?**
+**So should I treat documentation the same as for example a source file?**
 
 Source code and documentation files (even if written in MD) are not the same.
 
@@ -34,7 +34,7 @@ In terms of source code files, compilers are pretty mature and stable. If there 
 
 In contrast, converting Markdown (using a static code generator parser) to HTML is prone to errors. There is no defined syntax for formats like MD, merely various flavours of it.
 
-**Challenges I encountered when using this approach:**
+**Challenges encountered when using this approach:**
 
 - Simple fixes are complex,
 - Editorial Workflow and Review processes,
@@ -43,7 +43,7 @@ In contrast, converting Markdown (using a static code generator parser) to HTML 
 - Search Implementation,
 - When devs need to write technical docs, things can go frantic.
 
-**Is it worth it?**
+**Is it worth the trouble?**
 
 Docs differ significantly when compared to source code. In theory, it might look facinating to go down the “docs-as-code” approach, but in practice it can get quite complex, especially when you are just creating software documentation in a few GitHub repos, or writing technical posts. 
 
