@@ -34,7 +34,7 @@ A documentation file on the other hand will require extra elements, such as:
 
 In terms of source code files, compilers are pretty mature and stable. If there are syntax errors (not functional errors) the compiler will catch them immediately.
 
-In contrast, converting Markdown (using a static code generator parser) to HTML is error-prone. There is no defined syntax for formats like for example Markdown, merely various flavours of it (yes, you are guilty too GitHub!).
+In contrast, converting Markdown (using a static code generator parser) to HTML is error-prone. There is no defined syntax for formats like for example MD, merely various flavours of it (yes, you are guilty too GitHub!).
 
 **Challenges I encountered when using this approach:**
 
@@ -51,5 +51,4 @@ Docs differ significantly when compared to source code. In theory, it might look
 
 In addition, there is an [open source tool-chain](https://doctoolchain.github.io/docToolchain/) which shows how the docs-as-code approach can be implemented.
 
-docToolchain
- 
+
