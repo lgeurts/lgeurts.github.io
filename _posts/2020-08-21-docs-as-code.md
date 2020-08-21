@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Docs-as-Code", hype or not? 
+title: Docs-as-Code, should I use it? 
 read_time: true  
 comments: false
 category: 
@@ -8,18 +8,17 @@ tags: [  ]
 ---
 
 *"Docs as code” is basically an approach similar to the way software engineers:*
-
 - Write code,
 - Build an executable,
 - Test it, and then publish the deliverable.
 - In technical writing terms, it can look something like:
 
-In technical writing terms, it can look something like:
+*In technical writing terms, it can look something like:*
 - Store your content source in a version control system like Github (typically in format like Markdown),
 - Use a static site generator like Middleman, Gatsby, Hugo, Jekyll, VuePress, MKDocs etc.,
 - Produce a documentation site, running some validation checks (like broken links) and then publish it to your hosting provider.
 
-So should you treat documentation the same as for example a source file?
+*So should you treat documentation the same as for example a source file?*
 For me, a source code file and a documentation file (even if it’s written in plain Markdown format) are not the same.
 
 A source code file is in plain text. A compiler (ex: C#, Java) reads the file and converts it into a machine-readable format (like an executable file).
