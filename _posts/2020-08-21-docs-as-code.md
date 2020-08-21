@@ -13,6 +13,7 @@ tags: [  ]
 - Build an executable,
 - Test it, and then publish the deliverable.
 - In technical writing terms, it can look something like:
+
 In technical writing terms, it can look something like:
 - Store your content source in a version control system like Github (typically in format like Markdown),
 - Use a static site generator like Middleman, Gatsby, Hugo, Docusaurus, Jekyll, VuePress, MKDocs etc.,
