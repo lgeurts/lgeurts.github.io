@@ -7,7 +7,7 @@ category:
 tags: [  ]
 ---
 
-"Docs as code” is basically an approach similar to the way software engineers:
+**"Docs as code” is basically an approach similar to the way software engineers:**
 
 - Write code,
 - Build an executable,
