@@ -7,7 +7,7 @@ category: Education & Training
 tags: [ Technical Writing ]
 ---
 
-### **What do you mean with "Docs-as-Code"?**
+### **Hey, what do you mean with "Docs-as-Code"?**
 
 #### *"Docs-as-Code” is basically an approach similar to the way software engineers:*
 - Write code,
