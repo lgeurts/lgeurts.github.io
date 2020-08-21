@@ -7,9 +7,9 @@ category: Education & Training
 tags: [ Technical Writing ]
 ---
 
-### **What do you mean with "Docs as Code"?**
+### **What do you mean with "Docs-as-Code"?**
 
-#### *"Docs as code” is basically an approach similar to the way software engineers:*
+#### *"Docs-as-Code” is basically an approach similar to the way software engineers:*
 - Write code,
 - Build an executable,
 - Test it, and then publish the deliverable.
@@ -56,4 +56,4 @@ Companies with dedicated teams should probably look at tools like for example [d
 * [Docs Like Code (English Edition) Kindle Edition by Anne Gentle](https://www.amazon.de/dp/B0784ZJWSR)
 * [Modern Technical Writing by Andrew Etter](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 
-**Note:** the off-shore company I currently work for has implemented Docs as Code. Will keep you updated on the progress.
+**Note:** the off-shore company I currently work for has implemented Docs-as-Code. Will keep you updated on the progress.
