@@ -16,7 +16,7 @@ tags: [  ]
 
 In technical writing terms, it can look something like:
 - Store your content source in a version control system like Github (typically in format like Markdown),
-- Use a static site generator like Middleman, Gatsby, Hugo, Docusaurus, Jekyll, VuePress, MKDocs etc.,
+- Use a static site generator like Middleman, Gatsby, Hugo, Jekyll, VuePress, MKDocs etc.,
 - Produce a documentation site, running some validation checks (like broken links) and then publish it to your hosting provider.
 
 So should you treat documentation the same as for example a source file?
