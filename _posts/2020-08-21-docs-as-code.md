@@ -43,11 +43,13 @@ In contrast, converting Markdown (using a static code generator parser) to HTML 
 - Image management and preview, 
 - Category Management,
 - Search Implementation,
-- Developers are usually not writers. They need education.
+- When devs need to write technical docs, things can go frantic.
 
 **Is it worth it?**
 
-Docs differ significantly when compared to source code. In theory, it might look facinating to go down the “docs-as-code” approach, but in practice it can get quite complex, especially when you are just a single freelancer like me who only uses it for creating documentation in a few GitHub repos, or writing posts. Companies that wnat to make use of the concept shoul look at tools like [docToolChain](https://doctoolchain.github.io/docToolchain/) which is an implementation of the docs-as-code approach for software architecture.
+Docs differ significantly when compared to source code. In theory, it might look facinating to go down the “docs-as-code” approach, but in practice it can get quite complex, especially when you are just creating software documentation in a few GitHub repos, or writing technical posts. 
+
+Companies that wnat to make use of the concept should look at tools like [docToolChain](https://doctoolchain.github.io/docToolchain/) which is an implementation of the docs-as-code approach for software architecture.
 
 **Further reading**
 
