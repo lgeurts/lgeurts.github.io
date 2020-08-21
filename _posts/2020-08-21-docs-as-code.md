@@ -51,4 +51,8 @@ Docs differ significantly when compared to source code. In theory, it might look
 
 In addition, there is an [open source tool-chain](https://doctoolchain.github.io/docToolchain/) which shows how the docs-as-code approach can be implemented.
 
+**Further reading**
+
+[DOCS-LIKE-CODE by Anne Gentle](https://www.amazon.de/dp/B0784ZJWSR}
+[Modern Technical Writing by Andrew Etter](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 
