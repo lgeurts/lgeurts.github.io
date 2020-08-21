@@ -47,9 +47,9 @@ In contrast, converting Markdown (using a static code generator parser) to HTML 
 
 Docs differ significantly when compared to source code. In theory, it might look facinating to go down the “Docs-as-Code” path. 
 
-In practice it can get quite rough, epecially when you are just creating software documentation in a few GitHub repos, or writing technical posts. If that's the case I suggest skipping or you should like self-punishment.
+In practice it can get quite rough, especially when you are a single guy creating software documentation in a few GitHub repos, or writing some technical posts. If that's the case, I suggest skipping or you should like self-punishment.
 
-Companies that wnat to make use of the concept should look at tools like [docToolChain](https://doctoolchain.github.io/docToolchain/) which is an implementation of the docs-as-code approach for software architecture.
+Companies with dedicated teams should probably look at tools like [docToolChain](https://doctoolchain.github.io/docToolchain/) which is an implementation of the docs-as-code approach for software architecture. 
 
 **Further reading (English books)**
 
