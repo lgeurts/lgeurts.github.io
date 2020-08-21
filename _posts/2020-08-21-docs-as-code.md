@@ -28,7 +28,7 @@ For me, a source code file and a documentation file (even if it’s written in p
 A source code file is in plain text. A compiler (ex: C#, Java) reads the file and converts it into a machine-readable format (like an executable file).
 
 A documentation file on the other hand will require extra elements, such as:
-- A link to an image (Where will it be hosted), 
+- A link to an image (where will it be hosted), 
 - Who is going to upload what,
 - Different rich styles like Tables, Tabs, Source code viewer, etc.
 
