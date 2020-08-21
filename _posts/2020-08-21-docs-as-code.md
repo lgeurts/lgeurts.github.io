@@ -7,6 +7,7 @@ category:
 tags: [ GitHub Projects ]
 ---
 
+***What do you mean with Docs as Code?***
 *"Docs as code” is basically an approach similar to the way software engineers:*
 - Write code,
 - Build an executable,
@@ -17,6 +18,7 @@ tags: [ GitHub Projects ]
 - Using a static site generator like Middleman, Gatsby, Hugo, Jekyll, VuePress, MKDocs etc.,
 - Produce a documentation site, running some validation checks (like broken links) and then publish it to your hosting provider.
 
+***Questions***
 *So should you treat documentation the same as for example a source file?*
 
 For me, a source code file and a documentation file (even if it’s written in plain MD) are not the same.
@@ -32,7 +34,7 @@ In terms of source code files, compilers are pretty mature and stable. If there 
 
 In contrast, converting a Markdown file (using a static code generator parser) into a final output file like HTML is error-prone. More than that there is no defined syntax for formats like Markdown, merely various flavours of it.
 
-*challenges when using a docs like code approach:*
+***Challenges when using this approach:***
 
 - Simple fixes are complex,
 - Editorial Workflow and Review processes,
