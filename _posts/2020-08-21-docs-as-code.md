@@ -3,7 +3,7 @@ layout: post
 title: Docs-as-Code, when to use it 
 read_time: true  
 comments: false
-category: 
+category: Education & Training
 tags: [ Technical Writing ]
 ---
 
