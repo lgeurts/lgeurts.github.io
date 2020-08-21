@@ -47,13 +47,12 @@ In contrast, converting Markdown (using a static code generator parser) to HTML 
 
 **Is it worth it?**
 
-Docs differ significantly when compared to source code. In theory, it might look facinating to go down the “docs-as-code” approach, but in practice it can get quite complex, especially when you are not a single freelancer who only uses it for creating documentation in a few GitHub repos, or writing posts. The majoority of companies where there are large dedicated teams purely for documentation tend to use automated tools like 
+Docs differ significantly when compared to source code. In theory, it might look facinating to go down the “docs-as-code” approach, but in practice it can get quite complex, especially when you are not a single freelancer who only uses it for creating documentation in a few GitHub repos, or writing posts. The majooity of companies where there are large dedicated teams purely for documentation tend to use automated tools like 
 
-***Note:***there is an [open source tool-chain](https://doctoolchain.github.io/docToolchain/) which shows how the docs-as-code approach can be implemented.
+***Note:*** there is an [open source tool-chain](https://doctoolchain.github.io/docToolchain/) which shows how the docs-as-code approach can be implemented.
 
 **Further reading**
 
-[DOCS-LIKE-CODE by Anne Gentle](https://www.amazon.de/dp/B0784ZJWSR)
-
-[Modern Technical Writing by Andrew Etter](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+* [DOCS-LIKE-CODE by Anne Gentle](https://www.amazon.de/dp/B0784ZJWSR)
+* [Modern Technical Writing by Andrew Etter](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 
