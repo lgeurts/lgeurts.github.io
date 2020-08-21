@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Docs-as-Code, my thoughts, should I use it? 
+title: Docs-as-Code, my thoughts, why I use it 
 read_time: true  
 comments: false
 category: 
 tags: [ Technical Writing ]
 ---
 
-**What do you mean with Docs as Code?**
+**What do you mean with "Docs as Code"?**
 
 *"Docs as code” is basically an approach similar to the way software engineers:*
 - Write code,
