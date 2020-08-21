@@ -23,9 +23,9 @@ tags: [ Technical Writing ]
 
 *So should you treat documentation the same as for example a source file?*
 
-For me, source code and documentation files (even if written in MD) are not the same.
+Source code and documentation files (even if written in MD) are not the same.
 
-A source code file is in plain text. A compiler (ex: C#, Java) reads the file and converts it into a machine-readable format (like an executable file).
+A source code file is in plain text. A compiler reads the file and converts it into a machine-readable format (like an executable file).
 
 A documentation file on the other hand will require extra elements, such as:
 - A link to an image (where will it be hosted), 
