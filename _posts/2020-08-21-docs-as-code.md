@@ -16,7 +16,7 @@ The concept "Docs-as-Code” is basically similar to the way software engineers:
 
 In technical writing terms, it can look something like:
 - Store your content source in a version control system like GitHub (typically in a format like Markdown),
-- Using a static site generator like Middleman, Gatsby, Hugo, Jekyll, VuePress, MKDocs etc.,
+- Using static site generators like Middleman, Gatsby, Hugo, Jekyll, VuePress, MKDocs etc.,
 - Produce a documentation site, running some validation checks (like broken links) and then publish it to your hosting provider.
 
 ### **Should I treat documentation the same as my source files?**
