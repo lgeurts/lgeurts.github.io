@@ -49,7 +49,7 @@ Docs differ significantly when compared to source code. In theory, it might look
 
 In practice it can get quite rough, especially when you are a "single" guy creating software documentation in a few GitHub repos, or writing some technical posts. If that's the case, I suggest skipping or you should like self-punishment.
 
-Companies with dedicated teams should probably look at tools like for example [docToolChain](https://doctoolchain.github.io/docToolchain/). The philosophy of docToolchain is that software documentation should be treated in the same way as code together with the [arc42 template](https://arc42.org/) for software architecture.
+Companies with dedicated teams should look at tools like [docToolChain](https://doctoolchain.github.io/docToolchain/). The philosophy of docToolchain is that software documentation should be treated in the same way as code together with the [arc42 template](https://arc42.org/) for software architecture.
 
 ### **Further reading (English books)**
 
