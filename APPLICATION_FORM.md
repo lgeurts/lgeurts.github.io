@@ -13,7 +13,7 @@
 - Proven production experience with at least two of the following:
     * Common CI/CD systems such as Github Action, Jenkins, Gitlab CI, etc.
     * Amazon Web Services (AWS), Google Cloud Platform (GCP), or Microsoft Azure
-    * Modern infrastructure automation/configuration management systems such as Terraform, Ansible, Saltstack
+    * Infrastructure automation/configuration management systems such as Terraform, Ansible, Saltstack
     * Programming languages such as Go, Python, Rust, C, or equivalent
 
 ***Extras that will work in your favor:***
