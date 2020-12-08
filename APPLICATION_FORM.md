@@ -1,6 +1,6 @@
 ![Join Us](/assets/opportunities.png)
 
-# We are looking for new colleagues on a remote basis.
+# Flouze EURL: Job Openings
 
 Nice to have:
 
@@ -30,6 +30,6 @@ Required:
 - Flexibility to learn from and work with different technical environments and teams
 - Comfortable with working on-call (as part of a regular 24x7 schedule)
 
-*If you have read this far, please include a cover letter when you apply for a job. Mail me at lgeurts@pm.me.*
+*If you have read this far, please include a cover letter when you [apply](lgeurts@pm.me) for this role.*
 
 <3
