@@ -1,8 +1,13 @@
 ![Join Us](/assets/opportunities.png)
 
-# Flouze is looking for new colleagues on a fully remote basis. Interested?
+# We are looking for new colleagues on a fully remote basis.
 
-Must-have requirements:
+Nice to have:
+
+- You speak fluently English and additionally German, French, or Dutch
+- Driving license
+
+Required:
 
 - A strong engineering or operations background, and the commitment to develop continuously in both disciplines
 - At least 3 years experience working in a related field
