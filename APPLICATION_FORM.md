@@ -2,10 +2,6 @@
 
 # Flouze EURL: Job Openings for 2021
 
-***Nice to have:***
-
-
-
 ***Required skills:***
 
 - A strong engineering or operations background, and the commitment to develop continuously in both disciplines
@@ -27,7 +23,9 @@
 - An analytical mind; debugging and problem solving skills are paramount
 - Attention to detail and excellent communication skills, both written and verbal
 - Comfortable with working on-call (as part of a regular 24x7 schedule)
-- Driving license or willing to get one
+
+***Nice to have:***
+- Driving license (for those rare occasions) or willingness to get one
 
 *If you have read this far, please include a cover letter when you [apply](lgeurts@pm.me) for this role.*
 
