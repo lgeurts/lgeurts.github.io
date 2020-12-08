@@ -1,6 +1,7 @@
 We are looking for new colleagues. Interested?
 
 Must-have requirements:
+
 ➤ A strong engineering or operations background, and the commitment to develop continuously in both disciplines
 ➤ At least 3 years experience working in a related field
 ➤ A strong understanding and knowledge of the following: 
