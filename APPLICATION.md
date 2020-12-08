@@ -1,6 +1,6 @@
 # Application Requirements
 
-![Join Us](/assets/opportunities.jpg)
+![Join Us](/assets/opportunities.png)
 
 *Flouze is looking for new colleagues on a fully remote basis. Interested?*
 
