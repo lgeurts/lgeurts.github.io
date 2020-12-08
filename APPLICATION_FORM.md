@@ -18,7 +18,7 @@ Required:
 - Proven production experience with at least one of the following:
 - Common CI/CD systems such as Github Action, Jenkins, Gitlab CI, etc.
 - Major cloud service providers such as Amazon Web Services (AWS), Google Cloud Platform (GCP), or Microsoft Azure
-- Modern infrastructure automation or configuration management system such as Terraform, Puppet, Ansible, Saltstack, or Chef
+- Modern infrastructure automation/configuration management systems such as Terraform, Puppet, Ansible, Saltstack, or Chef
 - Container platforms such as Kubernetes
 - Programming languages such as Go, Python, Rust, C, or equivalent
 - Ability to contribute to polyglot code bases
