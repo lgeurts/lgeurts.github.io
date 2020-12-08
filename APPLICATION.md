@@ -5,9 +5,10 @@ Must-have requirements:
 - A strong engineering or operations background, and the commitment to develop continuously in both disciplines
 - At least 3 years experience working in a related field
 - A strong understanding and knowledge of the following: 
- * Kubernetes API, core principles and components
- * Linux networking and security related to containers
- * Distributed systems and common distributed system failure modes
+    * Kubernetes API, core principles and components
+    * Linux networking and security related to containers
+    * Distributed systems and common distributed system failure modes
+    
 ➤ Proven production experience with at least one of the following:
  — Common CI/CD systems such as Github Action, Jenkins, Gitlab CI, etc.
  — Major cloud service providers such as Amazon Web Services (AWS), Google Cloud Platform (GCP), or Microsoft Azure
