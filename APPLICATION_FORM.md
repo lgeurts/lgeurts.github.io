@@ -24,7 +24,7 @@
 - Comfortable with working on-call (as part of a regular 24x7 schedule)
 
 ***Nice to haves:***
-- Driving license (for those rare occasions) or willingness to get one
+- Driving license (for those rare occasions)
 
 *If you have read this far, please include a cover letter when you [apply](lgeurts@pm.me) for this role.*
 
