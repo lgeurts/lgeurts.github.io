@@ -1,6 +1,6 @@
 ![Join Us](/assets/opportunities.png)
 
-# Flouze EURL: Job Openings 2021
+# Flouze EURL: Job Openings for 2021
 
 ***Nice to have:***
 
@@ -14,18 +14,18 @@
 - A strong understanding and knowledge of the following: 
     * Kubernetes API, core principles and components
     * Linux networking and security related to containers
-    * Distributed systems and common distributed system failure modes
-- Proven production experience with at least one of the following:
+    * Distributed systems and architectures e.g. microservices or service-oriented architectures
+- Proven production experience with at least two of the following:
     * Common CI/CD systems such as Github Action, Jenkins, Gitlab CI, etc.
     * Amazon Web Services (AWS), Google Cloud Platform (GCP), or Microsoft Azure
     * Modern infrastructure automation/configuration management systems such as Terraform, Ansible, or Saltstack
     * Container platforms such as Kubernetes
     * Programming languages such as Go, Python, Rust, C, or equivalent
-- Ability to contribute to polyglot code bases
-- Experience working with distributed architectures, e.g. microservices or service-oriented architectures
+
+***Extras that will work in your favor:***
 - Experience operating and maintaining production systems on Linux in a public cloud
-- Can work effectively in a globally distributed team, as well as on your own
-- An analytical mind; debugging and problem solving skills are paramount
+- You can work effectively in a globally distributed team, as well as on your own
+- You have an analytical mind; debugging and problem solving skills are paramount
 - Attention to detail and excellent communication skills, both written and verbal
 - Flexibility to learn from and work with different technical environments and teams
 - Comfortable with working on-call (as part of a regular 24x7 schedule)
