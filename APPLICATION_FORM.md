@@ -18,19 +18,14 @@
 - Proven production experience with at least two of the following:
     * Common CI/CD systems such as Github Action, Jenkins, Gitlab CI, etc.
     * Amazon Web Services (AWS), Google Cloud Platform (GCP), or Microsoft Azure
-    * Modern infrastructure automation/configuration management systems such as:
-        * Terraform
-        * Ansible
-        * Saltstack
-        * Puppet and or Chef
+    * Modern infrastructure automation/configuration management systems such as Terraform, Ansible, Saltstack
     * Programming languages such as Go, Python, Rust, C, or equivalent
 
 ***Extras that will work in your favor:***
+- Flexibility to learn from and work with different technical environments and customer teams
 - Experience operating and maintaining production systems on Linux in a public cloud
-- You can work effectively in a globally distributed team, as well as on your own
 - An analytical mind; debugging and problem solving skills are paramount
 - Attention to detail and excellent communication skills, both written and verbal
-- Flexibility to learn from and work with different technical environments and customer teams
 - Comfortable with working on-call (as part of a regular 24x7 schedule)
 
 *If you have read this far, please include a cover letter when you [apply](lgeurts@pm.me) for this role.*
