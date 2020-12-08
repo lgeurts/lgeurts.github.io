@@ -1,6 +1,6 @@
 ![Join Us](/assets/opportunities.png)
 
-# We are looking for new colleagues on a fully remote basis.
+# We are looking for new colleagues on a remote basis.
 
 Nice to have:
 
