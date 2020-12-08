@@ -4,7 +4,7 @@
 
 Flouze is looking for new colleagues on a fully remote basis. Interested?
 
-Must-have requirements:
+*Must-have requirements:*
 
 - A strong engineering or operations background, and the commitment to develop continuously in both disciplines
 - At least 3 years experience working in a related field
@@ -27,6 +27,6 @@ Must-have requirements:
 - Flexibility to learn from and work with different technical environments and teams
 - Comfortable with working on-call (as part of a regular 24x7 schedule)
 
-If you have read this far, please include a cover letter when you apply for a job. Mail me at lgeurts@pm.me.
+*If you have read this far, please include a cover letter when you apply for a job. Mail me at lgeurts@pm.me.*
 
 <3
