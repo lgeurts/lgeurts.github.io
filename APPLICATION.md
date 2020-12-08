@@ -1,3 +1,5 @@
+# Application Requirements
+
 Flouze is looking for new colleagues on a fully remote basis. Interested?
 
 Must-have requirements:
@@ -24,3 +26,5 @@ Must-have requirements:
 - Comfortable with working on-call (as part of a regular 24x7 schedule)
 
 If you have read this far, please include a cover letter when you apply for a job. Mail me at lgeurts@pm.me.
+
+<3
