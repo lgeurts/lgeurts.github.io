@@ -2,9 +2,9 @@
 
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/lgeurts/lgeurts.github.io/blob/master/LICENSE.md) [![Project Status: Active](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active) [![Website](https://img.shields.io/website/https/lgeurts.github.io?down_color=red&down_message=Website%20down%21&up_message=Website%20up)](https://lgeurts.github.io)
 
-Flouze is looking for new colleagues on a fully remote basis. Interested?
+*Flouze is looking for new colleagues on a fully remote basis. Interested?*
 
-*Must-have requirements:*
+Must-have requirements:
 
 - A strong engineering or operations background, and the commitment to develop continuously in both disciplines
 - At least 3 years experience working in a related field
