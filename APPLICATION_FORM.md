@@ -2,7 +2,7 @@
 
 # Application Requirements
 
-<p style="text-align: center;">*Flouze is looking for new colleagues on a fully remote basis. Interested?*</p>
+->*Flouze is looking for new colleagues on a fully remote basis. Interested?*<-
 
 Must-have requirements:
 
