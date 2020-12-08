@@ -4,7 +4,7 @@
 
 ***Required skills:***
 
-- A strong engineering or operations background, and the commitment to develop continuously in both disciplines
+- A strong engineering or operations background
 - At least 3 years experience working in a related field
 - A strong understanding and knowledge of the following: 
     * Kubernetes API, core principles and components
@@ -24,7 +24,7 @@
 - Attention to detail and excellent communication skills, both written and verbal
 - Comfortable with working on-call (as part of a regular 24x7 schedule)
 
-***Nice to have:***
+***Nice to haves:***
 - Driving license (for those rare occasions) or willingness to get one
 
 *If you have read this far, please include a cover letter when you [apply](lgeurts@pm.me) for this role.*
