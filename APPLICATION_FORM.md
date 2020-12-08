@@ -2,12 +2,12 @@
 
 # Flouze EURL: Job Openings
 
-###Nice to have:###
+***Nice to have:***
 
 - You speak fluently English and additionally German, French, or Dutch
 - Driving license
 
-###Required:###
+***Required:***
 
 - A strong engineering or operations background, and the commitment to develop continuously in both disciplines
 - At least 3 years experience working in a related field
