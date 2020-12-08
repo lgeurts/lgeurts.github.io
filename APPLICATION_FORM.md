@@ -4,8 +4,7 @@
 
 ***Nice to have:***
 
-- You speak fluently English and additionally German, French, or Dutch
-- Driving license
+- You speak fluently English and additionally German, French, or Dutch and possess a driving license
 
 ***Required skills:***
 
