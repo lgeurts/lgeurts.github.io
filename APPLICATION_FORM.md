@@ -4,8 +4,7 @@
 
 ***Required skills:***
 
-- A strong engineering or operations background
-- At least 3 years experience working in a related field
+- A strong engineering or operations background, and the commitment to develop continuously in both disciplines
 - A strong understanding and knowledge of the following: 
     * Kubernetes API, core principles and components
     * Linux networking and security related to containers
@@ -17,7 +16,7 @@
     * Programming languages such as Go, Python, Rust, C, or equivalent
 
 ***Extras that will work in your favor:***
-- You speak fluently English and additionally German, French, or Dutch
+- You speak & write fluently English and German, French, or Dutch
 - Flexibility to learn from and work with different technical environments and customer teams
 - Experience operating and maintaining production systems on Linux in a public cloud
 - An analytical mind; debugging and problem solving skills are paramount
