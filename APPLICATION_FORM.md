@@ -16,11 +16,11 @@
     * Linux networking and security related to containers
     * Distributed systems and common distributed system failure modes
 - Proven production experience with at least one of the following:
-- Common CI/CD systems such as Github Action, Jenkins, Gitlab CI, etc.
-- Major cloud service providers such as Amazon Web Services (AWS), Google Cloud Platform (GCP), or Microsoft Azure
-- Modern infrastructure automation/configuration management systems such as Terraform, Puppet, Ansible, Saltstack, or Chef
-- Container platforms such as Kubernetes
-- Programming languages such as Go, Python, Rust, C, or equivalent
+    * Common CI/CD systems such as Github Action, Jenkins, Gitlab CI, etc.
+    * Major cloud service providers such as Amazon Web Services (AWS), Google Cloud Platform (GCP), or Microsoft Azure
+    * Modern infrastructure automation/configuration management systems such as Terraform, Puppet, Ansible, Saltstack, or Chef
+    * Container platforms such as Kubernetes
+    * Programming languages such as Go, Python, Rust, C, or equivalent
 - Ability to contribute to polyglot code bases
 - Experience working with distributed architectures, e.g. microservices or service-oriented architectures
 - Experience operating and maintaining production systems on Linux in a public cloud
