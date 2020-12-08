@@ -4,7 +4,7 @@
 
 ***Nice to have:***
 
-- You speak fluently English and additionally German, French, or Dutch and possess a driving license
+
 
 ***Required skills:***
 
@@ -21,11 +21,13 @@
     * Programming languages such as Go, Python, Rust, C, or equivalent
 
 ***Extras that will work in your favor:***
+- You speak fluently English and additionally German, French, or Dutch
 - Flexibility to learn from and work with different technical environments and customer teams
 - Experience operating and maintaining production systems on Linux in a public cloud
 - An analytical mind; debugging and problem solving skills are paramount
 - Attention to detail and excellent communication skills, both written and verbal
 - Comfortable with working on-call (as part of a regular 24x7 schedule)
+- Driving license or willing to get one
 
 *If you have read this far, please include a cover letter when you [apply](lgeurts@pm.me) for this role.*
 
