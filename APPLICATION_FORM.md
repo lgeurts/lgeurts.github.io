@@ -7,7 +7,7 @@
 - You speak fluently English and additionally German, French, or Dutch
 - Driving license
 
-***Required:***
+***Required skills:***
 
 - A strong engineering or operations background, and the commitment to develop continuously in both disciplines
 - At least 3 years experience working in a related field
@@ -22,15 +22,15 @@
         * Terraform
         * Ansible
         * Saltstack
-    * Container platforms such as Kubernetes
+        * Puppet and or Chef
     * Programming languages such as Go, Python, Rust, C, or equivalent
 
 ***Extras that will work in your favor:***
 - Experience operating and maintaining production systems on Linux in a public cloud
 - You can work effectively in a globally distributed team, as well as on your own
-- You have an analytical mind; debugging and problem solving skills are paramount
+- An analytical mind; debugging and problem solving skills are paramount
 - Attention to detail and excellent communication skills, both written and verbal
-- Flexibility to learn from and work with different technical environments and teams
+- Flexibility to learn from and work with different technical environments and customer teams
 - Comfortable with working on-call (as part of a regular 24x7 schedule)
 
 *If you have read this far, please include a cover letter when you [apply](lgeurts@pm.me) for this role.*
