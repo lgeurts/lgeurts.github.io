@@ -13,6 +13,6 @@ tags: [ Linux Tutorials ]
 v1.0
 > * 10/11/21 Initial setup.
 
-This guide was written to help you install and configure Ubuntu 20.04.3 LTS (Focal Fossa). 
+This guide was written to help you install and configure Ubuntu 20.04.3 LTS. 
 
 ![](/assets/under-construction.png)
