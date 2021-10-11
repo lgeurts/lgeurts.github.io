@@ -7,8 +7,6 @@ category: Open Source
 tags: [ Linux Tutorials ]
 ---
 
-![Project Sputnik](/assets/sputnik.png)
-
 **1 Status of this document**
 -----------------------------
 
