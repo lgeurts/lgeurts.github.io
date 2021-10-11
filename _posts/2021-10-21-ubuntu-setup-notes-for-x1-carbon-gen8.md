@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to configure Ubuntu Focal Fossa on a ThinkPad X1 Carbon Gen 8
+title: How to configure Focal Fossa on a ThinkPad X1 Carbon Gen 8
 read_time: true
 comments: true
 category: Open Source 
