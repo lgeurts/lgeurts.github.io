@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to configure Ubuntu 20.04 on ThinkPad X1 Carbon Gen 8
+title: How to configure Ubuntu 20.04 on a ThinkPad X1 Carbon Gen 8
 read_time: true
 comments: true
 category: Open Source 
@@ -11,10 +11,8 @@ tags: [ Linux Tutorials ]
 -----------------------------
 
 v1.0
-> * 08/09/19 Initial setup.
+> * 10/11/21 Initial setup.
 
-Changes since the last version:
-
-This guide was written to help you install and configure Ubuntu 20.04.3 LTS (Focal Fossa) on a Lenovo Carbon X1. 
+This guide was written to help you install and configure the Ubuntu 20.04.3 LTS (Focal Fossa). 
 
 ![](/assets/under-construction.png)
