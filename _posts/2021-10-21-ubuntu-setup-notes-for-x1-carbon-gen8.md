@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to configure Focal Fossa on the Lenovo ThinkPad X1 Carbon Gen 8
+title: How to configure Focal Fossa on my Lenovo ThinkPad X1 Carbon Gen 8
 read_time: true
 comments: true
 category: Open Source 
@@ -13,6 +13,6 @@ tags: [ Linux Tutorials ]
 v1.0
 > * 10/11/21 Initial setup.
 
-This guide was written to help you install and configure Ubuntu 20.04.3 LTS. 
+This guide was written to help me when re-installing Ubuntu 20.04.3 LTS (or higher). 
 
 ![](/assets/under-construction.png)
