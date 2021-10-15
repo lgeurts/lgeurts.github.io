@@ -13,4 +13,6 @@ You'll probably ask why I am using an older distro. Despite being out of support
 
 So. let's get on with the notes.
 
+![Groovy Gorilla](/assets/groovy-gorilla.jpg)
+
 ![](/assets/under-construction.png)
