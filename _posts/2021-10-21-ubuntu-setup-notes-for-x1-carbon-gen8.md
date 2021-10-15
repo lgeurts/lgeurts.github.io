@@ -13,6 +13,6 @@ You'll probably ask why I am using an older distro. Despite being out of support
 
 So. let's get on with the notes.
 
-![Groovy Gorilla](/assets/groovy-gorilla.jpg =250x] 
+![Groovy Gorilla](/assets/groovy-gorilla.jpg =250x) 
 
 ![](/assets/under-construction.png)
