@@ -7,12 +7,6 @@ category: Open Source
 tags: [ Linux Tutorials ]
 ---
 
-**1 Status of this document**
------------------------------
-
-v1.0
-> * 10/11/21 Initial setup.
-
-This guide was written to help me when re-installing Ubuntu Groovy Gorilla. Despite this system is now out of support I do not upgrade to a higher version as I just see no reasoning. Newer features? For what I do I don't need them. Security? I do most work offline, and for the few times I want to read my mail or react in Slack, I trust my firewall being enough. For social media, gaming, all the regular tim wasting activities, I have a Windows 10 laptop, for real work, Linux.
+This guide was written to help me should I have to re-install Ubuntu Groovy Gorilla. You'll probably ask why an older distro? Despite being out of support I do not upgrade as I just see no reasoning. Newer features? For what I do I don't need them. Security? I do most work offline, and for the few times I want to read my mail or talk in Slack with my team mates, I trust my firewall being enough. Anyways, for social media, browsing, gaming, all those regular time wasting activities with a risk of getting infected, or in any way cracked/hacked, those are restricted to a default Windows 10 installation which contains no private data whatsoever. Issues? Wipe and re-image.
 
 ![](/assets/under-construction.png)
