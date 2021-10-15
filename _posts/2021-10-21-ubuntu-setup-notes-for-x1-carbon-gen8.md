@@ -13,6 +13,6 @@ You'll probably ask why I am using an older distro. Despite being out of support
 
 So. let's get on with the notes.
 
-<img src="/assets/groovy-gorilla.jpg" width="360">
+# <img src="/assets/groovy-gorilla.jpg" width="360">
 
 ![](/assets/under-construction.png)
