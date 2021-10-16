@@ -1,6 +1,6 @@
 ---
 layout: post
-title: List of issues when installing Ubuntu 20.10 on a Lenovo ThinkPad X1 Carbon Gen 8
+title: List of to-do's when re-installing Ubuntu 20.10 on a Lenovo ThinkPad X1 Carbon Gen 8
 read_time: true
 comments: true
 category: Open Source 
@@ -9,7 +9,7 @@ tags: [ Linux Tutorials ]
 
 These notes were written to **help me out** should I ever have to re-install Groovy Gorilla. 
 
-Note: You'll probably ask why I am using an older distro. Despite being out of support I see no reason to upgrade (yet). New features? Latest Gnome? Don't need them. Security? I mostly work offline and for those few times I want to read mail or talk in Slack with my teammates, my trusted firewall should be enough. Social media, web-browsing, gaming, any activities bearing a risk of getting infected or hacked, are restricted to a sandboxed Windows 10 installation containing no private data whatsoever. Issues? Wipe and reload.
+**Note**: You'll probably ask why I am using an older distro. In short, I love stability, not the latest and greatest. New features? Latest Gnome? Don't need them. Security? I mostly work offline and for reaingd mail or talking in Slack with teammates, my trusted firewall should be enough. Social media, web-browsing, gaming, any activities bearing a risk of getting infected or hacked, are restricted to a sandboxed Windows 10 installation containing no private data whatsoever. Last defence, I do a weekly wipe and reload.
 
 So, now you know, let's get on with it.
 
@@ -59,7 +59,6 @@ PL1_Tdp_W: 34
 PL2_Tdp_W: 40
 Trip_Temp_C: 90
 ```
-
 ## CPU undervolting
 
 The amazing Lenovo Throttling fix script supports undervolting. To enable it, please edit the /etc/lenovo_fix.conf and update the [UNDERVOLT] section. In my case, these settings are stable:
@@ -77,7 +76,6 @@ UNCORE: -90
 # Analog I/O voltage offset (mV)
 ANALOGIO: 0
 ```
-
 ## Battery charging thresholds
 
 There are a lot of theories and information about ThinkPad charging thresholds. Some theories say thresholds are needed to keep the battery healthy, some think they are useless and the battery will work the same just as it is. In this article I will try not to settle that argument. 🙂 Instead I try to tell how and why I use them, and then proceed to show how they can be changed in different versions of Windows, should you still want to change these thresholds.
@@ -94,33 +92,27 @@ To achieve this for Linux based machines you need to install some packages by ru
 ```
 $ sudo apt-get install tlp tlp-rdw acpi-call-dkms tp-smapi-dkms acpi-call-dkms
 ```
-
 After that just edit the /etc/default/tlp file and edit following values:
 ```
 # Uncomment both of them if commented out
 START_CHARGE_THRESH_BAT0=45
 STOP_CHARGE_THRESH_BAT0=95
 ```
-
 Reboot, run:
 ```
 sudo tlp-stat | grep tpacpi-bat
 ```
-
 and check if the values are as you expect:
 ```
 tpacpi-bat.BAT0.startThreshold          = 45 [%]
 tpacpi-bat.BAT0.stopThreshold           = 95 [%]
 ```
-
 You can change these thresholds anytime, and apply changes using command:
 ```
 $ sudo tlp start
 ```
-
 Note, that if you need to have your laptop fully charged, you can achieve that by running following command while connected to AC:
 ```
 $ tlp fullcharge
 ```
-
 ![](/assets/under-construction.png)
