@@ -128,7 +128,7 @@ Start threshold: 60% - Stop threshold: 65%
 This means that charging will start only if the battery level goes down below 60% and will stop at 65%. This prevents my battery from being charged too often and from being charged beyond a recommended level.
 
 To achieve this for Linux based machines:
-1. Install some packages:
+1. Install this list of packages:
 ```
 $ sudo apt-get install tlp tlp-rdw acpi-call-dkms tp-smapi-dkms acpi-call-dkms
 ```
