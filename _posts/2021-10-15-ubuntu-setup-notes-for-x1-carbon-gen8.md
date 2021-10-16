@@ -9,7 +9,7 @@ tags: [ Linux Tutorials ]
 
 <img src="/assets/groovy-gorilla.png" width="654">
 
-## BIOS settings
+## Custom BIOS settings
 
 The BIOS has 2 Sleep State options, which you can find in Config > Power > Sleep State. 
 
@@ -152,7 +152,7 @@ tpacpi-bat.BAT0.stopThreshold           = 65 [%]
 $ sudo tlp start
 ```
 
-Note that if you need your laptop fully charged, you can achieve that by running the following command while connected to AC:
+[^1]: Note that if you need your laptop fully charged, you can achieve that by running the following command while connected to AC:
 ```
 $ tlp fullcharge
 ```
