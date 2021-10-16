@@ -21,7 +21,7 @@ $ systemctl suspend -i
 ```
 ### Low cTDP and trip temperature in Linux
 
-This problem is related to **thermal throttling** on Linux, which is set much below Windows values. It will cause your laptop to run slower than it could when under heavy stress.
+This problem is related to 'thermal throttling' on Linux, which is set much below Windows values. It will cause your laptop to run slower than it could when under heavy stress.
 
 Before attempting to apply this solution, please make sure that the problem still exists. To do so, open a Linux terminal and run following commands:
 ```
@@ -78,7 +78,6 @@ ANALOGIO: 0
 ## Battery charging thresholds
 
 There are a lot of theories about ThinkPad charging thresholds. 
-
 Some say thresholds are needed to keep the battery healthy, some think they are useless and the battery will work the same just as it is.
 
 I always stick with the following settings for my laptops (because they are mostly on AC):
