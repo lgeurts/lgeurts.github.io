@@ -43,7 +43,7 @@ $ sudo ./install.sh
 
 Check again, that the result from running the rdmsr command is 3.
 
-Personally, I use a bit lower temperature levels to preserve battery life in favor of performance. If you want to change the default values, you need to edit the /etc/lenovo_fix file and set the Trip_Temp_C for both battery and AC the way you want:
+Personally, I use a bit lower temperature levels to preserve battery life in favor of performance. If you want to change default values, edit the /etc/lenovo_fix file and set the Trip_Temp_C for both battery and AC the way you want:
 ```
 [BATTERY]
 # Other options here...
