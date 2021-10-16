@@ -113,7 +113,7 @@ You can change these thresholds anytime, and apply changes using command:
 ```
 $ sudo tlp start
 ```
-Note that if you need to have your laptop fully charged, you can achieve that by running following command while connected to AC:
+Note that if you need your laptop fully charged, you can achieve that by running following command while connected to AC:
 ```
 $ tlp fullcharge
 ```
