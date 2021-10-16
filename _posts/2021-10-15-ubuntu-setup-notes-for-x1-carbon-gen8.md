@@ -21,7 +21,7 @@ Choose the Windows option.
 
 ## Extra software packages
 
-Below I list output from my .bash_history and .zsh_history files:
+Output from my .bash_history and .zsh_history files:
 ```
 $ sudo apt install ubuntu-restricted-extras
 $ sudo apt install tmux
