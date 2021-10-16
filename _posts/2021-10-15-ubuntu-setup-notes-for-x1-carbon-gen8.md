@@ -1,19 +1,15 @@
 ---
 layout: post
-title: List of to-do's when re-installing Ubuntu 20.10 on a Lenovo ThinkPad X1 Carbon Gen 8
+title: To-do's when re-installing Ubuntu 20.xx on my ThinkPad X1 Carbon Gen 8
 read_time: true
 comments: true
 category: Open Source 
 tags: [ Linux Tutorials ]
 ---
 
-These notes were written to **help me out** should I ever have to re-install Groovy Gorilla. 
-
-**Note**: You'll probably ask why I am using an older distro. In short, I love stability, not the latest and greatest. New features? Latest Gnome? Don't need them. Security? I mostly work offline and for reaingd mail or talking in Slack with teammates, my trusted firewall should be enough. Social media, web-browsing, gaming, any activities bearing a risk of getting infected or hacked, are restricted to a sandboxed Windows 10 installation containing no private data whatsoever. Last defence, I do a weekly wipe and reload.
-
-So, now you know, let's get on with it.
-
 <!--- <img src="/assets/groovy-gorilla.jpg" width="360"> --->
+
+## Software packages
 
 ## Possible issues
 
@@ -27,13 +23,13 @@ $ systemctl suspend -i
 
 This problem is related to thermal throttling on Linux, that is set much below the Windows values. This will cause your laptop to run much slower than it could under heavy stress.
 
-Before you attempt to apply this solution, please make sure that the problem still exists when you read it. To do so, open a Linux terminal and run following commands:
+Before attempting to apply this solution, please make sure that the problem still exists. To do so, open a Linux terminal and run following commands:
 ```
 $ sudo apt-get install msr-tools
 $ sudo rdmsr -f 29:24 -d 0x1a2
 ```
 If you see 3 as a result value (or 15 when running on battery), you don’t have to do anything. Otherwise:
-1. Disable Secure Boot in the BIOS (won’t work otherwise)
+1. Disable Secure Boot in the BIOS (won’t work otherwise).
 2. Run this command:
 ```
 sudo apt install git virtualenv build-essential python3-dev \
@@ -44,7 +40,7 @@ sudo apt install git virtualenv build-essential python3-dev \
 $ cd lenovo-throttling-fix/
 $ sudo ./install.sh
 ```
-Check again, that the result from running the rdmsr command is 3
+Check again, that the result from running the rdmsr command is 3.
 
 Personally, I use a bit lower temperature levels to preserve battery life in favor of performance. If you want to change the default values, you need to edit the /etc/lenovo_fix file and set the Trip_Temp_C for both battery and AC the way you want:
 ```
@@ -61,7 +57,7 @@ Trip_Temp_C: 90
 ```
 ## CPU undervolting
 
-The amazing Lenovo Throttling fix script supports undervolting. To enable it, please edit the /etc/lenovo_fix.conf and update the [UNDERVOLT] section. In my case, these settings are stable:
+The Lenovo Throttling fix script supports undervolting. To enable it, edit the /etc/lenovo_fix.conf and update the [UNDERVOLT] section. In my case, these settings are stable:
 
 ```
 [UNDERVOLT]
@@ -78,14 +74,14 @@ ANALOGIO: 0
 ```
 ## Battery charging thresholds
 
-There are a lot of theories and information about ThinkPad charging thresholds. Some theories say thresholds are needed to keep the battery healthy, some think they are useless and the battery will work the same just as it is. In this article I will try not to settle that argument. 🙂 Instead I try to tell how and why I use them, and then proceed to show how they can be changed in different versions of Windows, should you still want to change these thresholds.
+There are a lot of theories and information about ThinkPad charging thresholds. Some theories say thresholds are needed to keep the battery healthy, some think they are useless and the battery will work the same just as it is.
 
-I always stick with following settings for my laptops (and somehow I feel that it works):
+I always stick with following settings for my laptops (because they are msotly on AC):
 
-- Start threshold: 45%
-- Stop threshold: 95%
+- Start threshold: 60%
+- Stop threshold: 65%
 
-This means that the charging will start only if the battery level goes down below 45% and will stop at 95%. This prevents battery from being charged too often and from being charged beyond a recommended level.
+This means that the charging will start only if the battery level goes down below 60% and will stop at 65%. This prevents battery from being charged too often and from being charged beyond a recommended level.
 
 To achieve this for Linux based machines you need to install some packages by running:
 
@@ -95,8 +91,8 @@ $ sudo apt-get install tlp tlp-rdw acpi-call-dkms tp-smapi-dkms acpi-call-dkms
 After that just edit the /etc/default/tlp file and edit following values:
 ```
 # Uncomment both of them if commented out
-START_CHARGE_THRESH_BAT0=45
-STOP_CHARGE_THRESH_BAT0=95
+START_CHARGE_THRESH_BAT0=60
+STOP_CHARGE_THRESH_BAT0=65
 ```
 Reboot, run:
 ```
@@ -104,8 +100,8 @@ sudo tlp-stat | grep tpacpi-bat
 ```
 and check if the values are as you expect:
 ```
-tpacpi-bat.BAT0.startThreshold          = 45 [%]
-tpacpi-bat.BAT0.stopThreshold           = 95 [%]
+tpacpi-bat.BAT0.startThreshold          = 60 [%]
+tpacpi-bat.BAT0.stopThreshold           = 65 [%]
 ```
 You can change these thresholds anytime, and apply changes using command:
 ```
