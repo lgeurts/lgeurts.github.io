@@ -15,13 +15,13 @@ tags: [ Linux Tutorials ]
 
 ### Hibernation modus aka deep sleep
 
-In most setups, simply closing the lid will probably trigger deep sleep. If you're using a systemd-based distribution (most of which are), you can also verify if it works on the command line:
+In most setups, simply closing the lid will probably trigger deep sleep. If you are using a systemd-based distro (most of which are), you can also verify if it works on the command line:
 ```
 $ systemctl suspend -i
 ```
 ### Low cTDP and trip temperature in Linux
 
-This problem is related to thermal throttling on Linux, that is set much below the Windows values. This will cause your laptop to run much slower than it could under heavy stress.
+This problem is related to thermal throttling on Linux, that is set much below Windows values. This will cause your laptop to run much slower than it could under heavy stress.
 
 Before attempting to apply this solution, please make sure that the problem still exists. To do so, open a Linux terminal and run following commands:
 ```
