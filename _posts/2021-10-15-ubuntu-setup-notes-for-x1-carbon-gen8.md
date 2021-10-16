@@ -77,7 +77,7 @@ ANALOGIO: 0
 ```
 ## Battery charging thresholds
 
-There are a lot of theories about ThinkPad charging thresholds. 
+There are a lot of theories and advisories about ThinkPad charging thresholds. 
 Some say thresholds are needed to keep the battery healthy, some think they are useless and the battery will work the same just as it is.
 
 I always stick with the following settings for my laptops (because they are mostly on AC):
