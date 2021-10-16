@@ -41,9 +41,9 @@ $ cd lenovo-throttling-fix/
 $ sudo ./install.sh
 ```
 
-Check again, that the result from running the rdmsr command is 3.
+Check again that the result from running the rdmsr command is 3.
 
-Personally, I use a bit lower temperature levels to preserve battery life in favor of performance. If you want to change the values, edit /etc/lenovo_fix and set the Trip_Temp_C for both battery and AC the way you want:
+I use a bit lower temperature levels to preserve battery life in favor of performance. If you want to change the values, edit /etc/lenovo_fix and set the Trip_Temp_C for both battery and AC the way you want:
 ```
 [BATTERY]
 # Other options here...
