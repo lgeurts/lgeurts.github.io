@@ -130,7 +130,7 @@ To achieve this for Linux based machines you'll need to install some packages:
 ```
 $ sudo apt-get install tlp tlp-rdw acpi-call-dkms tp-smapi-dkms acpi-call-dkms
 ```
-After that just edit the /etc/default/tlp file and change following values:
+After that just edit the /etc/default/tlp file and change below values:
 ```
 # Uncomment both of them if commented out
 START_CHARGE_THRESH_BAT0=60
