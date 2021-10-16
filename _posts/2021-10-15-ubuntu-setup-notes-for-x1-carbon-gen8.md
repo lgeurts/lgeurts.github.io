@@ -66,7 +66,7 @@ If not, upgrade to a newer kernel.
 
 This problem is related to 'thermal throttling' on Linux, which is set much below Windows values. It will cause your laptop to run slower than it could when under heavy stress.
 
-Before attempting to apply this solution, please make sure that the problem still exists. To do so, open a Linux terminal and run following commands:
+Before attempting to apply this solution, make sure that the problem still exists. To do so, open a Linux terminal and run following commands:
 ```
 $ sudo apt-get install msr-tools
 $ sudo rdmsr -f 29:24 -d 0x1a2
