@@ -11,6 +11,8 @@ tags: [ Linux Tutorials ]
 
 ## Software packages
 
+REMINDER: add packages I usually download as an extra.
+
 ## Possible issues
 
 ### Hibernation modus aka deep sleep
