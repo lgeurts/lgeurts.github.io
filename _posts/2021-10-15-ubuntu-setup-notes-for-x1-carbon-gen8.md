@@ -18,7 +18,7 @@ The **Linux** option is a traditional S3 power state where all hardware componen
 The **Windows** option is a newer software-based "modern standby" which works on Linux (despite the name). One possible benefit to the Windows sleep state is faster wake up time, and one possible drawback is increased power usage. 
 
 ## Software packages
-
+```
 sudo apt install ubuntu-restricted-extras
 sudo apt install tmux
 sudo apt install spotify
@@ -51,7 +51,7 @@ sudo apt-get remove --purge totem
 sudo apt install msr-tools
 sudo apt-get install tlp tlp-rdw acpi-call-dkms tp-smapi-dkms acpi-call-dkms
 sudo apt install zsh
-
+```
 REMINDER: add pmore ackages I usually download
 
 ## Possible issues
