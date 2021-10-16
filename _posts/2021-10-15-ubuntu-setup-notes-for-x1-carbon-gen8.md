@@ -75,7 +75,7 @@ If you see 3 as a result value (15 when running on the battery), you don’t hav
 1. Disable Secure Boot in the BIOS (won’t work otherwise);
 2. Run this command:
 ```
-sudo apt install git virtualenv build-essential python3-dev \
+$ sudo apt install git virtualenv build-essential python3-dev \
   libdbus-glib-1-dev libgirepository1.0-dev libcairo2-dev
 ```
 3. Install the lenovo-throttling-fix:
@@ -140,7 +140,7 @@ STOP_CHARGE_THRESH_BAT0=65
 ```
 3. Reboot, run:
 ```
-sudo tlp-stat | grep tpacpi-bat
+$ sudo tlp-stat | grep tpacpi-bat
 ```
 4. Verify that the values are as you expected:
 ```
