@@ -56,7 +56,7 @@ $ sudo apt install zsh
 ```
 ## Hibernation modus aka deep sleep
 
-In most setups, simply closing the lid will probably trigger deep sleep. Check that it works using the command line:
+In most setups, simply closing the lid will probably trigger a deep sleep. Check that it works using the command line:
 ```
 $ systemctl suspend -i
 ```
