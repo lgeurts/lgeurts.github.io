@@ -21,7 +21,7 @@ $ systemctl suspend -i
 ```
 ### Low cTDP and trip temperature in Linux
 
-This problem is related to thermal throttling on Linux, which is set much below Windows values. This will cause your laptop to run much slower than it should under heavy stress.
+This problem is related to thermal throttling on Linux, which is set much below Windows values. This will cause your laptop to run slower than it should under heavy stress.
 
 Before attempting to apply this solution, please make sure that the problem still exists. To do so, open a Linux terminal and run following commands:
 ```
