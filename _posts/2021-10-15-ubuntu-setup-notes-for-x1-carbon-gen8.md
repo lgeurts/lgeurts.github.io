@@ -54,15 +54,15 @@ $ sudo apt install timeshift
 $ sudo apt-get remove --purge totem
 $ sudo apt install zsh
 ```
-## Possible issues
+## Hibernation modus aka deep sleep
 
-### Hibernation modus aka deep sleep
-
-In most setups, simply closing the lid will probably trigger deep sleep. If you are using a systemd-based distro, you can verify if it works on the command line:
+In most setups, simply closing the lid will probably trigger deep sleep. Check that it works using the command line:
 ```
 $ systemctl suspend -i
 ```
-### Low cTDP and trip temperature in Linux
+If not, upgrade to a newer kernel.
+
+## Low cTDP and trip temperature in Linux
 
 This problem is related to 'thermal throttling' on Linux, which is set much below Windows values. It will cause your laptop to run slower than it could when under heavy stress.
 
