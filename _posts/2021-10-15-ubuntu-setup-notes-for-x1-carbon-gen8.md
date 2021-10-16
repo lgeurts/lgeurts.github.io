@@ -81,7 +81,7 @@ sudo apt install git virtualenv build-essential python3-dev \
 $ cd lenovo-throttling-fix/
 $ sudo ./install.sh
 ```
-and check again that the result from running the rdmsr command is 3.
+4. Check again that the result from running the rdmsr command is 3.
 
 I use a bit lower temperature levels to preserve battery life. If you want to change the values, edit /etc/lenovo_fix, and set the Trip_Temp_C for both battery and AC the way you want:
 ```
