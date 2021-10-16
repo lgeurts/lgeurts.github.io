@@ -15,7 +15,7 @@ tags: [ Linux Tutorials ]
 
 ### Hibernation modus aka deep sleep
 
-In most setups, simply closing the lid will probably trigger deep sleep. If you are using a systemd-based distro (most of which are), you can verify if it works on the command line:
+In most setups, simply closing the lid will probably trigger deep sleep. If you are using a systemd-based distro, you can verify if it works on the command line:
 ```
 $ systemctl suspend -i
 ```
