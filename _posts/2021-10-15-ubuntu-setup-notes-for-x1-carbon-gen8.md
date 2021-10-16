@@ -84,7 +84,7 @@ I always stick with the following settings for my laptops (because they are most
 - Start threshold: 60%
 - Stop threshold: 65%
 
-This means that the charging will start only if the battery level goes down below 60% and will stop at 65%. This prevents my battery from being charged too often and from being charged beyond a recommended level.
+This means that charging will start only if the battery level goes down below 60% and will stop at 65%. This prevents my battery from being charged too often and from being charged beyond a recommended level.
 
 To achieve this for Linux based machines you'll need to install some packages:
 
