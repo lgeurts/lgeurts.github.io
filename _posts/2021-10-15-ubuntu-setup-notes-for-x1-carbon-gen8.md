@@ -11,7 +11,7 @@ tags: [ Linux Tutorials ]
 
 ## BIOS settings
 
-The BIOS has two Sleep State options, Windows and Linux, which you can find in Config > Power > Sleep State. 
+The BIOS has two Sleep State options, which you can find in Config > Power > Sleep State. 
 
 The **Linux** option is a traditional S3 power state where all hardware components are turned off except for the RAM, and it should work normally. 
 
