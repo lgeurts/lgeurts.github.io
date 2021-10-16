@@ -76,7 +76,7 @@ If you see 3 as a result value (15 when running on the battery), you don’t hav
 sudo apt install git virtualenv build-essential python3-dev \
   libdbus-glib-1-dev libgirepository1.0-dev libcairo2-dev
 ```
-3. Install lenovo-throttling-fix:
+3. Install the lenovo-throttling-fix:
 ```
 $ cd lenovo-throttling-fix/
 $ sudo ./install.sh
