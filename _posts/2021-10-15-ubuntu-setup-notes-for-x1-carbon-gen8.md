@@ -123,31 +123,31 @@ Some say thresholds are needed to keep the battery healthy, some think they are 
 
 I always stick with the following settings for my laptops (because they are mostly on AC):
 ```
-- Start threshold: 60%
-- Stop threshold: 65%
+Start threshold: 60% - Stop threshold: 65%
 ```
 This means that charging will start only if the battery level goes down below 60% and will stop at 65%. This prevents my battery from being charged too often and from being charged beyond a recommended level.
 
-To achieve this for Linux based machines you'll need to install some packages:
+To achieve this for Linux based machines:
+1. Install some packages:
 ```
 $ sudo apt-get install tlp tlp-rdw acpi-call-dkms tp-smapi-dkms acpi-call-dkms
 ```
-After that just edit the /etc/default/tlp file and change below values:
+2. After that edit the /etc/default/tlp file and change below values:
 ```
 # Uncomment both of them if commented out
 START_CHARGE_THRESH_BAT0=60
 STOP_CHARGE_THRESH_BAT0=65
 ```
-Reboot, run:
+3. Reboot, run:
 ```
 sudo tlp-stat | grep tpacpi-bat
 ```
-Verify that the values are as you expected:
+4. Verify that the values are as you expected:
 ```
 tpacpi-bat.BAT0.startThreshold          = 60 [%]
 tpacpi-bat.BAT0.stopThreshold           = 65 [%]
 ```
-You can change these thresholds anytime, and apply changes typing:
+5. You can change these thresholds anytime, and apply changes typing:
 ```
 $ sudo tlp start
 ```
