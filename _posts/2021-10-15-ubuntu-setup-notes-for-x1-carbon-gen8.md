@@ -19,7 +19,40 @@ The **Windows** option is a newer software-based "modern standby" which works on
 
 ## Software packages
 
-REMINDER: add packages I usually download as an extra.
+sudo apt install ubuntu-restricted-extras
+sudo apt install tmux
+sudo apt install spotify
+sudo snap install atom --classic
+sudo apt install screenfetch
+sudo apt install curl
+sudo apt install youtube-dl
+sudo apt install gimp
+sudo apt install vim
+apm install pigments
+apm install file-icons
+sudo apt install python
+snap install powershell --classic
+apm install teletype
+sudo apt install git
+sudo apt install github
+sudo apt install htop
+sudo apt install iotop
+sudo apt install iftop
+sudo apt install ttyload
+sudo apt install ranger
+sudo apt update && sudo apt install virtualbox virtualbox-ext-pack -y
+sudo apt install steam
+sudo add-apt-repository ppa:yann1ck/onedrive
+sudo apt install onedrive
+sudo apt install ecryptfs-utils cryptsetup
+curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+sudo apt install timeshift
+sudo apt-get remove --purge totem
+sudo apt install msr-tools
+sudo apt-get install tlp tlp-rdw acpi-call-dkms tp-smapi-dkms acpi-call-dkms
+sudo apt install zsh
+
+REMINDER: add pmore ackages I usually download
 
 ## Possible issues
 
