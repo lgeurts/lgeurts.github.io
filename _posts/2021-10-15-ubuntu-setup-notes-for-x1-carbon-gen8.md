@@ -83,7 +83,7 @@ $ sudo ./install.sh
 ```
 4. Check again that the result from running the rdmsr command is 3.
 
-I use lower temperature levels to preserve battery life. If you want to change values, edit /etc/lenovo_fix.conf, and set the Trip_Temp_C for both battery and AC the way you want:
+I use lower temperature levels to preserve battery life. To change defalt values, edit /etc/lenovo_fix.conf, and set the Trip_Temp_C for both battery and AC the way you want:
 ```
 [BATTERY]
 # Other options here...
@@ -98,7 +98,7 @@ Trip_Temp_C: 90
 ```
 ## CPU undervolting
 
-The Lenovo Throttling fix script also supports undervolting. To enable, once again edit /etc/lenovo_fix.conf and update the [UNDERVOLT] section. 
+The Lenovo Throttling fix script also supports undervolting. To enable, once again open /etc/lenovo_fix.conf and update the [UNDERVOLT] section. 
 
 In my case, these settings are stable:
 ```
