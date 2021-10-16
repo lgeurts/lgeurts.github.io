@@ -140,7 +140,7 @@ Reboot, run:
 ```
 sudo tlp-stat | grep tpacpi-bat
 ```
-and check if the values are as you expect:
+Verify that the values are as you expect:
 ```
 tpacpi-bat.BAT0.startThreshold          = 60 [%]
 tpacpi-bat.BAT0.stopThreshold           = 65 [%]
