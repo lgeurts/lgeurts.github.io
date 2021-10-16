@@ -52,8 +52,6 @@ $ sudo apt install timeshift
 $ sudo apt-get remove --purge totem
 $ sudo apt install zsh
 ```
-REMINDER: add pmore ackages I usually download
-
 ## Possible issues
 
 ### Hibernation modus aka deep sleep
@@ -83,7 +81,6 @@ sudo apt install git virtualenv build-essential python3-dev \
 $ cd lenovo-throttling-fix/
 $ sudo ./install.sh
 ```
-
 Check again that the result from running the rdmsr command is 3.
 
 I use a bit lower temperature levels to preserve battery life. If you want to change the values, edit /etc/lenovo_fix, and set the Trip_Temp_C for both battery and AC the way you want:
@@ -104,7 +101,6 @@ Trip_Temp_C: 90
 The Lenovo Throttling fix script also supports undervolting. To enable it, edit the /etc/lenovo_fix.conf and update the [UNDERVOLT] section. 
 
 In my case, these settings are stable:
-
 ```
 [UNDERVOLT]
 # CPU core voltage offset (mV)
@@ -131,7 +127,6 @@ I always stick with the following settings for my laptops (because they are most
 This means that charging will start only if the battery level goes down below 60% and will stop at 65%. This prevents my battery from being charged too often and from being charged beyond a recommended level.
 
 To achieve this for Linux based machines you'll need to install some packages:
-
 ```
 $ sudo apt-get install tlp tlp-rdw acpi-call-dkms tp-smapi-dkms acpi-call-dkms
 ```
