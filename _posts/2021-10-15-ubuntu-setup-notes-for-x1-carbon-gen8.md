@@ -28,7 +28,7 @@ Before attempting to apply this solution, please make sure that the problem stil
 $ sudo apt-get install msr-tools
 $ sudo rdmsr -f 29:24 -d 0x1a2
 ```
-If you see 3 as a result value (or 15 when running on battery), you don’t have to do anything. Otherwise:
+If you see 3 as a result value (15 when running on the battery), you don’t have to do anything. Otherwise:
 1. Disable Secure Boot in the BIOS (won’t work otherwise);
 2. Run this command:
 ```
@@ -40,6 +40,7 @@ sudo apt install git virtualenv build-essential python3-dev \
 $ cd lenovo-throttling-fix/
 $ sudo ./install.sh
 ```
+
 Check again, that the result from running the rdmsr command is 3.
 
 Personally, I use a bit lower temperature levels to preserve battery life in favor of performance. If you want to change the default values, you need to edit the /etc/lenovo_fix file and set the Trip_Temp_C for both battery and AC the way you want:
