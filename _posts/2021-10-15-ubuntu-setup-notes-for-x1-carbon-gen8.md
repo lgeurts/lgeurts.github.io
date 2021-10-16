@@ -48,8 +48,6 @@ $ sudo apt install ecryptfs-utils cryptsetup
 $ curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
 $ sudo apt install timeshift
 $ sudo apt-get remove --purge totem
-$ sudo apt install msr-tools
-$ sudo apt install tlp tlp-rdw acpi-call-dkms tp-smapi-dkms acpi-call-dkms
 $ sudo apt install zsh
 ```
 REMINDER: add pmore ackages I usually download
