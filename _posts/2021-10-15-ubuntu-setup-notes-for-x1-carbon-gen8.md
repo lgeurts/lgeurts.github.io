@@ -152,7 +152,7 @@ tpacpi-bat.BAT0.stopThreshold           = 65 [%]
 $ sudo tlp start
 ```
 
-Note that if you need your laptop fully charged, you can achieve that by running following command while connected to AC:
+Note that if you need your laptop fully charged, you can achieve that by running the following command while connected to AC:
 ```
 $ tlp fullcharge
 ```
