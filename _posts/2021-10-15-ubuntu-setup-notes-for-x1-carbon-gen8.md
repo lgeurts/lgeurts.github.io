@@ -98,7 +98,7 @@ Trip_Temp_C: 90
 ```
 ## CPU undervolting
 
-The Lenovo Throttling fix script also supports undervolting. To enable, once again open /etc/lenovo_fix.conf and update the [UNDERVOLT] section. 
+The Lenovo Throttling fix script also supports undervolting. To enable, re-open /etc/lenovo_fix.conf and update the [UNDERVOLT] section. 
 
 In my case, these settings are stable:
 ```
