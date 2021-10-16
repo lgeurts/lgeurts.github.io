@@ -1,6 +1,6 @@
 ---
 layout: post
-title: To-do's when re-installing Ubuntu 20.x on a ThinkPad X1 Carbon Gen 8
+title: To-do's when re-installing Ubuntu 20.x on a Lenovo ThinkPad X1 Carbon Gen 8
 read_time: true
 comments: true
 category: Open Source 
@@ -29,7 +29,7 @@ $ sudo apt-get install msr-tools
 $ sudo rdmsr -f 29:24 -d 0x1a2
 ```
 If you see 3 as a result value (or 15 when running on battery), you don’t have to do anything. Otherwise:
-1. Disable Secure Boot in the BIOS (won’t work otherwise).
+1. Disable Secure Boot in the BIOS (won’t work otherwise);
 2. Run this command:
 ```
 sudo apt install git virtualenv build-essential python3-dev \
