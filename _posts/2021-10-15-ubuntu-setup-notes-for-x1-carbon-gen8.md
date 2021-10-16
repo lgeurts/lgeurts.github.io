@@ -1,6 +1,6 @@
 ---
 layout: post
-title: To-do's when re-installing Ubuntu 20.xx on my ThinkPad X1 Carbon Gen 8
+title: To-do's when re-installing Ubuntu 20.xx on a ThinkPad X1 Carbon Gen 8
 read_time: true
 comments: true
 category: Open Source 
