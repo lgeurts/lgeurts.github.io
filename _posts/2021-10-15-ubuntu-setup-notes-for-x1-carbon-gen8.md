@@ -7,7 +7,7 @@ category: Open Source
 tags: [ Linux Tutorials ]
 ---
 
-<img src="/assets/groovy-gorilla.png" width="640">
+<img src="/assets/groovy-gorilla.png" width="650">
 
 ## BIOS settings
 
