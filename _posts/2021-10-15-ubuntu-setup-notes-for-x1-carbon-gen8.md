@@ -145,7 +145,7 @@ Verify that the values are as you expect:
 tpacpi-bat.BAT0.startThreshold          = 60 [%]
 tpacpi-bat.BAT0.stopThreshold           = 65 [%]
 ```
-You can change these thresholds anytime, and apply changes using command:
+You can change these thresholds anytime, and apply changes typing:
 ```
 $ sudo tlp start
 ```
