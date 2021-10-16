@@ -82,8 +82,8 @@ Some say thresholds are needed to keep the battery healthy, some think they are 
 
 I always stick with the following settings for my laptops (because they are mostly on AC):
 
-- Start threshold: 60%
-- Stop threshold: 65%
+- *Start threshold: 60%*
+- *Stop threshold: 65%*
 
 This means that charging will start only if the battery level goes down below 60% and will stop at 65%. This prevents my battery from being charged too often and from being charged beyond a recommended level.
 
