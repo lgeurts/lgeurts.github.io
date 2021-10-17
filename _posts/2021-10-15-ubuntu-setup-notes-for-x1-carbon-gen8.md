@@ -59,7 +59,7 @@ $ sudo apt install zsh
 
 ## Restore dotfiles
 
-Private repo, available on request:[My Ubuntu Linux dotfiles](https://github.com/lgeurts/ubuntu-20.x-dotfiles).
+Private repo, available on request: [My Ubuntu Linux dotfiles](https://github.com/lgeurts/ubuntu-20.x-dotfiles).
 
 ## Hibernation modus aka deep sleep
 
