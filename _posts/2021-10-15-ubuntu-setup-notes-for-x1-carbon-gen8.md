@@ -173,4 +173,3 @@ $ sudo tlp start
 ```
 $ tlp fullcharge
 ```
-![](/assets/under-construction.png)
