@@ -27,18 +27,12 @@ Output from my .bash_history and .zsh_history files:
 ```
 $ sudo apt install ubuntu-restricted-extras
 $ sudo apt install tmux
-$ sudo apt install spotify
-$ sudo snap install atom --classic
 $ sudo apt install neofetch
 $ sudo apt install curl
 $ sudo apt install youtube-dl
 $ sudo apt install gimp
 $ sudo apt install vim
-$ apm install pigments
-$ apm install file-icons
 $ sudo apt install python
-$ snap install powershell --classic
-$ apm install teletype
 $ sudo apt install git
 $ sudo apt install github
 $ sudo apt install htop
@@ -49,23 +43,34 @@ $ sudo apt install ranger
 $ sudo apt update && sudo apt install virtualbox virtualbox-ext-pack -y
 $ sudo apt install steam
 $ sudo add-apt-repository ppa:yann1ck/onedrive
-$ sudo apt install onedrive
+ <> $ sudo apt install onedrive
 $ sudo apt install ecryptfs-utils cryptsetup
 $ curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+ <> $ unzip awscliv2.zip
+ <> $ sudo ./aws/install -i /usr/local/aws-cli -b /usr/local/bin
 $ sudo apt install timeshift
-$ sudo apt-get remove --purge totem
 $ sudo apt install zsh
 $ sudo apt install gufw
 $ sudo apt -y install net-tools
-$ sudo apt install ffmpegthumbnailer
 $ sudo apt install smartmontools
 $ sudo apt install meson libevince-dev gir1.2-gstreamer-1.0 librust-gstreamer-audio-sys-dev librust-gstreamer-audio-sys-dev libgtksourceview-4-dev libmusicbrainz5-dev libwebkit2gtk-4.0-dev libgirepository1.0-dev ninja-build
  <> $ cd sushi
  <> $ meson builddir && cd builddir
  <> $ sudo meson install
 $ sudo apt install mupdf
+$ sudo apt-get remove --purge totem
+$ sudo apt install mpv
+$ sudo apt install ffmpeg
+$ sudo apt install ffmpegthumbnailer
 $ sudo apt install protonvpn
 $ sudo apt install gnome-shell-extension-appindicator gir1.2-appindicator3-0.1
+$ sudo snap install slack --classic
+$ sudo snap install powershell --classic
+$ sudo snap install spotify
+$ sudo snap install atom --classic
+$ apm install pigments
+$ apm install file-icons
+$ apm install teletype
 ```
 ## Restore dotfiles
 
