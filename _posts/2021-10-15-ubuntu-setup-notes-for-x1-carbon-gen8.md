@@ -60,9 +60,9 @@ $ sudo apt -y install net-tools
 $ sudo apt install ffmpegthumbnailer
 $ sudo apt install smartmontools
 $ sudo apt install meson libevince-dev gir1.2-gstreamer-1.0 librust-gstreamer-audio-sys-dev librust-gstreamer-audio-sys-dev libgtksourceview-4-dev libmusicbrainz5-dev libwebkit2gtk-4.0-dev libgirepository1.0-dev ninja-build
- $ cd sushi
- $ meson builddir && cd builddir
- $sudo meson install
+ <> $ cd sushi
+ <> $ meson builddir && cd builddir
+ <> $ sudo meson install
 $ sudo apt install mupdf
 $ sudo apt install protonvpn
 $ sudo apt install gnome-shell-extension-appindicator gir1.2-appindicator3-0.1
