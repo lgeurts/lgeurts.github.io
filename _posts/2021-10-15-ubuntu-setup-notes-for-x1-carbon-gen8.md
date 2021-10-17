@@ -17,7 +17,9 @@ The **Linux** option is a traditional S3 power state where all hardware componen
 
 The **Windows** option is a newer software-based "modern standby" which works on Linux (despite the name). One possible benefit to the Windows sleep state is faster wake up time, and one possible drawback is increased power usage. 
 
-Choose the Windows option.
+<p align="center">
+    // Choose the Windows option.
+</p>
 
 ## Extra software packages
 
@@ -54,6 +56,9 @@ $ sudo apt install timeshift
 $ sudo apt-get remove --purge totem
 $ sudo apt install zsh
 ```
+
+## Restore dot files
+
 ## Hibernation modus aka deep sleep
 
 Simply closing the lid will probably trigger deep sleep. Check that it works using the command line:
