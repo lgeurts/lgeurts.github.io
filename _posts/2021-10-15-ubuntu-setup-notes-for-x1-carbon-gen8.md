@@ -57,7 +57,9 @@ $ sudo apt-get remove --purge totem
 $ sudo apt install zsh
 ```
 
-## Restore dot files
+## Restore dotfiles
+
+Private repo, available on request. [ubuntu-dotfiles](https://github.com/lgeurts/ubuntu-20.x-dotfiles)
 
 ## Hibernation modus aka deep sleep
 
