@@ -55,6 +55,14 @@ $ curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.z
 $ sudo apt install timeshift
 $ sudo apt-get remove --purge totem
 $ sudo apt install zsh
+$ sudo apt install gufw
+$ sudo apt -y install net-tools
+$ sudo apt install ffmpegthumbnailer
+$ sudo apt install smartmontools
+$ sudo apt install meson libevince-dev gir1.2-gstreamer-1.0 librust-gstreamer-audio-sys-dev librust-gstreamer-audio-sys-dev libgtksourceview-4-dev libmusicbrainz5-dev libwebkit2gtk-4.0-dev libgirepository1.0-dev ninja-build
+ $ cd sushi
+ $ meson builddir && cd builddir
+$sudo meson install
 ```
 
 ## Restore dotfiles
