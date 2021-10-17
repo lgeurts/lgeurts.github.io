@@ -29,7 +29,7 @@ $ sudo apt install ubuntu-restricted-extras
 $ sudo apt install tmux
 $ sudo apt install spotify
 $ sudo snap install atom --classic
-$ sudo apt install screenfetch
+$ sudo apt install neofetch
 $ sudo apt install curl
 $ sudo apt install youtube-dl
 $ sudo apt install gimp
@@ -62,9 +62,11 @@ $ sudo apt install smartmontools
 $ sudo apt install meson libevince-dev gir1.2-gstreamer-1.0 librust-gstreamer-audio-sys-dev librust-gstreamer-audio-sys-dev libgtksourceview-4-dev libmusicbrainz5-dev libwebkit2gtk-4.0-dev libgirepository1.0-dev ninja-build
  $ cd sushi
  $ meson builddir && cd builddir
-$sudo meson install
+ $sudo meson install
+$ sudo apt install mupdf
+$ sudo apt install protonvpn
+$ sudo apt install gnome-shell-extension-appindicator gir1.2-appindicator3-0.1
 ```
-
 ## Restore dotfiles
 
 Private repo, available on request: [My Ubuntu Linux dotfiles](https://github.com/lgeurts/ubuntu-20.x-dotfiles).
