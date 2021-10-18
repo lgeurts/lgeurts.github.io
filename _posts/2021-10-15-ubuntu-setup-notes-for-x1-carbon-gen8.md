@@ -21,7 +21,7 @@ The **Windows** option is a newer software-based "modern standby" which works on
     Choose the Windows option.
 </p>
 
-## Extra software packages
+## Customization
 
 Output from my .bash_history and .zsh_history files:
 ```
@@ -90,7 +90,7 @@ $ apm install teletype
 $ cd "My Documents"
  <> $ find . -type f -print0 | xargs -0 chmod -x
 ```
-## Restore dotfiles
+## Dotfiles
 
 Private repo, available on request: [My Ubuntu Linux dotfiles](https://github.com/lgeurts/ubuntu-20.x-dotfiles).
 
