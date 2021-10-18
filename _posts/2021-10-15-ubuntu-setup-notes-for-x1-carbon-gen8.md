@@ -39,7 +39,7 @@ $ sudo apt install iftop
 $ sudo apt install ttyload
 $ sudo apt install ranger
 $ sudo apt update && sudo apt install virtualbox virtualbox-ext-pack -y
- <> $ sudo sh sign-vboxmodules.sh
+ <> $ sudo sh [sign-vboxmodules.sh](https://stegard.net/2016/10/virtualbox-secure-boot-ubuntu-fail/) 
 $ sudo apt install steam
 $ sudo add-apt-repository ppa:yann1ck/onedrive
  <> $ sudo apt install onedrive
