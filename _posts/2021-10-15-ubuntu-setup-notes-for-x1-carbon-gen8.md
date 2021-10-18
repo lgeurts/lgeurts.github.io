@@ -90,6 +90,7 @@ $ cd "My Documents"
 ```
 Resources: 
 - [VirtualBox + Secure Boot + Ubuntu = fail](https://stegard.net/2016/10/virtualbox-secure-boot-ubuntu-fail/)
+- [vim-plug: Vim plugin manager](https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim)
 - [Thunderbird and Hotmail](https://support.mozilla.org/en-US/kb/thunderbird-and-hotmail)
 
 **Note:** dotfiles are available in [this private repo](https://github.com/lgeurts/ubuntu-20.x-dotfiles).
