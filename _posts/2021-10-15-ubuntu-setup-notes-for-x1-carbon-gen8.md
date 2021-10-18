@@ -39,7 +39,7 @@ $ sudo apt install iftop
 $ sudo apt install ttyload
 $ sudo apt install ranger
 $ sudo apt update && sudo apt install virtualbox virtualbox-ext-pack -y
- <> $ sudo sh [sign-vboxmodules.sh](https://stegard.net/2016/10/virtualbox-secure-boot-ubuntu-fail/) 
+ <> $ sudo sh sign-vboxmodules.sh
 $ sudo apt install steam
 $ sudo add-apt-repository ppa:yann1ck/onedrive
  <> $ sudo apt install onedrive
@@ -88,6 +88,8 @@ $ apm install teletype
 $ cd "My Documents"
  <> $ find . -type f -print0 | xargs -0 chmod -x
 ```
+How to sign VirtualBox modules is found [here]( (https://stegard.net/2016/10/virtualbox-secure-boot-ubuntu-fail/)
+
 **Note:** dotfiles available in [this private repo](https://github.com/lgeurts/ubuntu-20.x-dotfiles).
 
 ## Hibernation modus aka deep sleep
