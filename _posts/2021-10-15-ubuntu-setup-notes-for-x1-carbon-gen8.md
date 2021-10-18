@@ -32,7 +32,6 @@ $ sudo apt install gimp
 $ sudo apt install vim
 $ sudo apt install python
 $ sudo apt install git
-$ sudo apt install github
 $ sudo apt install htop
 $ sudo apt install iotop
 $ sudo apt install iftop
