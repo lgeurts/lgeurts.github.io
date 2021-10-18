@@ -88,7 +88,7 @@ $ apm install teletype
 $ cd "My Documents"
  <> $ find . -type f -print0 | xargs -0 chmod -x
 ```
-Dotfiles available on request: [My Ubuntu Linux dotfiles](https://github.com/lgeurts/ubuntu-20.x-dotfiles).
+**Note:** Dotfiles available [here](https://github.com/lgeurts/ubuntu-20.x-dotfiles).
 
 ## Hibernation modus aka deep sleep
 
