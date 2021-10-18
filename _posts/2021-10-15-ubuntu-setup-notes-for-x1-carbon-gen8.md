@@ -9,7 +9,7 @@ tags: [ Linux Tutorials ]
 
 <img src="/assets/groovy-gorilla.png" width="654">
 
-## Custom BIOS settings
+## BIOS sleep states
 
 The BIOS has 2 Sleep State options, which you can find in Config > Power > Sleep State. 
 
@@ -90,9 +90,7 @@ $ apm install teletype
 $ cd "My Documents"
  <> $ find . -type f -print0 | xargs -0 chmod -x
 ```
-### Dotfiles
-
-Private repo, available on request: [My Ubuntu Linux dotfiles](https://github.com/lgeurts/ubuntu-20.x-dotfiles).
+Dotfiles available on request: [My Ubuntu Linux dotfiles](https://github.com/lgeurts/ubuntu-20.x-dotfiles).
 
 ## Hibernation modus aka deep sleep
 
