@@ -88,9 +88,8 @@ $ apm install teletype
 $ cd "My Documents"
  <> $ find . -type f -print0 | xargs -0 chmod -x
 ```
-### Resources etc.
-
-[How to sign VirtualBox modules](https://stegard.net/2016/10/virtualbox-secure-boot-ubuntu-fail/)
+Resources: 
+- [How to sign VirtualBox modules](https://stegard.net/2016/10/virtualbox-secure-boot-ubuntu-fail/) 
 
 **Note:** dotfiles are available in [this private repo](https://github.com/lgeurts/ubuntu-20.x-dotfiles).
 
