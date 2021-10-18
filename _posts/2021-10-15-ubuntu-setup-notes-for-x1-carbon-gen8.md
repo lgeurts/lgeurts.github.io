@@ -92,7 +92,7 @@ $ cd "My Documents"
 Resources: 
 - [VirtualBox + Secure Boot + Ubuntu = fail](https://stegard.net/2016/10/virtualbox-secure-boot-ubuntu-fail/)
 - [vim-plug: Vim plugin manager](https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim)
-- [Install Zsh, Oh-My-Zsh, Fonts-Powerline & Plugins (Ubuntu 18.04+, MacOS](https://gist.github.com/willianfalbo/a6a69de0ef83815174042363313ec668)
+- [Install Zsh, Oh-My-Zsh, Fonts-Powerline & Plugins (Ubuntu 18.04+, MacOS)](https://gist.github.com/willianfalbo/a6a69de0ef83815174042363313ec668)
 - [Installing and customizing oh-my-zsh on Ubuntu](https://dev.to/nicoh/installing-oh-my-zsh-on-ubuntu-362f)
 - [Thunderbird and Hotmail](https://support.mozilla.org/en-US/kb/thunderbird-and-hotmail)
 
