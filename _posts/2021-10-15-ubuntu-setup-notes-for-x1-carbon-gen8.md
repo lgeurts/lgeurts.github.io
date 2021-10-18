@@ -89,11 +89,18 @@ $ apm install atom-beautify
 $ apm install todo-show
 $ apm install expose
 $ apm install emmet
-$ apm install emmet
 $ apm install color-picker
+$ apm install markdown-writer
 $ apm install language-markdown
 $ apm install language-powershell
 $ apm install autocomplete-python
+$ apm install language-batchfile
+$ apm install language-vbscript
+$ apm install language-reg
+$ apm install minimap
+$ apm install minimap-autohider
+$ apm install autoclose-html-plus
+$ apm install text-align
 $ cd "My Documents"
  <> $ find . -type f -print0 | xargs -0 chmod -x
 ```
