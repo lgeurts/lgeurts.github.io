@@ -88,7 +88,9 @@ $ apm install teletype
 $ cd "My Documents"
  <> $ find . -type f -print0 | xargs -0 chmod -x
 ```
-How to sign VirtualBox modules is found [here]( (https://stegard.net/2016/10/virtualbox-secure-boot-ubuntu-fail/)
+### Documentation
+
+[How to sign VirtualBox modules((https://stegard.net/2016/10/virtualbox-secure-boot-ubuntu-fail/)
 
 **Note:** dotfiles available in [this private repo](https://github.com/lgeurts/ubuntu-20.x-dotfiles).
 
