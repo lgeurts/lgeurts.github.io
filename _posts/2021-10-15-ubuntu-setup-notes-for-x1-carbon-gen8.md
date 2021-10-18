@@ -21,9 +21,7 @@ The **Windows** option is a newer software-based "modern standby" which works on
     Choose the Windows option.
 </p>
 
-## System customization
-
-Output from my .bash_history and .zsh_history files:
+## Bash /& ZSH history
 ```
 $ sudo apt install ubuntu-restricted-extras
 $ sudo apt install tmux
