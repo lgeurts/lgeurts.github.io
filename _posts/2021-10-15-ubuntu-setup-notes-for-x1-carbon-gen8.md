@@ -61,6 +61,7 @@ $ curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.z
 $ sudo apt install timeshift
 $ sudo apt install zsh
  <> $ chsh -s $(which zsh)
+$ 
 $ git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions
 $ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
 $ gsettings set org.gnome.desktop.privacy remember-recent-files false
@@ -91,6 +92,8 @@ $ cd "My Documents"
 Resources: 
 - [VirtualBox + Secure Boot + Ubuntu = fail](https://stegard.net/2016/10/virtualbox-secure-boot-ubuntu-fail/)
 - [vim-plug: Vim plugin manager](https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim)
+- [Install Zsh, Oh-My-Zsh, Fonts-Powerline & Plugins (Ubuntu 18.04+, MacOS](https://gist.github.com/willianfalbo/a6a69de0ef83815174042363313ec668)
+- [Installing and customizing oh-my-zsh on Ubuntu](https://dev.to/nicoh/installing-oh-my-zsh-on-ubuntu-362f)
 - [Thunderbird and Hotmail](https://support.mozilla.org/en-US/kb/thunderbird-and-hotmail)
 
 **Note:** dotfiles are available in [this private repo](https://github.com/lgeurts/ubuntu-20.x-dotfiles).
