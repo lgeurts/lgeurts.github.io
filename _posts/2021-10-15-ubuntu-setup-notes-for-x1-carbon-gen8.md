@@ -48,7 +48,6 @@ $ sudo add-apt-repository ppa:yann1ck/onedrive
  <> $ systemctl --user start onedrive
  <> $ systemctl status --user onedrive
 $ curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
-$ touch .vimrc
 $ git clone https://github.com/powerline/fonts.git --depth=1
  <> $ cd fonts
  <> $ ./install.sh
@@ -61,10 +60,11 @@ $ curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.z
  <> $ aws configure --profile lgeurts
 $ sudo apt install timeshift
 $ sudo apt install zsh
-$ chsh -s $(which zsh)
+ <> $ chsh -s $(which zsh)
 $ git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions
 $ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
-$ gsettings set org.gnome.desktop.privacy remember-recent-files false$ sudo apt install gufw
+$ gsettings set org.gnome.desktop.privacy remember-recent-files false
+$ sudo apt install gufw
 $ sudo apt -y install net-tools
 $ sudo apt install smartmontools
 $ sudo apt install meson libevince-dev gir1.2-gstreamer-1.0 librust-gstreamer-audio-sys-dev librust-gstreamer-audio-sys-dev libgtksourceview-4-dev libmusicbrainz5-dev libwebkit2gtk-4.0-dev libgirepository1.0-dev ninja-build
