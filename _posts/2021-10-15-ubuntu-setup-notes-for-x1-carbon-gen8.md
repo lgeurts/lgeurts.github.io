@@ -86,6 +86,15 @@ $ sudo snap install atom --classic
 $ apm install pigments
 $ apm install file-icons
 $ apm install teletype
+$ apm install atom-beautify
+$ apm install todo-show
+$ apm install expose
+$ apm install emmet
+$ apm install emmet
+$ apm install color-picker
+$ apm install language-markdown
+$ apm install language-powershell
+$ apm install autocomplete-python
 $ cd "My Documents"
  <> $ find . -type f -print0 | xargs -0 chmod -x
 ```
