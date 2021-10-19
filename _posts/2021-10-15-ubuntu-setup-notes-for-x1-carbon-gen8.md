@@ -21,7 +21,7 @@ The BIOS has 2 Sleep State options, which you can find in Config > Power > Sleep
 
 The Linux option is a **traditional S3** power state where all hardware components are turned off except for the RAM, and it should work normally. 
 
-The Windows option is a **newer software-based** "modern standby" which works on Linux (despite the name). One **benefit** to the **Windows** sleep state is a **faster wake up time**, a possible drawback is increased power usage. 
+The Windows option is a **newer software-based** "modern standby" which works on Linux (despite the name). One **benefit** to the **Windows** sleep state is a **faster wake up time**, a possible drawback is **increased power usage**. 
 
 <p align="center">
     Tested the Windows option > did not notice any major loss on battery time.
