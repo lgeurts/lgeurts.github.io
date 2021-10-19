@@ -9,9 +9,13 @@ tags: [ Linux Tutorials ]
 
 <img src="/assets/groovy-gorilla.png" width="654">
 
-# Hardware settings
+# BIOS functions
 
-## BIOS sleep states
+## Firmware
+
+Lenovo send out capusles which, when running the Ubuntu update-manager, will be available for installation.
+
+## Sleep states
 
 The BIOS has 2 Sleep State options, which you can find in Config > Power > Sleep State. 
 
@@ -23,7 +27,7 @@ The **Windows** option is a newer software-based "modern standby" which works on
     I chose the Windows option, did not notice any major loss on battery time.
 </p>
 
-# Software pcakages
+# Software packages
 
 ## Bash & zsh history output
 ```
