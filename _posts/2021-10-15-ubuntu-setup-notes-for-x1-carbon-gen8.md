@@ -26,7 +26,7 @@ The **Linux** option is a traditional S3 power state where all hardware componen
 The **Windows** option is a newer software-based "modern standby" which works on Linux (despite the name). One possible benefit to the Windows sleep state is faster wake up time, and one possible drawback is increased power usage. 
 
 <p align="center">
-    I chose the Windows option, did not notice any major loss on battery time.
+    Took the Windows option > did not notice any major loss on battery time.
 </p>
 
 # Software packages
