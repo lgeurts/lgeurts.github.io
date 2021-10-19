@@ -29,7 +29,7 @@ The Windows option is a **newer software-based** "modern standby" which works on
 
 # Software packages
 
-## Bash & zsh history output
+## My bash & zsh history output
 ```
 $ sudo apt install ubuntu-restricted-extras
 $ sudo apt install tmux
