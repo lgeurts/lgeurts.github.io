@@ -122,7 +122,7 @@ Resources:
 
 **Note:** dotfiles are available in [this private repo](https://github.com/lgeurts/ubuntu-20.x-dotfiles).
 
-# System configuration
+# System specifics
 
 ## Hibernation modus aka deep sleep
 
