@@ -19,9 +19,9 @@ Lenovo sends out capsules which, when running Ubuntu update-manager, will be ava
 
 The BIOS has 2 Sleep State options, which you can find in Config > Power > Sleep State. 
 
-The **Linux** option is a traditional S3 power state where all hardware components are turned off except for the RAM, and it should work normally. 
+The Linux option is a **traditional S3 power state** where all hardware components are turned off except for the RAM, and it should work normally. 
 
-The **Windows** option is a newer software-based "modern standby" which works on Linux (despite the name). One possible benefit to the Windows sleep state is faster wake up time, and one possible drawback is increased power usage. 
+The **Windows** option is a **newer software-based "modern standby"** which works on Linux (despite the name). One possible benefit to the Windows sleep state is faster wake up time, and one possible drawback is increased power usage. 
 
 <p align="center">
     Took the Windows option > did not notice any major loss on battery time.
