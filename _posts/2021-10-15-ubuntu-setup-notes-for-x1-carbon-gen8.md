@@ -45,7 +45,7 @@ $ sudo apt install iotop
 $ sudo apt install iftop
 $ sudo apt install ttyload
 $ sudo apt install ranger
-$ sudo apt update && sudo apt install virtualbox virtualbox-ext-pack -y
+$ sudo apt install virtualbox virtualbox-ext-pack -y
  <> $ sudo sh sign-vboxmodules.sh
 $ sudo apt install steam
 $ sudo add-apt-repository ppa:yann1ck/onedrive
@@ -60,7 +60,7 @@ $ git clone https://github.com/powerline/fonts.git --depth=1
  <> $ ./install.sh
  <> $ cd..
 <> $ rm -rf fonts
-$ sudo apt install ecryptfs-utils cryptsetup
+$ sudo apt update && sudo apt install ecryptfs-utils cryptsetup
 $ curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
  <> $ unzip awscliv2.zip
  <> $ sudo ./aws/install -i /usr/local/aws-cli -b /usr/local/bin
