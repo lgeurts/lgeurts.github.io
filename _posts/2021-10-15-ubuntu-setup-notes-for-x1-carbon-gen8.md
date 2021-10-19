@@ -21,6 +21,8 @@ The **Windows** option is a newer software-based "modern standby" which works on
     I chose the Windows option, did not notice any major loss on battery time.
 </p>
 
+# Software
+
 ## Bash & zsh history output
 ```
 $ sudo apt install ubuntu-restricted-extras
