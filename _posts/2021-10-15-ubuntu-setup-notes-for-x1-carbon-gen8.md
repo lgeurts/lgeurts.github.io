@@ -59,7 +59,7 @@ $ git clone https://github.com/powerline/fonts.git --depth=1
  <> $ cd fonts
  <> $ ./install.sh
  <> $ cd..
-<> $ rm -rf fonts
+ <> $ rm -rf fonts
 $ sudo apt update && sudo apt install ecryptfs-utils cryptsetup
 $ curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
  <> $ unzip awscliv2.zip
@@ -81,6 +81,7 @@ $ sudo apt install meson libevince-dev gir1.2-gstreamer-1.0 librust-gstreamer-au
  <> $ sudo meson install
 $ sudo apt install mupdf
 $ sudo apt-get remove --purge totem
+$ sudo apt update && sudo apt upgrade
 $ sudo apt install mpv
 $ sudo apt install ffmpeg
 $ sudo apt install ffmpegthumbnailer
