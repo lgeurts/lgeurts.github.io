@@ -29,7 +29,7 @@ The raw notes are ***open sourced*** - should you encounter errors, have a bette
 > 2. Techniques
 > * 2.1 Regression
 > * 2.2 Classification
-> 3. In Practice
+> 9. In Practice
 
 ------------------------------------------------------------------------------
 
