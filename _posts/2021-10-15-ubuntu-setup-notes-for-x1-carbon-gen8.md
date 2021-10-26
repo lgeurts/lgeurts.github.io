@@ -64,7 +64,7 @@ $ sudo apt update && sudo apt install ecryptfs-utils cryptsetup
 $ curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
  <> $ unzip awscliv2.zip
  <> $ sudo ./aws/install -i /usr/local/aws-cli -b /usr/local/bin
- <> $ aws configure --profile <**my username**>
+ <> $ aws configure --profile **my username**
 $ sudo apt install timeshift
 $ sudo apt install zsh
  <> $ chsh -s $(which zsh)
