@@ -13,7 +13,7 @@ In this guide I explain how I built a Cloud Gaming environment using Amazon Web 
 
 ## **Dude, why should I use cloud gaming when I already have a high-end gaming machine?**
 
-Consider yourself a lucky person. Not everybody can afford having a monster like for example the [Falcon Northwest Talon](falcon-nw.com)](https://www.falcon-nw.com/desktops) at home. But even so, how long will you be able to keep the machine up to date? Think PRICEY video cards, processors that get outdated, in general the amount of cash you will have to shell out for playing the latest and greatest? Building yourself? Sure but the same principle applies. Compare that a system that will always deliver the specs you want. And anyways, what's gonna stop you to create an new instance with the latest hardware?
+Consider yourself a lucky person. Not everybody can afford having a monster like for example the [Falcon Northwest Talon](falcon-nw.com)](https://www.falcon-nw.com/desktops) at home. But even so, how long will you be able to keep the machine up to date? Think PRICEY video cards, processors that get outdated, in general the amount of cash you will have to shell out for playing the latest and greatest? Building yourself? Sure but the same principle for all hardware components applies. 
 
 ## **OK, I'm convinced. What do I need?**
 
@@ -33,7 +33,7 @@ Consider yourself a lucky person. Not everybody can afford having a monster like
    - Raspberry PI 3
    - Android – With Google Play
 
-- [ ] **Setting up the Parsec account**
+- [ ] #### **Setting up the Parsec account**
 
 <img src="/assets/aws-parsec-setup/parsec-new-account.png" width="654">
 
