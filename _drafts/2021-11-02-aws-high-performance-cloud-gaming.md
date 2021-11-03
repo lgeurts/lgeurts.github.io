@@ -42,7 +42,10 @@ Not everybody can afford having a monster like for example the [Falcon Northwest
 1. Sign up with a username, email-address and password. You'll get a confirmation (check your spam folder) with a link to click on. Do that. 
 
 2. [Download](https://parsec.app/downloads/) the client for your platform, install it on your device and login.
-3. 
+
+- [ ] **Setting up AWS:**
+
+1. I suppose you have created and activated your AWS account. Let's continue with adding a VPC (Virtual Private Network) by logging in to your account and checking the VPC console:
 
 
 
