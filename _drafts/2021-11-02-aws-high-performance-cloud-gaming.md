@@ -40,6 +40,7 @@ Consider yourself a lucky person. Not everybody can afford having a monster like
 1. Sign up with a username, email-address and password. You'll get a confirmation (check your spam folder) with a link to click on. Do that. 
 
 2. [Download](https://parsec.app/downloads/) the client for your platform, install it on your device and login.
+3. 
 
 
 
