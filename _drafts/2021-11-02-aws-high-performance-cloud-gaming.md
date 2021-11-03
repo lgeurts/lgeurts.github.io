@@ -35,7 +35,7 @@ Consider yourself a lucky person. Not everybody can afford having a monster like
 
 ## Actionlist
 
-- [ ] ##### Setting up the Parsec account
+- [ ] **Configuring the Parsec account:**
 
 <img src="/assets/aws-parsec-setup/parsec-new-account.png" width="654">
 
