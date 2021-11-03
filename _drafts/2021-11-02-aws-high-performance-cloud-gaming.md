@@ -13,27 +13,33 @@ Consider yourself a lucky person. Not everybody can afford having a monster like
 
 **OK, I'm convinced. What do I need?**
 
-There are a few requirements that you’ll need to get this working properly.
+There are a few requirements that you’ll need to get this working properly:
 
-- [AWS Account](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/) - Some basic knowledge on how to launch servers
-- [Parsec account](https://parsec.app/) - Sounds like a logical decision
-- A good internet connection – 30/40mbps - FTTH (for low latency)
-- A job/business to pay the bill – AWS isn’t free, but it’s cheap
-- A game – Anything you want with the exception of VR (actually gonna test that one)
-- A local machine running any of the following:
-  - Windows 7+
-  - Linux – Ubuntu 18.04+
-  - Google Chrome or Microsoft Edge
-  - MacOS 10.11
-  - Raspberry PI 3
-  - Android – With Google Play
+AWS Account](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/) - Some basic knowledge on how to launch servers
+
+[Parsec account](https://parsec.app/) - Sounds like a logical decision
+
+1. A good internet connection – 30/40mbps - FTTH (for low latency)
+
+2. A job/business to pay the bill – AWS isn’t free, but it’s cheap
+
+3. A game – Anything you want with the exception of VR (actually gonna test that one)
+
+4. A local machine running any of the following:
+
+- Windows 7+
+- Linux – Ubuntu 18.04+
+- Google Chrome or Microsoft Edge
+- MacOS 10.11
+- Raspberry PI 3
+- Android – With Google Play
 
 - [ ] **Setting up the Parsec account**
 
 <img src="/assets/aws-parsec-setup/parsec-new-account.png" width="654">
 
-1. Sign up with a username, email-address and password. You'll get a confirmation (check your spam folder) with a link to click on. Do that. 
-2. [Download](https://parsec.app/downloads/) the client for your platform, install it on your device and login.
+- Sign up with a username, email-address and password. You'll get a confirmation (check your spam folder) with a link to click on. Do that. 
+- [Download](https://parsec.app/downloads/) the client for your platform, install it on your device and login.
 
 
 
