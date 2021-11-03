@@ -33,7 +33,7 @@ Consider yourself a lucky person. Not everybody can afford having a monster like
    - Raspberry PI 3
    - Android – With Google Play
 
-- [ ] #### **Setting up the Parsec account**
+- [ ] #### Setting up the Parsec account
 
 <img src="/assets/aws-parsec-setup/parsec-new-account.png" width="654">
 
