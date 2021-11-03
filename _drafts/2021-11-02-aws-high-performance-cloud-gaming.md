@@ -13,13 +13,13 @@ In this guide I explain how I built a Cloud Gaming environment using Amazon Web 
 
 ## **Dude, why should I use cloud gaming when I already have a high-end gaming machine?**
 
-Consider yourself a lucky person. Not everybody can afford having a monster like for example the [Falcon Northwest Talon](falcon-nw.com)](https://www.falcon-nw.com/desktops) at home. But even so, how long will you be able to keep the machine up to date? Think PRICEY video cards, processors that get outdated, in general the amount of cash you will have to shell out for playing the latest and greatest? Building yourself? Sure but the same principle for all hardware components applies. 
+Not everybody can afford having a monster like for example the [Falcon Northwest Talon](falcon-nw.com)](https://www.falcon-nw.com/desktops) at home. But even so, how long will you be able to keep the machine up to date? Think PRICEY video cards, processors that get outdated, in general the amount of cash you will have to shell out for playing the latest and greatest? Building yourself? Sure but the same principle for all hardware components applies. 
 
 ## **OK, I'm convinced. What do I need?**
 
 ### There are a few requirements that you’ll need to get this working properly:
 
-1. AWS Account](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/) - Some basic knowledge in AWS would be great but no worries, just follow the steps in this post and you will be ok.
+1. AWS Account](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/) - Some basics in AWS would be nice but no worries, follow my steps in this post and you will be ok.
 
 2. [Parsec account](https://parsec.app/) - Sounds like a logical decision.
 3. A good internet connection – 30/40mbps - FTTH (for low latency).
