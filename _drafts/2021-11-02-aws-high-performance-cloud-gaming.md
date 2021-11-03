@@ -9,11 +9,11 @@ tags: [ Cloud Computing, Gaming ]
 
 ---
 
-In this guide I explain how I built a Cloud Gaming environment using Amazon Web Services and Parsec. The principle is similar to any other services like Amazon Prime Video or Disney+, your games are streamed at a very low latency from a high-end host instance in AWS to your low-end home device that would crash when even thinking running a game that demands that extra bit of juice. Sounds pretty cool, right?
+In this guide I explain how I built a Cloud Gaming environment using Amazon Web Services and Parsec. The principle is similar to any other services like Amazon Prime Video or Disney+; your games are streamed at a **very low latency** from a high-end host instance in AWS to your home device that would crash when even thinking running a game that demands that extra bit of juice. Sounds pretty cool, right?
 
 ## **Dude, why should I use cloud gaming when I already have a high-end gaming machine?**
 
-Not everybody can afford having a monster like for example the [Falcon Northwest Talon](falcon-nw.com)](https://www.falcon-nw.com/desktops) at home. But even so, how long will you be able to keep the machine up to date? Think PRICEY video cards, processors that get outdated, in general the amount of cash you will have to shell out for playing the latest and greatest? Building yourself? Sure but the same principle for all hardware components applies. 
+Not everybody can afford having a monster like for example the [Falcon Northwest Talon](falcon-nw.com)](https://www.falcon-nw.com/desktops) at home. But even so, how long will you be able to keep the machine up to date? Think PRICEY video cards, processors outdated, in general the cash you5'll have to shell out for playing the latest and greatest? Building yourself? Sure but the same principle for all hardware components applies. 
 
 ## **OK, I'm convinced. What do I need?**
 
@@ -45,7 +45,7 @@ Not everybody can afford having a monster like for example the [Falcon Northwest
 
 - [ ] **Setting up AWS:**
 
-1. I suppose you have created and activated your AWS account. Let's continue with adding a VPC (Virtual Private Network) by logging in to your account and checking the VPC console:
+1. I suppose you created and activated your AWS account. Continue with adding a VPC (Virtual Private Network) by logging in to your account and checking the VPC  console:
 
 
 
