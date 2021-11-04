@@ -67,7 +67,7 @@ Not everybody can afford having a monster like for example the [Falcon Northwest
 
 <img src="/assets/aws-parsec-setup/vpc-successfully-created.png" width="654">
 
-5. The default VPC is automatically configured to allow Internet access. You can see that my default VPC has an ID of vpc-01fe1843d2da4b0e4. If I click on the Internet Gateways tab, you can see that there's an Internet gateway attached to my default VPC. I did not create this Internet gateway. AWS created the gateway automatically at the time that I set up my subscription.
+5. The default VPC is automatically configured to allow Internet access. You can see that my VPC has an ID of vpc-01fe1843d2da4b0e4. If I click on the Internet Gateways tab, you can see that there's an Internet gateway attached to my default VPC. I did not create this Internet gateway. AWS created the gateway automatically at the time that I set up my subscription.
 
 <img src="/assets/aws-parsec-setup/vpc-internet gateway.png" width="654">
 
