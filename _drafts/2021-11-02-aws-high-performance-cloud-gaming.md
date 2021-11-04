@@ -49,8 +49,17 @@ Not everybody can afford having a monster like for example the [Falcon Northwest
 
 <img src="/assets/aws-parsec-setup/vpc-dashboard.png" width="654">
 
-2. Click on the *Launch VPC Wizard*
+2. Click on the *Launch VPC Wizard*, next screen opens:
 
-   <img src="/assets/aws-parsec-setup/select-vpc-configuration.png" width="654">
+<img src="/assets/aws-parsec-setup/step1-select-vpc-configuration.png" width="654">
 
-   Create a new VPC by giving the proper CIDR block and we don’t need IPv6 for this so you don’t have to give that but give a Name tag so that we can understand what it’s for.
+3. Select VPC with a Single Public Network. 
+
+<img src="/assets/aws-parsec-setup/step2-vpc-with-a-single-public-subnet.png" width="654">
+
+Note that I selected an availability zone, you don't have to. We don’t need IPv6 for this so you don’t have to give that but give a Name tag so that we can understand what it’s for.
+
+4. This is what it looks like when you clicked on *Create VPC*:
+
+<img src="/assets/aws-parsec-setup/vpc-successfully-created.png" width="654">
+
