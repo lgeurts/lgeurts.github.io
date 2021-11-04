@@ -33,19 +33,19 @@ Not everybody can afford having a monster like for example the [Falcon Northwest
    - Raspberry PI 3
    - Android – With Google Play
 
-## Actionlist
+## Action-list
 
 - [ ] **Configuring the Parsec account:**
 
 <img src="/assets/aws-parsec-setup/parsec-new-account.png" width="654">
 
-1. Sign up with a username, email-address and password. You'll get a confirmation (check your spam folder) with a link to click on. Do that. 
+1. Sign up with a username, email-address and password. You'll get a confirmation (check your spam folder) with a link to click on. Press the mouse button. 
 
 2. [Download](https://parsec.app/downloads/) the client for your platform, install it on your device and login.
 
 - [ ] **Setting up AWS:**
 
-1. I suppose you created and activated your AWS account. Continue with adding a VPC (Virtual Private Network) by logging in to your account and checking the VPC  console. Click on the *Launch VPC Wizard*, and the next screen opens:
+1. By now you created and activated your AWS account. Continue with adding a VPC (Virtual Private Network) by logging in to your account and checking the VPC  console. Click on the *Launch VPC Wizard*, and the next screen opens:
 
 <img src="/assets/aws-parsec-setup/vpc-dashboard.png" width="654">
 
@@ -57,7 +57,7 @@ Not everybody can afford having a monster like for example the [Falcon Northwest
 
 <img src="/assets/aws-parsec-setup/step2-vpc-with-a-single-public-subnet.png" width="654">
 
-Note that I selected an availability zone, you don't have to.
+​	**Note:** I selected an availability zone, you don't have to.
 
 4. This is what it looks like when you clicked on *Create VPC*:
 
