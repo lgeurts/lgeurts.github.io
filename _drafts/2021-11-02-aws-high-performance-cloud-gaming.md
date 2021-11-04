@@ -47,5 +47,5 @@ Not everybody can afford having a monster like for example the [Falcon Northwest
 
 1. I suppose you created and activated your AWS account. Continue with adding a VPC (Virtual Private Network) by logging in to your account and checking the VPC  console:
 
-<img src="/assets/aws-parsec-setup/vpc-dahboard.png" width="654">
+<img src="/assets/aws-parsec-setup/vpc-dashboard.png" width="654">
 
