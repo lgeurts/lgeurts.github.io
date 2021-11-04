@@ -49,3 +49,8 @@ Not everybody can afford having a monster like for example the [Falcon Northwest
 
 <img src="/assets/aws-parsec-setup/vpc-dashboard.png" width="654">
 
+2. Click on the *Launch VPC Wizard*
+
+   <img src="/assets/aws-parsec-setup/select-vpc-configuration.png" width="654">
+
+   Create a new VPC by giving the proper CIDR block and we don’t need IPv6 for this so you don’t have to give that but give a Name tag so that we can understand what it’s for.
