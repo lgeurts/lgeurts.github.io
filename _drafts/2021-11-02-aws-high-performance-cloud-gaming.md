@@ -75,9 +75,9 @@ Not everybody can afford having a monster like for example the [Falcon Northwest
 
 <img src="/assets/aws-parsec-setup/vpc-route-table.png" width="654">
 
-7. Moving to EC2. We first have to create the security group, then subscribe to the required AMI from the [AWS Marketplace](https://aws.amazon.com/marketplace/) and then we have to launch the instance. 
+7. Moving to EC2. We first have to verify our security group, then subscribe to the required AMI from the [AWS Marketplace](https://aws.amazon.com/marketplace/) and then we have to launch the instance. 
 
-   Go to the security group tab check that rules are conform below values:
+   Go to the Security / Security Groups tab and check that rules are conform below values:
 
    Inbound
    `All traffic | All | All | Anywhere | “0.0.0.0/0” / “::/0”`
