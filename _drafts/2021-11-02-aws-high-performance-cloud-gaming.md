@@ -82,7 +82,7 @@ Not everybody can afford having a monster like for example the [Falcon Northwest
    Inbound
    `All traffic | All | All | Anywhere | “0.0.0.0/0” / “::/0”`
 
-   This is not at all secure but its convenient.
+   This is not at all secure but it's convenient.
    You can check [here](https://support.parsecgaming.com/hc/en-us/articles/360043419312) and [here](https://support.parsecgaming.com/hc/en-us/articles/360045297592) to get the exact port requirements.
 
    Outbound
