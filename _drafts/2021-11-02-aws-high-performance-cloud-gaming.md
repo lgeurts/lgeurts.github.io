@@ -19,12 +19,18 @@ Not everybody can afford having a monster like for example the [Falcon Northwest
 
 ### There are a few requirements that you’ll need to get this working properly:
 
-1. AWS Account](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/) - Some basics in AWS would be nice but no worries, follow my steps in this post and you will be ok.
+1. [AWS Account](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/) - Some basics in AWS would be nice, but no worries, follow my steps in this post and you will be ok.
+
+   **Note:** If you really want to save on the last penny, and need to [find your nearest region](https://openupthecloud.com/find-aws-region-closest/) at the lowest price, you can use [AWS ping](https://github.com/ekalinin/awsping) by Eugene Kalinin on GitHub.
 
 2. [Parsec account](https://parsec.app/) - Sounds like a logical decision.
+
 3. A good internet connection – 30/40mbps - FTTH (for low latency).
+
 4. A job/business to pay the bill – AWS isn’t free, but it’s cheap.
+
 5. A game – Anything you want with the exception of VR (I'm actually gonna test that one).
+
 6. A local machine running any of the following:
    - Windows 7+
    - Linux – Ubuntu 18.04+
