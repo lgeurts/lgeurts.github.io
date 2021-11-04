@@ -77,7 +77,7 @@ Not everybody can afford having a monster like for example the [Falcon Northwest
 
 7. Moving to EC2. We first have to create the security group, then subscribe to the required AMI from the [AWS Marketplace](https://aws.amazon.com/marketplace/) and then we have to launch the instance. 
 
-   Go to the security group tab in the EC2 console and enter the following rules:
+   Go to the security group tab check that rules are conform below values:
 
    Inbound
    `All traffic | All | All | Anywhere | “0.0.0.0/0” / “::/0”`
