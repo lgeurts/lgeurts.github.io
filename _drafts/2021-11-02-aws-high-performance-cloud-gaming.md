@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: A dive into gaming on Windows 11 using AWS and Parsec’s Remote Access Tech solution
+title: A dive into Cloud Gaming using AWS and Parsec’s Remote Access Tech solution on Windows
 read_time: true
 comments: true
 category: Entertainment
@@ -21,7 +21,7 @@ Not everybody can afford having a monster like for example the [Falcon Northwest
 
 1. [AWS Account](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/) - Some basics in AWS would be nice, but no worries, follow my steps in this post and you will be ok.
 
-   **Note:** If you really want to save on the last penny, and need to [find your nearest region at the lowest price](https://openupthecloud.com/find-aws-region-closest/), you can use [AWS ping](https://github.com/ekalinin/awsping) by Eugene Kalinin on GitHub.
+   **Note:** If you really want to save on the last penny, and need to [find your nearest region at the lowest price](https://openupthecloud.com/find-aws-region-closest/), while having the fastest connection possible, you can use tools like [AWS ping](https://github.com/ekalinin/awsping) by Eugene Kalinin on GitHub.
 
 2. [Parsec account](https://parsec.app/) - Sounds like a logical decision.
 
@@ -74,6 +74,18 @@ Not everybody can afford having a monster like for example the [Falcon Northwest
 6. Hence the same happened for the route table:
 
 <img src="/assets/aws-parsec-setup/vpc-route-table.png" width="654">
+
+7. Moving to EC2. We first have to create the security group, then subscribe to the required AMI from the [AWS Marketplace](https://aws.amazon.com/marketplace/) and then we have to launch the instance. 
+
+   Go to the security group tab in the EC2 console and enter the following rules:
+
+   Inbound
+   `All traffic | All | All | Anywhere | “0.0.0.0/0” / “::/0”`
+   This is not at all secure but its convenient.
+   You can check [here](https://support.parsecgaming.com/hc/en-us/articles/360043419312) and [here](https://support.parsecgaming.com/hc/en-us/articles/360045297592) to get the exact port requirements.
+
+   Outbound
+   `All traffic | All | All | Anywhere | “0.0.0.0/0” / “::/0”`
 
 
 
