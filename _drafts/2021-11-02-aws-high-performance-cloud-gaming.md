@@ -71,5 +71,9 @@ Not everybody can afford having a monster like for example the [Falcon Northwest
 
 <img src="/assets/aws-parsec-setup/vpc-internet gateway.png" width="654">
 
+6. Hence the same happened for the route table:
+
+<img src="/assets/aws-parsec-setup/vpc-route-table.png" width="654">
+
 
 
