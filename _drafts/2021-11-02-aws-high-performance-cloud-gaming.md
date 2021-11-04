@@ -13,7 +13,7 @@ In this guide I explain how I built a Cloud Gaming environment using Amazon Web 
 
 ## **Dude, why should I use cloud gaming when I already have a high-end gaming machine?**
 
-Not everybody can afford having a monster like for example the [Falcon Northwest Talon](falcon-nw.com)](https://www.falcon-nw.com/desktops) at home. But even so, how long will you be able to keep the machine up to date? Think PRICEY video cards, processors outdated, in general the cash you5'll have to shell out for playing the latest and greatest? Building yourself? Sure but the same principle for all hardware components applies. 
+Not everybody can afford having a monster like for example the [Falcon Northwest Talon](falcon-nw.com)](https://www.falcon-nw.com/desktops) at home. But even so, how long will you be able to keep the machine up to date? Think PRICEY video cards, processors outdated, in general the cash you'll have to shell out for playing the latest and greatest? Building yourself? Sure but the same principle for all hardware components applies. That's why I use an AWS instance. Not up to date anymore? I just create a new one.
 
 ## **OK, I'm convinced. What do I need?**
 
@@ -47,5 +47,5 @@ Not everybody can afford having a monster like for example the [Falcon Northwest
 
 1. I suppose you created and activated your AWS account. Continue with adding a VPC (Virtual Private Network) by logging in to your account and checking the VPC  console:
 
-
+<img src="/assets/aws-parsec-setup/vpc-dahboard.png" width="654">
 
