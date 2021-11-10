@@ -13,32 +13,18 @@ In this guide I explain how I built a Cloud Gaming environment using Amazon Web 
 
 ## **Dude, why should I use cloud gaming when I already have a high-end gaming machine?**
 
-<<<<<<< HEAD
 Not everybody can afford having a monster like for example the [Falcon Northwest Talon](falcon-nw.com)](https://www.falcon-nw.com/desktops) at home. But even so, how long will you be able to keep the machine up to date? Think PRICEY video cards, processors outdated, in general the cash you'll have to shell out for playing the latest and greatest? Building yourself? Sure but the same principle for all hardware components applies, and that's why I use an AWS instance. Not up to date? I just create a new one. And with cloud gaming, you can stream games to a notebook, even a phone, making a high-fidelity gaming experience cheap and mobile.
-=======
-Not everybody can afford having a monster like for example the [Falcon Northwest Talon](falcon-nw.com)](https://www.falcon-nw.com/desktops) at home. But even so, how long will you be able to keep the machine up to date? Think PRICEY video cards, processors outdated, in general the cash you'll have to shell out for playing the latest and greatest? Building yourself? Sure but the same principle for all hardware components applies, and that's why I use an AWS instance. Not up to date? I just create a new one.
->>>>>>> d65fd93fece165b67f61b974d62ac972ff18459a
 
 ## **OK, I'm convinced. What do I need?**
 
 ### There are a few requirements that you’ll need to get this working properly:
 
 1. [AWS Account](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/) - Some basics in AWS would be nice, but no worries, follow my steps in this post and you will be ok.
-
-   **Note:** If you want to save on the last penny, and need to [find your nearest region at the lowest price](https://openupthecloud.com/find-aws-region-closest/), while having the fastest connection possible, you can use tools like [AWS ping](https://github.com/ekalinin/awsping) by Eugene Kalinin on GitHub.
-
+   **Note:** If you want to save on the last penny, and need to [find your nearest region at the lowest price](https://openupthecloud.com/find-aws-region-closest/), while also having the fastest connection possible, you can use tools like [AWS ping](https://github.com/ekalinin/awsping) by Eugene Kalinin on GitHub.
 2. [Parsec account](https://parsec.app/) - Sounds like a logical decision.
-
-<<<<<<< HEAD
 3. A good internet connection – 30/40mbps - FTTH (for low latency). The most difficult part is streaming latency. All steps - such as running the game, encoding and decoding the game video and converting the player input are done in real time.
-=======
-3. A good internet connection – 30/40mbps - FTTH (for low latency).
->>>>>>> d65fd93fece165b67f61b974d62ac972ff18459a
-
 4. A job/business to pay the bill – AWS isn’t free, but it’s cheap.
-
 5. A game – Anything you want with the exception of VR (I'm actually gonna test that one).
-
 6. A local machine running any of the following:
    - Windows 7+
    - Linux – Ubuntu 18.04+
@@ -49,15 +35,14 @@ Not everybody can afford having a monster like for example the [Falcon Northwest
 
 ## Action-list
 
-- [ ] **Configuring the Parsec account:**
+**Configuring the Parsec account:**
 
 <img src="/assets/aws-parsec-setup/parsec-new-account.png" width="654">
 
-1. Sign up with a username, email-address and password. You'll get a confirmation (check your spam folder) with a link to click on. Press the mouse button. 
-
+1. Sign up with a username, email-address and password. You'll get a confirmation (check your spam folder) with a link to click on. Press the mouse button.
 2. [Download](https://parsec.app/downloads/) the client for your platform, install it on your device and login.
 
-- [ ] **Setting up AWS:**
+**Setting up AWS:**
 
 1. By now you created and activated your AWS account. Continue with adding a VPC (Virtual Private Network) by logging in to your account and checking the VPC  console. Click on the *Launch VPC Wizard*, and the next screen opens:
 
@@ -75,11 +60,7 @@ Not everybody can afford having a monster like for example the [Falcon Northwest
 
 <img src="/assets/aws-parsec-setup/vpc-successfully-created.png" width="654">
 
-<<<<<<< HEAD
 5. The default VPC is automatically configured to allow Internet access. My VPC has an ID of vpc-01fe1843d2da4b0e4. If I click on the Internet Gateways tab there's an Internet gateway attached to my default VPC. I did not create this Internet gateway. AWS created the gateway automatically at the time that I set up my subscription.
-=======
-5. The default VPC is automatically configured to allow Internet access. You can see that my VPC has an ID of vpc-01fe1843d2da4b0e4. If I click on the Internet Gateways tab, you can see that there's an Internet gateway attached to my default VPC. I did not create this Internet gateway. AWS created the gateway automatically at the time that I set up my subscription.
->>>>>>> d65fd93fece165b67f61b974d62ac972ff18459a
 
 <img src="/assets/aws-parsec-setup/vpc-internet gateway.png" width="654">
 
@@ -87,11 +68,10 @@ Not everybody can afford having a monster like for example the [Falcon Northwest
 
 <img src="/assets/aws-parsec-setup/vpc-route-table.png" width="654">
 
-7. Moving to EC2. We first have to verify our security group, then subscribe to the required AMI from the [AWS Marketplace](https://aws.amazon.com/marketplace/) and then we have to launch the instance. 
+7. Moving to EC2. We first have to verify our security group, then subscribe to the required AMI from the [AWS Marketplace](https://aws.amazon.com/marketplace/) and then we have to launch the instance.
 
-   Go to the Security / Security Groups tab and check that rules are conform below values:
+ Go to the Security / Security Groups tab and check that rules are conform below values:
 
-<<<<<<< HEAD
    Inbound:
    `All traffic | All | All | Anywhere | “0.0.0.0/0” / “::/0”`
 
@@ -101,20 +81,3 @@ Not everybody can afford having a monster like for example the [Falcon Northwest
    `All traffic | All | All | Anywhere | “0.0.0.0/0” / “::/0”`
 
 8. 
-
-   
-=======
-   Inbound
-   `All traffic | All | All | Anywhere | “0.0.0.0/0” / “::/0”`
-
-   This is not at all secure but it's convenient.
-   You can check [here](https://support.parsecgaming.com/hc/en-us/articles/360043419312) and [here](https://support.parsecgaming.com/hc/en-us/articles/360045297592) to get the exact port requirements.
-
-   Outbound
-   `All traffic | All | All | Anywhere | “0.0.0.0/0” / “::/0”`
-
->>>>>>> d65fd93fece165b67f61b974d62ac972ff18459a
-
-   
-
-   
