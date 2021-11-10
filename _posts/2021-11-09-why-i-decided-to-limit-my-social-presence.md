@@ -1,14 +1,14 @@
 ---
 
 layout: post
-title: Why I decided to limit my social presence on the internet, and why I think it's good for the both of us
+title: Why I decided to limit my social presence on the internet, and why I think this is good for the both of us
 read_time: true
 comments: true
 category: Health & Productivity
 tags: [ Health ]
 
 ---
-A few years ago something totally unexpected happened. It was at the end of the day and I was preparing to move behind my desktop at the home office with a fresh cup of coffee. I decided to do something else, I decided I would not spend the evening on what had become a daily routine; tweeting, adding new posts on my LinkedIn, uploading images on Instagram, reading new messages in my Slack groups, scouring the internet in search for interesting articles to read and learn.
+A few years ago something totally unexpected happened. It was at the end of the day and I was preparing to move behind my laptop at the home office with a fresh cup of coffee. I decided to do something else, I decided I would not spend the evening on what had become a daily routine; tweeting, adding new posts on my LinkedIn, uploading images on Instagram, reading new messages in my Slack groups, scouring the internet in search for interesting articles to read and learn.
 
 Being away from my computer felt like something special. I started living regular life, spending my evenings as any other guy would do, watching old movies with J. (my  girlfriend), playing with our dogs on the beach, going out with friends. I could have spent time behind this blog as well, but I chose not to. Instead, I finally was able to get a clear head and think about how I used my computer (and my phone), how I perhaps consumed and processed more information than I really wanted to and what the long term effects of that do to a person.
 
