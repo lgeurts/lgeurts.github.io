@@ -8,7 +8,7 @@ category: Health & Productivity
 tags: [ Health ]
 
 ---
-A few years ago something totally unexpected happened. It was at the end of the day and I was fully prepared to move behind my laptop at the home office. Instead I decided to do something else, not spend the evening on what became a daily routine; tweeting, adding new posts on my LinkedIn, uploading images on Instagram, reading messages in Slack, scouring the internet for articles to read and learn.
+A few years ago something totally unexpected happened. It was at the end of the day and I was fully prepared to move behind my laptop at the home office. Instead I decided to do something else, not spend the evening on what became a daily routine; tweeting, adding new posts on my LinkedIn, uploading images on Instagram, reading messages in Slack, scouring Internet sites for articles to read and learn.
 
 Being away from my computer felt like something special. I started living regular life, spending my free time as any other guy would do, watching old movies with J. (my  girlfriend), playing with our dogs on the beach, going out with friends. I could have spent time behind this blog as well, but I chose not to. Instead, I finally was able to get a clear head and think about how I used my computer (and my phone), how I perhaps consumed and processed more information than I really wanted to and what the long term effects of that do to a person.
 
