@@ -32,9 +32,9 @@ I removed about 80% of the feeds. Most of them were other weblogs and various te
 
 We both don't like TV channels because of the irritating commercials filled with products we are never going to buy. Thus Netlfix was the only agreeable option.
 
-Last week I took the final step and told my customers I would take days off for studies, no matter the outcome. Yes, every day not worked when you are a freelancer is money lost, but at the end those certifications are a long-term investment that will pay for itself.
+Last week I took the final step and told my customers I would take 5 days off for studies, no matter the outcome. Yes, every day not worked when you are a freelancer is money lost, but at the end those certifications are a long-term investment that will pay for itself.
 
-Something to think about for you dear reader, since we have a limited quota of time in this world, why not rather spend that on things and people that we find fun, that bring joy and that keep us productive?
+Something to think about dear reader, since we have a limited quota of time in this world, why not rather spend that on things and people that we find fun, that bring joy uin our life and that keep us productive?
 
 So. I hope you understand and don’t feel offended if I don’t follow you on social media, it’s nothing personal. It's for the good of me, and you.
 
