@@ -12,7 +12,7 @@ A few years ago something totally unexpected happened. It was at the end of the 
 
 Being away from my computer felt like something special. I started living regular life, spending my free time as any other guy would do, watching old movies with J. (my  girlfriend), playing with our 3 dogs on the beach, going out with friends. 
 
-I could have spent time behind this blog as well, but I chose not to. Finally I was able to get a clear head and think about how I used my computerband phone, how I perhaps consumed and processed more information than I really wanted to and what the long term effects of that do to a person.
+I could have spent time behind this blog as well, but I chose not to. Finally I was able to get a clear head, think about how I used my computer and phone, how I perhaps consumed and processed more information than I really wanted to and what the long term effects of that do to a person.
 
 You know, in periods, I can burn a lot of time tinkering with all kinds of hardware, Linux and open source software! I’m that introverted perfectionist with a slight touch of OCD who sometimes gets a bit too obsessed about particular things and I can’t really let anything go before I’m done with it. *As a note, in the past this behavior actually led to a few years of some unhealthy multiplayer gaming (CS:GO), so it’s not something I take lightly on, even I sometimes joke about it.* 
 
