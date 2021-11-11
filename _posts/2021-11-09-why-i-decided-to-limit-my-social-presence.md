@@ -20,7 +20,7 @@ In the back of my head I knew I had to take counter-measures to prevent falling 
 
 So, first task, I started with disposing old harddisks, floppy's, zipdrives, network cables, a Pentium Pro desktop, even an old SPARCstation. All the awesome stuff you usually gather when working years in IT. Sometimes it was a painful activity because you feel bonded with objects that link to good memories from the past. 
 
-Anyways, this was a big step in de-cluttering my life and it has made some huge positive improvements on my productivity and what I like to call my hyper-focus. 
+Anyways, this was a big step in de-cluttering my life and it has made some huge positive improvements on my productivity and what I call my hyper-focus. 
 
 I also realized that while my workflow had improved a lot, I still did some really weird things that a younger me would never ever have approved. One of those things was for example leaving applications open and running in the background on my PC even when I was not there. I know it sounds rather silly, but closing any application when I don’t use it does help me focus on what I’m currently doing. For that reason I replaced the os on my daily driver (Ubuntu + Gnome) with [I3](https://i3wm.org/) on vanilla Debian. (See? I told you it's not exclusively about scoring points on [LinuxPorn](https://www.reddit.com/r/LinuxPorn/) amongst my fellow dorks!)
 
