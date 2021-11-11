@@ -38,4 +38,4 @@ Something to think about for you dear reader, since we have a limited quota of t
 
 So. I hope you understand and don’t feel offended if I don’t follow you on social media, it’s nothing personal. It's for the good of me, and you.
 
-Ref. creating a minimalistic desktop: [Donovan Nagel's iBSD blog](https://i-bsd.com/blog/).
+***Ref. creating a minimalistic desktop: [Donovan Nagel's iBSD blog](https://i-bsd.com/blog/).***
