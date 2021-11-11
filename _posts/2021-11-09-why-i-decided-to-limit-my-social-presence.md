@@ -22,7 +22,7 @@ So, first task, I started with disposing old hard-disks, floppy's, zipdrives, ne
 
 Anyways, this was a big step in **de-cluttering** my life and it has made some huge positive improvements on my productivity and what I call my hyper-focus. 
 
-I also realized that while my workflow had improved, I still did really weird things that a younger me would never ever have approved. 
+I also realized that while my workflow had improved, I did weird things that a younger me would never ever have approved. 
 
 One of those things was, for example, leaving applications open and running in the background on my PC, even when I was not there. I know this sounds rather silly, but closing an application when I don’t use it does help focus on what I’m doing. For that reason, and because I'm a minimalist, I replaced the OS on 2 of my workstations with vanilla [Debian](https://www.debian.org/) & [I3 WM](https://i3wm.org/). (Told you this is not exclusively about scoring points on [LinuxPorn](https://www.reddit.com/r/LinuxPorn/) amongst my fellow dorks!)
 
