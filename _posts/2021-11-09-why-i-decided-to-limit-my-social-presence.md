@@ -18,7 +18,7 @@ In periods I can burn a lot of time tinkering with all kinds of hardware, Linux 
 
 In the back of my head I already knew I had to take counter-measures to prevent falling back in the same trap, and letting my mind go on the loose again. 
 
-So, first task, I started with disposing old harddisks, floppy's, zipdrives, network cables, a Pentium Pro desktop, even an old SPARCstation. All the awesome stuff you usually gather when working years in IT. Sometimes it was a painful activity because you feel bonded with objects that link to good memories from the past. 
+So, first task, I started with disposing old hard-disks, floppy's, zipdrives, network cables, a Pentium Pro desktop, even an old SPARCstation. All that awesome stuff you usually gather when working years in IT. Sometimes it was a painful activity because you feel bonded with objects that link to good memories from the past. 
 
 Anyways, this was a big step in de-cluttering my life and it has made some huge positive improvements on my productivity and what I call my hyper-focus. 
 
