@@ -14,7 +14,7 @@ Being away from my computer felt like something special. I started living regula
 
 I could have spent time behind this blog as well, but I chose not to. Finally I was able to get a clear head, think about how I used my computer, and phone, how I perhaps consumed and processed more information than I really wanted to and what the long term effects of that do to a person.
 
-In periods I can burn a lot of time tinkering with all kinds of hardware, Linux and open source software! I’m that introvert perfectionist with a slight touch of OCD who gets a bit too obsessed about particular things, and I can’t really let anything go before I’m done with it. *As a note, in the past this behavior actually led to a few years of unhealthy multiplayer gaming (CS:GO), so it’s not something I take lightly on, even I sometimes joke about it.* 
+In periods I can burn a lot of time tinkering with all kinds of hardware, Linux and open source software! I’m that introvert perfectionist with a slight touch of OCD who gets a bit too obsessed about particular things and I can’t really let anything go before I’m done with it. *As a note, in the past this behavior actually led to a few years of unhealthy multiplayer gaming (CS:GO), so it’s not something I take lightly on, even I sometimes joke about it.* 
 
 In the back of my head I knew I had to take counter-measures to prevent falling back in the same trap, and letting my mind go on the loose again. 
 
