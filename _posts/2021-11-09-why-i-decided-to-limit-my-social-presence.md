@@ -16,7 +16,7 @@ I could have spent time behind this blog as well, but I chose not to. I was able
 
 In periods I can burn a lot of time tinkering with all kinds of hardware, Linux and open source software! I’m that introvert perfectionist with a slight touch of OCD who gets a bit too obsessed about particular things and I can’t really let anything go before I’m done with it. > *In the past this actually led to a few years of unhealthy multiplayer gaming (CS:GO), so it’s not something I take lightly.* 
 
-In the back of my head I knew I had to take counter-measures to prevent falling back in the same trap, and letting my mind go on the loose again. 
+In the back of my head I already knew I had to take some counter-measures to prevent falling back in the same trap, and letting my mind go on the loose again. 
 
 So, first task, I started with disposing old harddisks, floppy's, zipdrives, network cables, a Pentium Pro desktop, even an old SPARCstation. All the awesome stuff you usually gather when working years in IT. Sometimes it was a painful activity because you feel bonded with objects that link to good memories from the past. 
 
