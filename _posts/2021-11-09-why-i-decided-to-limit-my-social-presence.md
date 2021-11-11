@@ -20,7 +20,7 @@ In the back of my head I already knew I had to take counter-measures to prevent 
 
 So, first task, I started with disposing old hard-disks, floppy's, zipdrives, network cables, a Pentium Pro desktop, even an old SPARCstation. All that awesome stuff you usually gather when working years in IT. Sometimes it was a painful activity because you feel bonded with objects that link to good memories from the past. 
 
-Anyways, this was a big step in de-cluttering my life and it has made some huge positive improvements on my productivity and what I call my hyper-focus. 
+Anyways, this was a big step in **de-cluttering** my life and it has made some huge positive improvements on my productivity and what I call my hyper-focus. 
 
 I also realized that while my workflow had improved a lot, I still did some really weird things that a younger me would never ever have approved. 
 
