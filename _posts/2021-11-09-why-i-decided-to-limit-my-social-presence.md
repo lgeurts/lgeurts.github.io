@@ -38,4 +38,4 @@ Something to **think about**. Since we have a **limited quota of time** in this 
 
 So. I hope you understand and **don’t feel offended** if I don’t follow you on social media; it’s nothing personal. It's for the good of me, and you.
 
-*Ref: Web: Gregory Alvarez [Living Like It's 99: No Social Media, No Smartphone](https://www.alvarez.io/posts/living-like-its99/).*
+*Ref: Web: [Living Like It's 99: No Social Media, No Smartphone](https://www.alvarez.io/posts/living-like-its99/) - Gregory Alvarez.*
