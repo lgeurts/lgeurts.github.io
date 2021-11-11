@@ -36,6 +36,6 @@ Last week I took the final step and told my customer(s) I would take 5 days off 
 
 **Something to think about**. Since we have a **limited quota of time** in this world, why not rather spend that on things and people that we find fun, that bring joy in our life and that keep us productive?
 
-So. I hope you understand and **don’t feel offended** if I don’t follow you on social media, it’s nothing personal. It's for the good of me, and you.
+So. I hope you understand and **don’t feel offended** if I don’t follow you on social media; it’s nothing personal. It's for the good of me, and you.
 
 *Ref. creating a minimalistic desktop: [Donovan Nagel's iBSD blog](https://i-bsd.com/blog/).*
