@@ -34,7 +34,7 @@ We both don't like TV channels because of the irritating commercials filled with
 
 Last week I took the final step and told my customer(s) I would take 5 days off for studies, no matter the outcome. Yes, every unproductive day is money lost, but at the end those certifications are a long-term investment that will pay for itself.
 
-**Something to think about dear reader**, since we have a limited quota of time in this world, why not rather spend that on things and people that we find fun, that bring joy uin our life and that keep us productive?
+**Something to think about**, since we have a limited quota of time in this world, why not rather spend that on things and people that we find fun, that bring joy uin our life and that keep us productive?
 
 So. I hope you understand and don’t feel offended if I don’t follow you on social media, it’s nothing personal. It's for the good of me, and you.
 
