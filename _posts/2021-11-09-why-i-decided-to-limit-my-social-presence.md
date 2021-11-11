@@ -10,9 +10,9 @@ tags: [ Health ]
 ---
 A few years ago something totally unexpected happened. It was at the end of the day and I was fully prepared to move behind my laptop at the home office. Instead I decided to do something else, not spend the evening on what became a daily routine; tweeting, liking posts on my LinkedIn, uploading fresh images on Instagram, reading messages in Slack, scouring Internet sites for articles to read and learn.
 
-Being away from my computer felt like something special. I started living regular life, spending my free time as any other guy would do, watching movies together with J. ( girlfriend), playing with our dogs on the beach, going out with friends. 
+Being away from my computer felt like something special. I started living regular life, spending my free time as any other guy would do, watching movies together with J. (girlfriend), playing with our dogs on the beach, going out with friends. 
 
-I could have spent time behind this blog as well, but I chose not to. Finally I was able to get a clear head, think about how I used my computer, and phone, how I perhaps consumed and processed more information than I really wanted to and what the long term effects of that do to a person.
+I could have spent time behind this blog as well, but I chose not to. I was able to get a clear head, think about how I used my computer, and phone, how I perhaps consumed and processed more information than I really wanted to and what the long term effects of that do to a person.
 
 In periods I can burn a lot of time tinkering with all kinds of hardware, Linux and open source software! I’m that introvert perfectionist with a slight touch of OCD who gets a bit too obsessed about particular things and I can’t really let anything go before I’m done with it. > *In the past this actually led to a few years of unhealthy multiplayer gaming (CS:GO), so it’s not something I take lightly.* 
 
