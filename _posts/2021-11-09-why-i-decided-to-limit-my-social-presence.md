@@ -30,7 +30,7 @@ Now .... when it comes to social media, I’m that person who can’t just leave
 
 I removed about 80% of the feeds. Most of them were other weblogs and various tech and/or open source related projects and some news sites. The first was CNN Intl. that posts d—multiple times per day—about everything from movie trailers, science and tech to politics. This source was pretty good at giving me highlights about the world and what was going on, but in the end I decided it took more than what it was worth to keep up with.
 
-I don't watch TV channels. We both don't like them because of the irritating ads filled with products we are never going to buy.
+TV channels. We both don't like them because of the irritating ads filled with products we are never going to buy. Netlfix was the only agreeable option.
 
 Last week I took the final step, I went to my current customer and told them I needed a number of days off for studies. Yes, every day not worked when you are a freelancer is money lost, but at the end those certifications are a long-term investment that pays for itself.
 
