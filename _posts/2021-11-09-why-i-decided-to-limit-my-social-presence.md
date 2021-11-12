@@ -8,7 +8,7 @@ category: Health & Productivity
 tags: [ Health ]
 
 ---
-A few years ago something totally unexpected happened. It was at the end of the day and I was fully prepared to move behind my laptop at the home office. Instead I decided to do something else, not spend the evening on what became a daily routine; tweeting, liking posts on my LinkedIn, uploading fresh images on Instagram, answering messages in Slack, scouring sites for anyting interesting to read and learn.
+A few years ago something totally unexpected happened. It was at the end of the day and I was fully prepared to move behind my laptop at the home office. Instead I decided to do something else, not spend the evening on what became a daily routine; tweeting, liking posts on my LinkedIn, uploading fresh images on Instagram, answering Slack messages, scouring onternet for anything interesting to read and learn.
 
 Being away from my computer felt like something special. I started living regular life, spending my free time as any other guy would do, watching movies together with J. (girlfriend), playing with our dogs on the beach, going out with friends. 
 
