@@ -8,7 +8,7 @@ category: Health & Productivity
 tags: [ Health ]
 
 ---
-A few years ago something totally unexpected happened. It was at the end of the day and I was fully prepared to move behind my laptop at the home office. Instead I decided to do something else, not spend the evening on what became a daily routine; tweeting, liking posts on my LinkedIn, uploading fresh images on Instagram, reading messages in Slack, scouring Internet sites for articles to read and learn.
+A few years ago something totally unexpected happened. It was at the end of the day and I was fully prepared to move behind my laptop at the home office. Instead I decided to do something else, not spend the evening on what became a daily routine; tweeting, liking posts on my LinkedIn, uploading fresh images on Instagram, answering messages in Slack, scouring sites for articles to read and learn.
 
 Being away from my computer felt like something special. I started living regular life, spending my free time as any other guy would do, watching movies together with J. (girlfriend), playing with our dogs on the beach, going out with friends. 
 
@@ -37,5 +37,3 @@ Last week I took the final step and told my customer(s) I would take 5 days off 
 Something to **think about**. Since we have a **limited quota of time** in this world, why not rather spend that on things and people that we find fun, that bring joy in our life and that keep us productive?
 
 So. I hope you understand and **don’t feel offended** if I don’t follow you on social media; it’s nothing personal. It's for the good of me, and you.
-
-*Ref: Web: [Living Like It's 99: No Social Media, No Smartphone](https://www.alvarez.io/posts/living-like-its99/) - Gregory Alvarez.*
