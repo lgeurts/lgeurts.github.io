@@ -66,6 +66,7 @@ $ curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.z
  <> $ sudo ./aws/install -i /usr/local/aws-cli -b /usr/local/bin
  <> $ aws configure --profile **my username**
 $ sudo add-apt-repository -y ppa:teejee2008/ppa
+ <> $ sudo apt-get update
  <> $ sudo apt-get install timeshift
 $ sudo apt install zsh
  <> $ zsh --version
@@ -125,6 +126,7 @@ Resources:
 - [vim-plug: Vim plugin manager](https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim)
 - [Install Zsh, Oh-My-Zsh, Fonts-Powerline & Plugins (Ubuntu 18.04+)](https://gist.github.com/willianfalbo/a6a69de0ef83815174042363313ec668)
 - [Installing and customizing oh-my-zsh on Ubuntu](https://dev.to/nicoh/installing-oh-my-zsh-on-ubuntu-362f)
+- [How to Use TimeShift to Backup and Restore Ubuntu Linux](https://github.com/teejee2008/timeshift) 
 - [onedrive-abraunegg, free OneDrive Client for Linux](https://github.com/abraunegg/onedrive)
 - [Thunderbird and Hotmail](https://support.mozilla.org/en-US/kb/thunderbird-and-hotmail)
 
