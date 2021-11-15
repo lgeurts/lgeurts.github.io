@@ -36,7 +36,7 @@ We both don't like TV channels because of the irritating commercials filled with
 
 Last week I took the final step and told my customer(s) I would take 5 days off for studies, no matter the outcome. Yes, every unproductive day is money lost, but at the end those certifications are a long-term investment that will pay for itself.
 
-Update d.d. 15/11/21 I just bought a Garmin Fenix 6 Sapphire Titanium Smartwatch and Aeku M5 phone after reading [this blog post](https://www.alvarez.io/posts/living-like-it-s-99/) from Gregory Alvarez. Let's see if they can replace my BlackBerry.
+Update d.d. 15/11/21. I bought a Garmin Fenix 6 Sapphire Titanium Smartwatch and Aeku M5 phone after reading [this blog post](https://www.alvarez.io/posts/living-like-it-s-99/) from Gregory Alvarez. Let's see if they can replace my BlackBerry.
 
 Something to **think about**. Since we have a **limited quota of time** in this world, why not rather spend that on things and people we find fun, that bring joy in our life and that keep us productive?
 
