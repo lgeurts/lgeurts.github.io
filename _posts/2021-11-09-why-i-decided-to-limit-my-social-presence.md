@@ -32,7 +32,7 @@ Then fired up [Vim](https://www.vim.org/download.php/) to review all of my feeds
 
 I removed about 80% of the feeds. Most of them were other weblogs, a variety of tech and/or open source related projects and some news sites. The first was CNN International that posts —multiple times per day— about everything from movie trailers, science and tech to politics. This source was pretty good at giving me the latest highlights, but in the end it took more time than what it was worth to keep up with.
 
-We both don't watch TV channels because of the irritating commercials filled with products we are never going to buy. Thus Netflix was the only agreeable option.
+We both don't like TV channels because of the irritating commercials filled with products we are never going to buy. Thus Netflix was the only agreeable option.
 
 Last week I took the final step and told my customer(s) I would take 5 days off for studies, no matter the outcome. Yes, every unproductive day is money lost, but at the end those certifications are a long-term investment that will pay for itself.
 
