@@ -34,7 +34,7 @@ I removed about 80% of the feeds. Most of them were other weblogs, a variety of 
 
 We both don't like TV channels because of the irritating commercials filled with products we are never going to buy. Thus Netflix was the only agreeable option.
 
-Last week I took the final step and told my customer(s) I would take 5 days off for studies, no matter the outcome. Yes, every unproductive day is money lost, but at the end those certifications are a long-term investment that will pay for itself.
+Last week I took the last step and told my customer(s) I would take 5 days off for studies, no matter the outcome. Yes, every unproductive day is money lost, but at the end those certifications are a long-term investment that will pay for itself.
 
 Update d.d. 15/11/21. I bought a Garmin Fenix 6 Sapphire Titanium Smartwatch, and Aeku M5 phone, after reading [this blog post](https://www.alvarez.io/posts/living-like-it-s-99/) from Gregory Alvarez. Let's see if they can replace my BlackBerry.
 
