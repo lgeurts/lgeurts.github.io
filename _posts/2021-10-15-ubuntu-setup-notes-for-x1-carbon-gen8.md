@@ -67,6 +67,8 @@ $ curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.z
  <> $ aws configure --profile **my username**
 $ sudo apt install timeshift
 $ sudo apt install zsh
+ <> $ zsh --version
+ <> $ echo $SHELL
  <> $ chsh -s $(which zsh)
 $ git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions
 $ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
