@@ -29,9 +29,7 @@ As an example, one of those things was leaving an application open and letting i
 Now .... when it comes to social media, can’t leave them unread. I must to relax. 
 The third step. I became picky about what channels to subscribe to, and made an agreement that at a certain time in the evening I'd stop, no matter how much my desire to keep hanging on (if I don't I have to take her out to a fancy diner). After some time I found the everlasting craving for more was gone, and I truly enjoyed the nothingness, loved all that time I now had on my hands more than anything. 
 
-I eventually launched [Newsboat](https://newsboat.org/), and closed it after a quick glance. 
-Then fired up [Vim](https://www.vim.org/download.php/) to review all of my feeds.
-
+I eventually launched [Newsboat](https://newsboat.org/), and closed it after a quick glance. Then fired up [Vim](https://www.vim.org/download.php/) to review all of my feeds.
 I removed about 80% of the feeds. Most of them were other weblogs, a variety of tech and/or open source related projects and some news sites. The first was CNN International that posts —multiple times per day— about everything from movie trailers, science and tech to politics. This source was pretty good at giving me the latest highlights, but in the end it took more time than what it was worth to keep up with.
 
 We both don't like TV channels because of the irritating commercials filled with products we are never going to buy. Thus Netflix was the only agreeable option.
