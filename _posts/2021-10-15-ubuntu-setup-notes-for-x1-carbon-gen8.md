@@ -129,11 +129,11 @@ Resources:
 - [onedrive-abraunegg, free OneDrive Client for Linux](https://github.com/abraunegg/onedrive)
 - [Thunderbird and Hotmail](https://support.mozilla.org/en-US/kb/thunderbird-and-hotmail)
 
+**Note:** dotfiles are available in [this private repo](https://github.com/lgeurts/ubuntu-20.x-dotfiles).
+
 ## Browser extensions
 
 Add [Privacy Badger](https://privacybadger.org/) and [HTTPS Everywhere](https://www.eff.org/https-everywhere). Do not use other stores!
-
-**Note:** dotfiles are available in [this private repo](https://github.com/lgeurts/ubuntu-20.x-dotfiles).
 
 # System specifics
 
