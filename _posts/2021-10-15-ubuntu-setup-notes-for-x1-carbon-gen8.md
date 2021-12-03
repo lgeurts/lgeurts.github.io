@@ -129,7 +129,7 @@ Resources:
 - [onedrive-abraunegg, free OneDrive Client for Linux](https://github.com/abraunegg/onedrive)
 - [Thunderbird and Hotmail](https://support.mozilla.org/en-US/kb/thunderbird-and-hotmail)
 
-## Firefox extensions
+## Browser extensions
 
 Add [Privacy Badger](https://privacybadger.org/) and [HTTPS Everywhere](https://www.eff.org/https-everywhere). Do not use other stores!
 
