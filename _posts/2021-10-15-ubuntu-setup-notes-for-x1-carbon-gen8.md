@@ -121,7 +121,7 @@ $ apm install text-align
 $ cd "My Documents"
  <> $ find . -type f -print0 | xargs -0 chmod -x
 ```
-Last, add [Privacy Badger](https://privacybadger.org/) and [HTTPS Everywhere](https://www.eff.org/https-everywhere) to Firefox. Do not use Chrome or Edge stores, I do not trust them.
+Last, add [Privacy Badger](https://privacybadger.org/) and [HTTPS Everywhere](https://www.eff.org/https-everywhere) to Firefox. Don't use the Chrome or Edge stores, I do not trust them.
 
 Resources: 
 - [VirtualBox + Secure Boot + Ubuntu = fail](https://stegard.net/2016/10/virtualbox-secure-boot-ubuntu-fail/)
