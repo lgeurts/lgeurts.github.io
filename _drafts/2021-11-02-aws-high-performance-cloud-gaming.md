@@ -46,15 +46,16 @@ Not everybody can afford having a monster like for example the [Falcon Northwest
 
 1. By now you created and activated your AWS account. Continue with adding a VPC (Virtual Private Network) by logging in to your account and checking the VPC  console. Click on the *Launch VPC Wizard*, and the next screen opens:
 
-<img src="/assets/aws-parsec-setup/vpc-dashboard.png" width="654">
+- [ ] <img src="/assets/aws-parsec-setup/vpc-dashboard.png" width="654">
 
 2. Select VPC with a Single Public Network:
 
-<img src="/assets/aws-parsec-setup/step1-select-vpc-configuration.png" width="654">
+- [ ] <img src="/assets/aws-parsec-setup/step1-select-vpc-configuration.png" width="654">
 
 3. We don’t need IPv6 for this so you don’t have to give that but give a Name tag so that we can understand what it’s for:
 
-<img src="/assets/aws-parsec-setup/step2-vpc-with-a-single-public-subnet.png" width="654">
+- [ ] <img src="/assets/aws-parsec-setup/step2-vpc-with-a-single-public-subnet.png" width="654">
+
 
 4. This is what it looks like when you clicked on *Create VPC*:
 
