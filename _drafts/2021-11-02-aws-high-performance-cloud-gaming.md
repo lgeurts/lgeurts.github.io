@@ -74,23 +74,23 @@ Not everybody can afford having a monster like for example the [Falcon Northwest
 
 8. Moving to EC2. We first have to verify our security group, then subscribe to the required AMI from the [AWS Marketplace](https://aws.amazon.com/marketplace/), and then we have to launch the instance.
 
- Go to the Security / Security Groups tab and check that rules are conform below values:
+9. Go to the Security / Security Groups tab and check that rules are conform below values:
 
 <img src="/assets/aws-parsec-setup/ec2-security-group.png" width="654">
+
+This is not at all secure but it's convenient and only for this post. You can check [here](https://support.parsecgaming.com/hc/en-us/articles/360043419312) and [here](https://support.parsecgaming.com/hc/en-us/articles/360045297592) to get the exact port requirements.
 
    Inbound:
    `All traffic | All | All | Anywhere | “0.0.0.0/0” / “::/0”`
 
 <img src="/assets/aws-parsec-setup/ec2-security-group-inbound.png" width="654">
 
-   This is not at all secure but it's convenient and only for this post. You can check [here](https://support.parsecgaming.com/hc/en-us/articles/360043419312) and [here](https://support.parsecgaming.com/hc/en-us/articles/360045297592) to get the exact port requirements.
-
    Outbound:
    `All traffic | All | All | Anywhere | “0.0.0.0/0” / “::/0”`
 
 <img src="/assets/aws-parsec-setup/ec2-security-group-outbound.png" width="654">
 
-9. Subscribe to the [NVIDIA Gaming PC – Windows Server 2019](https://aws.amazon.com/marketplace/pp/B07STLTHM8?ref_=beagle) from the AWS Marketplace.
+10. Subscribe to the [NVIDIA Gaming PC – Windows Server 2019](https://aws.amazon.com/marketplace/pp/B07STLTHM8?ref_=beagle) from the AWS Marketplace.
 
 
 
