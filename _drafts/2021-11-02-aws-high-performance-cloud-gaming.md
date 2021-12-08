@@ -62,22 +62,37 @@ Not everybody can afford having a monster like for example the [Falcon Northwest
 
 5. The default VPC is automatically configured to allow Internet access. My VPC has an ID of vpc-01fe1843d2da4b0e4. If I click on the Internet Gateways tab there's an Internet gateway attached to my default VPC. I did not create this Internet gateway. AWS created the gateway automatically at the time that I set up my subscription.
 
-<img src="/assets/aws-parsec-setup/vpc-internet gateway.png" width="654">
+<img src="/assets/aws-parsec-setup/vpc-internet-gateway.png" width="654">
 
-6. Hence the same happened for the route table:
+6. Hence the same for the subnet. Note that though it is best practice to create a second availability zone for HA, I'm gonna skip it. Remember this is for gaming, not for company production. Should you feel an irresistible urge, a how-to can be found [here](https://tomgregory.com/when-to-create-different-subnets-in-aws-vpcs/).
+
+<img src="/assets/aws-parsec-setup/vpc-subnet.png" width="654">
+
+7. And the route table:
 
 <img src="/assets/aws-parsec-setup/vpc-route-table.png" width="654">
 
-7. Moving to EC2. We first have to verify our security group, then subscribe to the required AMI from the [AWS Marketplace](https://aws.amazon.com/marketplace/), and then we have to launch the instance.
+8. Moving to EC2. We first have to verify our security group, then subscribe to the required AMI from the [AWS Marketplace](https://aws.amazon.com/marketplace/), and then we have to launch the instance.
 
  Go to the Security / Security Groups tab and check that rules are conform below values:
 
+<img src="/assets/aws-parsec-setup/ec2-security-group.png" width="654">
+
    Inbound:
    `All traffic | All | All | Anywhere | “0.0.0.0/0” / “::/0”`
+
+<img src="/assets/aws-parsec-setup/ec2-security-group-inbound.png" width="654">
 
    This is not at all secure but it's convenient and only for this post. You can check [here](https://support.parsecgaming.com/hc/en-us/articles/360043419312) and [here](https://support.parsecgaming.com/hc/en-us/articles/360045297592) to get the exact port requirements.
 
    Outbound:
    `All traffic | All | All | Anywhere | “0.0.0.0/0” / “::/0”`
 
-8. 
+<img src="/assets/aws-parsec-setup/ec2-security-group-outbound.png" width="654">
+
+9. Subscribe to the [NVIDIA Gaming PC – Windows Server 2019](https://aws.amazon.com/marketplace/pp/B07STLTHM8?ref_=beagle) from the AWS Marketplace.
+
+
+
+
+
