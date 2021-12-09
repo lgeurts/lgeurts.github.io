@@ -44,56 +44,50 @@ Not everybody can afford having a monster like for example the [Falcon Northwest
 
 **Setting up AWS:**
 
-1. By now you created and activated your AWS account. Continue with adding a VPC (Virtual Private Network) by logging in to your account and checking the VPC  console. Click on the *Launch VPC Wizard*, and the next screen opens:
+- By now you created and activated your AWS account. Continue with adding a VPC (Virtual Private Network) by logging in to your account and checking the VPC  console. Click on the *Launch VPC Wizard*, and the next screen opens:
 
-- <img src="/assets/aws-parsec-setup/vpc-dashboard.png" width="654">
+  <img src="/assets/aws-parsec-setup/vpc-dashboard.png" width="654">
 
-2. Select VPC with a Single Public Network:
+- Select VPC with a Single Public Network:
 
-- <img src="/assets/aws-parsec-setup/step1-select-vpc-configuration.png" width="654">
-
-
-3. We don’t need IPv6 for this so you don’t have to give that but give a Name tag so that we can understand what it’s for:
-
-<img src="/assets/aws-parsec-setup/step2-vpc-with-a-single-public-subnet.png" width="654">
-
-4. This is what it looks like when you clicked on *Create VPC*:
-
-<img src="/assets/aws-parsec-setup/vpc-successfully-created.png" width="654">
-
-5. The default VPC is automatically configured to allow Internet access. My VPC has an ID of vpc-01fe1843d2da4b0e4. If I click on the Internet Gateways tab there's an Internet gateway attached to my default VPC. I did not create this Internet gateway. AWS created the gateway automatically at the time that I set up my subscription.
-
-<img src="/assets/aws-parsec-setup/vpc-internet-gateway.png" width="654">
-
-6. Hence the same for the subnet. Note that though it is best practice to create a second availability zone for HA, I'm gonna skip it. Remember this is for gaming, not for company production. Should you feel an irresistible urge, a how-to can be found [here](https://tomgregory.com/when-to-create-different-subnets-in-aws-vpcs/).
-
-<img src="/assets/aws-parsec-setup/vpc-subnet.png" width="654">
-
-7. And the route table:
-
-<img src="/assets/aws-parsec-setup/vpc-route-table.png" width="654">
-
-8. Moving to EC2. We first have to verify our security group, then subscribe to the required AMI from the [AWS Marketplace](https://aws.amazon.com/marketplace/), and then we have to launch the instance.
-
-9. Go to the Security / Security Groups tab and check that rules are conform below values:
-
-<img src="/assets/aws-parsec-setup/ec2-security-group.png" width="654">
-
-This is not at all secure but it's convenient and only for this post. You can check [here](https://support.parsecgaming.com/hc/en-us/articles/360043419312) and [here](https://support.parsecgaming.com/hc/en-us/articles/360045297592) to get the exact port requirements.
-
-   Inbound:
-   `All traffic | All | All | Anywhere | “0.0.0.0/0” / “::/0”`
-
-<img src="/assets/aws-parsec-setup/ec2-security-group-inbound.png" width="654">
-
-   Outbound:
-   `All traffic | All | All | Anywhere | “0.0.0.0/0” / “::/0”`
-
-<img src="/assets/aws-parsec-setup/ec2-security-group-outbound.png" width="654">
-
-10. Subscribe to the [NVIDIA Gaming PC – Windows Server 2019](https://aws.amazon.com/marketplace/pp/B07STLTHM8?ref_=beagle) from the AWS Marketplace.
+  <img src="/assets/aws-parsec-setup/step1-select-vpc-configuration.png" width="654">
 
 
+- We don’t need IPv6 for this so you don’t have to give that but give a Name tag so that we can understand what it’s for:
 
+  <img src="/assets/aws-parsec-setup/step2-vpc-with-a-single-public-subnet.png" width="654">
 
+- This is what it looks like when you clicked on *Create VPC*:
+
+  <img src="/assets/aws-parsec-setup/vpc-successfully-created.png" width="654">
+
+- The default VPC is automatically configured to allow Internet access. My VPC has an ID of vpc-01fe1843d2da4b0e4. If I click on the Internet Gateways tab there's an Internet gateway attached to my default VPC. I did not create this Internet gateway. AWS created the gateway automatically at the time that I set up my subscription.
+
+  <img src="/assets/aws-parsec-setup/vpc-internet-gateway.png" width="654">
+
+- Hence the same for the subnet. Note that though it is best practice to create a second availability zone for HA, I'm gonna skip it. Remember this is for gaming, not for company production. Should you feel an irresistible urge, a how-to can be found [here](https://tomgregory.com/when-to-create-different-subnets-in-aws-vpcs/).
+
+  <img src="/assets/aws-parsec-setup/vpc-subnet.png" width="654">
+
+- And the route table:
+
+  <img src="/assets/aws-parsec-setup/vpc-route-table.png" width="654">
+
+- Go to the Security / Security Groups tab and check that rules are conform below values:
+
+  <img src="/assets/aws-parsec-setup/ec2-security-group.png" width="654">
+
+​	This is not at all secure but it's convenient and only for this post. You can check [here](https://support.parsecgaming.com/hc/en-us/articles/360043419312) and [here](https://support.parsecgaming.com/hc/en-us/articles/360045297592) to get the exact port requirements.
+
+​	Inbound:
+​	`All traffic | All | All | Anywhere | “0.0.0.0/0” / “::/0”`
+
+​	Outbound:
+
+​	`All traffic | All | All | Anywhere | “0.0.0.0/0” / “::/0”`
+
+**Configuring the gaming server:**
+
+- Login to your AWS account and subscribe to the cheapest [NVIDIA Gaming PC – Windows Server 2019](https://aws.amazon.com/marketplace/pp/prodview-xrrke4dwueqv6?ref_=beagle) AMI from the AWS Marketplace (click on the different regions to compare hourly prices).
+- Once done, you can launch your instance with the following settings:
 
