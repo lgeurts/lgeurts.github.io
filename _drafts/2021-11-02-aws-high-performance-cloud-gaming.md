@@ -37,7 +37,9 @@ Not everybody can afford having a monster like for example the [Falcon Northwest
 
 **Configuring the Parsec account:**
 
-​	<img src="/assets/aws-parsec-setup/parsec-new-account.png" width="654">
+- Go to the Parsec site, new account:
+
+  <img src="/assets/aws-parsec-setup/parsec-new-account.png" width="654">
 
 - Sign up with a username, email-address and password. You'll get a confirmation (check your spam folder) with a link to click on. Press the mouse button.
 
@@ -77,16 +79,14 @@ Not everybody can afford having a monster like for example the [Falcon Northwest
 - Go to the Security / Security Groups tab and check that rules are conform below values:
 
   <img src="/assets/aws-parsec-setup/ec2-security-group.png" width="654">
-
-​	Inbound:
-
-​	`All traffic | All | All | Anywhere | “0.0.0.0/0” / “::/0”`
-
-​	Outbound:
-
-​	`All traffic | All | All | Anywhere | “0.0.0.0/0” / “::/0”`
-
-​	This is not at all secure but it's convenient and only for this post. You can check [here](https://support.parsecgaming.com/hc/en-us/articles/360043419312) and [here](https://support.parsecgaming.com/hc/en-us/articles/360045297592) to get the exact port requirements.
+  
+  This is not at all secure but it's convenient and only for this post. You can check [here](https://support.parsecgaming.com/hc/en-us/articles/360043419312) and [here](https://support.parsecgaming.com/hc/en-us/articles/360045297592) to get the exact port requirements.
+  
+  - Inbound: `All traffic | All | All | Anywhere | “0.0.0.0/0” / “::/0”`
+  
+  
+  - Outbound:`All traffic | All | All | Anywhere | “0.0.0.0/0” / “::/0”`
+  
 
 **Configuring the gaming server:**
 
