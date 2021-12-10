@@ -90,6 +90,6 @@ Not everybody can afford having a monster like for example the [Falcon Northwest
 
 **Configuring the gaming server:**
 
-- Login to your AWS account and subscribe to the cheapest [NVIDIA Gaming PC – Windows Server 2019](https://aws.amazon.com/marketplace/pp/prodview-xrrke4dwueqv6?ref_=beagle) AMI (which features the NVIDIA T4 GPU) from the AWS Marketplace (click on the different regions to compare hourly prices).
+- Login to your AWS account and subscribe to the g4dn.xlarge [NVIDIA Gaming PC – Windows Server 2019](https://aws.amazon.com/marketplace/pp/prodview-xrrke4dwueqv6?ref_=beagle) AMI (which features the NVIDIA T4 GPU) from the AWS Marketplace (click on the different regions to compare hourly prices).
 - Once done, you can launch your instance with the following settings:
 
