@@ -45,6 +45,7 @@ $ sudo apt install iotop
 $ sudo apt install iftop
 $ sudo apt install ttyload
 $ sudo apt install ranger
+$ sudo apt install unrar zip unzip p7zip-full p7zip-rar rar
 $ sudo apt install virtualbox virtualbox-ext-pack -y
  <> $ sudo sh sign-vboxmodules.sh
 $ sudo apt install steam
