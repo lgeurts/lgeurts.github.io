@@ -13,7 +13,7 @@ tags: [ Linux Tutorials ]
 
 ## Firmware updates
 
-Lenovo sends out capsules which, when running Ubuntu update-manager, will be available for installation. Ref: [Lenovo Knowledge Base](https://support.lenovo.com/nl/en/solutions/ht510810-how-to-do-software-updates-linux).
+Lenovo sends out capsules which when running Ubuntu update-manager will be available for installation. Ref: [Lenovo Knowledge Base](https://support.lenovo.com/nl/en/solutions/ht510810-how-to-do-software-updates-linux).
 
 ## Sleep states
 
