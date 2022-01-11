@@ -24,7 +24,7 @@ Anyways, this was a big step in **de-cluttering** my life and it has made some h
 
 I also realized that while my workflow had improved, I did things the younger me would never ever have approved. 
 
-As an example, one of those things was leaving an application open and letting it run in the background, even when I was not there. I know this sounds rather silly but closing an application when I don’t use it does help me focus on what I’m doing. For that reason, I replaced the OS on two of my Lenovo workstations with vanilla [Debian](https://www.debian.org/) & [I3 WM](https://i3wm.org/). (See? Told you this post is not exclusively about scoring points on [LinuxPorn](https://www.reddit.com/r/LinuxPorn/)!)
+As an example, one of those things was leaving an application open and letting it run in the background, even when I was not there. I know this sounds rather silly but closing an application when I don’t use it does help focus on what I’m doing. For that reason, I replaced the OS on two of my Lenovo workstations with vanilla [Debian](https://www.debian.org/) & [I3 WM](https://i3wm.org/). (See? Told you this post is not exclusively about scoring points on [LinuxPorn](https://www.reddit.com/r/LinuxPorn/)!)
 
 Now .... when it comes to social media, can’t leave them unread. I must to relax. 
 The third step. I became picky about what channels to subscribe to, and made an agreement that at a certain time in the evening I'd stop, no matter how much my desire to keep hanging on (if I don't I have to take her out to a fancy diner). After some time I found the everlasting craving for more was gone, and I truly enjoyed the nothingness, loved all that time I now had on my hands more than anything. 
