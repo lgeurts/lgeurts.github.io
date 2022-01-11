@@ -95,6 +95,7 @@ $ sudo apt install ffmpeg
 $ sudo apt install ffmpegthumbnailer
 $ sudo apt install protonvpn
 $ sudo apt install gnome-shell-extension-appindicator gir1.2-appindicator3-0.1
+$ sudo add-apt-repository -y ppa:libreoffice/ppa
 $ sudo snap install hexchat
 $ sudo snap install slack --classic
 $ sudo snap install powershell --classic
