@@ -136,7 +136,7 @@ Resources:
 
 ## Browser extensions
 
-Add [Privacy Badger](https://privacybadger.org/) and [HTTPS Everywhere](https://www.eff.org/https-everywhere). Do not use other stores!
+Add [Privacy Badger](https://privacybadger.org/), [HTTPS Everywhere](https://www.eff.org/https-everywhere) and [Facebook Container](https://github.com/mozilla/contain-facebook). Do not use other stores!
 
 # System specifics
 
