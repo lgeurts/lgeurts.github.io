@@ -136,7 +136,7 @@ Resources:
 
 ## Browser extensions
 
-Add [DuckDuckGo](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/)[Privacy Badger](https://privacybadger.org/), [HTTPS Everywhere](https://www.eff.org/https-everywhere) and [Facebook Container](https://github.com/mozilla/contain-facebook). Do not use other stores!
+Add [DuckDuckGo](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/)[Privacy Badger](https://privacybadger.org/), [HTTPS Everywhere](https://www.eff.org/https-everywhere) and [Facebook Container](https://github.com/mozilla/contain-facebook). Do not use other sources!
 
 # System specifics
 
