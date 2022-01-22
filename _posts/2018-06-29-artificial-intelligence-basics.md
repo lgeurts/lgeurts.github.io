@@ -9,7 +9,7 @@ tags: [ Artificial Intelligence ]
 
 These are my raw personal notes covering common ***concepts*** and ***techniques***.
 
-Some caveats:
+*Some caveats:*
 * This post may not be helpful for your purposes. 
 * This is still very much a work in progress and it will be changing a lot.
 * Some content may be out of order, missing. Don't get upset.
@@ -17,6 +17,7 @@ Some caveats:
 * Part of this material is adapted, sometimes directly copied from elsewhere.
 
 Should you find something is wrong, let me know.
+
 ------------------------------------------------------------------------------
 
 ## **<u>Table of Contents</u>**
