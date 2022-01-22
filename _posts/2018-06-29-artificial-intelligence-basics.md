@@ -14,9 +14,9 @@ Some final caveats:
 * This is still very much a work in progress and it will be changing a lot.
 * Some content may be out of order, missing. Don't get upset.
 * The notes are created in (GitHub flavored) markdown, so unfortunately lack snazzy interactivity.
-* Part of this material is adapted, sometimes directly copied from elsewhere. I have tried to give credit where due. 
+* Part of this material is adapted, sometimes directly copied from elsewhere. 
 
-These ***raw*** notes are ***open sourced*** - should you encounter errors, have a better way of explaining something, don't hesitate to submit a pull request.
+These raw notes are ***open sourced*** - should you encounter errors, have a better way of explaining something, don't hesitate to submit a pull request.
 
 ------------------------------------------------------------------------------
 
