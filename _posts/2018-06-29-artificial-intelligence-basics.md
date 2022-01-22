@@ -16,7 +16,7 @@ Some final caveats:
 * The notes are created in (GitHub flavored) markdown, so unfortunately lack snazzy interactivity.
 * Part of this material is adapted, sometimes directly copied from elsewhere. 
 
-These raw notes are ***open sourced*** - should you encounter errors, have a better way of explaining something, don't hesitate to submit a pull request.
+These raw notes are ***open sourced***. Should you encounter errors, have a better way of explaining something, don't hesitate to submit a pull request.
 
 ------------------------------------------------------------------------------
 
