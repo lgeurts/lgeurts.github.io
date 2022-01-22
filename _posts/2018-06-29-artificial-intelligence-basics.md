@@ -7,7 +7,7 @@ category: Education & Training
 tags: [ Artificial Intelligence ]
 ---
 
-These are my personal notes covering common concepts and techniques.
+These are my raw personal notes covering common ***concepts*** and ***techniques***.
 
 Some caveats:
 * This post may not be helpful for your purposes. 
@@ -16,6 +16,7 @@ Some caveats:
 * The notes are created in (GitHub flavored) markdown, so unfortunately lack snazzy interactivity.
 * Part of this material is adapted, sometimes directly copied from elsewhere.
 
+Should you find something is wrong, let me know.
 ------------------------------------------------------------------------------
 
 ## **<u>Table of Contents</u>**
