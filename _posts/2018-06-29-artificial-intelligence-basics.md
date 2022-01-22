@@ -16,7 +16,7 @@ These are my raw personal notes covering ***common concepts*** and ***techniques
 * The notes are created in (GitHub flavored) markdown, so unfortunately lack snazzy interactivity.
 * Part of this material is adapted, sometimes directly copied from elsewhere.
 
-Should you find something is wrong, let me know.
+Should you find grave errors, let me know.
 
 ------------------------------------------------------------------------------
 
