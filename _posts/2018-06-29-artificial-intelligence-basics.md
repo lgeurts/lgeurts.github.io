@@ -183,7 +183,7 @@ Before you start building your machine learning system, you should:
 
 * Be explicit about the problem.
 * Start with a specific question. What do you want to predict, what tools you have to predict it with?
-* Brainstorm on possible strategies like what features might be useful or do you need to collect more data?
+* Brainstorm on possible strategies like what features might be useful, or do you need to collect more data?
 * Try and find good input data.
 * Randomly split data into: training samples, testing samples and validation samples.
 * Use features of, or features built from the data, that may help with making predictions.
@@ -202,6 +202,6 @@ Conversely, we expect the average validation error to decrease as the training s
 
 If the training and validation error curves flatten out at a high error as set sizes increase, then you have a high bias problem. Adding more training data will not (by itself) help much.
 
-On the other hand, high variance problems are indicated by a large gap between the training and validation error curves as training set size increases. You would see a low training error. In this case, the curves are converging and adding more training data would help.
+On the other hand, high variance problems are indicated by a large gap between training and validation error curves as training set sizes increase. You would see a low training error. In this case, the curves are converging and adding more training data would help.
 
 *Ref: Web: [Intro to Artificial Intelligence](https://eu.udacity.com/course/intro-to-artificial-intelligence--cs271) - Udacity.*
