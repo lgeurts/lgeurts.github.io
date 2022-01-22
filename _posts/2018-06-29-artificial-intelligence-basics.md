@@ -7,9 +7,8 @@ category: Education & Training
 tags: [ Artificial Intelligence ]
 ---
 
-These are my raw personal notes, broadly covering BASICS necessary for ***Machine Learning*** and ***Artificial Intelligence***.
+These are my raw personal notes, broadly covering some BASIC concepts and techniques.
 
-Some final caveats:
 * This post may not be helpful for your purposes. 
 * This is still very much a work in progress and it will be changing a lot.
 * Some content may be out of order, missing. Don't get upset.
