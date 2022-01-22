@@ -7,7 +7,7 @@ category: Education & Training
 tags: [ Artificial Intelligence ]
 ---
 
-These are my raw personal notes, broadly covering common concepts and techniques.
+These are raw personal notes, broadly covering common concepts and techniques.
 
 Some caveats:
 * This post may not be helpful for your purposes. 
