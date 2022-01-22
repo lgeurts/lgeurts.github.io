@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Study Notes - Artificial Intelligence (AI)
+title: Study Notes - Artificial Intelligence (AI) and Machine Learning (ML)
 read_time: true  
 comments: false
 category: Education & Training
