@@ -55,5 +55,3 @@ Big companies with dedicated teams should look at tools like [docToolChain](http
 
 * [Docs Like Code (English Edition) Kindle Edition by Anne Gentle](https://www.amazon.de/dp/B0784ZJWSR)
 * [Modern Technical Writing by Andrew Etter](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
-
-**Note:** the off-shore company I currently work for implemented Docs-as-Code. Will keep you updated on the progress.
