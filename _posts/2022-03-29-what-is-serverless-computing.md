@@ -11,7 +11,7 @@ tags: [ Cloud Computing ]
  
 Back in the days, a company had to buy expensive physical servers, set those up somewhere in rooms that were outfitted with peripheral subsystems for cooling, ventilation, fire suppression, etc., and then configure each server in order to run their applications. They also had to hire engineers to maintain these bare-metal servers and troubleshoot any issues that could occur along the way.
  
-This entire process of deploying servers -(or any other devices), could take days to complete, and requires properly estimating and allocating capacity since you can't dynamically add or remove CPUs, RAM, disks, etc. The server-based model is basically quite inconvenient, labor-intensive, and entails quite exorbitant costs.
+This entire process of deploying servers -(or any other devices), could take days to complete, and requires properly estimating and allocating capacity since you can't dynamically add or remove CPUs, RAM, disks, etc. The server-based model is basically quite inconvenient, labor-intensive, and entails some exorbitant costs.
  
 The serverless solution does not mean it is literally running out of thin air with absolutely no physical server at all. You still need a CPU, RAM, a network interface card, and other physical server devices to process data. Serverless simply means that a particular service requires less server management – meaning, a cloud service provider like AWS handles all of the manual server management tasks for you. This allows you to focus on implementing your core business logic instead of just wasting your time doing time-consuming server deployment and maintenance tasks that don’t add much value to your business
 
