@@ -21,7 +21,7 @@ Since a VM has its own OS, it also has its own kernel which provides for a secur
  
 There is also a smaller virtualized entity called containers (Docker). A container shares the physical server’s OS system kernel but does not launch its own guest OS, unlike a VM. It virtualizes application libraries and dependencies instead of the whole Operating System. Therefore, a container doesn’t have its own kernel unlike a VM, so it is not fully isolated to other containers running in the host. A container is primarily used for running applications and that's the reason why it is faster to launch compared with an Amazon EC2 instance (VM).
 
-Although a container provides a significantly reduced startup time over VM, it still has an operating cost that you have to cover. The burden of paying both its active and idle time remains, even if no one is using your containerized application at all. This is especially true if you have workloads that only need to run once a month or infrequently.
+Although a container provides a significantly reduced startup time overa VM, it still has an operating cost that you have to cover. The burden of paying active and idle time remains, even if no one is using your containerized application at all. This is especially true if you have workloads that only need to run once a month or infrequently.
 
 This is where serverless computing comes in. Serverless is essentially a combination of a VM and a container. It is powered by a micro virtual machine, or a microVM, which has its own kernel. Just like a container, it deploys faster than a Virtual Machine and it can be used to run your applications.
 
