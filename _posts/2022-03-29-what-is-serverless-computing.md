@@ -25,4 +25,4 @@ Although a container provides a significantly reduced startup time over a VM, it
 
 This is where serverless kicks in. Serverless is in essence a combo of a VM and a container. Powered by a microVM with its own kernel it deploys faster than your regular virtual machine while at the same time it can run your applications.
 
-In contrast with VMs and containers, serverless services don't run continuously. A serverless setup will only run when it is invoked and will afterwards release all its computing capacity. This is the reason why a serverless architecture is the most cost-effective way since you won’t have to pay for its idle time.
+In contrast with VMs and containers, serverless services don't run continuously. A serverless setup will only run when it's invoked and will afterwards release all computing capacity. This is the reason why a serverless architecture is the most cost-effective way since you won’t have to pay for its idle time.
