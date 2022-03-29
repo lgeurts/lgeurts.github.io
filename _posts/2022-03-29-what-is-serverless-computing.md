@@ -1,15 +1,15 @@
 ---
 
 layout: post
-title:Serverless computing for managers
+title: Serverless computing for managers
 read_time: true
 comments: true
-category: 
+category: Cloud Computing
 tags: [ Cloud Computing ]
 
 ---
  
-Back in the days, a company had to buy expensive physical servers, set those up somewhere in rooms that were outfitted with peripheral subsystems for cooling, ventilation, fire suppression, etc., and then configure each server in order to run their applications. They also has to hire a team of systems and network administrators to maintain these bare-metal servers and troubleshoot any issues that could occur along the way.
+Back in the days, a company had to buy expensive physical servers, set those up somewhere in rooms that were outfitted with peripheral subsystems for cooling, ventilation, fire suppression, etc., and then configure each server in order to run their applications. They also has to hire a team of engineers to maintain these bare-metal servers and troubleshoot any issues that could occur along the way.
  
 The entire process of deploying a rack server, a blade server, or other devices can take days or even weeks to complete. This entails a high administrative overhead and an exorbitant cost to any organization. Using this server-based model requires you to properly estimate and allocate the server capacity in advance since you cannot dynamically add up or remove CPUs from these IT assets easily. It’s just simply inconvenient, labor-intensive, and downright expensive to manage your own servers.
  
