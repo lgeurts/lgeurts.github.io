@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: Serverless computing for managers
+title: Serverless computing (for managers)
 read_time: true
 comments: true
 category: Cloud Computing
