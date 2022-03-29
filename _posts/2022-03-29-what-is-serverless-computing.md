@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: Serverless computing (for CIOs /& CFOs)
+title: Serverless computing for CIOs /& CFOs
 read_time: true
 comments: true
 category: Cloud Computing
