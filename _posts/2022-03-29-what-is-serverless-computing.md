@@ -21,7 +21,7 @@ Next step was a smaller virtualized entity called container ([Docker](https://aw
 
 Although a container provides a significantly reduced startup time over a VM, it still has operating costs that you have to cover. The burden of paying active and idle time remains, even if no one is using your containerized application at all.
 
-This is where [serverless](https://aws.amazon.com/serverless/) kicks in. Serverless is in essence a combo of a VM and a container, but in contrast to containerization, serverless uses a small optimized kernel virtualized on top of a kernel-based virtual machine. It uses far less memory when compared to a VM while at the same time it can seamlessly run your code, and like containers your applications.
+This is where [serverless](https://aws.amazon.com/serverless/) kicks in. Serverless is in essence a combo of a VM and a container, but in contrast to containerization, serverless uses a small optimized kernel virtualized on top of a kernel-based virtual machine (MicroVM). It uses far less memory when compared to a VM while at the same time it can seamlessly run your code, and like containers your applications.
 
 You still need CPU, RAM, network interface card, and other physical server devices to process data. Serverless simply means that a particular service requires less server management, meaning your CSP will handle all of the manual server management tasks for you. This allows organizations to focus solely on their core business logic instead of just wasting time doing time-consuming server deployments and maintenance tasks that don’t add much value to the business.
 
