@@ -17,7 +17,7 @@ Starting 2017, cloud computing ushered the era of [on-demand virtual machines](h
 
 Since a VM has its own OS, it also has its own kernel which provides for a secure boundary over other VMs running in our host computer. It takes time to launch all of these instances due to the different components that the hypervisor must virtualize and allocate. Moreover, you will have to pay the costs of running your VMs, including idling time when a resource isn’t used at all. And let's not forget that virtual machines are running a guest operating system that needs updates.
  
-Next step was a smaller virtualized entity called container ([Docker](https://aws.amazon.com/docker/), [Kubernetes pods](https://aws.amazon.com/kubernetes/)). Containers share the physical server’s OS system kernel but do not run a guest OS, unlike VMs. Instead they virtualize business application libraries and dependencies. Therefore, a container doesn’t have its own kernel, so it is not fully isolated to other containers running in the host.
+Next step was a smaller virtualized entity called container ([Docker](https://aws.amazon.com/docker/), [Kubernetes pods](https://aws.amazon.com/kubernetes/)). Containers share the physical server’s OS system kernel but do not run a guest OS, unlike VMs. Instead they virtualize business application libraries and dependencies. Therefore, a container doesn’t need to have its own kernel, and is not fully isolated to other containers running in the host.
 
 Although a container provides a significantly reduced startup time over a VM, it still has operating costs that you have to cover. The burden of paying active and idle time remains, even if no one is using your containerized application at all.
 
