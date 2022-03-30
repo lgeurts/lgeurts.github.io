@@ -17,11 +17,11 @@ Starting 2017, cloud computing ushered the era of [on-demand virtual machines](h
 
 Since a VM has its own OS, it also has its own kernel which provides for a secure boundary over other VMs running in our host computer. It takes time to launch all of these instances due to the different components that the hypervisor must virtualize and allocate. Moreover, you will have to pay the costs of running your VMs, including idling time when a resource isn’t used at all. And let's not forget that virtual machines are running a guest operating system that needs updates.
  
-Next step was a smaller virtualized entity called container ([Docker](https://aws.amazon.com/docker/), [Kubernetes pods](https://aws.amazon.com/kubernetes/)). Containers share the physical server’s OS system kernel but do not run a guest OS with its own kernel, unlike a VM. They virtualize application libraries and dependencies and therefore are much faster than a VM.
+Next step was a smaller virtualized entity called container ([Docker](https://aws.amazon.com/docker/), [Kubernetes pods](https://aws.amazon.com/kubernetes/)). Containers share the physical server’s OS system kernel but do not run a guest OS with its own kernel, unlike a VM. They virtualize application libraries and dependencies, and therefore are much faster than a VM.
 
 Although a container provides a significantly reduced startup time over a VM, it still has operating costs that you have to cover. The burden of paying active and idle time remains, even if no one is using your containerized application at all.
 
-This is where serverless kicks in. Serverless is in essence a combo of a VM and a container. Powered by a microVM with its own kernel it deploys faster than your regular virtual machine while at the same time it can run your applications.
+This is where serverless kicks in. Serverless is in essence a combo of a VM and a container. Powered by a microVM with its own kernel it deploys faster than the regular virtual machine while at the same time it can run applications.
 
 In contrast with VMs and containers, serverless services don't run continuously. A serverless setup will only run when it's invoked and will afterwards release all computing capacity. This is the reason why a serverless architecture is the most cost-effective way since you won’t have to pay for idle time.
 
