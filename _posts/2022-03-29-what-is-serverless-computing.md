@@ -21,8 +21,10 @@ Next step was a smaller virtualized entity called container ([Docker](https://aw
 
 Although a container provides a significantly reduced startup time over a VM, it still has operating costs that you have to cover. The burden of paying active and idle time remains, even if no one is using your containerized application at all.
 
-This is where serverless kicks in. Serverless is in essence a combo of a VM and a container. Powered by a microVM with its own kernel it deploys faster than the regular virtual machine while at the same time it can run applications.
+This is where [serverless](https://aws.amazon.com/serverless/) kicks in. Serverless is in essence a combo of a VM and a container. Powered by a microVM with its own kernel, it deploys faster than the regular virtual machine while at the same time it can run applications.
+
+The serverless solution does not mean it is literally running out of thin air with absolutely no physical server at all. You still need CPU, RAM, network interface card, and other physical server devices to process data. Serverless simply means that a particular service requires less server management, meaning an CSP handles all of the manual server management tasks for you. This allows organizations to focus solely on their core business logic instead of just wasting time doing time-consuming server deployments and maintenance tasks that don’t add much value to the business.
 
 In contrast with VMs and containers, serverless services don't run continuously. A serverless setup will only run when it's invoked and will afterwards release all computing capacity. This is the reason why a serverless architecture is the most cost-effective way since you won’t have to pay for idle time.
 
-The serverless solution does not mean it is literally running out of thin air with absolutely no physical server at all. You still need CPU, RAM, network interface card, and other physical server devices to process data. Serverless simply means that a particular service requires less server management, meaning an CSP (like for example [AWS](https://aws.amazon.com/serverless/)) handles all of the manual server management tasks for you. This allows organizations to focus solely on their core business logic instead of just wasting time doing time-consuming server deployments and maintenance tasks that don’t add much value to the business.
+
