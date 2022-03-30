@@ -23,6 +23,6 @@ Although a container provides a significantly reduced startup time over a VM, it
 
 This is where [serverless](https://aws.amazon.com/serverless/) kicks in. Serverless is in essence a combo of a VM and a container, but in contrast to containerization, serverless uses a small optimized kernel virtualized on top of a kernel-based virtual machine (MicroVM).
 
-Serverless let's you run code, manage data, and integrate business applications without managing any servers because the CSP will handle these tasks for you. 
+Serverless let's you run code, manage data, even integrate business applications without managing any servers because the CSP will handle these tasks for you. 
 
 Speaking about cost efficiency, in contrast with VMs and containers, serverless services don't run continuously. A serverless configuration will only start when it's invoked and will afterwards release all computing capacity. This is the reason why a serverless architecture is the most cost-effective way since you won’t have to pay for idle time.
