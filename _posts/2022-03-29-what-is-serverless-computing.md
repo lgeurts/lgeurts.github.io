@@ -11,7 +11,7 @@ tags: [ Cloud Computing ]
  
 Back in the days, a company had to buy expensive physical servers, set those up somewhere in rooms that were outfitted with peripheral subsystems for cooling, ventilation, fire suppression, etc., and then configure each server in order to run their applications. They also had to hire engineers to maintain these bare-metal servers and troubleshoot any issues that could occur along the way.
  
-This entire process of deploying servers -or any other devices, could take days to complete, and requires properly estimating and allocating capacity since you can't dynamically add & remove CPUs, RAM, disks, etc. The server-based model is basically quite inconvenient, labor-intensive, and entails exorbitant costs.
+This entire process of deploying servers, or any other devices, could take days to complete, and requires properly estimating and allocating capacity since you can't dynamically add & remove CPUs, RAM, disks, etc. The server-based model is basically quite inconvenient, labor-intensive, and entails exorbitant costs.
  
 Starting 2017, cloud computing ushered the era of [on-demand virtual machines](https://aws.amazon.com/ec2/) that you can use to launch online solutions in a matter of minutes instead days or weeks. A bare-metal server runs the host OS and a virtualization layer which produces tens or hundreds of virtual machines. This pool of virtual machines is sharing the CPU cores, RAM, network bandwidth, and disks that are attached to the host computer. 
 
