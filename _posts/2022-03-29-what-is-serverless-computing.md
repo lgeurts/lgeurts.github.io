@@ -9,7 +9,7 @@ tags: [ Cloud Computing ]
 
 ---
  
-Back in the days, a company had to buy physical servers, set those up somewhere in rooms that were outfitted with peripheral subsystems for cooling, ventilation, fire suppression, etc., and then configure each server in order to run their applications. They also had to hire engineers to maintain these bare-metal servers and troubleshoot any issues that could occur along the way.
+Back in the days, a company had to buy expensive physical servers, set those up somewhere in rooms that were outfitted with peripheral subsystems for cooling, ventilation, fire suppression, etc., and then configure each server in order to run their applications. They also had to hire engineers to maintain these bare-metal servers and troubleshoot any issues that could occur along the way.
  
 This entire process of deploying servers, or any other devices, could take days to complete, and required properly estimating and allocating capacity since you can't dynamically add & remove CPUs, RAM, disks, etc. For those living on the bleeding edge the server-based model proved to be inconvenient, labor-intensive, and entailing exorbitant costs.
  
