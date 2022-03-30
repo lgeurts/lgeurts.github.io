@@ -25,4 +25,4 @@ This is where [serverless](https://aws.amazon.com/serverless/) kicks in. Serverl
 
 Serverless let's you run code, manage data, and integrate business applications without managing any servers because the CSP will handle these tasks for you. 
 
-As for cost efficiency, in contrast with VMs and containers, serverless services don't run continuously. A serverless setup will only run when it's invoked and will afterwards release all computing capacity. This is the reason why a serverless architecture is the most cost-effective way since you won’t have to pay for idle time.
+Speaking about cost efficiency, in contrast with VMs and containers, serverless services don't run continuously. A serverless setup will only run when it's invoked and will afterwards release all computing capacity. This is the reason why a serverless architecture is the most cost-effective way since you won’t have to pay for idle time.
