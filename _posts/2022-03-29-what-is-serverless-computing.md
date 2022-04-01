@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: Serverless computing for CIOs & CFOs
+title: The advantage of serverless computing for CIOs & CFOs
 read_time: true
 comments: true
 category: Cloud Computing
