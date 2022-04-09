@@ -28,13 +28,13 @@ To mop it up, double-check that you have the latest firmware updates installed, 
 
 **FREEING UP SPACE ON THE DRIVE**
 
-To install a second operating system - whether another copy of Windows, Linux, or something more exotic (FreeBSD?), you'll need space on your system drive. You could also use a second drive, but this is probably not the option for laptop users and small-form-factor devices.
+To install a second operating system - whether another copy of Windows, Linux, or something more exotic ([FreeBSD?](https://www.freebsd.org/), you'll need space on your system drive. You could also use a second drive, but this is probably not the option for laptop users and small-form-factor devices.
 
 Try to free up at least 20 GB for a Linux installation. Some distros (like Ubuntu and Fedora) install themselves alongside Win-10 with fully guided installation options if you prepare your disk in this way.
 
 Optionally, if your partition layout allows for it you should also grow your UEFI System Partition to circa 1 GB. Multiple operating systems will be storing their UEFI blobs (and possibly multiple versions during system upgrades), and it can be beneficial in the near future to have more space available on this partition. You may not be able to do this without reinstalling Windows from scratch, and it’s not really necessary (although it might save you some troubleshooting at a later time).
 
-You can resize and manage your partitions with the built-in Disk Management utility in Windows. Find it by searching for “Create and manage hard disk partitions” in Windows Search or Cortana.
+You can resize and manage your partitions with the built-in Disk Management utility in Windows. Search for “Create and manage hard disk partitions” in Windows Search or Cortana.
 
 If this is a new device that you’ve never stored any personal data on, I’d recommend that you first disable BitLocker Device Encryption temporarily before making changes to your drive partitions. Windows is fairly decent at self-repairing any accidental damage or problems that can occur when you manipulate your partitions on a native NTFS drive, this in contrary to a BitLocker encrypted drive.
 After disabling BitLocker Device Encryption from Windows Settings, you must wait some time for the decryption to complete. Then you can proceed to shrink the main drive. Both of these operations can take hours, depending on the drive. When you’ve shrunk your partition and freed up space, you can re-enable BitLocker Device Encryption. You should reboot your system and wait several hours for the process to complete before proceeding to avoid running into issues later.
