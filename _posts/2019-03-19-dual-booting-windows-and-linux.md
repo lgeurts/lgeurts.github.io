@@ -34,7 +34,7 @@ Try to free up at least 20 GB for a Linux installation. Some distros (like Ubunt
 
 Optionally, if your partition layout allows for it you should also grow your UEFI System Partition to circa 1 GB. Multiple operating systems will be storing their UEFI blobs (and possibly multiple versions during system upgrades), and it can be beneficial in the near future to have more space available on this partition. You may not be able to do this without reinstalling Windows from scratch, and it’s not really necessary (although it might save you some troubleshooting at a later time).
 
-You can resize and manage your partitions with the built-in Disk Management utility in Windows. Just search for *“Create and manage hard disk partitions”* in the Windows Search box or Cortana.
+You can resize and manage your partitions with the built-in Disk Management utility in Windows (search for *“Create and manage hard disk partitions”* in the Windows Search box or Cortana).
 
 If this is a new device that you’ve never stored personal data on, I recommend that when activated you first **disable** BitLocker Device Encryption temporarily before making changes to the drive partitions.
 After disabling BitLocker Device Encryption from Windows Settings, you must wait some time for decryption to complete. Then you can proceed to shrink the main drive. Both operations can take hours, depending on the drive. When you shrunk your partition and freed up space, you can **re-enable** BitLocker Device Encryption. Reboot your system and wait for the process to complete before moving on -- this to avoid running into issues later.
