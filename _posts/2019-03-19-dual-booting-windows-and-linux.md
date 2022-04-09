@@ -28,7 +28,7 @@ To mop it up, double-check that you have the latest firmware updates installed, 
 
 **FREEING UP SPACE ON THE DRIVE**
 
-To install a second operating system you'll need space on the system drive. You could also use a second drive, but this is probably not a good option for laptop users and small-form-factor devices.
+To install a second operating system you obviously need space on the system drive. You could also use a second drive, but this is probably not a good option for laptop users and small-form-factor devices.
 
 Try to free up at least 20 GB for a Linux installation. Some distros (like Ubuntu and Fedora) install themselves semi-automatically next to Windows with fully guided installation options if you prepare your disk in this way.
 
