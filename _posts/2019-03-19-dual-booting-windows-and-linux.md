@@ -24,7 +24,7 @@ Be sure you have several copies of the most recent recovery key or you may loose
 
 [Download and prepare Windows 10 Installation Media](https://www.microsoft.com/en-us/software-download/windows10) (a 16 GB+ USB stick) for recovery purposes. *And do not forget your Linux installation media as I did...*
 
-To mop it up, double-check that you have the latest firmware updates installed, especially your Trusted Platform Module (TPM) firmware. Vendors might not auto-update the TPM using their regular driver and firmware update utilities.
+To mop it up, double-check that you have the latest firmware updates installed, especially your **Trusted Platform Module** (TPM) firmware. Vendors might not auto-update the TPM using their regular driver and firmware update utilities.
 
 **FREEING UP SPACE ON THE DRIVE**
 
