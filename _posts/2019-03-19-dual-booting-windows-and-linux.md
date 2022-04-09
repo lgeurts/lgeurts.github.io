@@ -30,7 +30,7 @@ To mop it up, double-check that you have the latest firmware updates installed, 
 
 To install a second operating system you'll need space on the system drive. You could also use a second drive, but this is probably not an option for laptop users and small-form-factor devices.
 
-Try to free up at least 20 GB for a Linux installation. Some distros (like Ubuntu and Fedora) install themselves next to Windows with fully guided installation options if you prepare your disk in this way.
+Try to free up at least 20 GB for a Linux installation. Some distros (like Ubuntu and Fedora) install themselves automatically next to Windows with fully guided installation options if you prepare your disk in this way.
 
 Optionally, if your partition layout allows for it you should also grow your UEFI System Partition to circa 1 GB. Multiple operating systems will be storing their UEFI blobs (and possibly multiple versions during system upgrades), and it can be beneficial in the near future to have more space available on this partition.
 
