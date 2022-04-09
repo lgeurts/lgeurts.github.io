@@ -45,7 +45,7 @@ If you already stored some data on the drive, you should first create a backup, 
 
 Linux installers vary a lot, so I’ll only give general pointers on the installation process. You shouldn’t need to disable Secure Boot to install a modern Linux. Refer to the wiki for your distribution for specifics. Depending on your device, you may have to boot into your installation media from the Windows Settings app: *"System and Updates: Recovery: Advanced Startup"*.
 
-You shouldn't select to use the whole drive. The graphical installers for Fedora and Ubuntu will automatically suggest using the freed up space on the system drive. You should always verify that these installers aren’t going to format your Windows or UEFI partitions before accepting their suggestions.
+You shouldn't select to use the whole drive. The graphical installers for Fedora and Ubuntu will automatically suggest using the freed up space on the system drive. But always verify that these installers aren’t going to format your Windows or UEFI partitions before accepting their suggestions.
 
 Windows 10 and Linux share the same partition for their UEFI blobs. However, you can't install multiple versions of Windows or multiple version of the same Linux distribution on the same UEFI system partition. Each will install into a folder named after the operating system, e.g. “Fedora”, “Microsoft”, and “Ubuntu”, but this naming scheme doesn’t allow for more than one version at the time. If you need to install multiple version of e.g. Windows, then you also need to create separate UEFI system partitions for each one. This will require that you disable BitLocker Device Encryption as changing the boot partition will upset the TPM.
 
