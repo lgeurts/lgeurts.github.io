@@ -51,8 +51,8 @@ Windows 10 and Linux share the same partition for their UEFI blobs. However, you
 
 Older versions of Windows and some Linux installers will sometimes overwrite the entire UEFI partition. To prevent this type of often fatal errors, **always use shared UEFI partitions**, even when installing to a secondary drive as this will give you an easier time dealing with Secure Boot, BitLocker, and GRUB2.
 
-The OS-prober should auto-detect Windows and create a boot menu item for it alongside Linux in GRUB2. Because Windows Update requires multiple reboots, you must configure GRUB bootloader to remember the most recent boot menu: (GRUB_DEFAULT=saved; GRUB_SAVEDEFAULT=true). This allows an operating system to trigger multiple reboots when performing updates and boot back into the correct base. It also safeguards logging in into the same operating system that you used the last time you booted your computer.
+The OS-prober should auto-detect Windows and create a boot menu item for it alongside Linux in GRUB2. Because Windows Update requires multiple reboots, you must configure GRUB bootloader to remember the most recent boot menu: (GRUB_DEFAULT=saved; GRUB_SAVEDEFAULT=true). This allows an operating system to trigger multiple reboots when performing updates and boot back into the correct base.
 
-**You may be prompted for your BitLocker Recovery key after completing the installation**.
+**You may be prompted for a BitLocker Recovery key after completing the installation**.
 
-I hope you’ll now feel a little bit more prepared to create a dual-booting system with Secure Boot and BitLocker Device Encryption. Things really should just work, but the boot process is delicate so you must take precautions in case you need to restore your system. Good luck!
+I hope you’ll now feel a little bit more prepared to create a dual-booting system with Secure Boot and BitLocker Device Encryption. Things should just work, but the boot process is tricky so you must take precautions in case you need to restore your system.
