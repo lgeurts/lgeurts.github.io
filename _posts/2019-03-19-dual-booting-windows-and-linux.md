@@ -22,9 +22,9 @@ You should also print a copy of your BitLocker recovery key as it may be needed 
 Please note that ***the recovery key changes every time you disable and re-enable BitLocker Device Encryption***.
 Be sure you have several copies of the most recent recovery key or you may loose access to all your encrypted data! I'd recommend creating a [script](https://blog.ahasayen.com/how-to-backup-bitlocker-keys/) that backups your key to a secure place on the cloud.
 
-[Download and prepare Windows 10 Installation Media](https://www.microsoft.com/en-us/software-download/windows10) (a 16 GB+ USB stick) for recovery purposes, and do not forget the installation media containing your favorite Linux distro.
+[Download and prepare Windows 10 Installation Media](https://www.microsoft.com/en-us/software-download/windows10) (a 16 GB+ USB stick) for recovery purposes. *And do not forget your Linux installation media as I did...*
 
-Lastly, double-check that you have the latest firmware updates installed, especially your Trusted Platform Module (TPM) firmware. Vendors might not auto-update the TPM using their regular driver and firmware update utilities.
+To mop it up, double-check that you have the latest firmware updates installed, especially your Trusted Platform Module (TPM) firmware. Vendors might not auto-update the TPM using their regular driver and firmware update utilities.
 
 **FREEING UP SPACE ON THE DRIVE**
 
