@@ -28,7 +28,7 @@ To mop it up, double-check that you have the latest firmware updates installed, 
 
 **FREEING UP SPACE ON THE DRIVE**
 
-To install a second operating system - whether another copy of Windows, Linux, or something more exotic (FreeBSD). you'll need to free up space on your system drive. You can also use a secondary drive, but this is probably not an option for laptop users and small-form-factor devices.
+To install a second operating system - whether another copy of Windows, Linux, or something more exotic (FreeBSD), you'll need to free up space on your system drive. You could also use a secondary drive, but this is probably not an option for laptop users and small-form-factor devices.
 
 You’ll need to free up at least 20 GiB for a small Linux installation. Some Linux distribution installers (at least Ubuntu and Fedora) can install themselves alongside Windows with fully guided installation options if you prepare your disk in this way.
 
