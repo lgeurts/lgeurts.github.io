@@ -43,7 +43,7 @@ If you already stored some data on the drive, you should first create a backup, 
 
 **INSTALLING THE SCEONDARY OS**
 
-Linux installers vary a lot, so I’ll only give some general pointers on the installation process. You shouldn’t need to disable Secure Boot to install a modern Linux distribution. Refer to the documentation for your distribution for specifics. Depending on your device, you may have to boot into your installation media from the Windows Settings app: System and Updates: Recovery: Advanced Startup.
+Linux installers vary a lot, so I’ll only give general pointers on the installation process. You shouldn’t need to disable Secure Boot to install a modern Linux distro. Refer to the documentation for your distribution for specifics. Depending on your device, you may have to boot into your installation media from the Windows Settings app: System and Updates: Recovery: Advanced Startup.
 
 You shouldn't select to use the entire drive. The graphical installers for Fedora and Ubuntu will automatically suggest using the space you freed up on your system drive earlier. You should always verify that the installers aren’t going to format your Windows or UEFI partitions before accepting their suggestions.
 
