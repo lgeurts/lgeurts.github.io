@@ -34,7 +34,7 @@ Try to free up at least 20 GB for a Linux installation. Some distros (like Ubunt
 
 Optionally, if your partition layout allows for it you should also grow your UEFI System Partition to circa 1 GB. Multiple operating systems will be storing their UEFI blobs (and possibly multiple versions during system upgrades), and it can be beneficial in the near future to have more space available on this partition. You may not be able to do this without reinstalling Windows from scratch, and it’s not really necessary (although it might save you some troubleshooting at a later time).
 
-You can resize and manage your partitions with the built-in Disk Management utility in Windows. Search for “Create and manage hard disk partitions” using Windows Search or Cortana.
+You can resize and manage your partitions with the built-in Disk Management utility in Windows. Search for *“Create and manage hard disk partitions”* using Windows Search or Cortana.
 
 If this is a new device that you’ve never stored personal data on, I recommend that when activated you first **disable** BitLocker Device Encryption temporarily before making changes to the drive partitions.
 After disabling BitLocker Device Encryption from Windows Settings, you must wait some time for decryption to complete. Then you can proceed to shrink the main drive. Both operations can take hours, depending on the drive. When you shrunk your partition and freed up space, you can **re-enable** BitLocker Device Encryption. Reboot your system and wait for the process to complete before moving on -- this to avoid running into issues later.
@@ -43,7 +43,7 @@ If you already stored some data on the drive, you should first create a backup, 
 
 **INSTALLING THE SCEONDARY OS**
 
-Linux installers vary a lot, so I’ll only give general pointers on the installation process. You shouldn’t need to disable Secure Boot to install a modern Linux distro. Refer to the documentation for your distribution for specifics. Depending on your device, you may have to boot into your installation media from the Windows Settings app: System and Updates: Recovery: Advanced Startup.
+Linux installers vary a lot, so I’ll only give general pointers on the installation process. You shouldn’t need to disable Secure Boot to install a modern Linux distro. Refer to the documentation for your distribution for specifics. Depending on your device, you may have to boot into your installation media from the Windows Settings app: *System and Updates: Recovery: Advanced Startup*.
 
 You shouldn't select to use the entire drive. The graphical installers for Fedora and Ubuntu will automatically suggest using the space you freed up on your system drive earlier. You should always verify that the installers aren’t going to format your Windows or UEFI partitions before accepting their suggestions.
 
