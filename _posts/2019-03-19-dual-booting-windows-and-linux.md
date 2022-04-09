@@ -32,7 +32,7 @@ To install a second operating system - whether another copy of Windows, Linu
 
 Try to free up at least 20 GB for a Linux installation. Some distros (like Ubuntu and Fedora) install themselves alongside Win-10 with fully guided installation options if you prepare your disk in this way.
 
-Optionally, if your partition layout allows for it you should also grow your UEFI System Partition to circa 1 GB. Multiple operating systems will be storing their UEFI blobs (and possibly multiple versions during system upgrades), and it can be beneficial in the future to have more space available on this partition. You may not be able to accomplish this without reinstalling Windows from scratch, and it’s not absolutely necessary - although it might save you some troubleshooting at a later time.
+Optionally, if your partition layout allows for it you should also grow your UEFI System Partition to circa 1 GB. Multiple operating systems will be storing their UEFI blobs (and possibly multiple versions during system upgrades), and it can be beneficial in the near future to have more space available on this partition. You may not be able to accomplish this without reinstalling Windows from scratch, and it’s not absolutely necessary - although it might save you some troubleshooting at a later time.
 
 You can resize and manage your partitions with the built-in Disk Management utility in Windows. You can find it by searching for “Create and manage hard disk partitions” in Windows Search or Cortana.
 
