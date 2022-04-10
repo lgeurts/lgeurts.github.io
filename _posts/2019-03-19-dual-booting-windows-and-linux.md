@@ -53,4 +53,4 @@ Older versions of Windows and some Linux installers will sometimes overwrite the
 
 The OS-prober should auto-detect Windows and create a boot menu item for it alongside Linux in GRUB2. Because Windows Update requires multiple reboots, you must configure GRUB bootloader to remember the most recent boot menu: (GRUB_DEFAULT=saved; GRUB_SAVEDEFAULT=true). This allows an operating system to trigger multiple reboots when performing updates and boot back into the correct base.
 
-**You might be prompted for a BitLocker Recovery key after completing the installation**.
+**You might be prompted for a BitLocker recovery key after completing the installation**.
