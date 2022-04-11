@@ -19,7 +19,7 @@ Before proceeding you should **backup all** important data to an external disk o
 
 You should also print a copy of your BitLocker recovery key as it may be needed during this process. This is **not** your BitLocker **PIN** or **password**, but a separate numeric key. Print this key from Control Panel: System and Security: BitLocker Drive Encryption.
 
-***Please note that the recovery key changes every time you disable and re-enable BitLocker Device Encryption***.
+***Please note that the recovery key will change every time you disable and re-enable BitLocker Device Encryption***.
 Be sure you have several copies of the most recent recovery key or you may loose access to all your encrypted data! I'd recommend creating a [script](https://blog.ahasayen.com/how-to-backup-bitlocker-keys/) that backups your key to a secure place on the cloud.
 
 [Download and prepare Windows 10 Installation Media](https://www.microsoft.com/en-us/software-download/windows10) (a 16 GB+ USB stick) for recovery purposes. And <span style="text-decoration: underline">do not forget your Linux installation media</span> as I did...
