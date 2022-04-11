@@ -55,4 +55,4 @@ The OS-prober should auto-detect Windows and create a boot menu item for it alon
 
 **You might be prompted for a BitLocker recovery key after completing the installation**.
 
-PS. Need more technical info? Check this link @[XDA Developers](https://www.xda-developers.com/dual-boot-windows-11-linux/). Mind you, it discusses dual-booting WIndows 11 and Linux.
+PS. Need more technical info? Check this link @[XDA Developers](https://www.xda-developers.com/dual-boot-windows-11-linux/).
