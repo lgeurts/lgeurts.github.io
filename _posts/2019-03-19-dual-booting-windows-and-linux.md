@@ -37,7 +37,7 @@ Optionally, if your partition layout allows for it you should also grow your UEF
 You can resize and manage your partitions with the built-in Disk Management utility in Windows (search for *“Create and manage hard disk partitions”* in your Windows Search box or Cortana).
 
 If this is a new device that you’ve never stored personal data on, I recommend that when activated you first **disable** BitLocker Device Encryption temporarily before making changes to the drive partitions.
-After disabling BitLocker Device Encryption from Windows Settings, you must wait some time for decryption to complete. Then you can proceed to shrink the main drive. Both operations can take hours, depending on the size. When you shrunk the partition and freed up space, you can **re-enable** BitLocker Device Encryption. Reboot your system and wait for the process to complete before moving on -- this to avoid running into issues later.
+After disabling BitLocker Device Encryption from Windows Settings, you must wait some time for decryption to complete. Then you can proceed to shrink the main drive. Both operations can take hours, depending on the size. When you shrunk the partition and freed up space, you can **re-enable** BitLocker Device Encryption. Reboot the system and wait for the process to complete before moving on -- this to avoid running into issues later.
 
 If you already stored some data on the drive, you should first create a backup, leave BitLocker Device Encryption enabled, and then just resize the encrypted drive and hope for the best. Don’t format or partition the freed up space, leave this to the Linux installer.
 
