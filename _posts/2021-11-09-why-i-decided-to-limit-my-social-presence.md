@@ -26,7 +26,7 @@ I also realized that while my workflow had improved, I did things the younger me
 
 As an example, one of those things was leaving an application open and letting it run in the background, even when I was not there. I know this sounds rather silly but closing an application when I don’t use it does help focus on what I’m doing. For that reason, I replaced the OS on two of my Lenovo workstations with vanilla [Debian](https://www.debian.org/) & [I3 WM](https://i3wm.org/). (See honey? Told you this post is not exclusively about scoring points amongst those other nerds on [LinuxPorn](https://www.reddit.com/r/LinuxPorn/)!)
 
-Now .... when it comes to social media, can’t leave them unread. I must to relax. 
+Now ... when it comes to social media, can’t leave them unread. I must to relax. 
 The third step. I became picky about what channels to subscribe to, and made an agreement that at a certain time in the evening I'd stop, no matter how much my desire to keep hanging on (if I don't I have to take her out to a fancy diner). After some time I found the everlasting craving for more was gone, and I truly enjoyed the nothingness, loved all that time I now had on my hands more than anything. 
 
 I eventually launched [Newsboat](https://newsboat.org/), and closed it after a quick glance. Then fired up [Vim](https://www.vim.org/download.php/) and removed about 80% of the feeds. Most were other we(b)logs, a variety of tech and/or open source related projects and some news sites. The first was CNN International that posts —multiple times per day— about everything from movie trailers, science and tech, to politics. While this was pretty good at giving me the latest highlights it took more time than what it was worth to keep up with.
