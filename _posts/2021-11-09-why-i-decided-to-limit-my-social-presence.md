@@ -29,13 +29,13 @@ As an example, one of those things was leaving an application open and letting i
 Now .... when it comes to social media, can’t leave them unread. I must to relax. 
 The third step. I became picky about what channels to subscribe to, and made an agreement that at a certain time in the evening I'd stop, no matter how much my desire to keep hanging on (if I don't I have to take her out to a fancy diner). After some time I found the everlasting craving for more was gone, and I truly enjoyed the nothingness, loved all that time I now had on my hands more than anything. 
 
-I eventually launched [Newsboat](https://newsboat.org/), and closed it after a quick glance. Then fired up [Vim](https://www.vim.org/download.php/) and removed about 80% of the feeds. Most were other we(b)logs, a variety of tech and/or open source related projects and some news sites. The first was CNN International that posts —multiple times per day— about everything from movie trailers, science and tech, to politics. While this was pretty good at giving me the latest highlights, but in the end it took more time than what it was worth to keep up with.
+I eventually launched [Newsboat](https://newsboat.org/), and closed it after a quick glance. Then fired up [Vim](https://www.vim.org/download.php/) and removed about 80% of the feeds. Most were other we(b)logs, a variety of tech and/or open source related projects and some news sites. The first was CNN International that posts —multiple times per day— about everything from movie trailers, science and tech, to politics. While this was pretty good at giving me the latest highlights it took more time than what it was worth to keep up with.
 
 We both don't like TV channels because of the irritating commercials filled with products we are never going to buy. Thus Netflix was the only agreeable option.
 
 Last week I took the last step and told my customer(s) I would take 5 days off for studies, no matter what outcome. Yes, every unproductive day is money lost, but at the end those certifications are a long-term investment that will pay for itself.
 
-Update d.d. 15/11/21. I bought a [Garmin Fenix 6](https://www.adorama.com/gp0100215816.html) Sapphire Black DLC Smartwatch, and [Aeku M5 phone](https://www.amazon.com/Phone-4-5mm-Ultra-Pocket-Black/dp/B00JN82EFO) after reading [this blog post](https://www.alvarez.io/posts/living-like-it-s-99/) from Gregory Alvarez. Let's see if they can replace my BlackBerry.
+Update d.d. 15/11/21. I bought a [Garmin Fenix 6](https://www.adorama.com/gp0100215816.html) Smartwatch, and [Aeku M5 phone](https://www.amazon.com/Phone-4-5mm-Ultra-Pocket-Black/dp/B00JN82EFO) after reading [this blog post](https://www.alvarez.io/posts/living-like-it-s-99/) from Gregory Alvarez. Let's see if they can replace my BlackBerry.
 
 Something to **think about**. Since we have a **limited quota of time** in this world, why not rather spend that on things and people we find fun, that bring joy in our life and that keep us productive?
 
