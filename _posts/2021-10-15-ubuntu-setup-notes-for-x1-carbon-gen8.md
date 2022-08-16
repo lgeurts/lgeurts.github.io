@@ -127,6 +127,7 @@ $ apm install autoclose-html-plus
 $ apm install text-align
 $ cd "My Documents"
  <> $ find . -type f -print0 | xargs -0 chmod -x
+$ gsettings set org.gnome.settings-daemon.plugins.media-keys max-screencast-length 0
 ```
 Resources: 
 - [VirtualBox + Secure Boot + Ubuntu = fail](https://stegard.net/2016/10/virtualbox-secure-boot-ubuntu-fail/)
