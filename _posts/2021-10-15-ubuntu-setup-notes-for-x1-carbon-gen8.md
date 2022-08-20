@@ -223,7 +223,7 @@ To achieve this for Linux based machines:
 ```
 $ sudo apt-get install tlp tlp-rdw acpi-call-dkms tp-smapi-dkms acpi-call-dkms
 ```
-2. After that edit the /etc/default/tlp file and change below values:
+2. After that edit the /etc/tlp file and change below values:
 ```
 # Uncomment both of them if commented out
 START_CHARGE_THRESH_BAT0=60
