@@ -10,9 +10,9 @@ tags: [ Linux Tutorials ]
 <img src="/assets/jammy-jellyfish.png" width="654">
 
 These are the steps I followed when upgrading Groovy Gorilla to Jammy Jellyfish. Note that I can not guarantee it will work for your setup too. So don't start yelling.
-
+```
 $ sudo apt-get update                   
-[sudo] password for lgeurts: ``
+[sudo] password for lgeurts:
 -The repository 'http://old-releases.ubuntu.com/ubuntu groovy Release' does not have a Release file.
 Updating from such a repository can't be done securely, and is therefore disabled by default.
 See apt-secure(8) manpage for repository creation and user configuration details.
