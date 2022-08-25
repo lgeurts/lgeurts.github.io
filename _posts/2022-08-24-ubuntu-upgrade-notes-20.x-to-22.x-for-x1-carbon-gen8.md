@@ -11,8 +11,8 @@ tags: [ Linux Tutorials ]
 
 These are the steps I followed when upgrading Groovy Gorilla to Jammy Jellyfish. Note that I can not guarantee it will work for your setup too. So don't start yelling.
 
-1 - Running sudo-apt-update, do you get these results?
-```
+$ sudo apt-get update                   
+[sudo] password for lgeurts: ``
 -The repository 'http://old-releases.ubuntu.com/ubuntu groovy Release' does not have a Release file.
 Updating from such a repository can't be done securely, and is therefore disabled by default.
 See apt-secure(8) manpage for repository creation and user configuration details.
@@ -22,9 +22,8 @@ See apt-secure(8) manpage for repository creation and user configuration details
 The repository 'http://old-releases.ubuntu.com/ubuntu groovy-security Release' does not have a Release file.
 Updating from such a repository can't be done securely, and is therefore disabled by default.
 See apt-secure(8) manpage for repository creation and user configuration details.
-```
-2 - And does sudo do-release-upgrade fail with this error?
-```
+
+$ sudo do-release-upgrade
 Please install all available updates for your release before upgrading.
 ```
 3 - First, let's change old-releases back to archive in the sources.list:
