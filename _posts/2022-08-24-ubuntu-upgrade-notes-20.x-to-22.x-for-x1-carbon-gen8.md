@@ -42,4 +42,4 @@ $ sudo do-release-upgrade # Can also use sudo update-manager -c
 ```
 ### End command block
 
-The upgrade starts. Once finished, **do not forget to clean up** and **check those apps**!
+The upgrade starts. Once finished, **do not forget to clean up and check those apps**!
