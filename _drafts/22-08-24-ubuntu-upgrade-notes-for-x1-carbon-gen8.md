@@ -9,9 +9,9 @@ tags: [ Linux Tutorials ]
 
 <img src="/assets/jammy-jellyfish.png" width="654">
 
-# Steps I followed. As usual there is no guarantee but on my laptop it worked like a charm.
+Steps I followed. As usual there is no guarantee but on my laptop it worked like a charm.
 
-## 1 - Check the outut from sudo apt update. Does it look similar to what I list below?
+1 - Check the outut from sudo apt update. Does it look similar to what I list below?
 ---
 ~ sudo apt-get update                   
 [sudo] password for lgeurts: 
