@@ -7,4 +7,4 @@ category: Open Source
 tags: [ Linux Tutorials ]
 ---
 
-<img src="/assets/groovy-gorilla.png" width="654">
+<img src="/assets/jammy-jellyfish.png" width="654">
