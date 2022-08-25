@@ -10,7 +10,7 @@ tags: [ Linux Tutorials ]
 <img src="/assets/jammy-jellyfish.png" width="654">
 
 These are the steps I followed when upgrading Groovy Gorilla to Jammy Jellyfish. 
-Please note that I can not guarantee this will work for your setup too. So don't start yelling at this address when your system goes bonkers.
+Please note that I **can not guarantee** this will work for your setup too. So don't start yelling at this address when your system goes bonkers.
 ```
 $ sudo apt-get update                   
 [sudo] password for lgeurts:
@@ -37,4 +37,4 @@ $ sudo apt-get update
 $ sudo apt-get dist-upgrade
 $ sudo do-release-upgrade # sudo update-manager -c
 ```
-The upgrade starts and you are done. Once finished, do not forget to clean up and check your apps working!
+The upgrade starts. Once finished, **do not forget to clean up** and check all your apps working!
