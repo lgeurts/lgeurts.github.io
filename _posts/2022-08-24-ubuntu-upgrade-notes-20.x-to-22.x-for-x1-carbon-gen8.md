@@ -14,7 +14,7 @@ Please note that **I cannot guarantee this will work** for your setup too. So do
 ```bash
 $ sudo apt-get update                   
 [sudo] password for lgeurts:
--The repository 'http://old-releases.ubuntu.com/ubuntu groovy Release' does not have a Release file.
+The repository 'http://old-releases.ubuntu.com/ubuntu groovy Release' does not have a Release file.
 Updating from such a repository can't be done securely, and is therefore disabled by default.
 See apt-secure(8) manpage for repository creation and user configuration details.
 The repository 'http://old-releases.ubuntu.com/ubuntu groovy-updates Release' does not have a Release file.
@@ -37,4 +37,4 @@ $ sudo apt-get update
 $ sudo apt-get dist-upgrade
 $ sudo do-release-upgrade # sudo update-manager -c
 ```
-The upgrade starts. Once finished, **do not forget to clean up** and check all your apps working!
+The upgrade starts. Once finished, **do not forget to clean up** and **check your apps**!
