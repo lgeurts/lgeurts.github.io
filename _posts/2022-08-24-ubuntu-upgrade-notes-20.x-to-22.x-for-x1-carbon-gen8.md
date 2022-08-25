@@ -10,8 +10,8 @@ tags: [ Linux Tutorials ]
 <img src="/assets/jammy-jellyfish.png" width="654">
 
 ## Warning for non-experienced users
-General recommendation from Ubuntu is making a backup and re-installing your system should you end up with a EOL release.
-So don't start yelling at me when your system goes bonkers. :(
+General recommendation from Ubuntu is making a backup and re-installing your system should you run a by default non-secure EOL release.
+So don't start yelling at me when your system goes bonkers. Told you so.
 
 ## List of commands
 ```
