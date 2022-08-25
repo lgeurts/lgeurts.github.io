@@ -35,6 +35,6 @@ $ echo "[deb http://old-releases.ubuntu.com/ubuntu/ groovy-security main restric
 
 $ sudo apt-get update
 $ sudo apt-get dist-upgrade
-$ sudo do-release-upgrade #or sudo update-manager -c
+$ sudo do-release-upgrade # sudo update-manager -c
 ```
-The upgrade starts and you are done. Enjoy!
+The upgrade starts and you are done. Once finished, do not forget to clean up and check your apps working!
