@@ -9,7 +9,8 @@ tags: [ Linux Tutorials ]
 
 <img src="/assets/jammy-jellyfish.png" width="654">
 
-These are the steps I followed when upgrading Groovy Gorilla to Jammy Jellyfish. Note that I can not guarantee it will work for your setup too. So don't start yelling.
+These are the steps I followed when upgrading Groovy Gorilla to Jammy Jellyfish. 
+Note that I can not guarantee this will work for your setup too. So don't start yelling when your OS goes bonkers.
 ```
 $ sudo apt-get update                   
 [sudo] password for lgeurts:
@@ -25,21 +26,15 @@ See apt-secure(8) manpage for repository creation and user configuration details
 
 $ sudo do-release-upgrade
 Please install all available updates for your release before upgrading.
-```
-3 - First, let's change old-releases back to archive in the sources.list:
-```
-sudo sed -i "s/old-releases/archive/g" /etc/apt/sources.list /etc/apt/sources.list.d/*.list
-```
-4 - Next add these lines to sources.list:
-```
-deb http://old-releases.ubuntu.com/ubuntu/ groovy main restricted universe multiverse
-deb http://old-releases.ubuntu.com/ubuntu/ groovy-updates main restricted universe multiverse
-deb http://old-releases.ubuntu.com/ubuntu/ groovy-security main restricted universe multiverse
-```
-5 - Run these commands so you can continue with the update process:
-```
-sudo apt-get update
-sudo apt-get dist-upgrade
-sudo do-release-upgrade or sudo update-manager -c
+
+$ sudo sed -i "s/old-releases/archive/g" /etc/apt/sources.list /etc/apt/sources.list.d/*.list
+
+$ echo "[deb http://old-releases.ubuntu.com/ubuntu/ groovy main restricted universe multiverse]" | sudo tee -a /etc/apt/sources.list
+$ echo "[deb http://old-releases.ubuntu.com/ubuntu/ groovy-updates main restricted universe multiverse]" | sudo tee -a /etc/apt/sources.list
+$ echo "[deb http://old-releases.ubuntu.com/ubuntu/ groovy-security main restricted universe multiverse]" | sudo tee -a /etc/apt/sources.list
+
+$ sudo apt-get update
+$ sudo apt-get dist-upgrade
+$ sudo do-release-upgrade or sudo update-manager -c
 ```
 The upgrade starts and you are done. Enjoy!
