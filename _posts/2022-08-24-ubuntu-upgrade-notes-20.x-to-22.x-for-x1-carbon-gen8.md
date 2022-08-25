@@ -9,8 +9,9 @@ tags: [ Linux Tutorials ]
 
 <img src="/assets/jammy-jellyfish.png" width="654">
 
-## Warning for the non-experienced user
+## Warning for non-experienced users
 These are the steps I followed when upgrading Groovy Gorilla to Jammy Jellyfish. 
+General recoomendation from Ubuntu is re-installing your system should you end up with a non-supported release.
 Please note that **I cannot guarantee this will work** for your setup too. So don't start yelling at this address when your system goes bonkers. :(
 
 ## List of commands
@@ -50,5 +51,5 @@ $ sudo apt install update-manager-core
 $ sudo do-release-upgrade
 ```
 
-## Remarks
+## Final remarks
 When finished, clean up (sudo apt autoclean & sudo apt autoremove), check all non apt installed apps, and renew your custom PPAs.
