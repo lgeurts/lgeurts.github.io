@@ -40,6 +40,7 @@ $ echo "[deb http://old-releases.ubuntu.com/ubuntu/ groovy main restricted unive
 $ echo "[deb http://old-releases.ubuntu.com/ubuntu/ groovy-updates main restricted universe multiverse]" | sudo tee -a /etc/apt/sources.list
 $ echo "[deb http://old-releases.ubuntu.com/ubuntu/ groovy-security main restricted universe multiverse]" | sudo tee -a /etc/apt/sources.list
 
+# Don
 # Kick it.
 $ sudo apt-get update
 $ sudo apt-get dist-upgrade # Next command will run this anyways.
@@ -49,5 +50,5 @@ $ sudo do-release-upgrade
 ## End list of commands
 
 <p align="center">
-When finished, do not forget to clean up and check all non apt installed apps!
+When finished, do not forget to clean up, check all non apt installed apps and custom repos!
 </p>
