@@ -1,6 +1,6 @@
 ---
 layout: post
-title: To-do's when upgrading Ubuntu 20.10 to 22.04.1
+title: To-do's when upgrading Ubuntu v20.10 to v22.04
 read_time: true
 comments: true
 category: Open Source 
