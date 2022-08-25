@@ -11,7 +11,7 @@ tags: [ Linux Tutorials ]
 
 ## Warning for non-experienced users
 General recommendation from Ubuntu is making a backup and re-installing your system should you run a by default non-secure EOL release.
-So don't start yelling at me when your system goes bonkers. Told you so.
+So don't start yelling at me when your system goes bonkers. I told you so.
 
 ## List of commands
 ```
