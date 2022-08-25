@@ -9,6 +9,7 @@ tags: [ Linux Tutorials ]
 
 <img src="/assets/jammy-jellyfish.png" width="654">
 
+## Warning for the non-experienced 
 These are the steps I followed when upgrading Groovy Gorilla to Jammy Jellyfish. 
 Please note that **I cannot guarantee this will work** for your setup too. So don't start yelling at this address when your system goes bonkers. :(
 
@@ -43,10 +44,12 @@ $ echo "[deb http://old-releases.ubuntu.com/ubuntu/ groovy-security main restric
 # Don
 # Kick it.
 $ sudo apt-get update
-$ sudo apt-get dist-upgrade # Next command will run this anyways.
+$ sudo apt-get upgrade
+$ sudo apt-get dist-upgrade # do-release does this again.
 $ sudo apt install update-manager-core
 $ sudo do-release-upgrade
 ```
 ## End list of commands
 
+## Remarks
 When finished, clean up (sudo apt autoclean & sudo apt autoremove), check all non apt installed apps, and renew your custom PPAs.
