@@ -42,7 +42,7 @@ $ echo "[deb http://old-releases.ubuntu.com/ubuntu/ groovy-security main restric
 # Kick it.
 $ sudo apt-get update
 $ sudo apt-get dist-upgrade # Next command will run this anyways.
-$ sudo do-release-upgrade # Can also use sudo update-manager -c
+$ sudo do-release-upgrade
 ```
 ### End list of commands
 
