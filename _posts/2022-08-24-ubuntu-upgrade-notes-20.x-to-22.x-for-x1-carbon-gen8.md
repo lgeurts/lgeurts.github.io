@@ -10,8 +10,7 @@ tags: [ Linux Tutorials ]
 <img src="/assets/jammy-jellyfish.png" width="654">
 
 ## Warning for non-experienced users
-These are the steps I followed when upgrading Groovy Gorilla to Jammy Jellyfish. 
-General recoomendation from Ubuntu is re-installing your system should you end up with a non-supported release.
+General recommendation from Ubuntu is making a backup and re-installing your system should you end up with a non-supported release.
 Please note that **I cannot guarantee this will work** for your setup too. So don't start yelling at this address when your system goes bonkers. :(
 
 ## List of commands
