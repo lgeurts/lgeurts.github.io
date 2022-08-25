@@ -11,7 +11,7 @@ tags: [ Linux Tutorials ]
 
 ## Warning for non-experienced users
 General recommendation from Ubuntu is making a backup and re-installing your system should you end up with a non-supported release.
-**I cannot guarantee this will work** for your setup too. So don't start yelling at this address when your system goes bonkers. :(
+**I cannot guarantee the content of this post will work** for your setup too. So don't start yelling at this address when your system goes bonkers. :(
 
 ## List of commands
 ```
