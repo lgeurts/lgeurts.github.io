@@ -50,5 +50,5 @@ $ sudo do-release-upgrade
 ## End list of commands
 
 <p align="center">
-When finished, do not forget to clean up (sudo apt autoclean and sudo apt autoremove) , check all non apt installed apps, and renew your PPAs.
+When finished, do not forget to clean up (sudo apt autoclean \& sudo apt autoremove) , check all non apt installed apps, and renew your PPAs.
 </p>
