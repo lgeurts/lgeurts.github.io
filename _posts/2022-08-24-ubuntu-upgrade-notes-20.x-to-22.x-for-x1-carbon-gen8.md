@@ -1,6 +1,6 @@
 ---
 layout: post
-title: To-do's when upgrading Ubuntu v20.10 to v22.04
+title: To-do's when upgrading Ubuntu EOL 20.10 to 22.04
 read_time: true
 comments: true
 category: Open Source 
@@ -10,11 +10,7 @@ tags: [ Linux Tutorials ]
 <img src="/assets/jammy-jellyfish.png" width="654">
 
 These are the steps I followed when upgrading Groovy Gorilla to Jammy Jellyfish. 
-Please note that 
-```diff
-- this text is highlighted in red
-```**I cannot guarantee** 
-this will work for your setup too. So don't start yelling at this address when your system goes bonkers. :(
+Please note that **I cannot guarantee this will work** for your setup too. So don't start yelling at this address when your system goes bonkers. :(
 ```
 $ sudo apt-get update                   
 [sudo] password for lgeurts:
