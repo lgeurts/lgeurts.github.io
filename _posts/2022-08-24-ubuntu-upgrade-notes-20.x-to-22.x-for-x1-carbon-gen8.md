@@ -37,4 +37,4 @@ $ sudo apt-get update
 $ sudo apt-get dist-upgrade
 $ sudo do-release-upgrade # sudo update-manager -c
 ```
-The upgrade starts. Once finished, **do not forget to clean up** and **check your apps**!
+The upgrade starts. Once finished, **do not forget to clean up** and **check those apps**!
