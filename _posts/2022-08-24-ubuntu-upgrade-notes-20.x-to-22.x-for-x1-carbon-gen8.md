@@ -1,6 +1,6 @@
 ---
 layout: post
-title: To-do's when upgrading Ubuntu EOL 20.10 to 22.04
+title: To-do's when upgrading Ubuntu EOL 20.10 to 22.04.1
 read_time: true
 comments: true
 category: Open Source 
