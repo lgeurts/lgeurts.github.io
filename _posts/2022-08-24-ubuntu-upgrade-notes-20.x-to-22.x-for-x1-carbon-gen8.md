@@ -51,4 +51,4 @@ $ sudo do-release-upgrade
 ```
 
 ## Final remarks
-When finished, clean up (sudo apt autoclean & sudo apt autoremove), check those non apt installed apps, and renew your custom PPAs.
+When finished, clean up (sudo apt autoclean | sudo apt autoremove), check those non apt installed apps, and renew your custom PPAs.
