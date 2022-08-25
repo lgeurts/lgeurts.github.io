@@ -27,7 +27,7 @@ E: The repository 'http://old-releases.ubuntu.com/ubuntu groovy-security Release
 N: Updating from such a repository can't be done securely, and is therefore disabled by default.
 N: See apt-secure(8) manpage for repository creation and user configuration details.
 
-# Next test, should give this error.
+# Next test, spewing more jibberish.
 $ sudo do-release-upgrade
 Please install all available updates for your release before upgrading.
 
