@@ -9,9 +9,9 @@ tags: [ Linux Tutorials ]
 
 <img src="/assets/jammy-jellyfish.png" width="654">
 
-Steps I followed. As usual there is no guarantee but on my laptop it worked like a charm.
+### teps I followed. As usual there is no guarantee but on my laptop it worked like a charm.
 
-### 1 - Check the outut from sudo apt update. Does it look similar to what I list below?
+#### 1 - Check the outut from sudo apt update. Does it look similar to what I list below?
 ---
 ~ sudo apt-get update                   
 [sudo] password for lgeurts: 
@@ -36,7 +36,8 @@ Hit:15 http://ppa.launchpad.net/kubuntu-ppa/beta/ubuntu groovy InRelease
 Hit:16 http://ppa.launchpad.net/kubuntu-ppa/ppa/ubuntu groovy InRelease
 Hit:17 http://ppa.launchpad.net/kubuntu-ppa/ppa/ubuntu focal InRelease
 Reading package lists... Done                      '
-
+---
+---
 The repository 'http://old-releases.ubuntu.com/ubuntu groovy Release' does not have a Release file.
 Updating from such a repository can't be done securely, and is therefore disabled by default.
 See apt-secure(8) manpage for repository creation and user configuration details.
@@ -48,30 +49,30 @@ Updating from such a repository can't be done securely, and is therefore disable
 See apt-secure(8) manpage for repository creation and user configuration details.
 ---
 
-## 2 - And does running sudo do-release-upgrade fail with the blow fail?
+#### 2 - And does running sudo do-release-upgrade fail with the blow fail?
 ---
 Please install all available updates for your release before upgrading.
 ---
 
-## 3 - Then change old-releases back to archive in the sources.list:
+#### 3 - Then change old-releases back to archive in the sources.list:
 ---
 sudo sed -i "s/old-releases/archive/g" /etc/apt/sources.list /etc/apt/sources.list.d/*.list
 ---
 
-## 4 - Next add these lines to sources.list:
+#### 4 - Next add these lines to sources.list:
 ---
 deb http://old-releases.ubuntu.com/ubuntu/ groovy main restricted universe multiverse
 deb http://old-releases.ubuntu.com/ubuntu/ groovy-updates main restricted universe multiverse
-deb http://old-releases.ubuntu.com/ubuntu/ groovy-security main restricted universe multiverse```
+deb http://old-releases.ubuntu.com/ubuntu/ groovy-security main restricted universe multiverse
 ---
 
-## 5 - Run these commands yso ou can continue with the update process:
+#### 5 - Run these commands so you can continue with the update process:
 ---
 sudo apt-get update
 sudo apt-get dist-upgrade
 sudo do-release-upgrade or sudo update-manager -c
 ---
 
-You are done. Enjoy!
+### You are done. Enjoy!
 
 ---
