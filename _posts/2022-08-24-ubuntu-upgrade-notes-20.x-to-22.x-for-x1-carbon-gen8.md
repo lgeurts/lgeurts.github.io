@@ -27,14 +27,15 @@ N: See apt-secure(8) manpage for repository creation and user configuration deta
 $ sudo do-release-upgrade
 Please install all available updates for your release before upgrading.
 
-$ sudo sed -i "s/old-releases/archive/g" /etc/apt/sources.list /etc/apt/sources.list.d/*.list
+$ sudo sed -i "s/old-releases/archive/g" /etc/apt/sources.list /etc/apt/sources.list.d/*.list 
 
+# These 3 echo commands are for making sure you really have the correct entries even the above should have done the trick. 
 $ echo "[deb http://old-releases.ubuntu.com/ubuntu/ groovy main restricted universe multiverse]" | sudo tee -a /etc/apt/sources.list
 $ echo "[deb http://old-releases.ubuntu.com/ubuntu/ groovy-updates main restricted universe multiverse]" | sudo tee -a /etc/apt/sources.list
 $ echo "[deb http://old-releases.ubuntu.com/ubuntu/ groovy-security main restricted universe multiverse]" | sudo tee -a /etc/apt/sources.list
 
 $ sudo apt-get update
-$ sudo apt-get dist-upgrade
-$ sudo do-release-upgrade # sudo update-manager -c
+$ sudo apt-get dist-upgrade # Next command will run this anyways.
+$ sudo do-release-upgrade # Can also use sudo update-manager -c
 ```
 The upgrade starts. Once finished, **do not forget to clean up** and **check those apps**!
