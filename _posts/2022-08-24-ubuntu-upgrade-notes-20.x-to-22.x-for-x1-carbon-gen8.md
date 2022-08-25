@@ -46,4 +46,4 @@ $ sudo do-release-upgrade
 ```
 ### End list of commands
 
-*The upgrade starts. Once finished, **do not forget to clean up and check those apps**!*
+*Once finished, **do not forget to clean up and check those apps**!*
