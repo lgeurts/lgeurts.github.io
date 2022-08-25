@@ -11,18 +11,18 @@ tags: [ Linux Tutorials ]
 
 These are the steps I followed when upgrading Groovy Gorilla to Jammy Jellyfish. 
 Please note that **I cannot guarantee this will work** for your setup too. So don't start yelling at this address when your system goes bonkers. :(
-```bash
+```
 $ sudo apt-get update                   
 [sudo] password for lgeurts:
-The repository 'http://old-releases.ubuntu.com/ubuntu groovy Release' does not have a Release file.
-Updating from such a repository can't be done securely, and is therefore disabled by default.
-See apt-secure(8) manpage for repository creation and user configuration details.
-The repository 'http://old-releases.ubuntu.com/ubuntu groovy-updates Release' does not have a Release file.
-Updating from such a repository can't be done securely, and is therefore disabled by default.
-See apt-secure(8) manpage for repository creation and user configuration details.
-The repository 'http://old-releases.ubuntu.com/ubuntu groovy-security Release' does not have a Release file.
-Updating from such a repository can't be done securely, and is therefore disabled by default.
-See apt-secure(8) manpage for repository creation and user configuration details.
+E: The repository 'http://old-releases.ubuntu.com/ubuntu groovy Release' does not have a Release file.
+N: Updating from such a repository can't be done securely, and is therefore disabled by default.
+N: See apt-secure(8) manpage for repository creation and user configuration details.
+E: The repository 'http://old-releases.ubuntu.com/ubuntu groovy-updates Release' does not have a Release file.
+N: Updating from such a repository can't be done securely, and is therefore disabled by default.
+N: See apt-secure(8) manpage for repository creation and user configuration details.
+E: The repository 'http://old-releases.ubuntu.com/ubuntu groovy-security Release' does not have a Release file.
+N: Updating from such a repository can't be done securely, and is therefore disabled by default.
+N: See apt-secure(8) manpage for repository creation and user configuration details.
 
 $ sudo do-release-upgrade
 Please install all available updates for your release before upgrading.
