@@ -34,7 +34,8 @@ Please install all available updates for your release before upgrading.
 # Replace entries in sources files. 
 $ sudo sed -i "s/old-releases/archive/g" /etc/apt/sources.list /etc/apt/sources.list.d/*.list 
 
-# These 3 echo commands are for making sure you really have the correct entries even the above should have done the trick. 
+# These 3 echo commands are for making sure you really have the correct entries even the above should have done the trick.
+# Can also use any editor you want if that makes you feel comfy.
 $ echo "[deb http://old-releases.ubuntu.com/ubuntu/ groovy main restricted universe multiverse]" | sudo tee -a /etc/apt/sources.list
 $ echo "[deb http://old-releases.ubuntu.com/ubuntu/ groovy-updates main restricted universe multiverse]" | sudo tee -a /etc/apt/sources.list
 $ echo "[deb http://old-releases.ubuntu.com/ubuntu/ groovy-security main restricted universe multiverse]" | sudo tee -a /etc/apt/sources.list
