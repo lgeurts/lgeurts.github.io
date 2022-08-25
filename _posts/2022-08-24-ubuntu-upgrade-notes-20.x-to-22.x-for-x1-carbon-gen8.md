@@ -10,7 +10,7 @@ tags: [ Linux Tutorials ]
 <img src="/assets/jammy-jellyfish.png" width="654">
 
 ## Warning for non-experienced users
-General recommendation from Ubuntu is making a backup and re-installing your system should you end up with a non-supported release.
+General recommendation from Ubuntu is making a backup and re-installing your system should you end up with a EOL release.
 There is no guarantee the content of this post will work for your setup too. So don't start yelling at this address when your system goes bonkers. :(
 
 ## List of commands
