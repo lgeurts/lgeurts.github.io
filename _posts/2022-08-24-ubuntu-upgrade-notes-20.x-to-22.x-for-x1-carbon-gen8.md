@@ -31,8 +31,11 @@ N: See apt-secure(8) manpage for repository creation and user configuration deta
 $ sudo do-release-upgrade
 Please install all available updates for your release before upgrading.
 
+# Clean the apt cache.
+$ sudo rm -rf /var/lib/apt/lists/*
+
 # Replace entries in sources files. 
-$ sudo sed -i "s/old-releases/archive/g" /etc/apt/sources.list /etc/apt/sources.list.d/*.list 
+$ sudo sed -i "s/old-releases/archive/g" /etc/apt/sources.list /etc/apt/sources.list.d/*.list
 
 # These 3 echo commands are for making sure you really have the correct entries even the above should have done the trick.
 # Can also use any editor you want if that makes you feel more comfy.
