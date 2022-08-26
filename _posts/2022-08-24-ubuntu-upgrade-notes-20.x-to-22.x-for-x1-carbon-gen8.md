@@ -10,7 +10,7 @@ tags: [ Linux Tutorials ]
 <img src="/assets/jammy-jellyfish.png" width="654">
 
 ## Warning for non-experienced users
-General recommendation from Ubuntu is making a backup and re-installing your system should you run a by default non-secure EOL release.
+General recommendation from Ubuntu is making a backup and re-installing your system should you run a by default non-secure EOL release. Especially when its this old.
 So don't start yelling at me when your system goes bonkers. I told you so.
 
 ## List of commands
