@@ -10,7 +10,7 @@ tags: [ Linux Tutorials ]
 <img src="/assets/jammy-jellyfish.png" width="654">
 
 ## Warning for non-experienced users
-General recommendation from Ubuntu is making a backup and re-installing your system should you run a by default non-secure EOL release. Their advice is sound and often proves to be the fastest way. Me, I am just stubborn. So if you still decide to give it a try, don't start yelling at me when your system goes bonkers. I told you so.
+General recommendation from Ubuntu is making a backup and re-installing your system should you run a non-secure EOL release. Their advice is sound and often proves to be the fastest way. Me, I am just stubborn. So if you still decide to give it a try, don't start yelling at me when your system goes bonkers. I told you so.
 
 ## List of commands
 ```
