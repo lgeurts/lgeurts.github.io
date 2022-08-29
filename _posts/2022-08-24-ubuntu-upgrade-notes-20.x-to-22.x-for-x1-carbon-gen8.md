@@ -10,7 +10,7 @@ tags: [ Linux Tutorials ]
 <img src="/assets/jammy-jellyfish.png" width="654">
 
 ## Warning for non-experienced users
-General recommendation from Canonical is making a backup and re-installing the system should you run a non-secure EOL release. Their advice is sound and often proves to be the safest way. So, if you still decide to give my post a try, don't dare yelling at me when your system goes bonkers. I told you so.
+General recommendation from Canonical is making backups and re-install the system should you run a non-secure EOL release. Their advice is sound and often proves to be the safest way. So, if you still decide to give my post a try, don't dare yelling at me when your system goes bonkers. I told you so.
 
 ## List of commands
 ```
