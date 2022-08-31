@@ -7,7 +7,6 @@ category: Open Source
 tags: [ Linux Tutorials ]
 ---
 
-## Flatpack
 ## Docker and Docker-Compose
 ## Podman and Podman Desktop
 ## Vagrant
