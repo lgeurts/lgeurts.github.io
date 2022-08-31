@@ -162,7 +162,7 @@ This problem is related to 'thermal throttling' on Linux, which is set much belo
 
 Before attempting to apply this solution, make sure that the problem still exists. To do so, open a Linux terminal and run following commands:
 ```
-$ sudo apt-get install msr-tools
+$ sudo apt install msr-tools
 $ sudo rdmsr -f 29:24 -d 0x1a2
 ```
 If you see 3 as a result value (15 when running on the battery), you don’t have to do anything. Otherwise:
@@ -224,7 +224,7 @@ This means that charging will start only if the battery level goes down below 60
 To achieve this for Linux based machines:
 1. Install this list of packages:
 ```
-$ sudo apt-get install tlp tlp-rdw acpi-call-dkms tp-smapi-dkms acpi-call-dkms
+$ sudo apt install tlp tlp-rdw acpi-call-dkms tp-smapi-dkms acpi-call-dkms
 ```
 2. After that edit the /etc/tlp file and change below values:
 ```
