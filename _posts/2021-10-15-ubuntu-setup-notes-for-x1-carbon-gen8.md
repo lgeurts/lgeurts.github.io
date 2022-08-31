@@ -68,7 +68,7 @@ $ curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.z
  <> $ aws configure --profile **my username**
 $ sudo add-apt-repository -y ppa:teejee2008/ppa
  <> $ sudo apt-get update
- <> $ sudo apt-get install timeshift
+ <> $ sudo apt install timeshift
 $ sudo apt install zsh
  <> $ zsh --version
  <> $ echo $SHELL
