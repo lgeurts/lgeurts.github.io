@@ -129,6 +129,8 @@ $ apm install text-align
 $ cd "My Documents"
  <> $ find . -type f -print0 | xargs -0 chmod -x
 $ gsettings set org.gnome.settings-daemon.plugins.media-keys max-screencast-length 0
+$ sudo apt install flatpak gnome-software-plugin-flatpak gnome-software
+$ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 ```
 Resources: 
 - [VirtualBox + Secure Boot + Ubuntu = fail](https://stegard.net/2016/10/virtualbox-secure-boot-ubuntu-fail/)
