@@ -88,13 +88,13 @@ $ cd ~/Downloads
  <> $ sudo meson install
 $ sudo apt-get update
 $ sudo apt install mupdf
-$ sudo apt-get remove --purge totem
-$ sudo apt update && sudo apt upgrade
+$ sudo apt remove --purge totem
+$ sudo apt-get update && sudo apt upgrade
 $ sudo apt install mpv
 $ sudo apt install ffmpeg
 $ sudo apt install ffmpegthumbnailer
 $ sudo apt install protonvpn
-$ sudo apt-get install gnome-tweak-tool
+$ sudo apt install gnome-tweak-tool
 $ sudo apt install gnome-shell-extensions
 $ sudo apt install gnome-shell-extension-appindicator gir1.2-appindicator3-0.1
 $ sudo add-apt-repository -y ppa:libreoffice/ppa
@@ -104,7 +104,7 @@ $ sudo snap install slack --classic
 $ sudo snap install powershell --classic
 $ sudo snap install spotify
 $ sudo wget https://github.com/shiftkey/desktop/releases/download/release-2.6.3-linux1/GitHubDesktop-linux-2.6.3-linux1.deb
- <> $ sudo apt-get install gdebi-core 
+ <> $ sudo apt install gdebi-core 
  <> $ sudo gdebi GitHubDesktop-linux-2.6.3-linux1.deb
 $ sudo snap install atom --classic
 $ apm install pigments
@@ -128,9 +128,9 @@ $ apm install autoclose-html-plus
 $ apm install text-align
 $ cd "My Documents"
  <> $ find . -type f -print0 | xargs -0 chmod -x
-$ gsettings set org.gnome.settings-daemon.plugins.media-keys max-screencast-length 0
 $ sudo apt install flatpak gnome-software-plugin-flatpak gnome-software
 $ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+$ gsettings set org.gnome.settings-daemon.plugins.media-keys max-screencast-length 0
 ```
 Resources: 
 - [VirtualBox + Secure Boot + Ubuntu = fail](https://stegard.net/2016/10/virtualbox-secure-boot-ubuntu-fail/)
