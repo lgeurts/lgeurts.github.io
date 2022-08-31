@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adding some IT automation tools to my 22.04 distro
+title: Adding some IT automation tools to my 22.04 box
 read_time: true
 comments: true
 category: Open Source 
@@ -8,8 +8,13 @@ tags: [ Linux Tutorials ]
 ---
 
 ## Docker and Docker-Compose
+
+Docker compose > todo.
+
 ## Podman and Podman Desktop
+
 ## Vagrant
+
 
 ```
 $ sudo apt-get update                   
