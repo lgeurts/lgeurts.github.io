@@ -1,6 +1,6 @@
 ---
 layout: post
-title: To-do's when (re-)installing Ubuntu desktop on a Lenovo ThinkPad X1 Carbon Gen 8
+title: To-do's when (re)installing Ubuntu desktop on a Lenovo ThinkPad X1 Carbon Gen 8
 read_time: true
 comments: true
 category: Open Source 
