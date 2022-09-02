@@ -49,12 +49,17 @@ $ sudo apt install unrar zip unzip p7zip-full p7zip-rar rar
 $ sudo apt install virtualbox virtualbox-ext-pack -y
  <> $ sudo sh sign-vboxmodules.sh
 $ sudo apt install steam
+$ sudo apt install spotify
 $ sudo add-apt-repository ppa:yann1ck/onedrive
+ <> $ sudo apt update
  <> $ sudo apt install onedrive
  <> $ onedrive --synchronize --verbose --dry-run
  <> $ systemctl --user enable onedrive
  <> $ systemctl --user start onedrive
  <> $ systemctl status --user onedrive
+$ sudo add-apt-repository -y ppa:teejee2008/ppa
+ <> $ sudo apt update
+ <> $ sudo apt install timeshift
 $ curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 $ git clone https://github.com/powerline/fonts.git --depth=1
  <> $ cd fonts
@@ -66,9 +71,6 @@ $ curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.z
  <> $ unzip awscliv2.zip
  <> $ sudo ./aws/install -i /usr/local/aws-cli -b /usr/local/bin
  <> $ aws configure --profile **my username**
-$ sudo add-apt-repository -y ppa:teejee2008/ppa
- <> $ sudo apt-get update
- <> $ sudo apt install timeshift
 $ sudo apt install zsh
  <> $ zsh --version
  <> $ echo $SHELL
@@ -76,20 +78,17 @@ $ sudo apt install zsh
 $ git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions
 $ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
 $ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-$ gsettings set org.gnome.desktop.privacy remember-recent-files false
-$ sudo apt install gufw
-$ sudo apt -y install net-tools
-$ sudo apt install smartmontools
-$ cd ~/Downloads
- <> $ git clone https://gitlab.gnome.org/GNOME/sushi.git
+$ git clone https://gitlab.gnome.org/GNOME/sushi.git
  <> $ cd sushi-3.38.0 (could be a newer version)
  <> $ sudo apt install meson libevince-dev gir1.2-gstreamer-1.0 librust-gstreamer-audio-sys-dev librust-gstreamer-audio-sys-dev libgtksourceview-4-dev libmusicbrainz5-dev libwebkit2gtk-4.0-dev libgirepository1.0-dev ninja-build
  <> $ meson builddir && cd builddir
  <> $ sudo meson install
-$ sudo apt-get update
+$ sudo apt install gufw
 $ sudo apt install mupdf
+$ sudo apt -y install net-tools
+$ sudo apt install smartmontools
 $ sudo apt remove --purge totem
-$ sudo apt-get update && sudo apt upgrade
+$ sudo apt update && sudo apt upgrade
 $ sudo apt install mpv
 $ sudo apt install ffmpeg
 $ sudo apt install ffmpegthumbnailer
@@ -102,7 +101,6 @@ $ sudo add-apt-repository -y ppa:libreoffice/ppa
 $ sudo snap install hexchat
 $ sudo snap install slack --classic
 $ sudo snap install powershell --classic
-$ sudo snap install spotify
 $ sudo wget https://github.com/shiftkey/desktop/releases/download/release-2.6.3-linux1/GitHubDesktop-linux-2.6.3-linux1.deb
  <> $ sudo apt install gdebi-core 
  <> $ sudo gdebi GitHubDesktop-linux-2.6.3-linux1.deb
@@ -130,6 +128,7 @@ $ cd "My Documents"
  <> $ find . -type f -print0 | xargs -0 chmod -x
 $ sudo apt install flatpak gnome-software-plugin-flatpak gnome-software
 $ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+$ gsettings set org.gnome.desktop.privacy remember-recent-files false
 $ gsettings set org.gnome.settings-daemon.plugins.media-keys max-screencast-length 0
 ```
 Resources: 
