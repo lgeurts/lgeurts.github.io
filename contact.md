@@ -12,7 +12,7 @@ Please note that, as most other people and organizations, I use a 3rd party Mail
 
 If your message is private, use **PGP/GPG** encryption to secure communications.
 
-Public GPG key fingerprint: 5CEA 4807 DAA0 8AA5 528D 47DC C269 1045 82F4 DBB8
+Public PGP key fingerprint: 5CEA 4807 DAA0 8AA5 528D 47DC C269 1045 82F4 DBB8
 
 Note on integrity of my emails
 ------------------------------
