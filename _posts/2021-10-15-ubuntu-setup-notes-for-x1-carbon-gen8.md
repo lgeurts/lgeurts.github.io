@@ -156,7 +156,7 @@ $ systemctl suspend -i
 ```
 If not, upgrade to a newer kernel.
 
-## Low cTDP and trip temperature in Linux
+## Low cTDP and trip temperature in Linux (Verify next steps by looking [here](https://github.com/k0a1a/lenovo-throttling-fix))
 
 This problem is related to 'thermal throttling' on Linux, which is set much below Windows values. It will cause your laptop to run slower than it could when under heavy stress.
 
