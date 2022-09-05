@@ -103,7 +103,7 @@ $ sudo snap install hexchat
 $ sudo snap install slack --classic
 $ sudo snap install powershell --classic
 $ sudo wget https://github.com/shiftkey/desktop/releases/download/release-2.6.3-linux1/GitHubDesktop-linux-2.6.3-linux1.deb
- <> $ sudo apt install gdebi-core 
+ <> $ sudo apt install gdebi-core
  <> $ sudo gdebi GitHubDesktop-linux-2.6.3-linux1.deb
 $ sudo curl -O https://releases.hashicorp.com/vagrant/2.2.9/vagrant_2.2.9_x86_64.deb
  <> $ sudo apt install ./vagrant_2.2.9_x86_64.deb
@@ -176,7 +176,7 @@ If you see 3 as a result value (15 when running on the battery), you don’t hav
 ```
 $ sudo apt install git build-essential python3-dev libdbus-glib-1-dev libgirepository1.0-dev libcairo2-dev python3-cairo-dev python3-venv python3-wheel
 $ git clone https://github.com/erpalma/throttled.git
-$ sudo ./throttled/install.sh
+ <> $ sudo ./throttled/install.sh
 ```
 3. Make sure that thermald is not setting it back down:
 ```
