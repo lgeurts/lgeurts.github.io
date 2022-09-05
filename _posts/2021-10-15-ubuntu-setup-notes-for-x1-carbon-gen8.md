@@ -168,21 +168,29 @@ $ sudo apt install msr-tools
 $ sudo rdmsr -f 29:24 -d 0x1a2
 ```
 If you see 3 as a result value (15 when running on the battery), you don’t have to do anything. Otherwise:
-1. Disable Secure Boot in the BIOS (won’t work otherwise);
-2. Run this command:
+1. Disable Secure Boot in the BIOS (won’t work otherwise).
+2. Install the throttled fix:
 ```
-$ sudo apt install git virtualenv build-essential python3-dev \
-  libdbus-glib-1-dev libgirepository1.0-dev libcairo2-dev
+$ sudo apt install git build-essential python3-dev libdbus-glib-1-dev libgirepository1.0-dev libcairo2-dev python3-cairo-dev python3-venv python3-wheel
+$ git clone https://github.com/erpalma/throttled.git
+$ sudo ./throttled/install.sh
 ```
-3. Install the lenovo-throttling-fix:
+3. Make sure that thermald is not setting it back down:
 ```
-$ sudo apt install git build-essential python3-dev libdbus-glib-1-dev libgirepository1.0-dev libcairo2-dev python3-venv
-$ git clone https://github.com/erpalma/lenovo-throttling-fix.git
-$ sudo ./lenovo-throttling-fix/install.sh
+$ sudo systemctl stop thermald.service
+$ sudo systemctl disable thermald.service
 ```
-4. Check again that the result from running the rdmsr command is 3.
+4. If you want thermald permanent disabled, even after a package update:
+```
+$ sudo systemctl mask thermald.service
+```
+5. Verify that throttled is running:
+```
+$ sudo systemctl status throttled
+```
+6. Check again that the result from running the rdmsr command is 3.
 
-I use lower temperature levels to preserve battery life at the cost of performance. To change default values, edit the /etc/lenovo_fix.conf file, and set Trip_Temp_C for both battery and AC the way you want:
+I use lower temperature levels to preserve battery life at the cost of performance. To change default values, edit the /etc/throttled.conf file, and set Trip_Temp_C for both battery and AC the way you want:
 ```
 [BATTERY]
 # Other options here...
@@ -197,7 +205,7 @@ Trip_Temp_C: 90
 ```
 ## CPU undervolting
 
-The Lenovo Throttling fix script also supports undervolting. To enable, re-open /etc/lenovo_fix.conf and update the [UNDERVOLT] section. 
+The throttled script also supports undervolting. To enable, re-open /etc/throttled.conf and update the [UNDERVOLT] section. 
 
 In my case, these settings are stable:
 ```
