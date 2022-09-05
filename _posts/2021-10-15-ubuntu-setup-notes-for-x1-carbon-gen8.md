@@ -156,7 +156,9 @@ $ systemctl suspend -i
 ```
 If not, upgrade to a newer kernel.
 
-## Low cTDP and trip temperature in Linux (Verify next steps by looking [here](https://github.com/k0a1a/lenovo-throttling-fix))
+## Low cTDP and trip temperature in Linux
+
+Warning, the next steps can cause issues on your system because the script was not meant for use on a Carbon X1! See [this page](https://github.com/k0a1a/lenovo-throttling-fix)) for more details.
 
 This problem is related to 'thermal throttling' on Linux, which is set much below Windows values. It will cause your laptop to run slower than it could when under heavy stress.
 
@@ -172,7 +174,7 @@ If you see 3 as a result value (15 when running on the battery), you don’t hav
 $ sudo apt install git virtualenv build-essential python3-dev \
   libdbus-glib-1-dev libgirepository1.0-dev libcairo2-dev
 ```
-3. Install the lenovo-throttling-fix (check if applicable to your system):
+3. Install the lenovo-throttling-fix:
 ```
 $ sudo apt install git build-essential python3-dev libdbus-glib-1-dev libgirepository1.0-dev libcairo2-dev python3-venv
 $ git clone https://github.com/erpalma/lenovo-throttling-fix.git
