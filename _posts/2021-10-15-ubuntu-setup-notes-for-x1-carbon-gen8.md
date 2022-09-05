@@ -172,10 +172,11 @@ If you see 3 as a result value (15 when running on the battery), you don’t hav
 $ sudo apt install git virtualenv build-essential python3-dev \
   libdbus-glib-1-dev libgirepository1.0-dev libcairo2-dev
 ```
-3. Install the lenovo-throttling-fix:
+3. Install the lenovo-throttling-fix (check if applicable to your system):
 ```
-$ cd lenovo-throttling-fix/
-$ sudo ./install.sh
+$ sudo apt install git build-essential python3-dev libdbus-glib-1-dev libgirepository1.0-dev libcairo2-dev python3-venv
+$ git clone https://github.com/erpalma/lenovo-throttling-fix.git
+$ sudo ./lenovo-throttling-fix/install.sh
 ```
 4. Check again that the result from running the rdmsr command is 3.
 
