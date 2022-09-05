@@ -195,7 +195,7 @@ $ sudo systemctl status throttled
 
 ## Battery temperature levels
 
-I use lower temperature levels to preserve battery life at the cost of performance. To change default values, edit the /etc/throttled.conf file, and set Trip_Temp_C for both battery and AC the way you want:
+I use lower temperature levels to preserve battery life at the cost of performance. To change default values, edit your /etc/throttled.conf file, and set Trip_Temp_C for both battery and AC the way you want:
 ```
 [BATTERY]
 # Other options here...
