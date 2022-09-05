@@ -204,24 +204,6 @@ PL1_Tdp_W: 34
 PL2_Tdp_W: 40
 Trip_Temp_C: 90
 ```
-## CPU undervolting
-
-The throttled script also supports undervolting. To enable, re-open /etc/throttled.conf and update the [UNDERVOLT] section. 
-
-In my case, these settings are stable:
-```
-[UNDERVOLT]
-# CPU core voltage offset (mV)
-CORE: -110
-# Integrated GPU voltage offset (mV)
-GPU: -90
-# CPU cache voltage offset (mV)
-CACHE: -110
-# System Agent voltage offset (mV)
-UNCORE: -90
-# Analog I/O voltage offset (mV)
-ANALOGIO: 0
-```
 ## Battery charging thresholds
 
 There are a lot of theories and advisories about ThinkPad charging thresholds. 
