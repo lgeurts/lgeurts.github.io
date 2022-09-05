@@ -105,6 +105,8 @@ $ sudo snap install powershell --classic
 $ sudo wget https://github.com/shiftkey/desktop/releases/download/release-2.6.3-linux1/GitHubDesktop-linux-2.6.3-linux1.deb
  <> $ sudo apt install gdebi-core 
  <> $ sudo gdebi GitHubDesktop-linux-2.6.3-linux1.deb
+$ sudo curl -O https://releases.hashicorp.com/vagrant/2.2.9/vagrant_2.2.9_x86_64.deb
+ <> $ sudo apt install ./vagrant_2.2.9_x86_64.deb
 $ sudo snap install atom --classic
 $ apm install pigments
 $ apm install file-icons
