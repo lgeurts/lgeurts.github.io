@@ -180,7 +180,7 @@ $ sudo ./throttled/install.sh
 $ sudo systemctl stop thermald.service
 $ sudo systemctl disable thermald.service
 ```
-4. If you want thermald permanent disabled, even after a package update:
+4. If you want thermald disabled, even after a package update:
 ```
 $ sudo systemctl mask thermald.service
 ```
