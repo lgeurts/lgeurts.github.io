@@ -191,6 +191,8 @@ $ sudo systemctl status throttled
 ```
 6. Check again that the result from running the rdmsr command is 3.
 
+## Battery temperature levels
+
 I use lower temperature levels to preserve battery life at the cost of performance. To change default values, edit the /etc/throttled.conf file, and set Trip_Temp_C for both battery and AC the way you want:
 ```
 [BATTERY]
@@ -204,6 +206,7 @@ PL1_Tdp_W: 34
 PL2_Tdp_W: 40
 Trip_Temp_C: 90
 ```
+
 ## Battery charging thresholds
 
 There are a lot of theories and advisories about ThinkPad charging thresholds. 
