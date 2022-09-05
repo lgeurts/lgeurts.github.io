@@ -107,7 +107,10 @@ $ sudo wget https://github.com/shiftkey/desktop/releases/download/release-2.6.3-
  <> $ sudo gdebi GitHubDesktop-linux-2.6.3-linux1.deb
 $ sudo curl -O https://releases.hashicorp.com/vagrant/2.2.9/vagrant_2.2.9_x86_64.deb
  <> $ sudo apt install ./vagrant_2.2.9_x86_64.deb
-$ sudo snap install atom --classic
+$ sudo apt install flatpak gnome-software-plugin-flatpak gnome-software
+$ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+$ sudo flatpak install flathub io.atom.Atom
+ <> $ flatpak run io.atom.Atom
 $ apm install pigments
 $ apm install file-icons
 $ apm install teletype
@@ -129,8 +132,6 @@ $ apm install autoclose-html-plus
 $ apm install text-align
 $ cd "My Documents"
  <> $ find . -type f -print0 | xargs -0 chmod -x
-$ sudo apt install flatpak gnome-software-plugin-flatpak gnome-software
-$ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 $ gsettings set org.gnome.desktop.privacy remember-recent-files false
 $ gsettings set org.gnome.settings-daemon.plugins.media-keys max-screencast-length 0
 ```
