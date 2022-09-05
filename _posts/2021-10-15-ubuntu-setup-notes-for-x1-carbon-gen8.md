@@ -158,8 +158,6 @@ If not, upgrade to a newer kernel.
 
 ## Low cTDP and trip temperature in Linux
 
-**Warning**. The next steps can cause issues on your system because the script was not meant for use on a Carbon X1! See [this page](https://github.com/erpalma/throttled) for more details.
-
 This problem is related to 'thermal throttling' on Linux, which is set much below Windows values. It will cause your laptop to run slower than it could when under heavy stress.
 
 Before attempting to apply this solution, make sure that the problem still exists. To do so, open a Linux terminal and run following commands:
@@ -169,6 +167,8 @@ $ sudo rdmsr -f 29:24 -d 0x1a2
 ```
 If you see 3 as a result value (15 when running on the battery), you don’t have to do anything. Otherwise:
 1. Disable Secure Boot in the BIOS (won’t work otherwise).
+
+**Warning**. The next steps can cause serious issues on your system. See [this page](https://github.com/erpalma/throttled) for more details.
 2. Install the throttled fix:
 ```
 $ sudo apt install git build-essential python3-dev libdbus-glib-1-dev libgirepository1.0-dev libcairo2-dev python3-cairo-dev python3-venv python3-wheel
