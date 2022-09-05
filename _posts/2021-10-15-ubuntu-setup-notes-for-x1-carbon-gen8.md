@@ -158,7 +158,7 @@ If not, upgrade to a newer kernel.
 
 ## Low cTDP and trip temperature in Linux
 
-Warning, the next steps can cause issues on your system because the script was not meant for use on a Carbon X1! See [this page](https://github.com/erpalma/throttled) for more details.
+**Warning**. The next steps can cause issues on your system because the script was not meant for use on a Carbon X1! See [this page](https://github.com/erpalma/throttled) for more details.
 
 This problem is related to 'thermal throttling' on Linux, which is set much below Windows values. It will cause your laptop to run slower than it could when under heavy stress.
 
