@@ -166,7 +166,9 @@ $ sudo apt install msr-tools
 $ sudo rdmsr -f 29:24 -d 0x1a2
 ```
 If you see 3 as a result value (15 when running on the battery), you don’t have to do anything. Otherwise:
+
 **Warning** - The next steps can cause serious issues on your system. See [this page](https://github.com/erpalma/throttled) for more details.
+
 1. Disable Secure Boot in the BIOS (won’t work otherwise).
 2. Install the throttled fix:
 ```
@@ -179,7 +181,7 @@ $ sudo ./throttled/install.sh
 $ sudo systemctl stop thermald.service
 $ sudo systemctl disable thermald.service
 ```
-4. If you want thermald disabled, even after a package update:
+4. If you want thermald permanently disabled, even after a package update:
 ```
 $ sudo systemctl mask thermald.service
 ```
