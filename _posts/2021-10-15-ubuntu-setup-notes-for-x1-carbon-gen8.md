@@ -133,6 +133,8 @@ $ apm install autoclose-html-plus
 $ apm install text-align
 $ cd Documents
  <> $ find . -type f -print0 | xargs -0 chmod -x
+$ flatpak install flathub de.haeckerfelix.Fragments
+$ flatpak install flathub com.github.tchx84.Flatseal
 $ gsettings set org.gnome.desktop.privacy remember-recent-files false
 $ gsettings set org.gnome.settings-daemon.plugins.media-keys max-screencast-length 0
 ```
