@@ -50,6 +50,7 @@ $ sudo apt install virtualbox virtualbox-ext-pack -y
  <> $ sudo sh sign-vboxmodules.sh
 $ sudo apt install steam
 $ sudo apt install spotify
+$ sudo apt install dconf-editor
 $ sudo add-apt-repository ppa:yann1ck/onedrive
  <> $ sudo apt update
  <> $ sudo apt install onedrive
