@@ -8,7 +8,7 @@ tags: [ Linux Tutorials ]
 ---
 
 ## Introduction
-These instructions are specifically meant for Ubuntu based systems, but in general any Debian based system should be good to go.
+These instructions are meant for Ubuntu based systems, but in general any Debian distro should be good to go.
 Keep in mind that, as everything in life, nothing comes for free. Making one part faster will have a "small" negative impact on other components.
 
 ## List of commands
