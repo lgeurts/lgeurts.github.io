@@ -51,7 +51,7 @@ Format this new device as if it was just a normal disk partiition we designated 
 $ mkswap --label zram0 /dev/zram0
 $ swapon -p 100 /dev/zram0
 ```
-To set zram permanently open gedit again and add/change the following lines in /etc/default/grub:
+To set zram permanently, run gedit and add/change the following lines in /etc/default/grub:
 ```
 GRUB_CMDLINE_LINUX_DEFULT=""
 GRUB_CMDLINE_LINUX="zswap.enabled=0"
