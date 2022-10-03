@@ -34,7 +34,7 @@ and save. To activate the new setting, restart the computer.
 
 Zram can be used to replace the /swap.img file alltogether. Enabling zram could cause conflicts with zswap, which is enabled by default. 
 
-So we need to firstly disable it.
+Disable it by typing the following command in your terminal:
 ```
 $ echo 0 > /sys/module/zswap/parameters/enabled
 ```
