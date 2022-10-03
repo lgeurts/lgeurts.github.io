@@ -32,7 +32,7 @@ and save. To activate the new setting, restart the computer.
 
 ### Activate the zram system kernel function
 
-Zram can be used to replace the /swap.img file alltogether. Enabling zram could cause conflicts with zswap, which is enabled by default. 
+Zram can be used to replace the /swap.img file altogether. Enabling zram could cause conflicts with zswap, which is enabled by default. 
 
 Disable it by typing the following command in your terminal:
 ```
