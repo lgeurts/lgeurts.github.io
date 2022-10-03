@@ -11,17 +11,7 @@ tags: [ Linux Tutorials ]
 These tips are meant for Ubuntu systems, but in general any Debian based distro should be good to go.
 Keep in mind that, as everything in life, nothing comes for free. Every optimization has its own pricetag and you must decide how much you are willing to pay for it.
 
-### List of commands
-```
-$ sudo apt-get update                   
-[sudo] password for lgeurts:
-# You should see output similar to this.
-E: The repository 'http://old-releases.ubuntu.com/ubuntu groovy Release' does not have a Release file.
-N: Updating from such a repository can't be done securely, and is therefore disabled by default.
-N: See apt-secure(8) manpage for repository creation and user configuration details.
-E: The repository 'http://old-releases.ubuntu.com/ubuntu groovy-updates Release' does not have a Release file.
-N: Updating from such a repository can't be done securely, and is therefore disabled by default.
-N: See apt-secure(8) manpage for repository creation and user configuration details.
-E: The repository 'http://old-releases.ubuntu.com/ubuntu groovy-security Release' does not have a Release file.
-N: Updating from such a repository can't be done securely, and is therefore disabled by default.
-N: See apt-secure(8) manpage for repository creation and user configuration details.
+### Swap space
+When having less than 16 Gb RAM Ubuntu tends to do a lot of swapping. This leads to a lot of write actions to your SSD which in their turn slow your system and chip away chunks of disk total lifetime.
+Swap_tendency can be set to 0 (off) or 100 (on full-time). The standard Ubuntu setting is not optimal at the least (more info [here](https://rudd-o.com/linux-and-free-software/tales-from-responsivenessland-why-linux-feels-slow-and-how-to-fix-that) and needs some adjusting.
+
