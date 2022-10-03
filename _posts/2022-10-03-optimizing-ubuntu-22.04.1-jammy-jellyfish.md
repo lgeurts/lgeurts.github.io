@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Optimizing Ubuntu 22.04 Jammy Jellyfish
+title: Optimizing Ubuntu 22.04.1 Jammy Jellyfish
 read_time: true
 comments: true
 category: Open Source 
