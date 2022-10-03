@@ -12,12 +12,22 @@ These tips are meant for Ubuntu systems, but in general any Debian based distro 
 Keep in mind that, as everything in life, nothing comes for free. Every optimization has its own pricetag and you must decide how much you are willing to pay for it.
 
 ### Swap space (dismiss when having more than 16 Gb RAM)
-When working with limited RAM, Ubuntu tends to do a lot of aggresive swapping. This leads to a lot of write actions to your SSD which in their turn slow down your system and chip away chunks of disk total lifetime.
+When working with limited RAM, Ubuntu will aggressively try to free memory to enlarge the caches (swapping). This leads to a lot of write actions to your SSD which in their turn slow down your system and chip away chunks of disk total lifetime.
 The standard Ubuntu [swap_tendency](https://unix.stackexchange.com/questions/134202/when-is-swap-triggered-or-how-to-calculate-swap-tendency#134206) is not optimal (more info [here](https://rudd-o.com/linux-and-free-software/tales-from-responsivenessland-why-linux-feels-slow-and-how-to-fix-that)) and needs some adjusting.
 To lower swappiness to a reasonable value open your terminal and type:
 ```
-cat /proc/sys/vm/swappiness
+$ cat /proc/sys/vm/swappiness
 ```
-Probably swappiness wil return a value of 60.
+Probably swappiness wil return a value of 60. To lower the swap_tendency to a more appropriate value:
+```
+$ gedit admin:///etc/sysctl.conf
+```
+The Text Editor app will open. At the end type:
+```
+# Lower swap_tendency
+vm.swappiness=25
+```
+and save. To activate restart the computer.
+
 
 
