@@ -64,6 +64,7 @@ $ sudo add-apt-repository -y ppa:teejee2008/ppa
  <> $ sudo apt update
  <> $ sudo apt install timeshift
 $ curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+ <> $ touch .vimrc
 $ git clone https://github.com/powerline/fonts.git --depth=1
  <> $ cd fonts
  <> $ ./install.sh
