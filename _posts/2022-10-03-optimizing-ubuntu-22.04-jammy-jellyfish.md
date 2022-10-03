@@ -42,6 +42,28 @@ Now we can load the zram module:
 ```
 $ modprobe zram
 ```
+We should find a device node named /dev/zram0. Let’s allocate a size for it:
+```
+$ echo 800M > /sys/block/zram0/disksize # Change size to your liking
+```
+Format this new device as if it was just a normal disk partiition we designated for swap:
+```
+$ mkswap --label zram0 /dev/zram0
+$ swapon -p 100 /dev/zram0
+```
+To set zram permanently open gedit again and add/change the following lines in /etc/default/grub:
+```
+GRUB_CMDLINE_LINUX_DEFULT=""
+GRUB_CMDLINE_LINUX="zswap.enabled=0"
+```
+Save the file and run:
+```
+$ update-grub 
+```
+to update the bootloader config files.
+
+
+
 
 
 
