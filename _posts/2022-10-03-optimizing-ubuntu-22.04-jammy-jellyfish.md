@@ -13,8 +13,9 @@ Keep in mind that, as everything in life, nothing comes for free. Every optimiza
 
 ### Swap space (dismiss when having more than 16 Gb RAM)
 When working with limited RAM, Ubuntu will aggressively try to free memory to enlarge the caches aka swapping. This leads to a lot of write actions to your SSD which in their turn slow down your system and chip away chunks of a disk's total lifetime.
-Ubuntu's standard [swap_tendency](https://unix.stackexchange.com/questions/134202/when-is-swap-triggered-or-how-to-calculate-swap-tendency#134206) is not optimal (more info [here](https://rudd-o.com/linux-and-free-software/tales-from-responsivenessland-why-linux-feels-slow-and-how-to-fix-that)) and needs some adjusting.
-To lower swappiness to a reasonable value open your terminal and type:
+Ubuntu's standard [swap_tendency](https://unix.stackexchange.com/questions/134202/when-is-swap-triggered-or-how-to-calculate-swap-tendency#134206) is not optimal (more info found [here](https://rudd-o.com/linux-and-free-software/tales-from-responsivenessland-why-linux-feels-slow-and-how-to-fix-that)) and needs adjusting.
+To 
+swappiness to a reasonable value open your terminal and type:
 ```
 $ cat /proc/sys/vm/swappiness
 ```
