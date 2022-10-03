@@ -9,9 +9,9 @@ tags: [ Linux Tutorials ]
 
 ## Introduction
 These tips are meant for Ubuntu systems, but in general any Debian based distro should be good to go.
-Keep in mind that, as everything in life, nothing comes for free. Every optimization has its own pricetag and you must decide how much to pay for it.
+Keep in mind that, as everything in life, nothing comes for free. Every optimization has its own pricetag and you must decide how much you are willing to pay for it.
 
-## List of commands
+### List of commands
 ```
 $ sudo apt-get update                   
 [sudo] password for lgeurts:
