@@ -9,7 +9,7 @@ tags: [ Linux Tutorials ]
 
 ## Introduction
 These tips are meant for Ubuntu systems, but in general any Debian based distro should be good to go.
-Keep in mind that, as everything in life, nothing comes for free. Making one part faster will have a "small" negative impact on other components.
+Keep in mind that, as everything in life, nothing comes for free. Every opimization has its pricetag and you have to decide how much you are willing to pay for it.
 
 ## List of commands
 ```
