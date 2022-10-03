@@ -8,7 +8,7 @@ tags: [ Linux Tutorials ]
 ---
 
 ## Introduction
-These tips are meant for Ubuntu systems, but in general any Debian based distro should be good to go.
+These tips are meant for Ubuntu systems, but in general any Debian based distro should be good for go.
 Keep in mind that, as everything in life, nothing comes for free. Every optimization has its own pricetag and you must decide how much you are willing to pay for it.
 
 ### Swap space (dismiss when having more than 16 Gb RAM)
