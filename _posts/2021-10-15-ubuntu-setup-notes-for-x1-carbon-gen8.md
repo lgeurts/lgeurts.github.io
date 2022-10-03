@@ -48,6 +48,8 @@ $ sudo apt install ranger
 $ sudo apt install unrar zip unzip p7zip-full p7zip-rar rar
 $ sudo apt install virtualbox virtualbox-ext-pack -y
  <> $ sudo sh sign-vboxmodules.sh
+$ sudo apt install wireshark
+ <> $ sudo adduser lgeurts wireshark
 $ sudo apt install steam
 $ sudo apt install spotify
 $ sudo apt install dconf-editor
@@ -137,6 +139,7 @@ $ cd Documents
 $ flatpak install flathub de.haeckerfelix.Fragments
 $ flatpak install flathub com.github.tchx84.Flatseal
 $ gsettings set org.gnome.desktop.privacy remember-recent-files false
+$ gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'
 $ gsettings set org.gnome.settings-daemon.plugins.media-keys max-screencast-length 0
 ```
 Resources: 
