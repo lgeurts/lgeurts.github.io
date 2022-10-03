@@ -62,6 +62,16 @@ $ update-grub
 ```
 to update the bootloader config files.
 
+Now, we make sure the zram module is loaded at boot and set te number of devices we need:
+```
+$ echo "zram" > /etc/modules-load.d/zram.conf
+$ echo "options zram num_devices=1" > /etc/modprobe.d/zram.conf
+```
+Nexr create a udev rule so that our device node is formatted automatically as swap:
+```
+$ sudo -i
+$ root@yourmachinename:~# cat > /etc/udev/rules.d/99-zram.rules KERNEL=="zram0", ATTR{disksize}="800M" RUN="/usr/sbin/mkswap -L zram0 /dev/zram0", TAG+="systemd"
+```
 
 
 
