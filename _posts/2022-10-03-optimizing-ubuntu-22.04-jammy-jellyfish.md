@@ -19,7 +19,7 @@ Open your terminal and query the current swappiness value by typing:
 ```
 $ cat /proc/sys/vm/swappiness
 ```
-Probably swappiness wil return a value of 60. To lower the swap_tendency to a more appropriate value:
+Probably swappiness wil return a value of 60. To lower swap_tendency to a more appropriate value:
 ```
 $ gedit admin:///etc/sysctl.conf
 ```
