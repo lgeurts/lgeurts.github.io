@@ -30,9 +30,11 @@ vm.swappiness=25
 ```
 and save. To activate the new setting, restart the computer.
 
-### Activate the zranm system kernel function
+### Activate the zram system kernel function
 
-zram can be used to replace the /swap.img swap file alltogether. Enabling zram may cause conflicts with zswap, which is enabled by default. So we need to firstly disable it.
+zram can be used to replace the /swap.img swap file alltogether. Enabling zram may cause conflicts with zswap, which is enabled by default. 
+
+So we need to firstly disable it.
 ```
 $ echo 0 > /sys/module/zswap/parameters/enabled
 ```
