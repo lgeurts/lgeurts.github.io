@@ -49,7 +49,7 @@ $ sudo apt install unrar zip unzip p7zip-full p7zip-rar rar
 $ sudo apt install virtualbox virtualbox-ext-pack -y
  <> $ sudo sh sign-vboxmodules.sh
 $ sudo apt install wireshark
- <> $ sudo adduser lgeurts wireshark
+ <> $ sudo adduser **my username** wireshark
 $ sudo apt install steam
 $ sudo apt install spotify
 $ sudo apt install dconf-editor
