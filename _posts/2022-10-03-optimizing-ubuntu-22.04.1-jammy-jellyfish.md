@@ -12,7 +12,7 @@ Keep in mind that, as everything in life, nothing comes for free. Every optimiza
 
 ## Disable the Firefox sessionstore
 
-Sessionstore is responsible for caching which pages were opened should Firefox suddenly crashes. While it's a great feature (you can reopen your lost tabs and continue browsing), it causes a lot of writes to your SSD. 
+Sessionstore is responsible for caching which pages were opened should Firefox suddenly crash. While this is a great feature (you can re-open your lost tabs and continue browsing), it causes a lot of writes to your SSD. 
 Disabling this function is really easy. Type about:config in de addressbar and press Enter. Click on agree and do a search for sessionstore. Double-click on browser.sessionstore.interval and change 15000 (15 seconds) to 15000000. Press OK and restart Firefox.
 
 ## Lower swappiness (dismiss when having more than 16 Gb RAM)
