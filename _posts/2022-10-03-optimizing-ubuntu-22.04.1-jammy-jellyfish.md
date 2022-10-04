@@ -24,7 +24,7 @@ $ cat /proc/sys/vm/swappiness
 ```
 Probably swappiness wil return a value of 60 which is too high for normal use. 
 
-Let's change swap_tendency to a more appropriate value:
+Let's edit the configuration file:
 ```
 $ gedit admin:///etc/sysctl.conf
 ```
