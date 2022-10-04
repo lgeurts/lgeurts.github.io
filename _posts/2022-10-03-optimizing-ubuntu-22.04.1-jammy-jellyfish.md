@@ -37,6 +37,20 @@ and save. To activate the new setting, restart the computer.
 
 ## Move /tmp to tempfs
 
+Another trick to make a machine run faster is moving /tmp to tmpfs. Temporary file will no longer be placed on the physical disk but in a virtual RAM disk. 
+
+Open a terminal and type:
+```
+$ sudo cp -v /usr/share/systemd/tmp.mount /etc/systemd/system/
+$ sudo systemctl enable tmp.mount
+```
+Restart the computer.
+
+Not to your liking? To undo the change, bacj]k to the terminal and type:
+```
+sudo rm -v /etc/systemd/system/tmp.mount
+```
+
 ## Activate the zram system kernel function
 
 If your PC has enough memory, zram could be used to replace the /swap.img file altogether. 
