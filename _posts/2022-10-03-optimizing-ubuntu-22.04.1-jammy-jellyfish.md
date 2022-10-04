@@ -121,6 +121,6 @@ Our Text Editor opens. At the end of the file copy & paste:
 # Customize cache management
 vm.vfs_cache_pressure=50
 ```
-and save. To activate, restart the computer.
+and save. This setting will be activated after rebooting your computer.
 
 *These are just some tips I think are useful. Should something be missing, or you have an item that belongs in this list, please let me know by mail.*
