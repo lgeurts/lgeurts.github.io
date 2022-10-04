@@ -36,7 +36,7 @@ vm.swappiness=25
 ```
 and save. To activate the new setting, restart the computer.
 
-## Faster, faster, every bit helps
+## Faster, faster, performance is key
 
 ### Move /tmp to tempfs
 
@@ -54,7 +54,7 @@ Should you experience issues, you can always undo the change by typing:
 sudo rm -v /etc/systemd/system/tmp.mount
 ```
 
-## Activate the zram system kernel function
+### Activate the zram system kernel function
 
 If your PC has enough memory, zram could be used to replace the /swap.img file altogether. 
 
@@ -86,7 +86,7 @@ $ update-grub
 ```
 to update the bootloader config files.
 
-Now, we make sure the zram module is loaded at boot and knows the number of devices we need (if we were also using zram for other tmpfs directories like /tmp, we’d have to increase the number):
+Now, we make sure the zram module is loaded at boot, and knows the number of devices we need (if we were also using zram for other tmpfs directories like /tmp, we’d have to increase the number):
 ```
 $ echo "zram" > /etc/modules-load.d/zram.conf
 $ echo "options zram num_devices=1" > /etc/modprobe.d/zram.conf
