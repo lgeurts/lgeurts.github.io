@@ -112,7 +112,9 @@ $ swapon
 
 ## Lower the pressure on the inode cache
 
-If your PC has has enough free RAM available, you can also achieve a little more performance by lowering the tendency on reclaiming the memory which is used for caching of directory and inode objects. Warning, clearing cache less frequent can impact new processes trying to load (address_in_use). 
+If your PC has has enough free RAM available, you can also achieve a little more performance by lowering the tendency on reclaiming the memory which is used for caching of directory and inode objects. 
+
+Warning, clearing cache less frequently can impact new processes trying to load (bad_address or address_in_use). 
 
 Open your terminal and type:
 ```
@@ -126,3 +128,5 @@ vm.vfs_cache_pressure=50
 and save. This setting will be activated after rebooting your computer.
 
 *These are just some tips I think are useful. Should something be missing, or you have an item that belongs in this list, please let me know by mail.*
+
+Cheers, /Luge
