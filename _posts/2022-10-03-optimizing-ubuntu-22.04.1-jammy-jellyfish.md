@@ -10,6 +10,8 @@ tags: [ Linux Tutorials ]
 These tips are meant for Ubuntu systems, but in general any Debian based distro should be ready to go.
 Keep in mind that, as everything in life, nothing comes for free. Every optimization has its own pricetag and you must decide how much you are willing to pay for it.
 
+# Reduce number of disk writes
+
 ## Disable the Firefox sessionstore
 
 Sessionstore is responsible for caching which pages were opened should Firefox suddenly crash. While this is a great feature (you can re-open your lost tabs and continue browsing), it causes a lot of writes to your SSD. 
