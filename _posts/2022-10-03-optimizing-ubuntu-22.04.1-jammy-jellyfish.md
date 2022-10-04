@@ -61,7 +61,7 @@ $ update-grub
 ```
 to update the bootloader config files.
 
-Now, we make sure the zram module is loaded at boot and knows the number of devices we need:
+Now, we make sure the zram module is loaded at boot and knows the number of devices we need (if I were to be using zram for other tmpfs directories like /tmp as well, ’d have to increase the number.):
 ```
 $ echo "zram" > /etc/modules-load.d/zram.conf
 $ echo "options zram num_devices=1" > /etc/modprobe.d/zram.conf
