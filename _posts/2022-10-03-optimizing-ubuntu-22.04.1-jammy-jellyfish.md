@@ -17,9 +17,7 @@ Disabling this function is really easy. Type about:config in de addressbar and p
 
 ## Lower swappiness (dismiss when having more than 16 Gb RAM)
 When working with limited RAM, Ubuntu will aggressively try to free memory to enlarge the caches aka swapping. This leads to a lot of write actions to your SSD which in their turn slow down your system and chip away chunks of a disk's total lifetime.
-Ubuntu's standard [swap_tendency](https://unix.stackexchange.com/questions/134202/when-is-swap-triggered-or-how-to-calculate-swap-tendency#134206) setting never was that optimal (more info about this topic can be found [here](https://rudd-o.com/linux-and-free-software/tales-from-responsivenessland-why-linux-feels-slow-and-how-to-fix-that)) and needs adjusting.
-
-Open your terminal and query the current swappiness value by typing:
+To make Ubuntu's standard [swap_tendency](https://unix.stackexchange.com/questions/134202/when-is-swap-triggered-or-how-to-calculate-swap-tendency#134206) setting more suitable, open your terminal and query the current swappiness value by typing:
 ```
 $ cat /proc/sys/vm/swappiness
 ```
