@@ -69,8 +69,22 @@ $ echo "options zram num_devices=1" > /etc/modprobe.d/zram.conf
 Create a udev rule so that our device node is formatted automatically as swap:
 ```
 $ sudo -i
+$ [sudo] password for **my username**:
 $ root@yourmachinename:~# cat > /etc/udev/rules.d/99-zram.rules KERNEL=="zram0", ATTR{disksize}="800M" RUN="/usr/sbin/mkswap -L zram0 /dev/zram0", TAG+="systemd"
 ```
+Add the device to /etc/fstab. Additionally, we can give the pri=value as an option to the swap entry:
+```
+$ sudo -i
+$ [sudo] password for **my username**:
+$ root@yourmachinename:~# printf "/dev/zram0\tnone\tswap\tdefaults,pri=100\t0\t0\n" >> /etc/fstab
+$ root@yourmachinename:~# tail /etc/fstab # To check the output
+```
+Reboot and verify that our swap device is active:
+```
+$ history | tail -n 2
+$ swapon
+```
+
 
 
 
