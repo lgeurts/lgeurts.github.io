@@ -44,9 +44,9 @@ Open a terminal and type:
 $ sudo cp -v /usr/share/systemd/tmp.mount /etc/systemd/system/
 $ sudo systemctl enable tmp.mount
 ```
-Restart the computer.
+Reboot the computer.
 
-Not to your liking? To undo the change, bacj]k to the terminal and type:
+Should you experience issues you cna akways undo the change by typing:
 ```
 sudo rm -v /etc/systemd/system/tmp.mount
 ```
@@ -121,3 +121,5 @@ Our Text Editor opens. At the end of the file copy & paste:
 vm.vfs_cache_pressure=50
 ```
 and save. To activate, restart the computer.
+
+These are just some tips I think are useful. Should something be missing, or you have an item that belongs in this list, let me know by mail!
