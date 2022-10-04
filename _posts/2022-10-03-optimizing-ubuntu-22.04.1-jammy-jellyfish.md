@@ -94,7 +94,7 @@ $ swapon
 
 ## Lower the pressure on the inode cache
 
-If your PC has has enough RAM available, you can also achieve a little more performance by lowering the aggresive pressure on the inode cache. A small warning, clearing system memory less frequently will impact new processes trying to load (mem in use).
+If your PC has has enough free RAM available, you can also achieve a little more performance by lowering the aggresive pressure on the inode cache. A small warning, clearing system memory less frequently will impact new processes trying to load (mem in use).
 
 Open your terminal and type:
 ```
