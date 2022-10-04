@@ -34,6 +34,8 @@ vm.swappiness=25
 ```
 and save. To activate the new setting, restart the computer.
 
+## Move /tmp to tempfs
+
 ## Activate the zram system kernel function
 
 If your PC has enough memory, zram could be used to replace the /swap.img file altogether. 
@@ -104,10 +106,3 @@ Text Editor opens. At the end of the file copy & paste:
 vm.vfs_cache_pressure=50
 ```
 and save. To activate, restart the computer.
-
-## Move /tmp to tempfs
-
-
-
-
-
