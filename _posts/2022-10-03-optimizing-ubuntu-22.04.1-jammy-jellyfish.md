@@ -37,7 +37,7 @@ and save. To activate the new setting, restart the computer.
 
 ## Move /tmp to tempfs
 
-Another trick to make a machine run faster is moving /tmp to tmpfs. Temporary file will no longer be placed on the physical disk but in a virtual RAM disk. 
+Another trick to make a machine run faster is moving /tmp to tmpfs. Temporary files will no longer be placed on the physical disk but in a virtual RAM disk. 
 
 Open a terminal and type:
 ```
@@ -46,7 +46,7 @@ $ sudo systemctl enable tmp.mount
 ```
 Reboot the computer.
 
-Should you experience issues you cna akways undo the change by typing:
+Should you experience issues, you can always undo the change by typing:
 ```
 sudo rm -v /etc/systemd/system/tmp.mount
 ```
@@ -122,4 +122,4 @@ vm.vfs_cache_pressure=50
 ```
 and save. To activate, restart the computer.
 
-These are just some tips I think are useful. Should something be missing, or you have an item that belongs in this list, let me know by mail!
+These are just some tips I think are useful. Should something be missing, or you have an item that belongs in this list, please let me know by mail.
