@@ -73,7 +73,7 @@ Now, we make sure the zram module is loaded at boot and knows the number of devi
 $ echo "zram" > /etc/modules-load.d/zram.conf
 $ echo "options zram num_devices=1" > /etc/modprobe.d/zram.conf
 ```
-Create a udev rule so that our device node is formatted automatically as swap:
+Create a udev rule so that the device node is formatted automatically as swap:
 ```
 $ sudo -i
 $ [sudo] password for **my username**:
