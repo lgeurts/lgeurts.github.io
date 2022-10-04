@@ -10,13 +10,13 @@ tags: [ Linux Tutorials ]
 These tips are meant for Ubuntu systems, but in general any Debian based distro should be ready to go.
 Keep in mind that, as everything in life, nothing comes for free. Every optimization has its own pricetag and you must decide how much you are willing to pay for it.
 
-# Reducing the number of disk writes
+## Reducing the number of disk writes
 
-## Disable the Firefox sessionstore
+### Disable the Firefox sessionstore
 
 Sessionstore is responsible for caching which pages were opened should Firefox suddenly crash. While this is a great feature (you can re-open your lost tabs and continue browsing), it causes a lot of writes to your SSD. 
 
-Disabling is really easy. Type about:config in de addressbar and press Enter. Click on agree and look for sessionstore. Double-click browser.sessionstore.interval, then change 15000 (15 seconds) to 15000000. Press OK, restart Firefox.
+Disabling is really easy. Type about:config in de addressbar and press Enter. Click on agree and look for sessionstore. Double-click on browser.sessionstore.interval change 15000 (15 seconds) to 15000000. Press OK, restart Firefox.
 
 ## Lower swappiness (dismiss when having more than 16 Gb RAM)
 When working with limited RAM, Ubuntu will aggressively try to free memory to enlarge the caches aka swapping. This leads to a lot of write actions to your SSD which in their turn slow down your system and chip away chunks of a disk's total lifetime.
@@ -25,20 +25,18 @@ To change Ubuntu's standard [swap_tendency](https://unix.stackexchange.com/quest
 ```
 $ cat /proc/sys/vm/swappiness
 ```
-Probably swappiness wil return a value of 60 which is too high for normal use. 
-
-Let's edit the configuration file:
+Probably swappiness wil return a value of 60 which is too high for normal use. Let's edit the configuration file:
 ```
 $ gedit admin:///etc/sysctl.conf
 ```
-The Text Editor app will open. At the end of the file type:
+The text editor app will open. At the end of the file type:
 ```
 # Lower swap_tendency
 vm.swappiness=25
 ```
 and save. To activate the new setting, restart the computer.
 
-## Move /tmp to tempfs
+### Move /tmp to tempfs
 
 Another trick to make a machine run faster is moving /tmp to tmpfs. Temporary files will no longer be placed on the physical disk but in a virtual RAM disk. 
 
