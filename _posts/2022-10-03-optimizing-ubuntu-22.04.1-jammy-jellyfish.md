@@ -98,7 +98,7 @@ Open your terminal and type:
 ```
 gedit admin:///etc/sysctl.conf
 ```
-Text Editor opens. At the end of the file type:
+Text Editor opens. At the end of the file copy & paste:
 ```
 # Customize cache management
 vm.vfs_cache_pressure=50
