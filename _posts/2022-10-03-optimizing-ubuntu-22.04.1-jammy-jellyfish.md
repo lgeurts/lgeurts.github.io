@@ -110,7 +110,7 @@ $ history | tail -n 2
 $ swapon
 ```
 
-## Lower the pressure on the inode cache
+### Lower the pressure on the inode cache
 
 If your PC has has enough free RAM available, you can also achieve a little more performance by lowering the tendency on reclaiming the memory which is used for caching of directory and inode objects. 
 
@@ -120,7 +120,7 @@ Open your terminal and type:
 ```
 gedit admin:///etc/sysctl.conf
 ```
-Our Text Editor opens. At the end of the file copy & paste:
+Our text editor opens. Add te following lines to the file:
 ```
 # Customize cache management
 vm.vfs_cache_pressure=50
