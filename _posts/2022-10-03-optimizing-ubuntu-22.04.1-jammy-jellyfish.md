@@ -10,6 +10,11 @@ tags: [ Linux Tutorials ]
 These tips are meant for Ubuntu systems, but in general any Debian based distro should be good for go.
 Keep in mind that, as everything in life, nothing comes for free. Every optimization has its own pricetag and you must decide how much you are willing to pay for it.
 
+## Disable the Firefox sessionstore
+
+Sessionstore is responsible for caching which pages were opened should Firefox suddenly crash. While this is a great feature (you can reopen your lost tabs and continue browsing), it causes a ot of writes to your SSD. 
+Disabling this function is really easy. Type about:config in de addressbar and press Enter. Click on agree and do a search for sessionstore. Double-click on browser.sessionstore.interval and change 15000 (15 seconds) to 15000000. Press OK and restart Firefox.
+
 ## Lower swappiness (dismiss when having more than 16 Gb RAM)
 When working with limited RAM, Ubuntu will aggressively try to free memory to enlarge the caches aka swapping. This leads to a lot of write actions to your SSD which in their turn slow down your system and chip away chunks of a disk's total lifetime.
 Ubuntu's standard [swap_tendency](https://unix.stackexchange.com/questions/134202/when-is-swap-triggered-or-how-to-calculate-swap-tendency#134206) setting never was that optimal (more info can be found [here](https://rudd-o.com/linux-and-free-software/tales-from-responsivenessland-why-linux-feels-slow-and-how-to-fix-that)) and needs adjusting.
@@ -100,11 +105,7 @@ vm.vfs_cache_pressure=50
 ```
 and save. To activate, restart the computer.
 
-## Disable the Firefox sessionstore
-
-Sessionstore is responsible for caching which pages were opened should Firefox suddenly crash. While this is a great feature (you can reopen your tabs and continue browsing), it causes a ot of writes to your SSD. 
-Disabling this function is really easy. Type about:config in de addressbar and press Enter. Click on agree and do a search for sessionstore. Double-click on browser.sessionstore.interval and change 15000 (15 seconds) to 15000000. Press OK. Restart Firefox.
-
+## Move /tmp to tempfs
 
 
 
