@@ -120,7 +120,7 @@ Open your terminal and type:
 ```
 gedit admin:///etc/sysctl.conf
 ```
-Our text editor opens. Add the following lines to config file:
+Our text editor opens. Add following lines to the config file:
 ```
 # Customize cache management
 vm.vfs_cache_pressure=50
