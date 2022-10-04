@@ -13,11 +13,11 @@ Keep in mind that, as everything in life, nothing comes for free. Every optimiza
 ## Disable the Firefox sessionstore
 
 Sessionstore is responsible for caching which pages were opened should Firefox suddenly crash. While this is a great feature (you can re-open your lost tabs and continue browsing), it causes a lot of writes to your SSD. 
-Disabling this function is really easy. Type about:config in de addressbar and press Enter. Click on agree and dsearch for sessionstore. Double-click on browser.sessionstore.interval and change 15000 (15 seconds) to 15000000. Press OK and restart Firefox.
+Disabling this function is really easy. Type about:config in de addressbar and press Enter. Click on agree and search for sessionstore. Double-click the browser.sessionstore.interval and change 15000 (15 seconds) to 15000000. Press OK and restart Firefox.
 
 ## Lower swappiness (dismiss when having more than 16 Gb RAM)
 When working with limited RAM, Ubuntu will aggressively try to free memory to enlarge the caches aka swapping. This leads to a lot of write actions to your SSD which in their turn slow down your system and chip away chunks of a disk's total lifetime.
-Ubuntu's standard [swap_tendency](https://unix.stackexchange.com/questions/134202/when-is-swap-triggered-or-how-to-calculate-swap-tendency#134206) setting never was that optimal (more info can be found [here](https://rudd-o.com/linux-and-free-software/tales-from-responsivenessland-why-linux-feels-slow-and-how-to-fix-that)) and needs adjusting.
+Ubuntu's standard [swap_tendency](https://unix.stackexchange.com/questions/134202/when-is-swap-triggered-or-how-to-calculate-swap-tendency#134206) setting never was that optimal (more info about this topic can be found [here](https://rudd-o.com/linux-and-free-software/tales-from-responsivenessland-why-linux-feels-slow-and-how-to-fix-that)) and needs adjusting.
 
 Open your terminal and query the current swappiness value by typing:
 ```
