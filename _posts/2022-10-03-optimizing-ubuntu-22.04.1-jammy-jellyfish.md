@@ -10,7 +10,7 @@ tags: [ Linux Tutorials ]
 These tips are meant for Ubuntu systems, but in general any Debian based distro should be ready to go.
 Keep in mind that, as everything in life, nothing comes for free. Every optimization has its own pricetag and you must decide how much you are willing to pay for it.
 
-## Burning disk lifecycles, no more
+## Burning my disk, no more
 
 ### The Firefox sessionstore
 
