@@ -19,7 +19,7 @@ Sessionstore is responsible for caching which pages were opened should Firefox s
 Disabling is really easy. Type about:config in de addressbar and press Enter. Click on agree and look for sessionstore. Double-click on browser.sessionstore.interval change 15000 (15 seconds) to 15000000. Press OK, restart Firefox.
 
 ### Swappiness (dismiss when having more than 16 Gb RAM)
-When working with limited RAM, Ubuntu will aggressively try to free memory to enlarge the caches aka swapping. This again leads to a large quantity of write actions on your SSD which in their turn slow down your system and chip away chunks of the disk's total lifetime.
+When working with limited RAM, Ubuntu will aggressively try to free memory to enlarge the caches aka swapping. This again will lead to large quantities of write actions on your SSD which in their turn slow down your system and chip away chunks of the disk's total lifetime.
 
 To change Ubuntu's standard [swap_tendency](https://unix.stackexchange.com/questions/134202/when-is-swap-triggered-or-how-to-calculate-swap-tendency#134206) weight, open a terminal and query the current swappiness value by typing:
 ```
