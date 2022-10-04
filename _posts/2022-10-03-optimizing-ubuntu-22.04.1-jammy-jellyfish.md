@@ -52,7 +52,7 @@ We should find a device node named /dev/zram0. Let’s allocate a size for it:
 ```
 $ echo 800M > /sys/block/zram0/disksize # change size to your liking.
 ```
-Format this new device as if it was just a normal disk partition we designated for swap:
+Format that new device as if it was just a normal disk partition we designated for swap:
 ```
 $ mkswap --label zram0 /dev/zram0
 $ swapon -p 100 /dev/zram0
