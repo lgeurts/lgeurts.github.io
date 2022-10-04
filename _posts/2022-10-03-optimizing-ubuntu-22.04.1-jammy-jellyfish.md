@@ -22,7 +22,9 @@ To change Ubuntu's standard [swap_tendency](https://unix.stackexchange.com/quest
 ```
 $ cat /proc/sys/vm/swappiness
 ```
-Probably swappiness wil return a value of 60 which is too high for normal use. To lower swap_tendency to a more appropriate value:
+Probably swappiness wil return a value of 60 which is too high for normal use. 
+
+Lower swap_tendency to a more appropriate value:
 ```
 $ gedit admin:///etc/sysctl.conf
 ```
