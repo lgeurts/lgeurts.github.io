@@ -85,6 +85,25 @@ $ history | tail -n 2
 $ swapon
 ```
 
+## Lower the pressure on the indode cache
+
+If your PC has at least 16 Gb RAM you can also achieve a little more performance by lowering the aggresive pressure on the indode cache. Keep in mind that memory is less frequently cleared which will have an impact on new processes.
+
+Open your terminal and type:
+```
+gedit admin:///etc/sysctl.conf
+```
+Text Editor opens. At the end of the file type:
+```
+# Customize cache management
+vm.vfs_cache_pressure=50
+```
+and save. To activate, restart the computer.
+
+## Disable the Firefox sessionstore
+
+Sessionstore is responsible for caching which pages were opened should Firefox suddenly crash. While this is a great feature (you can reopen your tabs and continue browsing), it causes a ot of writes to your SSD. 
+Disabling this function is really easy. Type about:config in de addressbar and press Enter. Click on agree and do a search for sessionstore. Double-click on browser.sessionstore.interval and change 15000 (15 seconds) to 15000000. Press OK. Restart Firefox.
 
 
 
