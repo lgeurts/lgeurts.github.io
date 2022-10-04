@@ -29,7 +29,7 @@ Probably swappiness wil return a value of 60 which is too high for normal use. L
 ```
 $ gedit admin:///etc/sysctl.conf
 ```
-The text editor app will open. At the end of the file type:
+The text editor app will open. At the end type:
 ```
 # Lower swap_tendency
 vm.swappiness=25
@@ -120,7 +120,7 @@ Open your terminal and type:
 ```
 gedit admin:///etc/sysctl.conf
 ```
-Our text editor opens. Add te following lines to the file:
+Our text editor opens. Add the following lines to config file:
 ```
 # Customize cache management
 vm.vfs_cache_pressure=50
