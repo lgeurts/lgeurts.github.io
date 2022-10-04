@@ -90,9 +90,9 @@ $ history | tail -n 2
 $ swapon
 ```
 
-## Lower the pressure on the indode cache
+## Lower the pressure on the inode cache
 
-If your PC has at least 16 Gb RAM you can also achieve a little more performance by lowering the aggresive pressure on the indode cache. Keep in mind that memory is less frequently cleared which will have an impact on new processes.
+If your PC has at least 16 Gb RAM you can also achieve a little more performance by lowering the aggresive pressure on the inode cache. Keep in mind that memory is less frequently cleared which will have an impact on new processes.
 
 Open your terminal and type:
 ```
