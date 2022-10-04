@@ -92,7 +92,7 @@ $ swapon
 
 ## Lower the pressure on the inode cache
 
-If your PC has at least 16 Gb RAM you can also achieve a little more performance by lowering the aggresive pressure on the inode cache. Small warning, system memory is less frequently cleared which has its impact when new processes try to load (memory block in use).
+If your PC has at least 16 Gb RAM you can also achieve a little more performance by lowering the aggresive pressure on the inode cache. Small warning, clearing system memory less frequently has its impact when new processes try to load (memory block in use).
 
 Open your terminal and type:
 ```
