@@ -94,7 +94,7 @@ $ swapon
 
 ## Lower the pressure on the inode cache
 
-If your PC has has enough free RAM available, you can also achieve a little more performance by lowering the pressure on the inode cache. Warning, clearing system memory less frequently can impact new processes trying to load into memory (address_in_use).
+If your PC has has enough free RAM available, you can also achieve a little more performance by lowering the tendency on reclaiming the memory which is used for caching of directory and inode objects. Warning, clearing memory less frequently can impact new processes trying to load (address_in_use). 
 
 Open your terminal and type:
 ```
