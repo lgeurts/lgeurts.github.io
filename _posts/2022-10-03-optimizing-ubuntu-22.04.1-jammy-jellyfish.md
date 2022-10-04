@@ -43,7 +43,7 @@ $ modprobe zram
 ```
 We should find a device node named /dev/zram0. Let’s allocate a size for it:
 ```
-$ echo 800M > /sys/block/zram0/disksize # Change size to your liking
+$ echo 800M > /sys/block/zram0/disksize # change size to your liking.
 ```
 Format this new device as if it was just a normal disk partition we designated for swap:
 ```
@@ -61,7 +61,7 @@ $ update-grub
 ```
 to update the bootloader config files.
 
-Now, we make sure the zram module is loaded at boot and knows the number of devices we need (if I were to be using zram for other tmpfs directories like /tmp as well, ’d have to increase the number.):
+Now, we make sure the zram module is loaded at boot and knows the number of devices we need (if we were to be using zram for other tmpfs directories like /tmp as well, we’d have to increase the number):
 ```
 $ echo "zram" > /etc/modules-load.d/zram.conf
 $ echo "options zram num_devices=1" > /etc/modprobe.d/zram.conf
@@ -77,7 +77,7 @@ Add the device to /etc/fstab. Additionally, we can give the pri=value as an opti
 $ sudo -i
 $ [sudo] password for **my username**:
 $ root@yourmachinename:~# printf "/dev/zram0\tnone\tswap\tdefaults,pri=100\t0\t0\n" >> /etc/fstab
-$ root@yourmachinename:~# tail /etc/fstab # To check the output
+$ root@yourmachinename:~# tail /etc/fstab # to check the output.
 ```
 Reboot and verify that our swap device is active:
 ```
