@@ -104,7 +104,7 @@ $ [sudo] password for **my username**:
 $ root@yourmachinename:~# printf "/dev/zram0\tnone\tswap\tdefaults,pri=100\t0\t0\n" >> /etc/fstab
 $ root@yourmachinename:~# tail /etc/fstab # to check the output.
 ```
-Reboot and verify that our swap device is active:
+Reboot and verify that the swap device is active:
 ```
 $ history | tail -n 2
 $ swapon
