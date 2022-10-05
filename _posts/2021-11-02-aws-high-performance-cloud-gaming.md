@@ -9,7 +9,7 @@ tags: [ Cloud Computing, Gaming ]
 
 ---
 
-In this guide I explain how to build a Cloud Gaming environment using Amazon Web Services (AWS) and [Parsec](https://parsec.app/). The workflow is rather similar to other services like for example Amazon Prime Video or Disney+; your games are streamed at a very low latency from a high-end EC2 host to your home device(s) that certainly crash when even thinking about running games demanding so much power. Sounds cool, right?
+In this guide I explain how to build a Cloud Gaming environment using Amazon Web Services (AWS) and [Parsec](https://parsec.app/). The workflow is rather similar to other services like for example Amazon Prime Video or Disney+; your games are streamed at a very low latency from a high-end EC2 host to your home device(s) that certainly crash when trying to run games demanding so much power. Sounds cool, right?
 
 ## **Dude, why cloud gaming when I already have a gaming machine?**
 
