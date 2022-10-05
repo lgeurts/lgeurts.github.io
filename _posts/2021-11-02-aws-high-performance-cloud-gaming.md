@@ -34,7 +34,7 @@ Building yourself? Sure, but the same principle for all components applies. And 
    - Raspberry PI 3
    - Android – With Google Play
 
-*Hint: Find the [nearest region at the lowest price](https://openupthecloud.com/find-aws-region-closest/). Want the fastest connections possible? Use [AWS ping](https://github.com/ekalinin/awsping) on GitHub.
+*Hint: Find the [nearest region at the lowest price](https://openupthecloud.com/find-aws-region-closest/). Want the fastest connections possible? Use [AWS ping](https://github.com/ekalinin/awsping) on GitHub.*
 
 ## Action-list
 
