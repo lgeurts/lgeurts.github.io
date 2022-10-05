@@ -19,7 +19,7 @@ Building yourself? Sure, but the same principle for all components applies. And 
 
 ## **OK, I'm convinced. What do I need?**
 
-### There are a few requirements that you’ll need to get this working properly:
+### List of requirements that you’ll need to get this working properly:
 
 1. [AWS Account](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/) - Some basics in AWS would be nice, but no worries, follow my steps in this post and you will be ok.
    **Note:** If you want to save on the last penny, and need to [find your nearest region at the lowest price](https://openupthecloud.com/find-aws-region-closest/), while also having the fastest connection possible, you can use tools like [AWS ping](https://github.com/ekalinin/awsping) by Eugene Kalinin on GitHub.
