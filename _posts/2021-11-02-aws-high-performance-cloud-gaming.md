@@ -25,7 +25,7 @@ Building yourself? Sure, but the same principle for all components applies. And 
 2.     [Parsec account](https://parsec.app/) - Sounds like a logical decision.
 3.     A stabile internet connection, at least 30/40mbps FTTH (for low latency). The most difficult part is streaming latency. Running the game, encoding and decoding the game video and converting the player input are done in real time.
 4.     A job to pay the bill – AWS isn’t free, but it’s cheap.
-5.     A game – Anything you want with the exception of VR (I'm actually gonna test that one).
+5.     A game - Anything you want with the exception of VR.
 6.     A local machine running any of the following:
    - Windows 7+
    - Linux – Ubuntu 18.04+
