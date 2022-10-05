@@ -129,4 +129,4 @@ and save. This setting will be activated after rebooting your computer.
 
 *These are just some tips I think are useful. Should something be missing or you have an item that belongs in this list, please let me know by mail.*
 
-*Ref: [zram: Compressed RAM based block devices](https://www.kernel.org/doc/html/v5.3/admin-guide/blockdev/zram.html)*
+*Ref: Web: [zram: Compressed RAM based block devices](https://www.kernel.org/doc/html/v5.3/admin-guide/blockdev/zram.html) - Kernel.org.*
