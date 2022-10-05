@@ -58,7 +58,7 @@ $ sudo rm -v /etc/systemd/system/tmp.mount
 
 If your PC has enough memory, zram could be used to replace the /swap.img file altogether. 
 
-Enabling zram causes conflicts with zswap, which is enabled by default. Disable it by typing the following command in your terminal:
+Enabling zram causes conflicts with zswap, which is activated by default. Disable it by typing the following command in your terminal:
 ```
 $ echo 0 > /sys/module/zswap/parameters/enabled
 ```
