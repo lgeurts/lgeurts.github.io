@@ -11,7 +11,7 @@ tags: [ Cloud Computing, Gaming ]
 
 In this guide I explain how to build a Cloud Gaming environment using Amazon Web Services and [Parsec](https://parsec.app/). Its basics are similar to other services like for example Amazon Prime Video or Disney+; your games are streamed at a very low latency from a high-end EC2 host in AWS to your home device that would flip-out when even thinking running games demanding so much juice. Sounds cool, right?
 
-## **Dude, why cloud gaming when I already have a dedicated gaming machine?**
+## **Dude, why cloud gaming when I already have a gaming machine?**
 
 Not everybody can afford buying a monster ala [Falcon Northwest Talon](https://www.falcon-nw.com/desktops). But even so, how long will you be able to keep the machine up to date? Think PRICEY video cards, processors outdated, in general the cash you'll have to shell out for playing the latest and greatest? Building yourself? Sure but the same principle for all hardware components applies, and that's why I use an AWS instance. It's always on the latest standard, no need to worry about hardware upgrades or updating drivers or patches. And with cloud gaming, you can stream games to a notebook, even a phone, making a high-fidelity gaming experience cheap and mobile.
 
