@@ -16,7 +16,7 @@ Keep in mind that, as everything in life, nothing comes for free. Every optimiza
 
 Sessionstore is responsible for caching which pages were already opened should Firefox suddenly crash. While this is a great feature (you reopen all lost tabs and continue browsing), it causes a lot of writes to your SSD. 
 
-Disabling is really easy. Type about:config in de addressbar and press Enter. Click on agree and look for sessionstore. Double-click on browser.sessionstore.interval change 15000 (15 seconds) to 15000000. Press OK, restart Firefox.
+Disabling is really easy. Type about:config in de addressbar and press Enter. Click on agree and look for sessionstore. Double-click on browser.sessionstore.interval and change 15000 (15 seconds) to 15000000. Press OK, restart Firefox.
 
 ### Swappiness (dismiss when having more than 16 Gb RAM)
 When working with limited RAM, Ubuntu will aggressively try to free memory to enlarge the caches aka swapping. This again will lead to large quantities of write actions on your SSD which in their turn slow down your system and chip away at the disk's total lifetime.
