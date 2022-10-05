@@ -68,7 +68,7 @@ $ modprobe zram
 ```
 We should find a device node named /dev/zram0. Let’s allocate a size for it:
 ```
-$ echo 800M > /sys/block/zram0/disksize # change size to your liking.
+$ echo 1024M > /sys/block/zram0/disksize # change size to your liking.
 ```
 Format that new device as if it was just a normal disk partition we designated for swap:
 ```
@@ -95,7 +95,7 @@ Create a udev rule so that the device node is formatted automatically as swap:
 ```
 $ sudo -i
 $ [sudo] password for **my username**:
-$ root@yourmachinename:~# cat > /etc/udev/rules.d/99-zram.rules KERNEL=="zram0", ATTR{disksize}="800M" RUN="/usr/sbin/mkswap -L zram0 /dev/zram0", TAG+="systemd"
+$ root@yourmachinename:~# cat > /etc/udev/rules.d/99-zram.rules KERNEL=="zram0", ATTR{disksize}="1024M" RUN="/usr/sbin/mkswap -L zram0 /dev/zram0", TAG+="systemd"
 ```
 Add the device to /etc/fstab. Additionally, we can give the pri=value as an option to the swap entry:
 ```
@@ -128,3 +128,5 @@ vm.vfs_cache_pressure=50
 and save. This setting will be activated after rebooting your computer.
 
 *These are just some tips I think are useful. Should something be missing or you have an item that belongs in this list, please let me know by mail.*
+
+*Ref: [zram: Compressed RAM based block devices](https://www.kernel.org/doc/html/v5.3/admin-guide/blockdev/zram.html)*
