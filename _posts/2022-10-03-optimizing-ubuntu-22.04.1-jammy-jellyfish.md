@@ -14,7 +14,7 @@ Keep in mind that, as everything in life, nothing comes for free. Every optimiza
 
 ### The Firefox sessionstore
 
-Sessionstore is responsible for caching which pages were already opened should Firefox suddenly crash. While this is a great feature (you can re-open your lost tabs and continue browsing), it causes a lot of writes to your SSD. 
+Sessionstore is responsible for caching which pages were already opened should Firefox suddenly crash. While this is a great feature (you re-open your lost tabs and continue browsing), it causes a lot of writes to your SSD. 
 
 Disabling is really easy. Type about:config in de addressbar and press Enter. Click on agree and look for sessionstore. Double-click on browser.sessionstore.interval change 15000 (15 seconds) to 15000000. Press OK, restart Firefox.
 
