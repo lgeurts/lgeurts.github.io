@@ -51,7 +51,7 @@ Reboot the computer.
 
 Should you experience issues, you can always undo the change by typing:
 ```
-sudo rm -v /etc/systemd/system/tmp.mount
+$ sudo rm -v /etc/systemd/system/tmp.mount
 ```
 
 ### Activate the zram system kernel function
@@ -118,7 +118,7 @@ Warning, clearing cache less frequently can impact new processes trying to load 
 
 Open your terminal and type:
 ```
-gedit admin:///etc/sysctl.conf
+$ gedit admin:///etc/sysctl.conf
 ```
 Our text editor opens. Add following lines to the config file:
 ```
