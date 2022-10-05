@@ -23,7 +23,7 @@ Building yourself? Sure, but the same principle for all components applies. And 
 
 1. [AWS Account](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/) - Some knowhow in AWS would be nice, but no worries, just follow my steps in this post and you will be ok.
 
-**Note:** To save money, find the [nearest region at the lowest price](https://openupthecloud.com/find-aws-region-closest/). Want the fastest connection possible? Use [AWS ping](https://github.com/ekalinin/awsping) on GitHub.
+**Note:** Find the [nearest region at the lowest price](https://openupthecloud.com/find-aws-region-closest/). Want the fastest connection possible? Use [AWS ping](https://github.com/ekalinin/awsping) on GitHub.
 2. [Parsec account](https://parsec.app/) - Sounds like a logical decision.
 3. A good internet connection – 30/40mbps - FTTH (for low latency). The most difficult part is streaming latency. All steps - such as running the game, encoding and decoding the game video and converting the player input are done in real time.
 4. A job/business to pay the bill – AWS isn’t free, but it’s cheap.
