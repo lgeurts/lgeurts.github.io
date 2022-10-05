@@ -128,5 +128,3 @@ vm.vfs_cache_pressure=50
 and save. This setting will be activated after rebooting your computer.
 
 *These are just some tips I think are useful. Should something be missing, or you have an item that belongs in this list, please let me know by mail.*
-
-Cheers, /Luge
