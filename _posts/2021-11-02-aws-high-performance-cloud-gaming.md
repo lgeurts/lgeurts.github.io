@@ -15,7 +15,7 @@ In this guide I explain how to build a Cloud Gaming environment using Amazon Web
 
 Not everybody can afford a monster the likes of a [Falcon Northwest](https://www.falcon-nw.com/desktops) Talon. Even so, how long will you be able to keep that glorious toy up to date? Think PRICEY video cards, new processors, faster and bigger drives, watercooling, all that cash you'll have to shell out for playing the latest and greatest? 
 
-Building yourself? Sure, but the same principle for all hardware components applies, and that's why I use an AWS instance. It's always on the latest standard, no need to worry about hardware upgrades or updating drivers or patches. And with cloud gaming, you can stream games to a notebook, even a phone, making a high-fidelity gaming experience cheap and mobile.
+Building yourself? Sure, but the same principle for all components applies. And that's the reason I opted for an AWS instance. It's always on the latest standard, no need to worry about hardware upgrades or updating drivers or OS patches. And with cloud gaming, you can stream games to a notebook, even a phone, making a high-fidelity gaming experience cheap and mobile.
 
 ## **OK, I'm convinced. What do I need?**
 
