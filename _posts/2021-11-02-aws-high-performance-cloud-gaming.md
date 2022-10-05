@@ -93,4 +93,5 @@ Building yourself? Sure, but the same principle for all components applies. And 
 
 - Login to your AWS account and subscribe to the [NVIDIA Gaming PC – Windows Server 2019](https://aws.amazon.com/marketplace/pp/prodview-xrrke4dwueqv6?ref_=beagle) g4dn.xlarge AMI (which features the NVIDIA T4 GPU) from the AWS Marketplace (click on the different regions to compare hourly prices).
 - Once done, you can launch your instance with the following settings:
+- 
 
