@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: A dive into Cloud Gaming using AWS Cloud and Parsec’s Remote Access Tech solution on Windows 2019
+title: A dive into Cloud Gaming using AWS Cloud and Parsec’s Remote Access Tech solution
 read_time: true
 comments: true
 category: Entertainment
