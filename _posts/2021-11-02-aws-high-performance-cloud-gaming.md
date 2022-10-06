@@ -96,4 +96,4 @@ Building yourself? Sure, but the same principles for all components applies. And
 
 - Once done, you can launch your instance with the following settings:
 
-<img src="/assets/under-construction.png" width="354">
+<img src="/assets/under-construction.png" width="454">
