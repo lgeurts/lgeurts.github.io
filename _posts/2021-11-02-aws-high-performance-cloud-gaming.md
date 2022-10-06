@@ -95,3 +95,5 @@ Building yourself? Sure, but the same principles for all components applies. And
 **Hint:** Click on the different regions to compare hourly prices.
 
 - Once done, you can launch your instance with the following settings:
+
+<img src="/assets/under-construction.png" width="654">
