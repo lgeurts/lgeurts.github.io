@@ -78,7 +78,7 @@ Building yourself? Sure, but the same principles for all components applies. And
 
   <img src="/assets/aws-parsec-setup/vpc-route-table.png" width="654">
 
-- Go to the Security - Security Groups tab and make sure rules are conform below values:
+- Go to the Security - - Security Groups tab and make sure rules are conform below values:
 
   <img src="/assets/aws-parsec-setup/ec2-security-group.png" width="654">
   
