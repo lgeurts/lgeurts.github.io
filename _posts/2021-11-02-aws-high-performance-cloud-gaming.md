@@ -84,7 +84,7 @@ Building yourself? Sure, but the same principles for all components applies. And
   
   **This is not at all secure** but it's convenient and only for this post. You can check [here](https://support.parsecgaming.com/hc/en-us/articles/360043419312) and [here](https://support.parsecgaming.com/hc/en-us/articles/360045297592) to get the exact port requirements.
   
-  - Inbound: `All traffic | All | All | Anywhere | “0.0.0.0/0” / “::/0”`
+  Inbound: `All traffic | All | All | Anywhere | “0.0.0.0/0” / “::/0”`
   
   
   - Outbound:`All traffic | All | All | Anywhere | “0.0.0.0/0” / “::/0”`
