@@ -70,7 +70,7 @@ Building yourself? Sure, but the same principles for all components applies. And
 
   <img src="/assets/aws-parsec-setup/vpc-internet-gateway.png" width="654">
 
-- Hence the same for the subnet. Note that though it is best practice to create a second availability zone for [HA](https://aws.amazon.com/about-aws/global-infrastructure/regions_az/), I'm gonna skip it. Remember this guide is for gaming, not for company production. For my fellow geeks a how-to can be found [here](https://tomgregory.com/when-to-create-different-subnets-in-aws-vpcs/).
+- Hence the same for the subnet. Note that though it is best practice to create a second availability zone for [HA](https://aws.amazon.com/about-aws/global-infrastructure/regions_az/), I'm gonna skip it. Remember this guide is for gaming, not for company production. For my fellow geeks: a how-to can be found [here](https://tomgregory.com/when-to-create-different-subnets-in-aws-vpcs/).
 
   <img src="/assets/aws-parsec-setup/vpc-subnet.png" width="654">
 
