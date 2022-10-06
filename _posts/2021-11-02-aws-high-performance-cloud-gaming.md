@@ -50,7 +50,7 @@ Building yourself? Sure, but the same principles for all components applies. And
 
 **Setting up AWS:**
 
-- By now you created and activated your AWS account. Continue with adding a VPC (Virtual Private Network) by logging in to your account and checking the VPC console. Click on the *Launch VPC Wizard*, and the next screen opens:
+- By now you created and activated your AWS account. Continue with adding a VPC (Virtual Private Network) by logging in to your account and checking the VPC console. Click on *Launch VPC Wizard*, the next screen opens:
 
   <img src="/assets/aws-parsec-setup/vpc-dashboard.png" width="654">
 
