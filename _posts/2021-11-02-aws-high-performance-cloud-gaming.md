@@ -58,7 +58,7 @@ Building yourself? Sure, but the same principles for all components applies. And
 
   <img src="/assets/aws-parsec-setup/step1-select-vpc-configuration.png" width="654">
 
-- We don’t need IPv6 for this so you don’t have to give that but give a Name tag so that we can understand what it’s for:
+- We don’t need IPv6 but give a Name tag so that we can understand what it’s for:
 
   <img src="/assets/aws-parsec-setup/step2-vpc-with-a-single-public-subnet.png" width="654">
 
