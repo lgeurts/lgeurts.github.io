@@ -66,7 +66,7 @@ Building yourself? Sure, but the same principles for all components applies. And
 
   <img src="/assets/aws-parsec-setup/vpc-successfully-created.png" width="654">
 
-- The default VPC is configured to allow Internet access. My VPC has an ID of vpc-01fe1843d2da4b0e4. If I click on the Internet Gateways tab there's a new Internet Gateway attached to that VPC. I did not create this, AWS created it automatically at the time I set up my subscription.
+- The default VPC is configured to allow Internet access. My VPC has an ID of vpc-01fe1843d2da4b0e4. If I click on the Internet Gateways tab it shows a new Internet Gateway attached to that VPC. I did not create this, AWS created it automatically at the time I set up my subscription.
 
   <img src="/assets/aws-parsec-setup/vpc-internet-gateway.png" width="654">
 
