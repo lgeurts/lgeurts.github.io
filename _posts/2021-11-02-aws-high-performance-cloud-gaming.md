@@ -82,7 +82,7 @@ Building yourself? Sure, but the same principles for all components applies. And
 
   <img src="/assets/aws-parsec-setup/ec2-security-group.png" width="654">
   
-  **This is not at all secure** but it's convenient and only for this post. You can check [here](https://support.parsecgaming.com/hc/en-us/articles/360043419312) and [here](https://support.parsecgaming.com/hc/en-us/articles/360045297592) to get the exact port requirements.
+  **This is not at all secure** but it's convenient and only for this post. You can visit the sites [here](https://support.parsecgaming.com/hc/en-us/articles/360043419312) and [here](https://support.parsecgaming.com/hc/en-us/articles/360045297592) to jot down the exact port requirements.
   
   Inbound: `All traffic | All | All | Anywhere | “0.0.0.0/0” / “::/0”`
   
@@ -90,5 +90,8 @@ Building yourself? Sure, but the same principles for all components applies. And
   
 **Configuring the gaming server:**
 
-- Login to your AWS account and subscribe to the [NVIDIA Gaming PC – Windows Server 2019](https://aws.amazon.com/marketplace/pp/prodview-xrrke4dwueqv6?ref_=beagle) g4dn.xlarge AMI (which features the NVIDIA T4 GPU) from the AWS Marketplace (click on the different regions to compare hourly prices).
+- Login to your AWS account, go to the AWS Marketplace and subscribe to the [NVIDIA Gaming PC – Windows Server 2019 g4dn.xlarge AMI](https://aws.amazon.com/marketplace/pp/prodview-xrrke4dwueqv6?ref_=beagle) (which features the NVIDIA T4 GPU). 
+
+**Hint:** Click on the different regions to compare hourly prices.
+
 - Once done, you can launch your instance with the following settings:
