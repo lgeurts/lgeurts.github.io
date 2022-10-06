@@ -44,7 +44,7 @@ Building yourself? Sure, but the same principles for all components applies. And
 
   <img src="/assets/aws-parsec-setup/parsec-new-account.png" width="654">
 
-- Sign up with a username, email-address and password. You'll get a confirmation (check your spam folder) with a link to click on. Press the mouse button.
+- Sign up. You'll get a confirmation (check your spam folder) with a link to click on. Press the mouse button.
 
 - [Download](https://parsec.app/downloads/) the client for your platform, install it on your device and login.
 
