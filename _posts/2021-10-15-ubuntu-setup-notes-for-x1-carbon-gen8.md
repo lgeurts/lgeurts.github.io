@@ -161,7 +161,7 @@ Add [DuckDuckGo](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-f
 
 ## Hibernation modus aka deep sleep
 
-Simply closing the lid will probably trigger deep sleep. Check that it works using the command line:
+Simply closing the lid will probably trigger deep sleep. Probe using the command line:
 ```
 $ systemctl suspend -i
 ```
