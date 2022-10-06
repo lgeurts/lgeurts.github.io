@@ -28,11 +28,11 @@ Building yourself? Sure, but the same principles for all components applies. And
 5.     A game - Anything you want with the exception of VR.
 6.     A local machine running any of the following:
    - Windows 10+
-   - Linux – Ubuntu 18.04+
+   - Ubuntu Linux 18.04+
    - Firefox, Google Chrome or Microsoft Edge
    - MacOS 10.11+
    - Raspberry Pi 3/4 
-   - Android 8+ – With Google Play
+   - Android 8+ - With Google Play
 
 **Hint:** Find your [nearest region at the lowest price](https://openupthecloud.com/find-aws-region-closest/). Want the fastest connection? Check out Eugene Kalinin's [AWS ping](https://github.com/ekalinin/awsping).
 
