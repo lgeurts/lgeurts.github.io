@@ -44,13 +44,13 @@ Building yourself? Sure, but the same principles for all components applies. And
 
   <img src="/assets/aws-parsec-setup/parsec-new-account.png" width="654">
 
-- Sign up. You'll get a confirmation (check your spam folder) with a link to click on. Press the mouse button.
+- Sign up. You'll get a confirmation (check the spam folder) with a link to click on. Press the mouse button.
 
 - [Download](https://parsec.app/downloads/) the client for your platform, install it on your device and login.
 
 **Setting up AWS:**
 
-- By now you created and activated your AWS account. Continue with adding a VPC (Virtual Private Network) by logging in to your account and checking the VPC  console. Click on the *Launch VPC Wizard*, and the next screen opens:
+- By now you created and activated your AWS account. Continue with adding a VPC (Virtual Private Network) by logging in to your account and checking the VPC console. Click on the *Launch VPC Wizard*, and the next screen opens:
 
   <img src="/assets/aws-parsec-setup/vpc-dashboard.png" width="654">
 
