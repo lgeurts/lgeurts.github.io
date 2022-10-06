@@ -81,13 +81,12 @@ Building yourself? Sure, but the same principles for all components applies. And
 - Go to the Security - - Security Groups tab and make sure rules are conform below values:
 
   <img src="/assets/aws-parsec-setup/ec2-security-group.png" width="654">
+ ``` 
+  Inbound: `All traffic | All | All | Anywhere | “0.0.0.0/0” / “::/0”`
   
-  **This is not at all secure** but it's convenient and only for this post. You can visit the sites [here](https://support.parsecgaming.com/hc/en-us/articles/360043419312) and [here](https://support.parsecgaming.com/hc/en-us/articles/360045297592) to jot down the exact port requirements.
-  
- Inbound: `All traffic | All | All | Anywhere | “0.0.0.0/0” / “::/0”`
-  
- Outbound:`All traffic | All | All | Anywhere | “0.0.0.0/0” / “::/0”`
-  
+  Outbound:`All traffic | All | All | Anywhere | “0.0.0.0/0” / “::/0”`
+ ``` 
+   **This is not at all secure** but it's convenient and only for this post. You can visit the sites [here](https://support.parsecgaming.com/hc/en-us/articles/360043419312) and [here](https://support.parsecgaming.com/hc/en-us/articles/360045297592) to jot down the exact port requirements.
 **Configuring the gaming server:**
 
 - Login to your AWS account, go to the AWS Marketplace and subscribe to the [NVIDIA Gaming PC - Windows Server 2019 g4dn.xlarge AMI](https://aws.amazon.com/marketplace/pp/prodview-xrrke4dwueqv6?ref_=beagle) (featuring the NVIDIA T4 GPU!). 
