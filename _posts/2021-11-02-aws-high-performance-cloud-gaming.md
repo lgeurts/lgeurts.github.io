@@ -13,7 +13,7 @@ In this guide, I explain how to build a cloud gaming environment using Amazon We
 
 ## **Dude, why cloud gaming when I already have a gaming machine?**
 
-Not everybody can afford buying a rig the likes of a [Falcon Northwest](https://www.falcon-nw.com/desktops) Talon. But even so, how long will you be able to keep that over-the-top toy up to date? Think PRICEY video cards, new processors, faster and bigger drives, watercooling, all that cash you'll have to shell out for playing the latest and greatest? 
+Not everybody can afford buying a rig the likes of a [Falcon Northwest](https://www.falcon-nw.com/desktops) Talon. But even so, how long will you be able to keep that over-the-top toy up to date? Think PRICEY video cards, motherboards, new processors, faster and bigger drives, watercooling, all that cash you'll have to shell out for playing the latest and greatest? 
 
 Building yourself? Sure, but the same principles for all components applies. And that's the reason I opted for the AWS instance. It's always on the latest standard, no need to worry about compatibilities, hardware upgrades, updating drivers, OS patches. Through cloud gaming, high-fidelity gaming experience becomes cheap and mobile.
 
