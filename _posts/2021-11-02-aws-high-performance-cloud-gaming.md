@@ -23,7 +23,7 @@ Building yourself? Sure, but the same principles for all components applies. And
 
 1.     [AWS Account](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/) - Some knowledge in AWS would be nice, but no worries, just follow my steps in this post and you will be ok.
 2.     [Parsec account](https://parsec.app/) - Sounds like a logical decision.
-3.     A stabile internet connection, at least 30/40mbps FTTH (for low latency). The most difficult part is streaming latency. Running a game, encoding and decoding the game video and converting the player input are done in real time.
+3.     A stabile internet connection, at least 30/40mbps FTTH (for low latency). The most difficult part is streaming latency. Running a game, encoding and decoding the game video and converting the player input are all done in real time.
 4.     A job to pay the bill - AWS isn’t free, but it’s cheap.
 5.     A game - Anything you want with the exception of VR.
 6.     A local machine running any of the following:
