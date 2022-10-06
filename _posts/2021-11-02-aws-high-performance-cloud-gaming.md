@@ -86,10 +86,8 @@ Building yourself? Sure, but the same principles for all components applies. And
   
   Inbound: `All traffic | All | All | Anywhere | “0.0.0.0/0” / “::/0”`
   
+  Outbound:`All traffic | All | All | Anywhere | “0.0.0.0/0” / “::/0”`
   
-  - Outbound:`All traffic | All | All | Anywhere | “0.0.0.0/0” / “::/0”`
-  
-
 **Configuring the gaming server:**
 
 - Login to your AWS account and subscribe to the [NVIDIA Gaming PC – Windows Server 2019](https://aws.amazon.com/marketplace/pp/prodview-xrrke4dwueqv6?ref_=beagle) g4dn.xlarge AMI (which features the NVIDIA T4 GPU) from the AWS Marketplace (click on the different regions to compare hourly prices).
