@@ -31,7 +31,7 @@ Building yourself? Sure, but the same principles for all components applies. And
    - Linux – Ubuntu 18.04+
    - Firefox, Google Chrome or Microsoft Edge
    - MacOS 10.11+
-   - Raspberry Pi 1/2/3/4 
+   - Raspberry Pi 3/4 
    - Android 8+ – With Google Play
 
 **Hint:** Find your [nearest region at the lowest price](https://openupthecloud.com/find-aws-region-closest/). Want the fastest connection? Check out Eugene Kalinin's [AWS ping](https://github.com/ekalinin/awsping).
