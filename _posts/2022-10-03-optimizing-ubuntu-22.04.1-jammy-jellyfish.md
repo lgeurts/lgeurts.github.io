@@ -36,7 +36,7 @@ vm.swappiness=25
 ```
 and save. To activate the new setting, restart the computer.
 
-## Faster, faster, performance is key!
+## Faster, faster, performance is key !
 
 ### Move /tmp to tempfs
 
