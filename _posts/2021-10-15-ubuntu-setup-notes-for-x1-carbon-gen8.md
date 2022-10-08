@@ -45,6 +45,7 @@ $ sudo apt install iotop
 $ sudo apt install iftop
 $ sudo apt install ttyload
 $ sudo apt install ranger
+$ sudo apt install trash-cli
 $ sudo apt install unrar zip unzip p7zip-full p7zip-rar rar
 $ sudo apt install virtualbox virtualbox-ext-pack -y
  <> $ sudo sh sign-vboxmodules.sh
@@ -91,7 +92,8 @@ $ sudo apt install gufw
 $ sudo apt install mupdf
 $ sudo apt -y install net-tools
 $ sudo apt install smartmontools
-$ sudo apt remove --purge totem
+$ sudo apt remove --purge -y totem
+$ sudo apt remove -- purge -y rhythmbox
 $ sudo apt update && sudo apt upgrade
 $ sudo apt install mpv
 $ sudo apt install ffmpeg
