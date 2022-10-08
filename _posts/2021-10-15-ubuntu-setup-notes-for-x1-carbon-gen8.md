@@ -54,6 +54,7 @@ $ sudo apt install wireshark
 $ sudo apt install steam
 $ sudo apt install spotify
 $ sudo apt install dconf-editor
+$ sudo apt install gparted
 $ sudo add-apt-repository ppa:yann1ck/onedrive
  <> $ sudo apt update
  <> $ sudo apt install onedrive
@@ -105,6 +106,7 @@ $ sudo apt install gnome-shell-extension-appindicator gir1.2-appindicator3-0.1
 $ sudo apt install gnome-shell-pomodoro
 $ sudo add-apt-repository -y ppa:libreoffice/ppa
  <> $ sudo apt update && sudo apt install libreoffice
+$ sudo apt install -y fonts-cascadia-code fonts-firacode
 $ sudo apt install ttf-mscorefonts-installer 
 $ sudo snap install hexchat
 $ sudo snap install slack --classic
