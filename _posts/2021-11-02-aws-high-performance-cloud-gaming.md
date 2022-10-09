@@ -34,7 +34,9 @@ Building yourself? Sure, but the same principles for all components applies. And
    - Raspberry Pi 3/4 
    - Android 8+ - With Google Play
 
-**Hint:** Find your [nearest region at the lowest price](https://openupthecloud.com/find-aws-region-closest/). Want the fastest connection? Check out Eugene Kalinin's [AWS ping](https://github.com/ekalinin/awsping). And please do not forget to [lock your AWS root account](https://medium.com/devops-techable/aws-root-account-security-best-practices-and-learn-how-to-use-secure-your-aws-root-account-aws-69891dbb94f4).
+**Hint:** Find your [nearest region at the lowest price](https://openupthecloud.com/find-aws-region-closest/). Want the fastest connection? Check out Eugene Kalinin's [AWS ping](https://github.com/ekalinin/awsping). 
+
+**Important**: Do not forget to [lock your AWS root account](https://medium.com/devops-techable/aws-root-account-security-best-practices-and-learn-how-to-use-secure-your-aws-root-account-aws-69891dbb94f4). Getting a bill of several hundreds euro's because someone hacked your setup ain't a pleaseant foresight.
 
 ## Action-list
 
