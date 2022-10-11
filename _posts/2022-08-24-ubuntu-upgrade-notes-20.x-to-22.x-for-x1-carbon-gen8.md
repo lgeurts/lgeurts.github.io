@@ -34,6 +34,9 @@ Please install all available updates for your release before upgrading.
 # Clean the apt cache.
 $ sudo rm -rf /var/lib/apt/lists/*
 
+# Remove old kernels and all automatically installed dependencies that are no longer needed by any package.
+$ sudo apt --purge autoremove
+
 # Replace entries in sources files. 
 $ sudo sed -i "s/old-releases/archive/g" /etc/apt/sources.list /etc/apt/sources.list.d/*.list
 
