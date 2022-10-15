@@ -7,7 +7,7 @@ title: About
 
 A native from Belgium with partly Irish blood in his veins. Moved between a lot of countries, now dwelling in the beautiful north of France.
 
-Before starting as a freelance Tech Lead & Engineering Consultant I spent 22 years working with and for large multinational corporations like Microsoft, Dell, HP, and British Telecom. 
+Before starting as a Tech Lead & Engineering Consultant I spent 22 years working with and for large multinational corporations like Microsoft, Dell, HP, and British Telecom. 
 
 Learned a lot and met amazingly talented people of which I can call some a close friend. Great times, until I discovered there was nothing new to explore, stuck in a career with no chance to grow. So, after a long period of doubt (was giving up a good paying job without even knowing what to do next) I quit, booked a flight to Paris and started as a one-man-shop. Regrets? No. I've had my share of blunders and absurdities creeping in, but never would go back.
 
