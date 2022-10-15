@@ -5,7 +5,9 @@ title: About
 
 ![KNAV Austria](/assets/C2ADV01.jpg)
 
-I'm a Tech Lead & Engineering Consultant dwelling in the central north of France. In a former life I was a Microsoft PFE, T3 Escalation Engineer at Dell, HP Support Escalation Engineer ... A career stretching back to the MS-DOS era early 1995.
+I'm a freelance Tech Lead & Engineering Consultant dwelling in the central north of France. 
+
+Frmerly worked working with and for large multinational corporations (Microsoft, Dell, HP, British Telecom). A career stretching back to the MS-DOS era early 1995.
 
 Learned a lot and met amazingly talented people of which I can call some a close friend. Great times, until I discovered there was nothing new to explore, stuck in a career with no chance to grow. So, after a long period of doubt (was giving up a good paying job without even knowing what to do next) I quit, booked a flight to Paris and started as a one-man-shop. Regrets? No. I've had my share of blunders and absurdities creeping in, but never would go back.
 
