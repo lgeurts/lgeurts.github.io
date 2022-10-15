@@ -5,7 +5,7 @@ title: About
 
 ![KNAV Austria](/assets/C2ADV01.jpg)
 
-A native from Belgium with partly Irish blood in his veins. Moved between a lot of countries, now dwelling in the beautiful north of France.
+I'm a native from Belgium with partly Irish blood in his veins. Moved between a lot of countries, now dwelling in the beautiful north of France.
 
 Before starting as a Tech Lead & Engineering Consultant I spent 22 years working with and for large multinational corporations like Microsoft, Dell, HP, and British Telecom. 
 
