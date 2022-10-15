@@ -5,9 +5,9 @@ title: About
 
 ![KNAV Austria](/assets/C2ADV01.jpg)
 
-I'm a Tech Lead & Engineering Consultant dwelling in the north of France. 
+I'm currently a Tech Lead & Engineering Consultant dwelling in the north of France. 
 
-Till 2017 I worked with and for large multinational corporations (Microsoft, Dell, HP, British Telecom). A steep career stretching back to the MS-DOS era early 1995.
+Previously (till 2017) working with and for large multinational corporations (Microsoft, Dell, HP, British Telecom). A long career stretching back to the MS-DOS era early 1995.
 Learned a lot and met amazingly talented people of which I can call some a close friend. Great times, until I discovered there was nothing new to explore, stuck in a career with no chance to grow. So, after a long period of doubt (was giving up a good paying job without even knowing what to do next) I quit, booked a flight to Paris and started as a one-man-shop. Regrets? No. I've had my share of blunders and absurdities creeping in, but never would go back.
 
 What else? I'm interested in far too much topics ranging from science to history, astronomy, robotics, kendo and iaijutsu, mixed ice climbing, trekking the French Alps, my (2008) GSXR-600, rehearsing paradiddles, learning Gaelic, and more.
