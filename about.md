@@ -7,7 +7,7 @@ title: About
 
 I’m a Flemish native, a former on-call Musician (took me less than 1 year to learn there was no money to be earned in that crazy scene), and certified Biotechnician who in 1996 by chance landed in the at that time booming IT business.
 
-I spent the biggest part of my digital life working for multi-national corporations like Microsoft, Dell, HP, and British Telecom - rapidly advancing the promotional ladder while dealing with the internals of Windows releases (in a rare case Unix /Linux) and spreading our holy gospel during all kinds of customer events. 
+I spent the biggest part of my digital life working for multi-national corporations like Microsoft, Dell, HP, and British Telecom - rapidly advancing the promotional ladder while dealing with the internals of Windows releases (in a rare case Linux) and spreading our holy gospel during all kinds of customer events. 
 
 Learned a lot and met amazingly talented people of which I can call some a close friend. Great times, until I discovered there was nothing new to explore, stuck in a career with no chance to grow. So, after a long period of doubt (was giving up a good paying job without even knowing what to do next) I pulled the trigger, quit, booked a flight to Paris and started as a one-man-shop. 
 
