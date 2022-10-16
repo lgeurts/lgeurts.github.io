@@ -7,7 +7,7 @@ title: About
 
 I’m a Tech Lead & Engineering Consultant, native from Belgium with Dutch and Irish ancestors, an expat now dwelling in the beautiful north of France.
 
-I spent 16 years of my life at multinational corporations like Microsoft, Dell, HP, and British Telecom - climbing the ladder while working on a bunch of Windows Server (sometimes Unix) releases, running all kinds of crazy projects, and spreading the gospel during customer technical trainings. 
+I spent 16 years of my life at multinational corporations like Microsoft, Dell, HP, and British Telecom - climbing the ladder while working on a bunch of Windows Server (sometimes Unix) releases, running crazy migration projects, and spreading the gospel at all kinds of customer technical trainings.
 
 Learned a lot and met amazingly talented people of which I can call some a close friend. Great times, until I discovered there was nothing new to explore, stuck in a career with no chance to grow. So, after a long period of doubt (was giving up a good paying job without even knowing what to do next) I quit, booked a flight to Paris and started as a one-man-shop. 
 
