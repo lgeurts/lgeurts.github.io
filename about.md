@@ -5,7 +5,7 @@ title: About
 
 ![KNAV Austria](/assets/C2ADV01.jpg)
 
-I’m a Flemish native, a former Musician and Biologist who in 1996 by chance landed in the at that time booming IT business.
+I’m a Flemish native, a former Musician (took me 1 year in a band to learn there was no big money to be earned) and Biotechnician who in 1996 by chance landed in the at that time booming IT business.
 
 I spent the majority of my professional life at multinational corporations like Microsoft, Dell, HP, and British Telecom - slowly climbing the ladder while working on a bunch of Windows Server (sometimes Unix) releases and spreading the company gospel at all kinds of remote customer sites. <br> Learned a lot and met amazingly talented people of which I can call some a close friend. Great times, until I discovered there was nothing new to explore, stuck in a career with no chance to grow. So, after a long period of doubt (was giving up a good paying job without even knowing what to do next) I pulled the trigger, quit, booked a flight to Paris and started as a one-man-shop. <br>Regrets? No, I've had my share of blunders and absurdities creeping in but never would go back.
 
