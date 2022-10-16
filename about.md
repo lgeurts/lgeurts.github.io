@@ -9,7 +9,7 @@ I’m a Tech Lead & Engineering Consultant, native from Belgium with Dutch and I
 
 I spent 16 years of my life at multinational corporations like Microsoft, Dell, HP, and British Telecom - climbing the ladder while working on a bunch of Windows Server and Linux flavors, running some crazy projects, all kinds of workshops. 
 
-I spent 16 years of my life at multinational corporations like Microsoft, Dell, HP, and British Telecom - climbing the ladder while working on a bunch of Windows Server and sometimes Linux flavors, running some really crazy projects, all kinds of technical trainings. 
+I spent 16 years of my life at multinational corporations like Microsoft, Dell, HP, and British Telecom - climbing the ladder while working on a bunch of Windows Server (*sometimes even Linux*) flavors,) running some really crazy projects, all kinds of technical trainings. 
 
 Learned a lot and met amazingly talented people of which I can call some a close friend. Great times, until I discovered there was nothing new to explore, stuck in a career with no chance to grow. So, after a long period of doubt, I left my bag of stock options, booked a nightflight to Paris and started as a one-man-shop. Any Regrets? No. I've had my share of blunders and absurdities creeping in, but never would go back.
 
