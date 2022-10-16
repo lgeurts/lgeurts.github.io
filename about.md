@@ -13,7 +13,7 @@ Learned a lot and met amazingly talented people of which I can call some a close
 
 Any regrets? Do I miss the bag of company stock options? No, I've had my share of blunders and absurdities creeping in but never would go back.
 
-WWhat else? I’m interested in far too much topics ranging from science to history, astronomy, robotics, kendo and iaijutsu, mixed ice climbing, trekking the French Alps, my (2008) GSXR-600, rehearsing paradiddles, learning Gaelic, and more.
+What else? I’m interested in far too much topics ranging from science to history, astronomy, robotics, kendo and iaijutsu, mixed ice climbing, trekking the French Alps, my (2008) GSXR-600, rehearsing paradiddles, learning Gaelic, and more.
 
 Guess that's it. Want a short overview of my professional skills? Check [this page](https://github.com/lgeurts/Resume/blob/master/Moderncv%20Resume%20Luc%20Geurts%20%28US%29.pdf) for my latest resume. For a more detailed version, send a connection request on [LinkedIn](https://www.linkedin.com/in/lucgeurts).
 
