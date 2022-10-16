@@ -5,7 +5,7 @@ title: About
 
 ![KNAV Austria](/assets/C2ADV01.jpg)
 
-I’m a Tech Lead & Engineering Consultant & Flemish native with Dutch and Irish ancestors, an expat now dwelling in the beautiful north of France.
+I’m a Tech Lead & Engineering Consultant. A Flemish native with Dutch/Irish ancestors, an expat now dwelling in the beautiful north of France.
 
 I spent 16 years of my life at multinational corporations like Microsoft, Dell, HP, and British Telecom - climbing the ladder while working on a bunch of Windows Server (sometimes Unix) releases and occasionaly hopping between countries to spread our gospel at all kinds of customer training sessions.
 
