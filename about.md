@@ -14,7 +14,7 @@ Learned a lot and met amazingly talented people of which I can call some a close
 What else? I’m interested in far too much topics ranging from science to history, astronomy, robotics, kendo and iaijutsu, mixed ice climbing, trekking the French Alps, my (2008) GSXR-600, rehearsing paradiddles, learning Gaelic, and more.
 
 
-What else? I’m interested in far too much topics ranging from science to history, kendo and iaijutsu, trekking the Alps, my (2008) Suzuki GSXR-600, rehearsing paradiddles, learning Gaelic, and more.
+What else? I’m interested in far too much topics ranging from science to history, kendo and iaijutsu, trekking the Alps, my (2008) GSXR-600, rehearsing paradiddles, learning Gaelic, and more.
 
 Guess that's it. Want a short overview of my professional skills? Check [this page](https://github.com/lgeurts/Resume/blob/master/Moderncv%20Resume%20Luc%20Geurts%20%28US%29.pdf) for my latest resume. For a more detailed version, send a connection request on [LinkedIn](https://www.linkedin.com/in/lucgeurts).
 
