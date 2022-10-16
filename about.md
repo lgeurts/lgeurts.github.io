@@ -5,7 +5,7 @@ title: About
 
 ![KNAV Austria](/assets/C2ADV01.jpg)
 
-I’m a Flemish native, a former on-call Musician (took me less than 1 year to learn there was no money to be earned in that crazy scene), and certified Biotechnician who in 1996 by chance landed in the at that time booming IT business.
+I’m a Flemish native, a former on-call Musician (took me less than 1 year to learn there was no making in that crazy scene), and certified Biotechnician who in 1996 by chance landed in the at that time booming IT business.
 
 I spent the biggest part of my digital life working for multi-national corporations like Microsoft, Dell, HP, and British Telecom - rapidly advancing the promotional ladder while dealing with the internals of Windows releases (in a rare case Linux) and spreading our holy gospel during all kinds of customer events. 
 
