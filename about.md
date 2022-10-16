@@ -11,7 +11,7 @@ I spent 16 years of my life at multinational corporations like Microsoft, Dell, 
 
 Learned a lot and met amazingly talented people of which I can call some a close friend. Great times, until I discovered there was nothing new to explore, stuck in a career with no chance to grow. So, after a long period of doubt (was giving up a good paying job without even knowing what to do next) I quit, booked a flight to Paris and started as a one-man-shop. 
 
-Any regrets? Do I miss the bag of company stock options? No, I've had my share of blunders and absurdities creeping in, but never would go back.
+Any regrets? Do I miss the bag of company stock options? No, I've had my share of blunders and absurdities creeping in but never would go back.
 
 What else? I'm interested in far too much topics ranging from science to history, astronomy, robotics, kendo and iaijutsu, mixed ice climbing, trekking the French Alps, my (2008) GSXR-600, rehearsing paradiddles, learning Gaelic, and more.
 
