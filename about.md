@@ -9,7 +9,7 @@ I’m a Flemish native, a former on-call Musician (took me less than 1 year to l
 
 I spent the biggest part of my digital life working for multi-national corporations like Microsoft, Dell, HP, and British Telecom - rapidly advancing the promotional ladder while dealing with the internals of Windows releases (in a rare case Linux) and spreading our holy gospel during all kinds of customer events. 
 
-Learned a lot and met amazingly talented people of which I can call some a close friend. Great times, until I discovered there was nothing new to explore, stuck in a career with no chance to grow. So, after a long period of doubt (was giving up a good paying job without even knowing what to do next), 2017 I pushed the brakes, quit, booked a flight to Paris and started as a one-man-shop. 
+Learned a lot and met amazingly talented people of which I can call some a close friend. Great times, until I discovered there was nothing new to explore, stuck in a career with no chance to grow. So, after a long period of doubt (was giving up a good paying job without even knowing what to do next), 2017 I pushed the brake, quit, booked a flight to Paris and started as a one-man-shop. 
 
 Now you probably were going to ask me if I have any regets leaving those bags of stock options behind. No, I've had my share of blunders and absurdities creeping in but never would go back. Love my freedom.
 
