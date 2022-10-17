@@ -11,7 +11,7 @@ I spent the biggest part of my digital life working for multi-national corporati
 
 Learned a lot and met amazingly talented people of which I can call some a close friend. Great times, until I discovered there was nothing new to explore, stuck in a career with no chance to grow. So, after a long period of doubt (was giving up a good paying job without even knowing what to do next) I pulled the trigger, quit, booked a flight to Paris and started as a one-man-shop. 
 
-Now you probably were going to ask me if I have any regets leaving those bags of stock options behind. No, I've had my share of blunders and absurdities creeping in but never would go back. Love my freedom too much.
+Now you probably were going to ask me if I have any regets leaving those bags of stock options behind. No, I've had my share of blunders and absurdities creeping in but never would go back. Love my freedom.
 
 What else? I’m interested in far too much topics ranging from science to history, kendo, trekking the Alps, my (2008) Suzuki GSXR-600, driving the neighbours to insanity when rehearsing paradiddles; the list goes on.
 
