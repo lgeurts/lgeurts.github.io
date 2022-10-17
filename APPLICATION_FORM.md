@@ -1,6 +1,6 @@
 ![Join Us](/assets/opportunities.png)
 
-# Flouze EURL: Job Openings for 2021
+# Flouze EURL: Job Openings for 2022
 
 ***Required skills:***
 
@@ -26,6 +26,6 @@
 ***Nice to haves:***
 - Driving license (for those rare occasions)
 
-*If you have read this far, please include a cover letter when you [apply](lgeurts@pm.me) for this role.*
+*If you have read this far, please include a cover letter when you [apply](flouze-eurl@pm.me) for this role.*
 
 <3
