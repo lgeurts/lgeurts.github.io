@@ -25,8 +25,8 @@
 - Comfortable with working on-call (as part of a regular 24x7 schedule)
 
 ***Nice to haves:***
-- Driving license (for those rare occasions)
-- Willing to work outside of France for a longer time.
+- Driving license - while we all like to work remotly, some customers will insist on your presence onsite
+- Willing to work outside of France for a longer time
 
 *If you have read this far, please include a cover letter when you [apply](flouze-eurl@pm.me) for this role.*
 
