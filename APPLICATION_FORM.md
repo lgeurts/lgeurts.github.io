@@ -17,7 +17,7 @@
     * Programming languages such as Go, Python, Rust, C, or equivalent
 
 ***Extras that will work in your favor:***
-- Despite being based in France, we are searching for English speaking colleagues with French, German, or Dutch optionally as 2nd language
+- Despite being based in France, we are searching for English speaking colleagues with French, German, or Dutch optionally as a 2nd language
 - Flexibility to learn from and work with customer teams in a variety of technical environments 
 - Experience operating and maintaining production systems on Linux (Ubuntu, Red Hat), Unix or Microsoft Windows in a public cloud
 - An analytical mind; debugging and problem solving skills are paramount
