@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
 
-For blog related matters, use [lgeurts@hotmail.com](mailto:lgeurts@hotmail.com). For anything else, mail me at [lgeurts@protonmail.com](mailto:lgeurts@protonmail.com).
+For blog related matters, use [lgeurts@hotmail.com](mailto:lgeurts@hotmail.com). For anything else, mail me at [lgeurts@protonmail.com](mailto:lgeurts@proton.me).
 
 Note on confidentiality
 -----------------------
