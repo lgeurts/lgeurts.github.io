@@ -25,15 +25,15 @@
 - Comfortable with working on-call (as part of a regular 24x7 schedule)
 
 ***Nice to haves:***
-- Driving license - while we all like to work remotly, some customers will insist on your presence onsite
-- Willingness to work outside of France for a longer time
+- Driving license - while we all like to work remotely, some customers will insist on your presence onsite
+- Willingness to work outside of France for longer times
 
 ***What do we offer:***
-- A young spirited dynamic, always motivated team
+- A young spirited dynamic, always motivated team (now 6 freelancers)
 - A strong engineering culture, continuous growth & learning environment
 - We have a comfortable office with an open kitchen, plenty of drinks and treats, located in the heart of Orléans
-- Monthly afterwork events
-- Shared responsibility package should you fall sick or not being placed for a longer time (more details during te interview)
+- Monthly afterwork events for our partners and kids
+- Shared responsibility package should you fall sick or not being placed for a longer time (more details during the interview)
 
 *If you have read this far, please include a cover letter when you [apply](flouze-eurl@pm.me) for this role.*
 
