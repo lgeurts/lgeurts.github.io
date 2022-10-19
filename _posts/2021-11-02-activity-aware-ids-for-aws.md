@@ -17,7 +17,7 @@ You can also configure Activity Aware IDS to notify you of AWS API actions, even
 
 ## **The AWS Shared Responsibility Model**
 
-A cornerstone of security in the AWS Cloud is the Shared Responsibility Model. At a high level, this is a de-lineation between what AWS takes responsibility to secure, and what you as an AWS Customer are responsible for securing. Most simply, AWS takes care of security OF the cloud, and you are responsible for security IN the cloud.
+A cornerstone of security in the AWS Cloud is the Shared Responsibility Model. At a high level, this is a de-lineation between what AWS takes responsibility to secure, and what you as an AWS Customer are responsible for securing. <br>Most simply, AWS takes care of security OF the cloud, and you are responsible for security IN the cloud.
 
 For the AWS side, they take responsibility for securing the building blocks used to compose your systems. These include the Compute (EC2 hosts), Storage (S3 infrastructure), Databases (RDS Hosts), Networking infrastructure, and so on. That’s not to say that you can just throw all of your customers’ credit card data into an S3 bucket and think your security responsibility is according the rules. You have to lock that bucket!
 
