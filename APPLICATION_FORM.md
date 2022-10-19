@@ -35,6 +35,6 @@
 - Monthly afterwork events for our partners and kids
 - Shared responsibility package should you fall sick or not being placed for a longer time (more details during the interview)
 
-*If you have read this far, please include a cover letter when you [apply](mailto:flouze.eurl@proton.me) for this role.*
+*If you have read this far, please include a cover letter when you [apply](mailto:flouze-eurl@proton.me) for this role.*
 
 <3
