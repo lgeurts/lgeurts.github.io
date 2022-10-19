@@ -46,7 +46,7 @@ Mr. Z wants to see what groups and roles they have access to through Mr. X's acc
 <br>If Mr. Z tries to view the policies of those groups, the system will raise a access denied which gets logged to CloudTrail. 
 
 At this point Activity Aware IDS receives a denial log, converts it into a friendly format, and then sends it to your Slack Channel. Once the message arrives, you will see that there are strange “Access Denied” messages associated with Mr. X. 
-<br>Good administrators will call the culprit causing that message and find he didn't perform the actions. Time to replace his credentials.
+<br>Good administrators will call the user causing that message and find he didn't perform the actions. Time to replace his credentials.
 
 In the above Mr. Z was blocked from performing actions due to the least privilege principle. Although this is a common recommendation regarding security, it can be difficult in finding the exact set of permissions that a User or Role should have. Activity Aware IDS can also assist with this.
 
