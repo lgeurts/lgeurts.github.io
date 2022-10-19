@@ -27,7 +27,7 @@
 
 ***Management:***
 - Actively raising ideas/solutions to help prevent or solve problems in production, and to improve working process, method of management, coordination between customer teams
-- In collaboration with other leads, evaluate customer team-members in a constructive way, pointing out their strengths and weaknesses; help to identify good elements and improve those that are still under expectation
+- In collaboration with other leads, evaluate customer team-members in a constructive way
 - Manage in DevOps integration and install architectural environments
 
 ***Development:***
