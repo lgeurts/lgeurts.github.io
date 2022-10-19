@@ -1,102 +1,56 @@
 ---
 
 layout: post
-title: A dive into Cloud Gaming using AWS Cloud and Parsec’s Remote Access Tech solution
+title: Activity Aware IDS for AWS: An open source tool for keeping on top of the activity in your AWS account
 read_time: true
 comments: true
 category: Entertainment
-tags: [ Cloud Computing, Gaming ]
+tags: [ Cloud Computing, GitHub Projects ]
 
 ---
-This guide will be updated asap. Reason is AWS made some big changes in their interfaces. - 15 October '22 -
 
-In this guide, I explain how to build a cloud gaming environment using Amazon Web Services (AWS) and [Parsec](https://parsec.app/). The workflow is rather similar to other services like for example Amazon Prime Video or Disney+; your games are streamed at a very low latency from a high-end EC2 host to your common home device(s).
+Today we are going to talk a bit about an open source tool  called [Activity Aware IDS for AWS](https://github.com/Giftbit/activity-aware-ids-aws).
+I found it while scrolling though the net and had a try on my AWS sub. 
 
-## **Dude, why cloud gaming when I already have a gaming machine?**
+Activity Aware IDS helps you be more aware of activity in your AWS account, including those that might suggest potential account compromises. In this article, we will discuss the common use cases for Activity Aware IDS for AWS, an overview of its architecture and how to start using it today. Before we get to that, it’s important to understand the security threats you face as an AWS customer, your responsibility in protecting against them, and overview of the principle of least privilege as a best practice in thinking about security and access control.
 
-Not everybody can afford buying a rig the likes of a [Falcon Northwest](https://www.falcon-nw.com/desktops) Talon. But even so, how long will you be able to keep that over-the-top toy up to date? Think PRICEY video cards, motherboards, processors, memory, faster and bigger drives, watercooling; all that cash you'll have to shell out every two to four years for playing the latest and greatest? 
+## **The principle of least privilege**
 
-Building yourself? Sure, but the same principles for all components applies. And that's the reason I opted for the AWS instance. It's always on the latest standard, no need to worry about compatibilities, hardware upgrades, updating drivers, OS patches. Through cloud gaming, high-fidelity gaming experience becomes cheap and mobile.
+Any system, any identity (users, programs, systems, etc.) granted privileges to access resources or information, should be granted only the minimum privileges necessary to perform their tasks. In the Activity Aware IDS default configuration, it will inform your or your team team when users and roles are attempting to use actions or access resources beyond their privileges. It is also possible to configure Activity Aware IDS to notify you of AWS API actions, even when these actions are permitted, but this is more complex and something I did not have time for.
 
-## **OK, I'm convinced. What do I need?**
+## **The AWS Shared Responsibility Model**
 
-### List of requirements that you’ll need to get this working properly:
+The cornerstone of security in the AWS Cloud is the Shared Responsibility Model. At a high level, this is a delineation between what AWS takes responsibility to secure, and what you as an AWS Customer are responsible for securing. Most simply, AWS takes care of security OF the cloud, and you are responsible for security IN the cloud.
 
-1.     [AWS Account](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/) - Some knowledge in AWS would be nice, but no worries, just follow my steps in this post and you will be ok.
-2.     [Parsec account](https://parsec.app/) - Sounds like a logical decision.
-3.     A stabile internet connection, at least 30/40mbps FTTH (for low latency). The most difficult part is streaming latency. Running a game, encoding and decoding game video and converting the player input are done in real time.
-4.     A job to pay the bill - AWS isn’t free, but it’s cheap.
-5.     A game - Anything you want with the exception of VR.
-6.     A local machine running any of the following:
-   - Windows 10+
-   - Ubuntu Linux 18.04+
-   - Firefox, Google Chrome or Microsoft Edge
-   - MacOS 10.11+
-   - Raspberry Pi 3/4 
-   - Android 8+ - With Google Play
+For the AWS side, they take responsibility for securing the building blocks used to compose your systems. These include the Compute (EC2 hosts), Storage (S3 infrastructure), Databases (RDS Hosts), Networking infrastructure, and so on. That’s not to say that you can just throw all of your customers’ credit card data into an S3 bucket and think your security responsibility is according the rules. You have to lock that bucket!
 
-**Hint:** Find your [nearest region at the lowest price](https://openupthecloud.com/find-aws-region-closest/). Want the fastest connection? Check out Eugene Kalinin's [AWS ping](https://github.com/ekalinin/awsping). 
+## **Security Threats in the Cloud**
 
-**Important**: Do not forget to [lock your AWS root account](https://medium.com/devops-techable/aws-root-account-security-best-practices-and-learn-how-to-use-secure-your-aws-root-account-aws-69891dbb94f4). Getting a bill of several hundreds euro's because someone hacked your setup ain't a pleasant foresight.
+There are 3 major types of security incidents in AWS: nfrastructure Impact, Host Compromise, and Account Compromise.
 
-## Action-list
+Infrastructure Impact includes external attacks on the underlying infrastructure of your application. This type of attack largely consists of Distributed Denial of Service (DDoS) attacks, where an attacker sends a large volume of traffic at your site. AWS Shield is a service you can use that kind of attacks.
 
-**Configuring the Parsec account:**
+Host Compromise involves techniques like command injection to gain access to your resources, such as your EC2 instances. These days mostly to use tem for BitCoin Mining or gaining access to its data or approach other instances that likely have valuable data. Host-based intrusion detection and intrusion prevention are the most common methods of alleviating this type of threat. 
 
-- Go to the Parsec site, new account:
+Account Compromise involves an attacker gaining access to users or roles on an instance, and then using them for the data it has access to, or the resources it can create.
+There are not many solutions that fill this gap. Activity Aware IDS for AWS does. 
+When an attacker is attempting toscout the permissions of a compromised identity user/role), they will probably be denied access to a number of the actions and resources they attempt to use while probing. Activity Aware IDS notifies you of these denials where your team will notice them most, like ffor example Slack.
 
-  <img src="/assets/aws-parsec-setup/parsec-new-account.png" width="654">
+## **Use Cases**
 
-- **Sign up**. You'll get a confirmation with a link to click on. Press that mouse button.
+Activity Aware IDS uses CloudTrial and the least privilege principle.
 
-- [Download](https://parsec.app/downloads/) the client for your platform, install it on your device and login.
+Lets imagine a user named Mr. X had his credentials compromised by a attacker Mr. Z.
+Mr. Z wants to see what Groups and Roles they have access to through Mr. X's account. FMr. Z doesn’t have access to view the Groups he is associated with, or  doesn’t have access to view the policies attached to those groups. If Mr. Z attempts to view the policies of those groups, the system will raise a access denied which, logically as it's an account action, gets logged to CloudTrail. 
 
-**Setting up AWS:**
+At this point Activity Aware IDS receives the denial log, converts it into a friendly format, and then sends it to your Slack Channel. Once the message arrives, you will see that there are strange “Access Denied” messages associated with Mr. X.. A good administrator will call the culprit causing that message and finds he is not performing the actions. Time to replace his credentials.
 
-- By now you created and activated your AWS account. Continue with adding a [VPC (Virtual Private Network)](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html) by logging in to your account and checking the VPC console. Click on *Launch VPC Wizard*, the next screen opens:
+In the above Mr. Z was blocked from performing actions due to the least privilege principle. Although this is a common recommendation regarding security, it can be difficult in finding the exact set of permissions that a User or Role should have. Activity Aware IDS can also assist with this.
 
-  <img src="/assets/aws-parsec-setup/vpc-dashboard.png" width="654">
+You are deploying a new service, and you want to give it permissions following the least privilege. The easiest place to start is to create a role with no permissions. Let's assume the system needs to send logs to CloudWatch Logs (this is a requirement for AWS Lambda). When the system attempts to create a new Log Group, it will get denied, because the role has no permissions. This denial will get logged to CloudTrail. Activity Aware IDS for AWS will send the denial to your Slack, where you can see the action being attempted, the Role attempting to perform the action, and the arn of the specific resource it’s trying to perform the action on. 
 
-- Select VPC with a Single Public Network:
+At this point, you can add a statement to the policy for the role allowing it access to “CreateLogGroup” and even provide a fairly restrictive resource description.
 
-  <img src="/assets/aws-parsec-setup/step1-select-vpc-configuration.png" width="654">
+## **What to do next**
 
-- We don’t need IPv6 but give a Name tag so that we can understand what it’s for:
-
-  <img src="/assets/aws-parsec-setup/step2-vpc-with-a-single-public-subnet.png" width="654">
-
-- This is what it looks like when you clicked on *Create VPC*:
-
-  <img src="/assets/aws-parsec-setup/vpc-successfully-created.png" width="654">
-
-- The default VPC is configured to allow Internet access. My VPC has an ID of vpc-01fe1843d2da4b0e4. If I click on the Internet Gateways tab it will show a new Internet Gateway attached to that VPC. I didn't do that, instead AWS created it automatically at the time I set up my subscription.
-
-  <img src="/assets/aws-parsec-setup/vpc-internet-gateway.png" width="654">
-
-- Hence the same for the subnet. Note that though it is best practice to create a second availability zone for [HA](https://aws.amazon.com/about-aws/global-infrastructure/regions_az/), I'm gonna skip it. Remember this guide is for gaming, not for company production. For my fellow geeks: a how-to can be found [here](https://tomgregory.com/when-to-create-different-subnets-in-aws-vpcs/).
-
-  <img src="/assets/aws-parsec-setup/vpc-subnet.png" width="654">
-
-- And the route table:
-
-  <img src="/assets/aws-parsec-setup/vpc-route-table.png" width="654">
-
-- Go to the Security - - Security Groups tab and make sure rules are conform below values:
-
-  <img src="/assets/aws-parsec-setup/ec2-security-group.png" width="654">
- ``` 
-  Inbound: `All traffic | All | All | Anywhere | “0.0.0.0/0” / “::/0”`
-  
-  Outbound:`All traffic | All | All | Anywhere | “0.0.0.0/0” / “::/0”`
- ``` 
- - **This is not at all secure** but it's convenient and only for this post. You can visit the sites [here](https://support.parsecgaming.com/hc/en-us/articles/360043419312) and [here](https://support.parsecgaming.com/hc/en-us/articles/360045297592) to jot down the exact port requirements.
-
-**Configuring the gaming server:**
-
-- Login to your AWS account, go to the AWS Marketplace and subscribe to the [NVIDIA Gaming PC - Windows Server 2019 g4dn.xlarge AMI](https://aws.amazon.com/marketplace/pp/prodview-xrrke4dwueqv6?ref_=beagle) (has a NVIDIA T4 GPU inside!). 
-
-  **Hint:** Click on the different regions to compare hourly prices.
-
-- Once done, you can launch your instance with the following settings:
-
-<img src="/assets/under-construction.png" width="454">
+Feel like getting your hands dirty? Checkout the [Giftbit Guide](https://github.com/Giftbit/activity-aware-ids-aws#getting-started).
