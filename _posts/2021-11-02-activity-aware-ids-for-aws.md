@@ -34,7 +34,7 @@ Host Compromise involves techniques like command injection to gain access to you
 
 Account Compromise involves an attacker gaining access to users or roles on an instance, and then using them for the data they have access to, or the resources they can create.
 <br>There are not many solutions that fill the gap. Activity Aware IDS for AWS does. 
-When an attacker attempts to scout the permissions of a compromised identity (user & role), they will probably be denied access to a number of the actions and resources they attempt to use while probing. Activity Aware IDS notifies you of these denials in for example a Slack channel.
+When an attacker attempts to scout the permissions of compromised identities (user & role), they will probably be denied access to a number of the actions and resources they attempt to use while probing. Activity Aware IDS notifies you of these denials in for example a Slack channel.
 
 ## **Use Cases**
 
@@ -55,4 +55,4 @@ At this point, you can add a statement to the policy for the role allowing it ac
 
 Feel like getting your hands dirty? Checkout the [Giftbit Guide](https://github.com/Giftbit/activity-aware-ids-aws#getting-started).
 
-Ref: Some content copied from Giftbit repo.
+Ref: Some content copied from the Giftbit repo.*
