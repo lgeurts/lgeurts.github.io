@@ -59,4 +59,4 @@ At this point, you can add a statement to the policy for the role allowing it ac
 
 Feel like getting your hands dirty? Checkout the [Giftbit Guide](https://github.com/Giftbit/activity-aware-ids-aws#getting-started).
 
-*Ref: Some content copied from the Giftbit repo.*
+*Ref: Some content was copied from the Giftbit repo.*
