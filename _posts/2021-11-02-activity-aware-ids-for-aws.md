@@ -1,15 +1,11 @@
 ---
-
 layout: post
 title: Activity Aware IDS for AWS: An open source tool for keeping on top of the activity in your AWS account
 read_time: true
 comments: true
 category: Open Source
 tags: [ Cloud Computing, GitHub Projects ]
-
 ---
-
-# Catch activity in your account: Activity Aware IDS for AWS
 
 Today we are going to talk a bit about an open source tool  called [Activity Aware IDS for AWS](https://github.com/Giftbit/activity-aware-ids-aws).
 I found it while scrolling though the net and had a try on my AWS sub. 
