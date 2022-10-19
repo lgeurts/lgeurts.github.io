@@ -37,7 +37,7 @@
 - Design new ways to develop and new technologies to make sure that teams are improving
 - Train new colleagues and organize specific trainings on new technologies
 
-##***Requirements:***
+## ***Requirements:***
 
 - BSc in Computer Science, Engineering or a relevant field
 - A strong engineering or operations background, and the commitment to develop continuously in both disciplines
