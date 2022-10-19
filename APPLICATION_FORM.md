@@ -12,7 +12,7 @@
 - Testing and examining code written by others and analyzing results
 - Ensuring that systems are safe and secure against cybersecurity threats
 - Identifying technical problems and help developing software updates and fixes
-- Working with software developers and software engineers to ensure that development follows established processes and works as intended
+- Working with software developers and software engineers to ensure development follows established processes and works as intended
 - Planning out projects and being involved in project management decisions
 
 ***Technical Support:***
