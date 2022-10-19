@@ -44,7 +44,7 @@
 - Proficient with git and git workflows
 - A strong understanding and knowledge of the following: 
     * Kubernetes API, core principles and components
-    * Knowledge of ArgoCD or Koncrete
+    * Knowledge of ArgoCD, Helm
     * Linux networking and security related to containers
     * Distributed systems and architectures e.g. microservices or service-oriented architectures
 - Proven production experience with at least two of the following:
