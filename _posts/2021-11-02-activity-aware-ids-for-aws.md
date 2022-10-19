@@ -9,7 +9,7 @@ tags: [ Cloud Computing, GitHub Projects ]
 
 ---
 
-# **Stay aware of activity in your AWS Account: Activity Aware IDS for AWS**
+# Stay aware of activity in your account: Activity Aware IDS for AWS
 
 Today we are going to talk a bit about an open source tool  called [Activity Aware IDS for AWS](https://github.com/Giftbit/activity-aware-ids-aws).
 I found it while scrolling though the net and had a try on my AWS sub. 
