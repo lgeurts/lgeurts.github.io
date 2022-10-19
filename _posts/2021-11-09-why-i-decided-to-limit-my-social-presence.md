@@ -38,6 +38,6 @@ Update d.d. 15/11/21: Bought a [Garmin Fenix 6](https://www.adorama.com/gp010021
 
 Something to **think about**. Since we have a **limited quota of time** in this world, why not rather spend that on things and people we find fun, that bring joy in our life and that keep us productive?
 
-So. I hope you will understand and **don’t feel** offended if I don’t follow on social media; it’s nothing personal. It's for the good of me, and hopefully you.
+So. I hope you will understand and don’t feel offended if I **won’t follow** on social media; it’s nothing personal. It's for the good of me, and hopefully you.
 
 So. I hope you will understand and are not offended if I don’t follow on social media; it’s nothing personal. It's for the good of me, and hopefully you.
