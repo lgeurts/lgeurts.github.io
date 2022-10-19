@@ -2,6 +2,18 @@
 
 # Flouze EURL: Job Openings for 2022
 
+## ***Accountabilities:***
+
+- Building and setting up new development tools and infrastructure
+- Understanding the needs of stakeholders and conveying this to developers
+- Working on ways to automate and improve development and release processes
+- Strong knowledge on containerization of applications
+- Testing and examining code written by others and analyzing results
+- Ensuring that systems are safe and secure against cybersecurity threats
+- Identifying technical problems and developing software updates and fixes
+- Working with software developers and software engineers to ensure that development follows established processes and works as intended
+- Planning out projects and being involved in project management decisions
+
 ***Required skills:***
 
 - A strong engineering or operations background, and the commitment to develop continuously in both disciplines
