@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Activity Aware IDS for AWS: An open source tool for keeping on top of the activity in your AWS account
+title: An open source tool for keeping on top of the activity in your AWS account
 read_time: true
 comments: true
 category: Open Source
