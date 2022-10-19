@@ -8,7 +8,6 @@ tags: [ Cloud Computing, GitHub Projects ]
 ---
 
 Today we are going to talk a bit about this open source tool called [Activity Aware IDS for AWS](https://github.com/Giftbit/activity-aware-ids-aws).
-I found it while scrolling though the net and had a try on my AWS sub. 
 
 Activity Aware IDS helps you be more aware of activity in your AWS account, including those that might suggest potential account compromises. In this article, we will discuss the common use cases for Activity Aware IDS for AWS, an overview of its architecture and how to start using it today. Before we get to that, it’s important to understand the security threats you face as an AWS customer, your responsibility in protecting against them, and overview of the principle of least privilege as a best practice in thinking about security and access control.
 
