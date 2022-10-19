@@ -11,7 +11,9 @@ Today we are going to talk a bit about this open source tool called [Activity Aw
 
 ## **The principle of least privilege**
 
-Any system, any identities (users, programs, systems, etc.) granted privileges to access resources or information, should be granted only the minimum privileges necessary to perform their tasks. In the Activity Aware IDS default configuration, it will inform your or your team team when users and roles are attempting to use actions or access resources beyond their privileges. It is also possible to configure Activity Aware IDS to notify you of AWS API actions, even when these actions are permitted, but this is more complex and something I did not have time for.
+Any systems, any identities (users, programs, systems, etc.) granted privileges to access resources or information, should be granted only the minimum privileges necessary to perform their tasks. In the Activity Aware IDS default configuration, it will inform your or your team team when users and roles are attempting to use actions or access resources beyond their privileges. 
+
+It is also possible to configure Activity Aware IDS to notify you of AWS API actions, even when these actions are permitted, but this is more complex and something I simply did not have time for (so that task is up to you).
 
 ## **The AWS Shared Responsibility Model**
 
