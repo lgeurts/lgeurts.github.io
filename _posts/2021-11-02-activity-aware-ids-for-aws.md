@@ -33,7 +33,7 @@ Infrastructure Impact includes external attacks on the underlying infrastructure
 Host Compromise involves techniques like command injection to gain access to your resources, such as your EC2 instances. These days most for BitCoin Mining or gaining access to its data; approach another instance that likely has valuable data. Host-based intrusion detection and intrusion prevention are the two most common methods of alleviating this type of threat. 
 
 Account Compromise involves an attacker gaining access to users or roles on an instance, and then using them for the data they have access to, or the resources they can create.
-There are not many solutions that fill this gap. Activity Aware IDS for AWS does. 
+<br>There are not many solutions that fill this gap. Activity Aware IDS for AWS does. 
 When an attacker is attempting toscout the permissions of a compromised identity user/role), they will probably be denied access to a number of the actions and resources they attempt to use while probing. Activity Aware IDS notifies you of these denials where your team will notice them most, like ffor example Slack.
 
 ## **Use Cases**
