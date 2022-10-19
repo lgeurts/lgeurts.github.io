@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Open Source tool for keeping on top of the activity in your AWS account
+title: The Open Source tool for keeping on top of the activity in your AWS account
 read_time: true
 comments: true
 category: Open Source
