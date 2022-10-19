@@ -23,7 +23,10 @@ For the AWS side, they take responsibility for securing the building blocks used
 
 ## **Security Threats in the Cloud**
 
-The 3 major types of security incidents in AWS: Infrastructure Impact, Host Compromise, and Account Compromise.
+The 3 major types of security incidents in AWS: 
+- Infrastructure Impact, 
+- Host Compromise, 
+- Account Compromise.
 
 Infrastructure Impact includes external attacks on the underlying infrastructure of your application. This type of attack largely consists of Distributed Denial of Service (DDoS) attacks, where an attacker sends a large volume of traffic at your site. AWS Shield is a service you can use that kind of attacks.
 
