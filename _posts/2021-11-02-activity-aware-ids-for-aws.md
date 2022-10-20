@@ -23,6 +23,9 @@ A cornerstone of security in the AWS Cloud is the Shared Responsibility Model. A
 From the AWS side, they take responsibility for securing the building blocks used to compose your systems. These include the Compute (EC2) hosts, Storage (S3) infrastructure, Databases (RDS) hosts, Networking infrastructure, and so on. That’s not to say you could throw all of your customers credit card data into an S3 bucket and think your security responsibility is according AWS policies.
 <br>You still have to lock that bucket!
 
+From the AWS side, they take responsibility for securing the building blocks used to compose your systems. These typically include the Compute (EC2) hosts, Storage (S3) infrastructure, Databases (RDS), Networking infrastructure, and so on. That’s not to say you could throw all of your customers credit card data into an S3 bucket and think your security responsibility is according AWS policies.
+<br>You still have to lock that bucket!
+
 ## **Security Threats in the Cloud**
 
 The 3 major types of security incidents in AWS: 
