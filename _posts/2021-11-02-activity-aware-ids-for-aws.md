@@ -7,13 +7,13 @@ category: Open Source
 tags: [ Cloud Computing, GitHub Projects ]
 ---
 
-Today we are going to talk a bit about this open source tool called [Activity Aware IDS for AWS](https://github.com/Giftbit/activity-aware-ids-aws) which helps system admins be more aware of activities in their AWS account, including those that might include potential account compromises. My post will focus on some more common use cases for Activity Aware IDS, and how to start using it today. But before we get to that, it’s important to understand the 3 security threats you face as an AWS customer, your responsibility in protecting against them, and get an overview of the least privilege principle as best practice in thinking about security and access control.
+Today we are going to talk a bit about this open source tool called [Activity Aware IDS for AWS](https://github.com/Giftbit/activity-aware-ids-aws) which helps system admins be more aware of activities in their AWS account, including those that might include potential account compromises. Our post will focus on some more common use cases for Activity Aware IDS, and how to start using it today. But before we get to that, it’s important to understand the 3 security threats you face as an AWS customer, your responsibility in protecting against them, and get an overview of the least privilege principle as best practice in thinking about security and access control.
 
 ## **The principle of least privilege**
 
 Any systems, any identities (users, programs, systems, etc.) granted privileges to access resources or information, should be granted only the minimum privileges necessary to perform their tasks. In the Activity Aware IDS default configuration, it will inform you or your team when users or roles are attempting to use actions or access resources beyond their privileges. 
 
-You can also configure Activity Aware IDS to notify you of AWS API actions, even when these actions are permitted, but this is more complex and something 'I did not have time for' (so that task is up to you).
+You can also configure Activity Aware IDS to notify you of AWS API actions, even when these actions are permitted, but this is more complex and something we did not have time for (so that task is up to you).
 
 ## **The AWS Shared Responsibility Model**
 
