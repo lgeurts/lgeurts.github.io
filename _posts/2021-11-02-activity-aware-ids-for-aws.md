@@ -44,7 +44,7 @@ Activity Aware IDS uses CloudTrial and the least privilege principle.
 
 Lets imagine a user named Mr. X had his credentials compromised by a attacker Mr. Z.
 Mr. Z wants to see what groups and roles they have access to through Mr. X's account. Mr. Z doesn’t have access rights to view groups Mr. X is associated with, and doesn’t have access to view policies attached to those groups. 
-If Mr. Z tries to view policies of those groups, the system raises a access denied which gets logged to CloudTrail. 
+If Mr. Z tries to view the policies, the system raises a access denied which gets logged to CloudTrail. 
 
 At this point Activity Aware IDS receives a denial log, converts it into a friendly format, and then sends it to your Slack Channel. Once the message arrives, you will see that there are strange “Access Denied” messages associated with Mr. X. 
 <br>Good administrators will call the user causing that message and find he wasn't performing the actions. Time to replace his credentials.
