@@ -32,7 +32,7 @@ The 3 major types of security incidents in AWS:
 
 Infrastructure Impact includes external attacks on the underlying infrastructure of your application. This type of attacks largely consists of Distributed Denial of Service (DDoS) attacks, where an attacker sends a large volume of traffic at your site. AWS Shield is a service you can use to prevent that kind of attacks.
 
-Host Compromise involves techniques like 'command injection/ to gain access to your resources, such as your EC2 instances. These days most for BitCoin Mining or gaining access to its data; approach another instance that likely has valuable data. Host-based intrusion detection and intrusion prevention are the two most common methods of alleviating this type of threat. 
+Host Compromise involves techniques like 'command injection' to gain access to your resources, such as your EC2 instances. These days most for BitCoin Mining or gaining access to its data; approach another instance that likely has valuable data. Host-based intrusion detection and intrusion prevention are the two most common methods of alleviating this type of threat. 
 
 Account Compromise involves an attacker gaining access to users or roles on an instance, and then using them for the data they have access to, or the resources they can create.
 <br>There are not many solutions that fill the gap. Activity Aware IDS for AWS does. 
