@@ -49,7 +49,7 @@ If Mr. Z tries to view the policies, the system raises a access denied which get
 At this point Activity Aware IDS receives a denial log, converts it into a friendly format, and then sends it to your Slack Channel. Once the message arrives, you will see that there are strange “Access Denied” messages associated with Mr. X. 
 <br>Good administrators will call the user causing that message and find he wasn't performing the actions. Time to replace his credentials.
 
-Mr. Z was blocked from performing actions due to the least privilege principle. Although this is a standard recommendation in security land, it can be difficult in finding the exact set of permissions that a User or Role should have. Activity Aware IDS for AWS can also assist with this.
+Mr. Z was blocked from performing actions due to the least privilege principle. Although this is a standard recommendation in security land, it can be difficult in finding the exact set of permissions that a user or role should have. Activity Aware IDS for AWS can also assist with this.
 
 You are deploying a new service, and you want to give it permissions following the least privilege. The easy way to start is creating a role with no permissions. Let's assume your system needs to send logs to CloudWatch Logs (requirement for AWS Lambda). When the system attempts to create a new Log Group, it will get denied, because the role has not gained permissions. An event logs all data into CloudTrail where Activity Aware IDS will pick it up and send a message to Slack, where you can review the action being attempted, the role involved with the action, and the arn of the specific resource it’s trying to perform the action on. 
 
