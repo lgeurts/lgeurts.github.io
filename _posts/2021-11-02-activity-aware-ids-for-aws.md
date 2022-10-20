@@ -53,10 +53,10 @@ Mr. Z was blocked from performing actions due to the least privilege principle. 
 
 You are deploying a new service, and you want to give it permissions following the least privilege. The easy way to start is creating a role with no permissions. Let's assume your system needs to send logs to CloudWatch Logs (requirement for AWS Lambda). When the system attempts to create a new Log Group, it will get denied, because the role has not gained permissions. An event logs all data into CloudTrail where Activity Aware IDS will pick it up and send a message to Slack, where you can review the action being attempted, the role involved with the action, and the arn of the specific resource it’s trying to perform the action on. 
 
-At this point, you can add a statement to the policy for the role allowing it access to “CreateLogGroup” and even provide a fairly restrictive resource description.
+At this point, you can add a statement to the policy for the role thus allowing it access to “CreateLogGroup” and even provide a fairly restrictive resource description.
 
 ## **What to do next**
 
-Feel like getting your hands dirty? Checkout the [Giftbit Guide](https://github.com/Giftbit/activity-aware-ids-aws#getting-started).
+Feel like getting your hands dirty? Check the [Giftbit Guide](https://github.com/Giftbit/activity-aware-ids-aws#getting-started).
 
 *Ref: Web: Some content was copied from the Giftbit repo.*
