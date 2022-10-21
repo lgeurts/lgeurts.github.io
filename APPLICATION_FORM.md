@@ -70,8 +70,7 @@
 - Willingness to work outside of France for a longer time
 
 ## ***What do we offer:***
-- No need searching for customers, we have a company doing that for us
-- Taxes, other administration work? No need to worry, we got you covered
+- No need searching for new customers, we have a company doing that for us
 - Flouze promotes fully remote or hybrid working
 - A young spirited dynamic, always motivated team (now 6 freelancers)
 - A strong engineering culture, continuous growth & learning environment
