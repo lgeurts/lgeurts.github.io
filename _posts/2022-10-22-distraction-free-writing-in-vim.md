@@ -21,6 +21,7 @@ Toggle Goyo:
 `:Goyo`
 
 Turn on and resize Goyo to the dimension 100x50:
+
 `:Goyo 100x50`
 
 Turn off Goyo:
@@ -29,12 +30,12 @@ Turn off Goyo:
 
 ### My configuration changes
 
-The plugin works just fine as is, but I did change the text area to 100x50 in my .vimrc (as seen in the example image above), as I find that to be a better fit for me.
+The plugin works just fine as is, but I did change the text area to 100x50 in my .vimrc (as seen in the image above), as I find that to be a better fit for my eyes.
 
 `let g:goyo_width=100`
 
 `let g:goyo_height=50`
 
-As piece de resistance I created a shortcut by bounding the toggle feature to the key <Leader>g:
+Finally, as piece de resistance I added a shortcut by bounding the toggle feature to the key <Leader>g:
 
 `map <Leader>g :Goyo<CR>`
