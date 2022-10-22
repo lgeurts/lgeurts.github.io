@@ -32,5 +32,5 @@ The plugin works just fine as is, but I did change the text area in my .vimrc co
 <br> `let g:goyo_width=100`
 <br> `let g:goyo_height=50`
 
-Finally, as a piece de resistance, I added a shortcut by bounding the toggle feature to the key <Leader>g:
+Finally, as piece de resistance, I added a shortcut by bounding the toggle feature to the key <Leader>g:
 <br> `map <Leader>g :Goyo<CR>`
