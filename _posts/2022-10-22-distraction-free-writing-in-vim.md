@@ -22,8 +22,7 @@ Toggle Goyo:
 `:Goyo`
 
 Turn on and resize Goyo to the dimension 100x50:
-
-`:Goyo 100x50`
+<br>`:Goyo 100x50`
 
 Turn off Goyo:
 
