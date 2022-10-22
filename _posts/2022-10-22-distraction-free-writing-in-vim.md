@@ -7,7 +7,7 @@ category: Open Source
 tags: [ Linux Tutorials ]
 ---
 
-Can’t believe I’ve never mentioned [Goyo](https://github.com/junegunn/goyo.vim), one of my most used Vim plugins ever. [^*]
+Can’t believe I’ve never mentioned [Goyo](https://github.com/junegunn/goyo.vim), one of my most used Vim plugins ever.
 
 It adds a distraction free mode that helps me focus while writing by centering the content and hiding all other elements.
 
@@ -35,4 +35,4 @@ The plugin works just fine as is, but I did change the text area in my vimrc con
 Finally, as piece de resistance, I added a shortcut by bounding the toggle feature to the key g:
 <br> `map <Leader>g :Goyo<CR>` 
 
-[^*]: Are you interested in trying Vim? I can highly recommend checking out [this](https://danielmiessler.com/study/vim/) link.
+==Are you interested in trying Vim? I can highly recommend checking out [this](https://danielmiessler.com/study/vim/) link.==
