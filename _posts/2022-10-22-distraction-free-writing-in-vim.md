@@ -28,9 +28,9 @@ Turn off Goyo:
 
 ### My configuration changes
 
-The plugin works just fine as is, but I did change the text area in my .vimrc config file (as seen in the image above), as I find that to be a better fit for my eyes:
+The plugin works just fine as is, but I did change the text area in my vimrc config file (as seen in the image above), as I find that to be a better fit for my eyes:
 <br> `let g:goyo_width=100`
 <br> `let g:goyo_height=50`
 
-Finally, as piece de resistance, I added a shortcut by bounding the toggle feature to the key <Leader>g:
+Finally, as piece de resistance, I added a shortcut by bounding the toggle feature to the key g:
 <br> `map <Leader>g :Goyo<CR>`
