@@ -4,7 +4,7 @@ title: Goyo, distraction free writing in Vim
 read_time: true  
 comments: true
 category: Open Source
-tags: [ GitHub Projects. Linux Tutorials ]
+tags: [ Linux Tutorials ]
 ---
 
 Can’t believe I’ve never mentioned [Goyo](https://github.com/junegunn/goyo.vim), one of my most used Vim plugins ever.
