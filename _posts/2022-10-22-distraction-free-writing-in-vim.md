@@ -12,7 +12,7 @@ I can’t believe that I’ve never mentioned one of my most used Vim plugins ev
 It adds a distraction free mode that helps me focus on my writing by centering the content and hiding all other elements.
 supports console ANSI-sequences for curl, httpie or wget; HTML for web browsers; or PNG for graphical viewers. 
 
-###Usage
+### Usage
 
 Toggle Goyo:
 :Goyo
@@ -26,7 +26,7 @@ Turn off Goyo:
 I have bound the toggle feature to the key <Leader>g:
 ```map <Leader>g :Goyo<CR>```
 
-M### My configuration changes
+### My configuration changes
 
 The plugin works just fine as is, but I did change the text area to 100x50 (as seen in the example image above), as I find that to be a better fit for me.
 
