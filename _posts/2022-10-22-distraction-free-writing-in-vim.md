@@ -10,9 +10,10 @@ tags: [ GitHub Projects ]
 Can’t believe I’ve never mentioned [Goyo](https://github.com/junegunn/goyo.vim), one of my most used Vim plugins ever.
 
 It adds a distraction free mode that helps me focus while writing by centering the content and hiding all other elements.
-<br>Other nice features are the support of console ANSI-sequences for curl, httpie or wget; HTML for web browsers; or PNG for graphical viewers. 
 
 <img src="/assets/vim-goyo.png" width="654">
+
+Other nice features are the support of console ANSI-sequences for curl, httpie or wget; HTML for web browsers; or PNG for graphical viewers. 
 
 ### Usage
 
@@ -30,7 +31,7 @@ Turn off Goyo:
 
 ### My configuration changes
 
-The plugin works just fine as is, but I did change the text area to 100x50 in my .vimrc (as seen in the image above), as I find that to be a better fit for my eyes.
+The plugin works just fine as is, but I did change the text area in my .vimrc config file (as seen in the image above), as I find that to be a better fit for my eyes.
 
 `let g:goyo_width=100`
 
