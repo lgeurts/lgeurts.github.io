@@ -36,3 +36,4 @@ Finally, as piece de resistance, I added a shortcut by bounding the toggle featu
 <br> `map <Leader>g :Goyo<CR>` 
 
 ==Are you interested in trying Vim? I can highly recommend checking out [this](https://danielmiessler.com/study/vim/) link.==
+
