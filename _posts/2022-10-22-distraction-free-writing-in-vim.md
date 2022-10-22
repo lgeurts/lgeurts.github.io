@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Distraction free writing in Vim with Goyo
+title: Goyo, distraction free writing in (Neo)Vim
 read_time: true  
 comments: true
 category: Open Source
