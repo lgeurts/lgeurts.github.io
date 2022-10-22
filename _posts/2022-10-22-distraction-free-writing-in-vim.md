@@ -24,12 +24,13 @@ Turn off Goyo:
 :Goyo!
 
 I have bound the toggle feature to the key <Leader>g:
-```map <Leader>g :Goyo<CR>```
+> map <Leader>g :Goyo<CR>
 
 ### My configuration changes
 
 The plugin works just fine as is, but I did change the text area to 100x50 (as seen in the example image above), as I find that to be a better fit for me.
 
 This is the settings that I added to my configuration file:
-```let g:goyo_width=100```
-```let g:goyo_height=50```
+
+`let g:goyo_width=100`
+`let g:goyo_height=50`
