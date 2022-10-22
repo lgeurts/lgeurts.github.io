@@ -35,4 +35,4 @@ The plugin works just fine as is, but I did change the text area in my vimrc con
 Finally, as piece de resistance, I added a shortcut by bounding the toggle feature to the key g:
 <br> `map <Leader>g :Goyo<CR>`
 
-Are you interested in trying Vim? I can highly recommend checking out [this](https://danielmiessler.com/study/vim/) link.
+[^1]: Are you interested in trying Vim? I can highly recommend checking out [this](https://danielmiessler.com/study/vim/) link.
