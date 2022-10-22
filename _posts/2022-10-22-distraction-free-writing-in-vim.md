@@ -7,10 +7,10 @@ category: Open Source
 tags: [ GitHub Projects ]
 ---
 
-I can’t believe I’ve never mentioned [Goyo](https://github.com/junegunn/goyo.vim), one of my most used Vim plugins ever.
+Can’t believe I’ve never mentioned [Goyo](https://github.com/junegunn/goyo.vim), one of my most used Vim plugins ever.
 
 It adds a distraction free mode that helps me focus while writing by centering the content and hiding all other elements.
-Another nice feature is the support of console ANSI-sequences for curl, httpie or wget; HTML for web browsers; or PNG for graphical viewers. 
+Another feature is the support of console ANSI-sequences for curl, httpie or wget; HTML for web browsers; or PNG for graphical viewers. 
 
 <img src="/assets/vim-goyo.png" width="654">
 
