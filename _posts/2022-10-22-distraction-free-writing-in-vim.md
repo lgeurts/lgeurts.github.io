@@ -33,7 +33,7 @@ The plugin works just fine as is, but I did change the text area in my vimrc con
 <br> `let g:goyo_height=50`
 
 Finally, as piece de resistance, I added a shortcut by bounding the toggle feature to the key g:
-<br> `map <Leader>g :Goyo<CR>` 
+<br> `map <C-g> :Goyo<CR>` 
 
 #### **Note**
 Are you interested in trying Vim? I can highly recommend checking out [this](https://danielmiessler.com/study/vim/) link. Trust me, it's by far not that hard as many people want you to believe. :)
