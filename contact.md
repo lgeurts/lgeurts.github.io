@@ -16,4 +16,4 @@ My fingerprint: 5CEA 4807 DAA0 8AA5 528D 47DC C269 1045 82F4 DBB8
 Note on integrity of my emails
 ------------------------------
 
-All email sent from my accounts should be signed with GPG.
+**All email** sent from my accounts should be **signed with GPG**.
