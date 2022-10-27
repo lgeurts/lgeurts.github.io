@@ -33,6 +33,7 @@ The Windows option is a **newer software-based** "modern standby" which works on
 ```
 $ sudo apt install ubuntu-restricted-extras
 $ sudo apt install tmux
+$ sudo apt install xclip
 $ sudo apt install neofetch
 $ sudo apt install curl
 $ sudo apt install youtube-dl
