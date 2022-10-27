@@ -36,4 +36,4 @@ Finally, as piece de resistance, I added a shortcut by bounding the toggle featu
 <br> `map <C-g> :Goyo<CR>` 
 
 #### **Note**
-Are you interested in trying Vim? I can highly recommend checking out [this](https://danielmiessler.com/study/vim/) link. Trust me, it's by far not that hard as many people want you to believe. :)
+Are you interested in trying Vim? I can highly recommend checking out [this](https://thevaluable.dev/vim-commands-beginner/) link. Trust me, it's by far not that hard as many people want you to believe. :)
