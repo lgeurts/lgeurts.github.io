@@ -15,7 +15,7 @@ Now you probably were going to ask me if I have any regets leaving those bags of
 
 What else? I’m interested in far too much topics ranging from science to history, kendo, trekking the Alps, my (2008) Suzuki GSXR-600, driving the neighbours to insanity when rehearsing paradiddles; the list goes on.
 
-Guess that's it. Want a short overview of my professional skills? Check [this page](https://github.com/lgeurts/Resume/blob/master/Moderncv%20Resume%20Luc%20Geurts%20%28US%29.pdf) for the latest resume. Looking to connect? Send a [LinkedIn](https://www.linkedin.com/in/lucgeurts) request.
+Guess that's it. Want a short overview of my professional skills? Check [this page](https://github.com/lgeurts/Resume/blob/master/YAAC%20Resume%20Luc%20Geurts%20(US).pdf) for the latest resume. Looking to connect? Send a [LinkedIn](https://www.linkedin.com/in/lucgeurts) request.
 
 Go n-éirí an bothar leat,
 
