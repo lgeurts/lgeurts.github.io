@@ -104,7 +104,7 @@ Claws Mail has an excellent [FAQ](http://www.claws-mail.org/faq/index.php/Main_P
 - $ apt-get install mutt # the mail user agent
 - $ apt-get install mutt-patched # adds sidebar, nntp support, multiple-fcc patches
 
-For a copy of my dots, see [this](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.mutt) repo. For everything else, [Mutt Wiki](https://dev.mutt.org/trac/wiki/MuttGuide).
+For a copy of my dots, see [this](https://github.com/lgeurts/bunsenlabs-setup/tree/master/.mutt) repo. For everything else, [Mutt Wiki](https://dev.mutt.org/trac/wiki/MuttGuide).
 
 **4.3 Graphics**
 
@@ -187,7 +187,7 @@ Next step is theming and changing the layout:
 
 - $ mkdir ~/.vim/colors
 
-Copy my [theme git files](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim/colors) to the colors folder. Edit .vimrc and add this line:
+Copy my [theme git files](https://github.com/lgeurts/bunsenlabs-setup/tree/master/.vim/colors) to the colors folder. Edit .vimrc and add this line:
 
 > * `colorscheme Tomorrow-Night`
 
@@ -200,7 +200,7 @@ And text formatting:
 
 > * `filetype indent on`
 
-Set default font to [Menlo](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.fonts) regular with a size 17:
+Set default font to [Menlo](https://github.com/lgeurts/bunsenlabs-setup/tree/master/.fonts) regular with a size 17:
 
 > * `set guifont=Menlo\ Regular:h17`
 
@@ -259,7 +259,7 @@ Rails         | [https://github.com/tpope/vim-rails/](https://github.com/tpope/v
 Dispatch      | [https://github.com/tpope/vim-dispatch](https://github.com/tpope/vim-dispatch)
 Multiple Cursors | [https://github.com/terryma/vim-multiple-cursors/](https://github.com/terryma/vim-multiple-cursors/)
 
-***Note:*** My [memo](/assets/bunsenlabs-linux-setup/vim-plugin-settings.txt) for activating Command-T, NerdTree and Git Gutter in .vimrc.             Feeling lazy? Download my latest [config](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.vim/).
+***Note:*** My [memo](/assets/bunsenlabs-linux-setup/vim-plugin-settings.txt) for activating Command-T, NerdTree and Git Gutter in .vimrc.             Feeling lazy? Download my latest [config](https://github.com/lgeurts/bunsenlabs-setup/tree/master/.vim/).
 
 ***• 6.1.2 gVim***
 
@@ -458,7 +458,7 @@ Use this basic firewall in addition to restrictive rules on your router!
 
 ***• 7.2.1 GnuPG/GPG***
 
-Full setup notes for creating your private and public key on [NixCraft](https://www.cyberciti.biz/tips/linux-how-to-create-our-own-gnupg-privatepublic-key.html). Mutt and GnuPG? See Justin R. Miller's [tutorial](http://codesorcery.net/old/mutt/mutt-gnupg-howto).
+Full setup notes for creating your private and public key on [NixCraft](https://www.cyberciti.biz/tips/linux-how-to-create-our-own-gnupg-privatepublic-key.html). Mutt and GnuPG? See Justin R. Miller's [tutorial](https://codesorcery.net/old/mutt/mutt-gnupg-howto).
 
 **8 System information**
 ------------------------
@@ -500,7 +500,7 @@ Some eye candy because not everything is just about functionality, right?
 
 ***• 9.1.1 Terminator***
 
-Copy the config from [here](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.config/terminator) and replace the default file in ~/.config/terminator. 
+Copy the config from [here](https://github.com/lgeurts/bunsenlabs-setup/tree/master/.config/terminator) and replace the default file in ~/.config/terminator. 
 
 ![terminator](/assets/bunsenlabs-linux-setup/terminator-colors.png)
 
@@ -520,13 +520,13 @@ Tint2 features:
 - Customize mouse events.
 - Window manager's menu.
 
-Download [oomox-colors.tint2rc](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.config/tint2) and drop it in ~/.config/tint2.
+Download [oomox-colors.tint2rc](https://github.com/lgeurts/bunsenlabs-setup/tree/master/.config/tint2) and drop it in ~/.config/tint2.
 
 **9.3 Window Manager**
 
 ***• 9.3.1 Openbox***
 
-If you want the same look everywhere, snag this [oomox-colors.tar.gz](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.themes) package. The theme's icons can be found [here](https://github.com/lgeurts/BunsenLabs-Setup/tree/master/.icons). 
+If you want the same look everywhere, snag this [oomox-colors.tar.gz](https://github.com/lgeurts/bunsenlabs-setup/tree/master/.themes) package. The theme's icons can be found [here](https://github.com/lgeurts/bunsenlabs-setup/tree/master/.icons). 
 
 Time to teach Openbox a few tricks as well. Set the number of desktops to four and disable all window decorations in ~/.config/openbox/rc.xml: 
 ```
