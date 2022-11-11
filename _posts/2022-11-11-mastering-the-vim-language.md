@@ -7,11 +7,11 @@ category: Open Source
 tags: [ Linux Tutorials ]
 ---
 
-For the past few years I used Vim almost exclusively to become efficient with it. I printed out a cheat sheet which I placed beside my keyboard, had sticky notes on my screen. ran the Vimtutor and watched a bunch of YouTube tutorials. 
+For the past few years I used Vim almost exclusively to become efficient with it. I printed out a cheat sheet which I placed beside my keyboard, had sticky notes on my screen, ran the Vimtutor and watched a bunch of YouTube tutorials. 
 
 I wrote code, countless articles and documentation. Me and Vim we were ok till I watched this video and realized I had been living in blissful ignorance, relying on plugins, a 400 lines long .vimrc file that completely changes how Vim works, and bad advise given by people who know nothing about pure VI.
 
-If anything, this is the beginning of my renewed journey into the depths of Vim’s grammar.
+If anything, here is the beginning of my renewed journey into the depths of Vim’s grammar.
 
 [![Watch the video](https://img.youtube.com/vi/wlR5gYd6um0/maxresdefault.jpg)](https://youtu.be/wlR5gYd6um0)
 
