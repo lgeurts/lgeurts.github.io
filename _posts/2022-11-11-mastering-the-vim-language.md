@@ -7,7 +7,7 @@ category: Open Source
 tags: [ Linux Tutorials ]
 ---
 
-I used Vim exclusively in order to become more efficient with it. I printed out a cheat sheet which I placed beside my keyboard, sticky notes on my screen. I also ran the Vimtutor and watched a bunch of YouTube tutorials. I wrote tons of articles and documentation. Me and Vim were ok till I saw this video and realized I had been living in blissful ignorance.
+For the past few years I used Vim almost exclusively in order to become more efficient with it. I even printed out a cheat sheet which I placed beside my keyboard, sticky notes on my screen. I also ran the Vimtutor and watched a bunch of YouTube tutorials. I wrote tons of articles and documentation. Me and Vim were ok till I saw this video and realized I had been living in blissful ignorance.
 
 If anything, this is the beginning of my new journey into the depths of Vim’s grammar.
 
