@@ -9,7 +9,7 @@ tags: [ Linux Tutorials ]
 
 For the past few years I used Vim almost exclusively to become efficient with it. I printed out a cheat sheet which I placed beside my keyboard, had sticky notes on my screen. ran the Vimtutor and watched a bunch of YouTube tutorials. 
 
-I wrote code, countless articles and documentation. Me and Vim we were ok till I watched this video and realized I had been living in blissful ignorance, solely relying on plugins, a thousand lines long .vimrc file that completely changes how Vim normally works, and bad advise given by people who know nothing about pure VI.
+I wrote code, countless articles and documentation. Me and Vim we were ok till I watched this video and realized I had been living in blissful ignorance, relying on a bunch of plugins, a thousand lines long .vimrc file that completely changes how Vim normally works, and bad advise given by people who know nothing about pure VI.
 
 If anything, this will be the beginning of my new journey into the depths of Vim’s grammar.
 
