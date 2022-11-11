@@ -15,4 +15,4 @@ If anything, here starts my new journey into the depths of Vim’s grammar.
 
 [![Watch the video](https://img.youtube.com/vi/wlR5gYd6um0/maxresdefault.jpg)](https://youtu.be/wlR5gYd6um0)
 
-Please note that [Chris Toomey](https://ctoomey.com/) is flying through commands and concepts, which makes it quite difficult to follow for Vim newbs and regular users alike.
+Please note that [Chris Toomey](https://ctoomey.com/) is 'flying' through commands and concepts, which makes it quite difficult to follow for Vim newbs and regular users alike.
