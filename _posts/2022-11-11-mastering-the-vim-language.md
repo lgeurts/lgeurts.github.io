@@ -7,6 +7,8 @@ category: Open Source
 tags: [ Linux Tutorials ]
 ---
 
-With Vim you can literally do stuff in minutes that would take hours in a regular text editor, even in more powerful modern editors such as Sublime Text, Atom or Visual Studio Code.
+With Vim you can literally do stuff in **minutes** that would take hours in a regular text editor, even in more powerful modern editors such as Sublime Text, Atom or Visual Studio Code.
 
 [![Watch the video](https://img.youtube.com/vi/wlR5gYd6um0/maxresdefault.jpg)](https://youtu.be/wlR5gYd6um0)
+
+Note that Chris fly's through commands and concepts , which makes it difficult to grasp for for a Vim newbs or low level users like me. If anything, this video made me really want to understand Vim basics. 
