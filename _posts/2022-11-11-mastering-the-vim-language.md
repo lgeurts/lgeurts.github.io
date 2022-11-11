@@ -7,7 +7,7 @@ category: Open Source
 tags: [ Linux Tutorials ]
 ---
 
-What makes Vim so interesting to work with? You ***can literally do stuff in minutes*** that would take hours in a regular text editor, even in more powerful modern editors such as Sublime Text, Atom or Visual Studio Code. 
+What makes this editor so interesting to work with? Well, You ***can literally do stuff in minutes*** that would take hours in a regular text editor, even in more powerful modern editors such as Sublime Text, Atom or Visual Studio Code. 
 
 So, a few years ago I decided to use Vim exclusively in order to become more efficient with it. I printed out a cheat sheet which I placed beside my keyboard. I also took the Vimtutor and watched a bunch of YouTube tutorials.
 
