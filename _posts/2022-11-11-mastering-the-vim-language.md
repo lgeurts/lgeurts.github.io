@@ -11,6 +11,4 @@ With **Vim** you ***will literally do stuff in minutes*** that would take hours 
 
 [![Watch the video](https://img.youtube.com/vi/wlR5gYd6um0/maxresdefault.jpg)](https://youtu.be/wlR5gYd6um0)
 
-Please note that [Chris Toomey](https://ctoomey.com/) ***is flying*** through commands and concepts, making it quite difficult to follow for Vim newbies or intermediate users like myself. 
-
-If anything, this video finally made me really want to understand Vim's grammar. 
+Please note that [Chris Toomey](https://ctoomey.com/) ***is flying*** through commands and concepts, making it quite difficult to follow for Vim newbies or users like myself. If anything, this video made me really want to understand Vim's grammar. 
