@@ -4,7 +4,7 @@ title: Casting spells in the Vim language
 read_time: true  
 comments: true
 category: Open Source
-tags: [ Linux Tutorials ]
+tags: [ Linux Tutorials, Developer Tools ]
 ---
 
 For the past few years I used Vim almost exclusively to become efficient with it. I printed out a cheat sheet which I placed beside my keyboard, had sticky notes on my screen, ran the Vimtutor and watched a bunch of YouTube tutorials. 
