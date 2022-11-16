@@ -20,5 +20,3 @@ Guess that's it. Want a short overview of my professional skills? Check [this pa
 Go n-éirí an bothar leat,
 
 /Luge
-
-<a rel="me" href="https://fosstodon.org/@lgeurts">Mastodon</a>
