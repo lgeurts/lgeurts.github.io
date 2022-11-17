@@ -104,7 +104,7 @@ $ sudo apt install protonvpn
 $ sudo apt install gnome-tweak-tool
 $ sudo apt install gnome-shell-extensions
 $ sudo apt install gnome-shell-extension-appindicator gir1.2-appindicator3-0.1
-$ sudo apt install gnome-shell-pomodoro
+$ sudo apt install gnome-shell-pomodoro #/bin/gnome-pomodoro --no-default-window
 $ sudo add-apt-repository -y ppa:libreoffice/ppa
  <> $ sudo apt update && sudo apt install libreoffice
 $ sudo apt install -y fonts-cascadia-code fonts-firacode
