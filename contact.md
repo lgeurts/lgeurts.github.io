@@ -16,4 +16,4 @@ My [fingerprint](https://keys.openpgp.org/): 5CEA 4807 DAA0 8AA5 528D 47DC C269 
 Note on integrity of my emails
 ------------------------------
 
-All **personal email** sent from my account should be **signed with GPG**.
+**All email** sent from my account should be **signed with GPG**.
