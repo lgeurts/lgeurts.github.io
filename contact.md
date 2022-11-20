@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
 
-For blog related matters, use [lgeurts@hotmail.com](mailto:lgeurts@hotmail.com). For anything else, mail me at [lgeurts@proton.me](mailto:lgeurts@proton.me).
+Use lgeurts AT hotmail DOT com email address to contact me directly.
 
 Note on confidentiality
 -----------------------
@@ -16,4 +16,4 @@ My [fingerprint](https://keys.openpgp.org/): 5CEA 4807 DAA0 8AA5 528D 47DC C269 
 Note on integrity of my emails
 ------------------------------
 
-All **personal email** sent from my accounts should be **signed with GPG**.
+All **personal email** sent from my account should be **signed with GPG**.
