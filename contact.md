@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
 
-Use lgeurts AT hotmail DOT com email address to contact me directly.
+Use the lgeurts AT hotmail DOT com email address to contact me directly.
 
 Note on confidentiality
 -----------------------
