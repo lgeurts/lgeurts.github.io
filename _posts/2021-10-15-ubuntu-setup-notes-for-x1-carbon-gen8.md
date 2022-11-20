@@ -50,6 +50,7 @@ $ sudo apt install trash-cli
 $ sudo apt install unrar zip unzip p7zip-full p7zip-rar rar
 $ sudo apt install virtualbox virtualbox-ext-pack -y
  <> $ sudo sh sign-vboxmodules.sh
+$ sudo usermod -a -G vboxusers $USER
 $ sudo apt install wireshark
  <> $ sudo adduser **my username** wireshark
 $ sudo apt install steam
