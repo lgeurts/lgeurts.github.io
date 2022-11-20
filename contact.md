@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
 
-Use the lgeurts AT proton DOT me email address to contact me directly.
+For all blog related matters, feel free to send your remarks to lgeurts AT proton DOT me.
 
 Note on confidentiality
 -----------------------
