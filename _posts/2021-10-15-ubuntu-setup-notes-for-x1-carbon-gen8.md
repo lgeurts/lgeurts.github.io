@@ -32,6 +32,7 @@ The Windows option is a **newer software-based** "modern standby" which works on
 ## My bash & zsh history output
 ```
 $ sudo apt install ubuntu-restricted-extras
+$ sudo apt install chkrootkit
 $ sudo apt install tmux
 $ sudo apt install xclip
 $ sudo apt install neofetch
