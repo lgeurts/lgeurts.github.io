@@ -48,6 +48,7 @@ $ sudo apt install iftop
 $ sudo apt install ttyload
 $ sudo apt install ranger
 $ sudo apt install trash-cli
+$ sudo apt install shellcheck
 $ sudo apt install unrar zip unzip p7zip-full p7zip-rar rar
 $ sudo apt install virtualbox virtualbox-ext-pack -y
  <> $ sudo sh sign-vboxmodules.sh
