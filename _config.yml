@@ -17,7 +17,7 @@ paginate_path: 		   "page:num"
 # About/contact
 author:
   name:              Luc Geurts
-  url:               https://fosstodon.org/@lgeurts
+  url:               https://flouzeeurl.slack.com
   email:             lgeurts@proton.me
 
 # Custom vars
