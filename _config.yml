@@ -17,8 +17,8 @@ paginate_path: 		   "page:num"
 # About/contact
 author:
   name:              Luc Geurts
-  url:               https://twitter.com/lgeurts
-  email:             luc.geurts@gmail.com
+  url:               https://fosstodon.org/@lgeurts
+  email:             lgeurts@proton.me
 
 # Custom vars
 version:             1.0.0
