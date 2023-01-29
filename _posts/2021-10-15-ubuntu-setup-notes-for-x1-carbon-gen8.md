@@ -158,6 +158,9 @@ $ cd Documents
  <> $ find . -type f -print0 | xargs -0 chmod -x
 $ flatpak install flathub de.haeckerfelix.Fragments
 $ flatpak install flathub com.github.tchx84.Flatseal
+$ flatpak install flathub com.github.GradienceTeam.Gradience
+$ flatpak install --user flathub io.podman_desktop.PodmanDesktop
+$ flatpak install flathub org.gnome.NetworkDisplays
 $ gsettings set org.gnome.desktop.privacy remember-recent-files false
 $ gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'
 $ gsettings set org.gnome.settings-daemon.plugins.media-keys max-screencast-length 0
