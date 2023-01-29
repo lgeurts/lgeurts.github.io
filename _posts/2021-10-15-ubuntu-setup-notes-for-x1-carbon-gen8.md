@@ -161,6 +161,8 @@ $ flatpak install flathub com.github.tchx84.Flatseal
 $ gsettings set org.gnome.desktop.privacy remember-recent-files false
 $ gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'
 $ gsettings set org.gnome.settings-daemon.plugins.media-keys max-screencast-length 0
+$ sudo nano /usr/share/applications/vim.desktop #remove gvim icon
+$ sudo nano /usr/share/applications/info.desktop #remove texinfo icon
 ```
 Resources: 
 - [VirtualBox + Secure Boot + Ubuntu = fail](https://stegard.net/2016/10/virtualbox-secure-boot-ubuntu-fail/)
