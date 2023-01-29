@@ -32,7 +32,15 @@ The Windows option is a **newer software-based** "modern standby" which works on
 ## My bash & zsh history output
 ```
 $ sudo apt install ubuntu-restricted-extras
-$ sudo apt install chkrootkit
+$ sudo apt install rkhunter
+ <> sudo rkhunter -c --noappend-log
+$ sudo apt install clamav clamav-daemon
+ <> $ sudo systemctl stop clamav-freshclam
+ <> $ sudo freshclam
+ <> $ sudo systemctl start clamav-freshclam
+ <> $ sudo clamscan --recursive .
+$ sudo apt install clamtk
+$ sudo apt install clamtk-gnome
 $ sudo apt install tmux
 $ sudo apt install xclip
 $ sudo apt install neofetch
@@ -49,6 +57,9 @@ $ sudo apt install ttyload
 $ sudo apt install ranger
 $ sudo apt install trash-cli
 $ sudo apt install shellcheck
+$ sudo apt install postfix
+$ sudo apt install kubectl
+$ sudo apt install pcscd #needed for Yubico Authenticator
 $ sudo apt install unrar zip unzip p7zip-full p7zip-rar rar
 $ sudo apt install virtualbox virtualbox-ext-pack -y
  <> $ sudo sh sign-vboxmodules.sh
