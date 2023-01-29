@@ -109,7 +109,8 @@ $ sudo apt install mupdf
 $ sudo apt -y install net-tools
 $ sudo apt install smartmontools
 $ sudo apt remove --purge -y totem
-$ sudo apt remove -- purge -y rhythmbox
+$ sudo apt remove --purge -y rhythmbox
+$ sudo apt remove --purge -y transmission transmission-common transmission-gtk transmission-qt
 $ sudo apt update && sudo apt upgrade
 $ sudo apt install mpv
 $ sudo apt install ffmpeg
