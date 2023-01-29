@@ -164,8 +164,8 @@ $ flatpak install flathub org.gnome.NetworkDisplays
 $ gsettings set org.gnome.desktop.privacy remember-recent-files false
 $ gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'
 $ gsettings set org.gnome.settings-daemon.plugins.media-keys max-screencast-length 0
-$ sudo nano /usr/share/applications/vim.desktop #remove gvim icon
-$ sudo nano /usr/share/applications/info.desktop #remove texinfo icon
+$ sudo nano /usr/share/applications/vim.desktop #remove gvim icon > NoDisplay=true
+$ sudo nano /usr/share/applications/info.desktop #remove texinfo icon > NoDisplay=true
 ```
 Resources: 
 - [VirtualBox + Secure Boot + Ubuntu = fail](https://stegard.net/2016/10/virtualbox-secure-boot-ubuntu-fail/)
@@ -282,3 +282,4 @@ $ sudo tlp start
 ```
 $ tlp fullcharge
 ```
+This post will be updated every time I commit chanmges to my system. One of these will be the replacement of Atom wiith Pulsar Edit.
