@@ -68,6 +68,7 @@ $ sudo apt install virtualbox virtualbox-ext-pack -y
 $ sudo usermod -a -G vboxusers $USER
 $ sudo apt install wireshark
  <> $ sudo adduser **my username** wireshark
+$ sudo apt install metadata-cleaner
 $ sudo apt install steam
 $ sudo apt install dconf-editor
 $ sudo apt install gparted
