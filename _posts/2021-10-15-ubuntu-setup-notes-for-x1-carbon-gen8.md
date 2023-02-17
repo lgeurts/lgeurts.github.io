@@ -58,7 +58,6 @@ $ sudo apt install ranger
 $ sudo apt install trash-cli
 $ sudo apt install shellcheck
 $ sudo apt install postfix
-$ sudo apt install kubectl
 $ sudo apt install pcscd #needed for Yubico Authenticator
 $ sudo apt install unrar zip unzip p7zip-full p7zip-rar rar
 $ sudo apt install virtualbox virtualbox-ext-pack -y
@@ -67,7 +66,6 @@ $ sudo usermod -a -G vboxusers $USER
 $ sudo apt install wireshark
  <> $ sudo adduser **my username** wireshark
 $ sudo apt install steam
-$ sudo apt install spotify
 $ sudo apt install dconf-editor
 $ sudo apt install gparted
 $ sudo add-apt-repository ppa:yann1ck/onedrive
@@ -125,9 +123,11 @@ $ sudo add-apt-repository -y ppa:libreoffice/ppa
  <> $ sudo apt update && sudo apt install libreoffice
 $ sudo apt install -y fonts-cascadia-code fonts-firacode
 $ sudo apt install ttf-mscorefonts-installer 
+$ sudo snap install canonical-livepatch
 $ sudo snap install hexchat
-$ sudo snap install slack --classic
+$ sudo snap install kubectl
 $ sudo snap install powershell --classic
+$ sudo snap install slack --classic
 $ sudo wget https://github.com/shiftkey/desktop/releases/download/release-2.6.3-linux1/GitHubDesktop-linux-2.6.3-linux1.deb
  <> $ sudo apt install gdebi-core
  <> $ sudo gdebi GitHubDesktop-linux-2.6.3-linux1.deb
@@ -136,7 +136,17 @@ $ sudo curl -O https://releases.hashicorp.com/vagrant/2.2.9/vagrant_2.2.9_x86_64
 $ sudo apt install flatpak gnome-software-plugin-flatpak gnome-software
 $ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 $ sudo flatpak install flathub io.atom.Atom
- <> $ flatpak run io.atom.Atom
+$ sudo flatpak install flathub app.drey.Dialect
+$ sudo flatpak install flathub ch.protonmail.protonmail-bridge
+$ sudo flatpak install flathub ch.protonmail.protonmail-import-export-app
+$ sudo flatpak install flathub com.github.IsmaelMartinez.teams_for_linux
+$ sudo flatpak install flathub com.github.tchx84.Flatseal
+$ sudo flatpak install flathub com.spotify.Client
+$ sudo flatpak install flathub com.yubico.yubioath
+$ sudo flatpak install flathub de.haeckerfelix.Fragments
+$ sudo flatpak install --user flathub io.podman_desktop.PodmanDesktop
+$ sudo flatpak install flathub org.gnome.gitlab.YaLTeR.VideoTrimmer
+$ sudo flatpak install flathub org.gnome.NetworkDisplays
 $ apm install pigments
 $ apm install file-icons
 $ apm install teletype
@@ -158,12 +168,6 @@ $ apm install autoclose-html-plus
 $ apm install text-align
 $ cd Documents
  <> $ find . -type f -print0 | xargs -0 chmod -x
-$ flatpak install flathub de.haeckerfelix.Fragments
-$ flatpak install flathub com.github.tchx84.Flatseal
-$ flatpak install flathub com.github.GradienceTeam.Gradience
-$ flatpak install --user flathub io.podman_desktop.PodmanDesktop
-$ flatpak install flathub org.gnome.NetworkDisplays
-$ flatpak install flathub org.gnome.gitlab.YaLTeR.VideoTrimmer
 $ gsettings set org.gnome.desktop.privacy remember-recent-files false
 $ gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'
 $ gsettings set org.gnome.settings-daemon.plugins.media-keys max-screencast-length 0
