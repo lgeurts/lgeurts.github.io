@@ -268,22 +268,26 @@ To achieve this for Linux based machines:
 ```
 $ sudo apt install tlp tlp-rdw acpi-call-dkms tp-smapi-dkms acpi-call-dkms
 ```
-2. After that edit the /etc/tlp file and change below values:
+2. Start the tlp service:
+```
+$ sudo systemctl enable --now tlp.service
+```
+3. After that edit the /etc/tlp file and change below values:
 ```
 # Uncomment both of them if commented out
 START_CHARGE_THRESH_BAT0=60
 STOP_CHARGE_THRESH_BAT0=65
 ```
-3. Reboot, run:
+4. Reboot, run:
 ```
-$ sudo tlp-stat | grep tpacpi-bat
+$ sudo tlp-stat --battery
 ```
-4. Verify that the values are as you expected:
+5. Verify that the values are as you expected:
 ```
 tpacpi-bat.BAT0.startThreshold          = 60 [%]
 tpacpi-bat.BAT0.stopThreshold           = 65 [%]
 ```
-5. You can change these thresholds anytime, and apply changes typing:
+6. You can change these thresholds anytime, and apply changes typing:
 ```
 $ sudo tlp start
 ```
