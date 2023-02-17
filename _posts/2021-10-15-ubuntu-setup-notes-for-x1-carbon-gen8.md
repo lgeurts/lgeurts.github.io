@@ -59,6 +59,9 @@ $ sudo apt install trash-cli
 $ sudo apt install shellcheck
 $ sudo apt install postfix
 $ sudo apt install pcscd #needed for Yubico Authenticator
+ <> sudo systemctl status pcscd.socket 
+ <> sudo service pcscd start
+ <> sudo systemctl enable pcscd 
 $ sudo apt install unrar zip unzip p7zip-full p7zip-rar rar
 $ sudo apt install virtualbox virtualbox-ext-pack -y
  <> $ sudo sh sign-vboxmodules.sh
