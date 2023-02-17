@@ -106,6 +106,7 @@ $ git clone https://gitlab.gnome.org/GNOME/sushi.git
  <> $ sudo meson install
 $ sudo apt install gufw
 $ sudo apt install mupdf
+$ sudo apt install dnsutils
 $ sudo apt -y install net-tools
 $ sudo apt install smartmontools
 $ sudo apt remove --purge -y totem
