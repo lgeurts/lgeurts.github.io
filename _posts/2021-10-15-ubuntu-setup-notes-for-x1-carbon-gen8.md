@@ -292,4 +292,4 @@ $ sudo tlp start
 ```
 $ tlp fullcharge
 ```
-*29/01/23: This post will be updated every time I commit chamges to my system. One of these will be the future replacement of Atom wiith [Pulsar Edit](https://pulsar-edit.dev/).*
+*29/01/23: This post will be updated every time I commit chamges to my system. One of these will be the future replacement of Atom with [Pulsar Edit](https://pulsar-edit.dev/).*
