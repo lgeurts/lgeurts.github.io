@@ -46,6 +46,7 @@ $ sudo apt install xclip
 $ sudo apt install neofetch
 $ sudo apt install curl
 $ sudo apt install youtube-dl
+$ sudo apt install hexchat
 $ sudo apt install gimp
 $ sudo apt install vim
 $ sudo apt install python
@@ -128,7 +129,6 @@ $ sudo add-apt-repository -y ppa:libreoffice/ppa
 $ sudo apt install -y fonts-cascadia-code fonts-firacode
 $ sudo apt install ttf-mscorefonts-installer 
 $ sudo snap install canonical-livepatch
-$ sudo snap install hexchat
 $ sudo snap install kubectl
 $ sudo snap install powershell --classic
 $ sudo snap install slack --classic
