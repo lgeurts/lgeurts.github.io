@@ -71,6 +71,7 @@ $ sudo apt install wireshark
  <> $ sudo adduser **my username** wireshark
 $ sudo apt install metadata-cleaner
 $ sudo apt install steam
+$ sudo apt install dino-im
 $ sudo apt install dconf-editor
 $ sudo apt install gparted
 $ sudo add-apt-repository ppa:yann1ck/onedrive
