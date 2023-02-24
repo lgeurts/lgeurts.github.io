@@ -150,7 +150,6 @@ $ sudo flatpak install flathub com.yubico.yubioath
 $ sudo flatpak install flathub de.haeckerfelix.Fragments
 $ sudo flatpak install --user flathub io.podman_desktop.PodmanDesktop
 $ sudo flatpak install flathub org.gnome.gitlab.YaLTeR.VideoTrimmer
-$ sudo flatpak install flathub org.gnome.NetworkDisplays
 $ apm install pigments
 $ apm install file-icons
 $ apm install teletype
