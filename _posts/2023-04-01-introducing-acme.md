@@ -20,5 +20,3 @@ It's difficult to explain acme without seeing it, though, so I've added a screen
 [![Watch the video](https://img.youtube.com/vi/dP1xVpMPn8M/maxresdefault.jpg)](https://youtu.be/dP1xVpMPn8M)
 [![Watch the video](https://img.youtube.com/vi/wlR5gYd6um0/maxresdefault.jpg)](https://youtu.be/wlR5gYd6um0)
 
-https://youtu.be/dP1xVpMPn8M
-
