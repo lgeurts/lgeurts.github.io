@@ -9,9 +9,7 @@ tags: [ Linux Tutorials, Developer Tools ]
 
 Since I was talking about editors, next to Vim, Acme is another old favorite. Nothing but yellow windows and blue bars on the screen, written by Rob Pike for Plan 9 in the early 1990s.
 
-Acme is a program that combines aspects of window systems, shells, and editors to address multiple issues in the context of textual applications. It is
-designed to support software development, but falls short when compared with true programming environments. 
-It is not a ‘toolkit’; it is a self-contained program, more like a shell than a library, that joins users and applications. 
+Acme is a program that combines aspects of window systems, shells, and editors. It is designed to support software development, but falls short when compared with true programming environments. Acme is not a ‘toolkit’; it is a self-contained program, more like a shell than a library, that joins users and applications. 
 
 From the perspective of the application (compiler, browser, etc.), it provides a universal communication mechanism, based on familiar Unix® file operations, that permits small applications even shell procedures to exploit the graphical user interface of the system and communicate with each other. For the user, the interface is extremely spare, consisting only of text, scroll bars, one simple kind of window, and a unique function for each mouse button no widgets, no icons, not even pop-up menus. Despite these limitations, acme is an effective environment in which to work and, particularly, to program.
 
