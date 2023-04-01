@@ -7,7 +7,7 @@ category: Open Source
 tags: [ Linux Tutorials, Developer Tools ]
 ---
 
-Since I am talking about editors, the Acme editor written by [Rob Pike](https://github.com/robpike) for [Plan 9](https://p9f.org/) in the early 1990's is another favorite. Nothing but yellish windows and blue bars on the screen, no fuzz.
+Since I was talking about editors, the Acme editor written by [Rob Pike](https://github.com/robpike) for [Plan 9](https://p9f.org/) in the early 1990s is another favorite. Nothing but yellish windows and blue bars on the screen, no fuzz.
 
 Acme combines several aspects of window systems, shells, and editors. Designed to support software development but not a true programming toolkit. Instead, it is a self-contained program; more like a shell than a library, that joins users and applications. 
 
