@@ -17,6 +17,6 @@ Despite these limitations, Acme is still an effective environment in which to wo
 
 It's difficult to explain acme without seeing it, though, so I've added a screencast from [Russ Cox](https://www.youtube.com/@rscgolang) explaining the basics of acme and showing a brief programming session. 
 
-![Watch the videoPython Third Edition](/assets/python-book.jpg)
-![Watch the video](https://img.youtube.com/vi/dP1xVpMPn8M/default.jpg)](https://www.youtube.com/watch?v=dP1xVpMPn8M
+![Watch the video](/assets/python-book.jpg)(https://www.youtube.com/watch?v=dP1xVpMPn8M)
+![Watch the video](https://img.youtube.com/vi/dP1xVpMPn8M/default.jpg)](https://www.youtube.com/watch?v=dP1xVpMPn8M)
 
