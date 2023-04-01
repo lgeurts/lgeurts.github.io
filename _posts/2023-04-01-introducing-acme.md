@@ -7,7 +7,7 @@ category: Open Source
 tags: [ Linux Tutorials, Developer Tools ]
 ---
 
-Since I was talking about Vim, the Acme Text Editor written by [Rob Pike](https://github.com/robpike) for [Plan 9](https://p9f.org/) in the early 1990s is another favorite. Nothing but yellowish windows and blue bars on the screen, no fuzz.
+Since I was talking about Vim, the Acme Text Editor written by [Rob Pike](https://github.com/robpike) for [Plan 9](https://p9f.org/) in the early 1990s is another favorite. Nothing but yellowish windows and blue bars on the screen, no fuss.
 
 Acme combines several aspects of window systems, shells, and editors. Designed to support software development but not a true programming toolkit. Instead, it is a self-contained program; more like a shell than a library, that joins users and applications. 
 
@@ -19,4 +19,4 @@ It's rather difficult to explain how it works without seeing it though, so I add
 
 [![Watch the video](/assets/acme-editor.png)](https://youtu.be/dP1xVpMPn8M)
 
-PS. Each time people tell me *today's Acme users are borderline insane*, I send them the above link and they quickly bite their tongue.
+PS. Each time people tell me *today's Acme users are borderline insane*, I send them the above link and they usally bite their tongue.
