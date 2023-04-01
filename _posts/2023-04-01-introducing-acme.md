@@ -15,7 +15,7 @@ From the perspective of the application(s) (compiler, browser, etc.), it provide
 For the user, the interface is extremely spare, consisting only of text, scroll bars, one simple kind of window, and a unique function for each mouse button. There are no widgets, no icons, not even pop-up menus.  
 Despite these limitations, acme is an effective environment in which to work and, particularly, to program.
 
-It's difficult to explain acme without seeing it, though, so I've added a screencast from [Russ Cox]((https://www.youtube.com/@rscgolang) explaining the basics of acme and showing a brief programming session. 
+It's difficult to explain acme without seeing it, though, so I've added a screencast from [Russ Cox](https://www.youtube.com/@rscgolang) explaining the basics of acme and showing a brief programming session. 
 
 [![Watch the video](https://img.youtube.com/vi/dP1xVpMPn8M/maxresdefault.jpg)](https://youtu.be/dP1xVpMPn8M)
 [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
