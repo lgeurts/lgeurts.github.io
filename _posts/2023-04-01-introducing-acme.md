@@ -11,7 +11,7 @@ Since I was talking about editors, next to Vim the Acme editor is another old fa
 
 Acme combines several aspects of window systems, shells, and editors. Designed to support software development but not a true programming toolkit. Instead, it is a self-contained program; more like a shell than a library, that joins users and applications. 
 
-From the perspective of the application, e.g. compiler, browser, etc., it provides a universal communication mechanism based on familiar Unix or GNU - Linux file operations, that permits your small applications even shell procedures to exploit the graphical user interface of the system and communicate with each other.  
+From the perspective of the applications e.g. compiler, browser, etc., it provides a universal communication mechanism based on familiar Unix or GNU - Linux file operations, that permits your small applications even shell procedures to exploit the graphical user interface of the system and communicate with each other.  
 For the user, the interface is extremely spare, consisting only of text, scroll bars, one simple kind of window, and a unique function for each mouse button. There are no widgets, no icons, not even pop-up menus.  
 Despite these GUI limitations, Acme is still an effective environment in which to work and, particularly, to program.
 
