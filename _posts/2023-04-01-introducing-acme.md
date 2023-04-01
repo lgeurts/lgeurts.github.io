@@ -7,7 +7,8 @@ category: Open Source
 tags: [ Linux Tutorials, Developer Tools ]
 ---
 
-Since I was talking about editors, next to Vim, Acme is another favorite. Nothing but yellow windows and blue bars on the screen, written by Rob Pike for Plan 9 in the early 1990s.
+Since I was talking about editors, next to Vim, Acme is another favorite that I would like to show you.  
+Nothing but yellow windows and blue bars on the screen, written by Rob Pike for Plan 9 in the early 1990s.
 
 Acme is a program that combines aspects of window systems, shells, and editors to address multiple issues in the context of textual applications. It is
 designed to support software development, but clearly falls short of true programming.  
