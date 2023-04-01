@@ -16,6 +16,4 @@ From the perspective of the application (compiler, browser, etc.), it provides a
 
 It's difficult to explain acme without seeing it, though, so I've added a screencast from [Russ Cox](https://www.youtube.com/watch?v=dP1xVpMPn8M) explaining the basics of acme and showing a brief programming session. Remember as you watch the video that the 854x480 screen is quite cramped. Usually you'd run acme on a larger screen: even my MacBook Air has almost four times as much screen real estate. 
 
-[![Watch the video]([https://www.youtube.com/watch?v=dP1xVpMPn](https://youtu.be/dP1xVpMPn8M)8M)
-
-
+[![Watch the video](https://youtu.be/dP1xVpMPn8M)
