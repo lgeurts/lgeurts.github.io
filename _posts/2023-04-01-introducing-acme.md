@@ -19,4 +19,4 @@ It's rather difficult to explain how it works without seeing it though, so I add
 
 [![Watch the video](/assets/acme-editor.png)](https://youtu.be/dP1xVpMPn8M)
 
-Note: each time people tell me today's Acme users are borderline insane, I send them the link to the screencast and they quickly change their mind.
+Note that each time people tell me today's Acme users are borderline insane, I send them the link to the screencast and they quickly change their mind.
