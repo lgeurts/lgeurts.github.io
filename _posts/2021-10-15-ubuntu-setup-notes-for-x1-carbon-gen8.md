@@ -43,6 +43,8 @@ $ sudo apt install clamtk
 $ sudo apt install clamtk-gnome
 $ sudo apt install tmux
 $ sudo apt install xclip
+$ sudo apt install xdotool
+$ sudo apt install devilspie
 $ sudo apt install neofetch
 $ sudo apt install curl
 $ sudo apt install youtube-dl
