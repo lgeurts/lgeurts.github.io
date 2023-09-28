@@ -60,6 +60,8 @@ $ sudo apt install ttyload
 $ sudo apt install ranger
 $ sudo apt install trash-cli
 $ sudo apt install shellcheck
+$ sudo apt install whois
+$ sudo apt install fzf
 $ sudo apt install postfix
 $ sudo apt install pcscd #needed for Yubico Authenticator
  <> sudo systemctl status pcscd.socket 
