@@ -8,3 +8,4 @@ tags: [ Linux Tutorials ]
 ---
 
 All you need to know when examining a Linux system.
+<img src="/assets/perftools.png" width="654">
