@@ -7,8 +7,8 @@ category: Open Source
 tags: [ Linux Tutorials ]
 ---
 
-All you need to know when examining your Linux system.
+All you need to know when examining your Linux server system.
 
 <img src="/assets/crisis-tools.png" width="654">
 
-Be sute to check out [Brendans](https://brendangregg.com/) page for a galore of other diagrams and books!
+Be sute to check out [Brendans](https://brendangregg.com/) blog for a galore of other diagrams and books!
