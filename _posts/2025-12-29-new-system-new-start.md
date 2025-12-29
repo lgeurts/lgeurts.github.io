@@ -16,7 +16,7 @@ Anyways, we also decided to do a bit of self-hosting and move all our laptops to
 Migrating was tough, writing a bunch of add-ons even harder, but the final result is there to stay. 
 On a personal note on my 2 systems I additionally:
 - Removed my 2 external monitors and keyboard. Not to be minimalist, but to reduce context switching. I kept the mouse because speed still matters.
-- The same thing with my software. Vim became nVim which turned into Lazy-Vim (maybe later nvi). Alacritty became xterm, then st. And Firefox became qutebrowser.
+- The same thing with my software. Vim became nVim which turned Lazy-Vim (maybe later nvi). Alacritty became xterm, then st. And Firefox became qutebrowser.
 
 I didn’t look for lighter tools, but for ones I could trust and reason about. Less abstraction, fewer surprises.
 
