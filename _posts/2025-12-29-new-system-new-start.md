@@ -10,7 +10,7 @@ tags: [ Linux Tutorials ]
 
 ### **Hey Luc, what do you mean with a new system blabla"?**
 
-Well, me and my awesome colleagues (yes, they sometimes check this blog) have been migrating away from **big-tech** like Microsoft, Google, Oracle, Apple etc. Not because they were not good enough (most of our core services are still running on AWS) but out of principle, read we were sick of the **data-sucking** most of those companies do.
+Well, me and my awesome colleagues (yes, they sometimes check this blog) have been migrating away from **big-tech** like Microsoft, Google, Oracle, Apple etc. Not because they were no good (most of our core services are still running on AWS) but out of principle, read we were sick of the "AI-slop" and **data-sucking** most of those companies are involved in.
 Anyways, we also decided to do some self-hosting and move all our laptops to something different. No more Ubuntu or Fedora but suckless DWM on Arch (with the performance kernel).
 Migrating was tough, writing our own add-ons even harder but the result is there to be. 
 On a personal note on my 2 systems I additionally:
