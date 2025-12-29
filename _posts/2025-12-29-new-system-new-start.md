@@ -28,5 +28,5 @@ Making sure all prerequisites are fulfilled you can then just copy your suckless
 
 I guess I finally found my sweet spot after all. 
 
-A video showcasing the workings of various suckless tools will follow. For now, if interested, pay [Bread on Penguins](www.youtube.com/@BreadOnPenguins) a visit. The girl is
-absolutely fantastic with Arch and DWM. I swear, if she lived in Europe I'd offer her a job.
+A video showcasing the workings of various suckless tools will follow. For now, if interested, pay [Bread on Penguins](www.youtube.com/@BreadOnPenguins) a visit. Her Archlinux channel is
+absolutely fantastic. I swear, if she lived in Europe I'd offer her a job.
