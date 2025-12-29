@@ -8,9 +8,9 @@ tags: [ Linux Tutorials ]
 ---
 <img src="/assets/suckless-dwm.png" width="654">
 
-### **Hey, what do you mean A new system blablabla"?**
+### **what do you mean with a new system blablabla"?**
 
-Well, me and my awesome colleagues (yes they sometimes check this blog) have been migrating away from **big-tech** like Microsoft, Google, Oracle, Apple etc. Not because these services were no good (we still work on AWS) but out of principle, read we vare sick of the **data-sucking** most of those companies do.
+Well, me and my awesome colleagues (yes they sometimes check this blog) have been migrating away from **big-tech** like Microsoft, Google, Oracle, Apple etc. Not because these services were no good (our core services are still on AWS) but out of principle, read we vare sick of the **data-sucking** most of those companies do.
 Anyways, we also decide to move all our systems (laptops and servers) to something different. No more Ubuntu or Fedora but suckless DWM on Arch (with the performance kernel).
 Migrating was tough, writing our own add-ons even harder but the result is there to be. 
 On a personal note on my 2 laptops I additionally:
