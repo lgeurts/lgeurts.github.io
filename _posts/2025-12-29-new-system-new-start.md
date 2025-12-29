@@ -28,5 +28,5 @@ Making sure all prerequisites are fulfilled you can then just copy your suckless
 
 I guess I finally found my sweet spot after all. 
 
-A video showcasing the workings of various suckless tools will follow. For now, if interested, pay the [Bread on Penguins](www.youtube.com/@BreadOnPenguins) YT channel a visit. 
+A video showcasing the workings of various suckless tools will follow. For now, if interested, you could pay the [Bread on Penguins](www.youtube.com/@BreadOnPenguins) YT channel a visit. 
 Its content is absolutely fantastic. I swear, if she lived in Europe, I would not hesitate to offer her a job.
