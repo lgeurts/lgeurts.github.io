@@ -10,11 +10,11 @@ tags: [ Linux Tutorials ]
 
 ### **Hey, what do you mean with a new system blablabla"?**
 
-Well, me and my awesome colleagues (yes they sometimes check this blog) have been migrating away from **big-tech** like Microsoft, Google, Oracle, Apple etc. Not because these services were no good (our core services are still on AWS) but out of principle, read we vare sick of the **data-sucking** most of those companies do.
-Anyways, we also decide to move all our systems (laptops and servers) to something different. No more Ubuntu or Fedora but suckless DWM on Arch (with the performance kernel).
+Well, me and my awesome colleagues (yes they sometimes check this blog) have been migrating away from **big-tech** like Microsoft, Google, Oracle, Apple etc. Not because these services were no good (our core services are still on AWS) but out of principle, read we were sick of the **data-sucking** most of those companies do.
+Anyways, we also decided to do some self-hosting and move all our laptops to something different. No more Ubuntu or Fedora but suckless DWM on Arch (with the performance kernel).
 Migrating was tough, writing our own add-ons even harder but the result is there to be. 
-On a personal note on my 2 laptops I additionally:
-- Removed my external monitor and keyboard. Not to be minimalist, but to reduce context switching. I kept the mouse because speed still matters.
+On a personal note on my 2 systems I additionally:
+- Removed my external monitors and keyboard. Not to be minimalist, but to reduce context switching. I kept the mouse because speed still matters.
 - The same thing happened with software. nVim became Lazy-Vim (maybe later nvi). Alacritty became xterm, then st. Firefox became qutebrowser.
 
 I didn’t look for lighter tools, but for ones I could trust and reason about. Less abstraction, fewer surprises.
