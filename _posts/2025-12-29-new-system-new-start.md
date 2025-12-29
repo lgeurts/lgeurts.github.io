@@ -23,7 +23,7 @@ I didn’t look for the lighter tools, but for ones I could trust and reason abo
 Today I use two identical laptops -- one for work, one personal -- same setup, side by side, one mouse for each.
 The environment disappears, and the work stays.
 
-And for what its worth, the DWM I'm sporting now is one that no one else has; it is mine and in that sense truly unique. You build your own programs, patches, key-binds et al.
+And for what its worth, the DWM I'm sporting now is one that no one else has; it is mine and in that sense truly unique. You build your own programs, patches, the binds et al.
 Making sure all prerequisites are fulfilled you can then just copy your suckless configs to basically any distro and run a make clean install.
 
 I guess I finally found my sweet spot after all. 
