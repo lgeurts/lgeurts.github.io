@@ -8,7 +8,7 @@ tags: [ Linux Tutorials ]
 ---
 <img src="/assets/suckless-dwm.png" width="654">
 
-### **Hey, what do you mean with a new system blablabla"?**
+### **Hey Luc, what do you mean with a new system blabla"?**
 
 Well, me and my awesome colleagues (yes they sometimes check this blog) have been migrating away from **big-tech** like Microsoft, Google, Oracle, Apple etc. Not because these services were no good (our core services are still on AWS) but out of principle, read we were sick of the **data-sucking** most of those companies do.
 Anyways, we also decided to do some self-hosting and move all our laptops to something different. No more Ubuntu or Fedora but suckless DWM on Arch (with the performance kernel).
