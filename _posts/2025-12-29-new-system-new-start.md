@@ -6,3 +6,4 @@ comments: true
 category: Open Source
 tags: [ Linux Tutorials ]
 ---
+<img src="/assets/suckless-dwm.png" width="654">
