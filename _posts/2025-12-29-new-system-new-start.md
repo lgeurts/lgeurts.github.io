@@ -18,7 +18,7 @@ On a personal note on my 2 systems I additionally:
 - Removed my 2 external monitors and keyboard. Not to be minimalist, but to reduce context switching. I kept the mouse because speed still matters.
 - The same thing with my software. Vim became nVim which turned in Lazy-Vim (maybe later nvi). Alacritty became xterm, then st. And Firefox became qutebrowser.
 
-I didn’t look for lighter tools, but for ones I could trust and reason about. Less abstraction, fewer surprises.
+I didn’t look for the lighter tools, but for ones I could trust and reason about. Less abstraction, fewer surprises.
 
 Today I use two identical laptops -- one for work, one personal -- same setup, side by side, one mouse for each.
 The environment disappears, and the work stays.
