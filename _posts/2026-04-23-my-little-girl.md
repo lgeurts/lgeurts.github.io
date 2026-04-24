@@ -1,6 +1,6 @@
 ---
 layout: post
-title:Today at 6:30 PM I had to say goodbye, but you will forever stay my little girl
+title: Today at 6:30 PM I had to say goodbye, but you will forever stay my little girl
 read_time: true  
 comments: true
 category: Personal
