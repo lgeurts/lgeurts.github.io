@@ -27,6 +27,3 @@ And for what its worth, the DWM I'm sporting now is one that no one else has; it
 Making sure all prerequisites are fulfilled you can then just copy your suckless configs to basically any distro and run a `sudo make clean install`.
 
 I guess I finally found my sweet spot after all. 
-
-PS. A video showcasing various suckless tools will follow. Till then, if interested, you could pay the [Bread on Penguins](https://www.youtube.com/@BreadOnPenguins) YT channel a visit. 
-Its content is absolutely fantastic. I swear, if she'd move to Europe, I wouldn't hesitate to offer her a job.
