@@ -26,4 +26,4 @@ The environment disappears, and the work stays.
 And for what its worth, the DWM I'm sporting now is one that no one else has; it is mine and in that sense truly unique. You build your own program, patches, the binds et al.
 Making sure all prerequisites are fulfilled you can then just copy your suckless configs to basically any distro and run a `sudo make clean install`.
 
-I guess I finally found my sweet spot after all. 
+I guess I finally found my sweet spot after all.
